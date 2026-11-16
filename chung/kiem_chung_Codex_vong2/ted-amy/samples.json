@@ -1,0 +1,354 @@
+[
+  {
+    "index": 0,
+    "id": 1760250876815,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:17C249F8-1A23-449B-BD6E-B45A5949ABC8.mp4]",
+      "Sentence": "So I want to start by um offering you a free no tech life hack.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "17C249F8-1A23-449B-BD6E-B45A5949ABC8.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00000.wav",
+    "decode_ok": true,
+    "previous": "So I want to start by um offering you a free no tech life hack.",
+    "next": "Um and all it requires of you is this that you change your posture for two minutes.",
+    "decoded_seconds": 5.36
+  },
+  {
+    "index": 17,
+    "id": 1760250876849,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:CCC60984-3D6C-4DB8-9475-FAA99E63C07A.mp4]",
+      "Sentence": "When we think about communication, we think about interactions.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "CCC60984-3D6C-4DB8-9475-FAA99E63C07A.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00017.wav",
+    "decode_ok": true,
+    "previous": "So we think about communication.",
+    "next": "So what is your body language?",
+    "decoded_seconds": 2.8
+  },
+  {
+    "index": 34,
+    "id": 1760250876883,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:96CE4402-85C3-478D-9127-4483B141CE6B.mp4]",
+      "Sentence": "So It was inevitable that I would become interested in power dynamics.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "96CE4402-85C3-478D-9127-4483B141CE6B.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00034.wav",
+    "decode_ok": true,
+    "previous": "I'm a social psychologist, I study prejudice, and I teach at a competitive business school.",
+    "next": "I became especially interested in nonverbal expressions of power and dominance.",
+    "decoded_seconds": 4.44
+  },
+  {
+    "index": 51,
+    "id": 1760250876917,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:A47BD07E-A0BB-4376-B7A5-2350BDC58373.mp4]",
+      "Sentence": "We close up, we wrap ourselves up, we make ourselves small, we don't want to bump.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "A47BD07E-A0BB-4376-B7A5-2350BDC58373.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00051.wav",
+    "decode_ok": true,
+    "previous": "We do exactly the opposite.",
+    "next": "into the person next to us.",
+    "decoded_seconds": 4.64
+  },
+  {
+    "index": 68,
+    "id": 1760250876951,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:31D3A1B4-5D92-41FA-AF95-02FA8884DE58.mp4]",
+      "Sentence": "One, you're not gonna be surprised, it seems to be related to gender.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "31D3A1B4-5D92-41FA-AF95-02FA8884DE58.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00068.wav",
+    "decode_ok": true,
+    "previous": "I notice a couple things about this.",
+    "next": "So women are much more likely to do this kind of thing than men.",
+    "decoded_seconds": 3.68
+  },
+  {
+    "index": 85,
+    "id": 1760250876985,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:34422080-A8D4-4A94-9478-6CE0A9581B10.mp4]",
+      "Sentence": "When it comes to power, um it also goes both ways.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "34422080-A8D4-4A94-9478-6CE0A9581B10.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00085.wav",
+    "decode_ok": true,
+    "previous": "So it goes both ways.",
+    "next": "So when you when you uh feel powerful, you're more likely to do this., but it's also possible that um when you when you f uh pretend to be powerful, you are more likely to actually feel powerful.",
+    "decoded_seconds": 4.08
+  },
+  {
+    "index": 102,
+    "id": 1760250877019,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:0748EBE8-5059-424D-BE20-5DB87975B46C.mp4]",
+      "Sentence": "want the high power leader that's dominant, high on testosterone, but really stress-reactive?",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "0748EBE8-5059-424D-BE20-5DB87975B46C.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00102.wav",
+    "decode_ok": true,
+    "previous": "When do you think about power?",
+    "next": "Probably not, right?",
+    "decoded_seconds": 5.68
+  },
+  {
+    "index": 119,
+    "id": 1760250877053,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:E23DF8FA-4D53-45FA-89BE-8353A4D3280A.mp4]",
+      "Sentence": "So you're folding up, you're making yourself small.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "E23DF8FA-4D53-45FA-89BE-8353A4D3280A.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00119.wav",
+    "decode_ok": true,
+    "previous": "Uh and here are the low power poses.",
+    "next": "This one is very low power.",
+    "decoded_seconds": 2.23
+  },
+  {
+    "index": 135,
+    "id": 1760250877085,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:F8D1DBCE-2DFD-4077-A340-6731A3C001BC.mp4]",
+      "Sentence": "From their baseline when they come in, high power people experience about a 20% increase, and low power people experience about a 10% decrease.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "F8D1DBCE-2DFD-4077-A340-6731A3C001BC.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00135.wav",
+    "decode_ok": true,
+    "previous": "what we find on testosterone.",
+    "next": "So again, two minutes, and you get these changes.",
+    "decoded_seconds": 10.32
+  },
+  {
+    "index": 152,
+    "id": 1760250877119,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:4FE4650B-E16A-4FC1-A0A6-BE0BF93C9ABC.mp4]",
+      "Sentence": "job interview.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "4FE4650B-E16A-4FC1-A0A6-BE0BF93C9ABC.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00152.wav",
+    "decode_ok": true,
+    "previous": "It could be, you know, for some people it's speaking at a school board meeting, it might be giving a pitch or giving a talk like this.",
+    "next": "We decided that the one that most people could relate to because most people had been through was the job interview.",
+    "decoded_seconds": 1.04
+  },
+  {
+    "index": 169,
+    "id": 1760250877153,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:CA08DE4E-411F-467B-8FCE-199391CA85B4.mp4]",
+      "Sentence": "So for five minutes nothing.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "CA08DE4E-411F-467B-8FCE-199391CA85B4.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00169.wav",
+    "decode_ok": true,
+    "previous": "Like imagine this is the person interviewing you.",
+    "next": "And this is worse than being heckled.",
+    "decoded_seconds": 1.84
+  },
+  {
+    "index": 186,
+    "id": 1760250877187,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:1A5F8552-6E74-4C17-945C-0639241D6330.mp4]",
+      "Sentence": "They're bringing themselves.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "1A5F8552-6E74-4C17-945C-0639241D6330.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00186.wav",
+    "decode_ok": true,
+    "previous": "People are bringing their true selves, basically.",
+    "next": "They bring their ideas but as themselves, with no, you know, residue over them.",
+    "decoded_seconds": 1.2
+  },
+  {
+    "index": 203,
+    "id": 1760250877221,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:71E68289-D6FF-4F2F-A323-34831809368F.mp4]",
+      "Sentence": "So I I really struggled with this and I have to say having your identity taken from you your core identity and if for me it was being smart having that taken from you there's nothing that leaves you feeling more powerless than that.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "71E68289-D6FF-4F2F-A323-34831809368F.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00203.wav",
+    "decode_ok": true,
+    "previous": "Like just you know there's there are other things for you to do but that's not gonna work out for you.",
+    "next": "So I felt entirely powerless I. wor Iked wor andked and worked and worked and I got lucky and worked and got lucky and worked.",
+    "decoded_seconds": 12.48
+  },
+  {
+    "index": 220,
+    "id": 1760250877255,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:84A9DAD4-4430-4937-9DB1-379FE3CD71EC.mp4]",
+      "Sentence": "So that's what I did.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "84A9DAD4-4430-4937-9DB1-379FE3CD71EC.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00220.wav",
+    "decode_ok": true,
+    "previous": "I am actually doing this.",
+    "next": "Five years in grad school, a few years, you know, I'm at Northwestern, I moved to Harvard, I'm at Harvard, I'm not really thinking about it anymore, but for a long time I had been thinking, not supposed to be here, not supposed to be here.",
+    "decoded_seconds": 0.95
+  },
+  {
+    "index": 237,
+    "id": 1760250877289,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:BABB2A5D-0ACE-4953-A03A-473C556C7965.mp4]",
+      "Sentence": "The last thing I want to leave you with is this.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "BABB2A5D-0ACE-4953-A03A-473C556C7965.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00237.wav",
+    "decode_ok": true,
+    "previous": "You know, it's not do it enough until you actually become it and internalize.",
+    "next": "Tiny tweaks can lead to big changes.",
+    "decoded_seconds": 2.72
+  },
+  {
+    "index": 254,
+    "id": 1760250877323,
+    "decks": [
+      "TED - Your Body Language May Shape Who You Are  Amy Cuddy  TED.mp4"
+    ],
+    "fields": {
+      "Audio": "[sound:809ACADB-B3A0-4CF0-A509-614F2FE49BA0.mp4]",
+      "Sentence": "Thank you.",
+      "Translation": "",
+      "Note": "",
+      "Backlink": "",
+      "Source": ""
+    },
+    "ref": "809ACADB-B3A0-4CF0-A509-614F2FE49BA0.mp4",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\ted-amy\\sample_00254.wav",
+    "decode_ok": true,
+    "previous": "They need their bodies, privacy, and two minutes, and it can significantly change the outcomecomes of their life.",
+    "next": "Thank you.",
+    "decoded_seconds": 0.88
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1608026421695,
+    "fields": {
+      "Front": "You’re so absent-minded you forgot to meet me at the station again.",
+      "Back": "absent-minded",
+      "Definition": "tending to forget things because you are thinking about sth else"
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "hypertts-fec6ef52e4529fa67dbc244494767c62c8a15908d86cf1768abd5f62.mp3",
+        "bytes": 17181,
+        "duration": 1.071,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf60.16.100'])}"
+      },
+      {
+        "field": "Example Audio",
+        "ref": "hypertts-53d52088133056282a4e4bc8b6d93c7d456b9df832b2a6cccb62ef6c.mp3",
+        "bytes": 84480,
+        "duration": null,
+        "tags": null
+      }
+    ]
+  },
+  {
+    "id": 1762626651671,
+    "fields": {
+      "Front": "“The typo wasn’t serious, so I let it slide.”",
+      "Back": "let it slide",
+      "Definition": "ignore a mistake"
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "hypertts-5ef516ad73fe5590b44ae6bed21ab5322f634d7a49f1156215ac6867.mp3",
+        "bytes": 18435,
+        "duration": 1.149375,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf60.16.100'])}"
+      },
+      {
+        "field": "Example Audio",
+        "ref": "hypertts-6b1cee3364f6756a31552f723fcbd95f46b9c52f4712070e5752d218.mp3",
+        "bytes": 54240,
+        "duration": null,
+        "tags": null
+      }
+    ]
+  },
+  {
+    "id": 1762626652536,
+    "fields": {
+      "Front": "“Many musicians survive in the gig economy.”",
+      "Back": "gig economy",
+      "Definition": "freelance / casual work culture"
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "hypertts-8f215923cad44887dcd9bc236a2fc026de7855ccd1507d6a82888bbf.mp3",
+        "bytes": 16345,
+        "duration": 1.01875,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf60.16.100'])}"
+      },
+      {
+        "field": "Example Audio",
+        "ref": "hypertts-e3c8a88eb33d876aa8e0cb29529a9fb2b84ce15634f5abb807b80be4.mp3",
+        "bytes": 54720,
+        "duration": null,
+        "tags": null
+      }
+    ]
+  }
+]

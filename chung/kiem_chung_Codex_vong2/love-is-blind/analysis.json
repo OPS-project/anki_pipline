@@ -1,0 +1,95 @@
+{
+  "sentence_field": "Expression",
+  "audio_field": "Audio_Sentence",
+  "length_raw": {
+    "n": 8064,
+    "median": 20.0,
+    "p10": 9,
+    "p25": 14,
+    "p75": 28,
+    "p90": 38,
+    "min": 2,
+    "max": 140
+  },
+  "length_no_speaker": {
+    "n": 8064,
+    "median": 17.0,
+    "p10": 6,
+    "p25": 10,
+    "p75": 24,
+    "p90": 34,
+    "min": 0,
+    "max": 140
+  },
+  "ge30_raw": 1765,
+  "ge30_clean": 1205,
+  "audio_reference_notes": 8064,
+  "audio_present_notes": 8064,
+  "distinct_audio_refs": 8064,
+  "durations_all_unique": {
+    "n": 8064,
+    "median": 2.88,
+    "p10": 1.464,
+    "p25": 2.016,
+    "p75": 4.008,
+    "p90": 5.472,
+    "min": 0.672,
+    "max": 17.568
+  },
+  "duration_parse_errors": [],
+  "nonempty_fields": {
+    "ID": 8064,
+    "Expression": 8064,
+    "English": 8064,
+    "Reading": 8064,
+    "Screenshot": 0,
+    "Audio_Sentence": 0,
+    "Audio_Extra": 0,
+    "Morph": 0,
+    "Definition": 0,
+    "focus morph": 0
+  },
+  "by_deck": {
+    "Love is Blind Japan JP-EN": {
+      "notes": 8064,
+      "length": {
+        "n": 8064,
+        "median": 17.0,
+        "p10": 6,
+        "p25": 10,
+        "p75": 24,
+        "p90": 34,
+        "min": 0,
+        "max": 140
+      },
+      "ge30": 1205
+    }
+  },
+  "timestamp_notes": 8064,
+  "adjacent_overlaps": 0,
+  "adjacent_gap_le_07": 5124,
+  "overlap_examples": [],
+  "nonempty_raw_fields": {
+    "ID": 8064,
+    "Expression": 8064,
+    "English": 8064,
+    "Reading": 8064,
+    "Screenshot": 8064,
+    "Audio_Sentence": 8064,
+    "Audio_Extra": 0,
+    "Morph": 0,
+    "Definition": 0,
+    "focus morph": 0
+  },
+  "decoded_sample_seconds": {
+    "n": 16,
+    "median": 3.085,
+    "p10": 1.837,
+    "p25": 2.557,
+    "p75": 5.005,
+    "p90": 5.629,
+    "min": 1.741,
+    "max": 6.301
+  },
+  "sample_decode_success": 16
+}

@@ -1,0 +1,27 @@
+{
+  "model": "opus",
+  "vong": "R6 kiem doc lap",
+  "ngay": "2026-11-16",
+  "ghi_chu": "Không có quyết định âm nào sai rõ ràng. Mọi đề xuất dưới đây là lỗi KHI ÁP (định dạng/ghi chú/cờ thanh), không đổi âm. Nên sửa ở gốc (r6_apply.py, finalize.py, dữ liệu quyết định) rồi chạy lại finalize, không vá tay 07_final.",
+  "de_xuat": [
+    {"note_key": "zh:hskstory-hsk7:1792758603318", "truong": "pt_noi_dung", "gia_tri_moi": "tiếng Việt nói \"ôm cây đợi thỏ\": 守 thủ (giữ) + 株 chu (gốc cây) + 待 đãi (đợi) + 兔 thố (con thỏ)", "ly_do": "Lỗi áp: r6_apply.py ghi TSV bằng csv.writer mặc định (QUOTE_MINIMAL) nên ô có dấu \" bị bọc ngoặc và nhân đôi; bước merge đọc QUOTE_NONE nên bản cuối mang nguyên văn '\"tiếng Việt nói \"\"ôm cây đợi thỏ\"\": ...\"'. Giá trị mới = đúng pt_noi_dung_moi trong quyet_dinh_am.json."},
+    {"note_key": "zh:hskstory-hsk7:1792758602396", "truong": "pt_noi_dung", "gia_tri_moi": "吹 xuy (thổi) + 牛 ngưu (bò) → \"thổi con bò\" phồng lên: nói khoác", "ly_do": "Lỗi áp, cùng nguyên nhân quoting. Quyết định chỉ sửa char_note, nhưng pt_noi_dung bị đổi thành '\"吹 xuy ... → \"\"thổi con bò\"\" ...\"'. Giá trị mới = giá trị trong merged_v4.jsonl."},
+    {"note_key": "zh:hskstory-hsk6:1792758600652", "truong": "pt_noi_dung", "gia_tri_moi": "卡 ca (phiên âm \"card\") + 片 phiến (tấm mỏng) → tấm thẻ", "ly_do": "Lỗi áp, cùng nguyên nhân quoting. Quyết định không đụng pt_noi_dung. Giá trị mới = giá trị trong merged_v4.jsonl."},
+    {"note_key": "zh:hskstory-hsk7:1792758601942", "truong": "pt_noi_dung", "gia_tri_moi": "phiên âm \"cartoon\"", "ly_do": "Lỗi áp, cùng nguyên nhân quoting. Quyết định không đụng pt_noi_dung. Giá trị mới = giá trị trong merged_v4.jsonl."},
+    {"note_key": "zh:hskstory-hsk4:1792758600072", "truong": "char_note", "gia_tri_moi": "乒=binh, 乓=bàng (cả hai chỉ hvpinyin, chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain", "ly_do": "Lỗi áp: char_note cấp mục trong bản cuối bị cụt thành '...; 乓=bàng (chỉ hvpinyin'. Nguyên nhân: finalize.py clean_note() tách theo '; ' (cả dấu '; ' nằm trong ngoặc) rồi bỏ đoạn có nội dung trùng, nên mất nửa sau. Ghi chú trong hanviet_chars vẫn đủ. Sửa bằng cách viết char_note không có '; ' bên trong ngoặc (giá trị đề xuất), hoặc sửa clean_note."},
+    {"note_key": "zh:hskstory-hsk3:1792758600084", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Lỗi áp: TIEU_CHUAN mục 3 chỉ cho gắn tone_flags khi certainty sure/chosen. R6 đặt 卡 thành uncertain nhưng cờ ngoai_le của 卡 vẫn còn. Bỏ cờ của chữ uncertain."},
+    {"note_key": "zh:hskstory-hsk3:1792758600194", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (卡 uncertain còn cờ ngoai_le)."},
+    {"note_key": "zh:hskstory-hsk3:1792758600928", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (卡)."},
+    {"note_key": "zh:hskstory-hsk6:1792758600652", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (卡)."},
+    {"note_key": "zh:hskstory-hsk6:1792758601556", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (卡)."},
+    {"note_key": "zh:hskstory-hsk7:1792758601940", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (卡)."},
+    {"note_key": "zh:hskstory-hsk7:1792758601942", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (卡)."},
+    {"note_key": "zh:hskstory-hsk3:1792758600278", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (啤 uncertain)."},
+    {"note_key": "zh:hskstory-hsk4:1792758600072", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (乓 uncertain)."},
+    {"note_key": "zh:hskstory-hsk7:1792758602474", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (咧 uncertain)."},
+    {"note_key": "zh:hskstory-hsk7:1792758602998", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (咧 uncertain, 2 cờ)."},
+    {"note_key": "zh:hskstory-hsk7:1792758602604", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (嘀 uncertain)."},
+    {"note_key": "zh:hskstory-hsk7:1792758605110", "truong": "tone_flags", "gia_tri_moi": null, "ly_do": "Như trên (捂 uncertain)."},
+    {"note_key": "zh:hskstory-hsk7:1792758602538", "truong": "hanviet_chars[啃].via", "gia_tri_moi": "齦", "ly_do": "Nhỏ: âm khẩn tra qua dị thể 齦 (Thiều Chửu #2296), TIEU_CHUAN: via = chữ thực sự dùng để tra. Bản cuối ghi via '啃', source 'thieuchuu' (cands_bosung cũng chỉ ghi 'thieuchuu', trong khi quyet_dinh_am.json ghi 'thieuchuu(via 齦 #2296);hvpinyin(via 齦, ken3)'). Không ảnh hưởng âm."}
+  ]
+}

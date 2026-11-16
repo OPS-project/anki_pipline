@@ -1,0 +1,193 @@
+{
+  "source_path": "research\\downloads\\it_vocab.apkg",
+  "sha256": "17c255d1e8b3a8b4a534967aa58ebf94c0b32cc9069bbb283886461832ce1759",
+  "notes": 1516,
+  "cards": 4548,
+  "models": {
+    "1607392323": {
+      "css": "\n.card {\n    font-family: \"Noto Sans JP\", \"Hiragino Sans\", \"Yu Gothic\", system-ui, sans-serif;\n    font-size: 20px;\n    text-align: center;\n    color: #2B2B2B;\n    background: #FFFFFF;\n    padding: 24px;\n    line-height: 1.7;\n}\n.card-type {\n    font-size: 12px;\n    color: #666666;\n    text-transform: uppercase;\n    letter-spacing: 1px;\n    margin-bottom: 15px;\n}\n.sentence {\n    font-size: 28px;\n    margin: 20px 0;\n    line-height: 1.8;\n}\n.translation {\n    font-size: 22px;\n    margin: 15px 0;\n    line-height: 1.6;\n}\n.audio { margin: 10px 0; text-align: center; }\nhr#answer { border: none; border-top: 3px solid #BC002D; margin: 20px 0; }\n\n.category {\n    display: inline-block;\n    background: #F7F7F7;\n    padding: 4px 12px;\n    border-radius: 0.75rem;\n    font-size: 12px;\n    color: #666666;\n    border: 1px solid #E5E5E5;\n    margin-top: 10px;\n}\n\nruby { ruby-align: center; }\nruby rt { font-size: 12px; font-weight: normal; color: #666666; }\n\n.replay-button, .replaybutton {\n    display: flex !important;\n    align-items: center;\n    justify-content: center;\n    width: 2.5rem;\n    height: 2.5rem;\n    margin: 0 auto;\n    border: 2px solid #E5E5E5;\n    border-radius: 0.75rem;\n    background: #FFFFFF;\n    cursor: pointer;\n    text-decoration: none;\n}\n.replay-button *, .replaybutton * { display: none !important; }\n.replay-button::before, .replaybutton::before {\n    content: \"\";\n    flex-shrink: 0;\n    width: 1.2rem;\n    height: 1.2rem;\n    background: #2B70C9;\n    -webkit-mask: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0014 8.5v7a4.47 4.47 0 002.5-3.5zM14 3.23v2.06a6.51 6.51 0 010 13.42v2.06A8.51 8.51 0 0014 3.23z'/%3E%3C/svg%3E\") center / contain no-repeat;\n    mask: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0014 8.5v7a4.47 4.47 0 002.5-3.5zM14 3.23v2.06a6.51 6.51 0 010 13.42v2.06A8.51 8.51 0 0014 3.23z'/%3E%3C/svg%3E\") center / contain no-repeat;\n}\n\n.listening-front .replay-button, .listening-front .replaybutton {\n    width: 5rem;\n    height: 5rem;\n    border-radius: 1.25rem;\n}\n.listening-front .replay-button::before, .listening-front .replaybutton::before {\n    width: 2.5rem;\n    height: 2.5rem;\n}\n\n.night_mode .card {\n    color: #E8E8E8;\n    background: #1A1A1A;\n}\n.night_mode .card-type { color: #999999; }\n.night_mode .category {\n    background: #252525;\n    border-color: #333333;\n    color: #999999;\n}\n.night_mode ruby rt { color: #999999; }\n.night_mode hr#answer { border-top-color: #BC002D; }\n.night_mode .replay-button, .night_mode .replaybutton {\n    border-color: #333333;\n    background: #1A1A1A;\n}\n\n.pronunciation {\n    font-size: 18px;\n    color: #666666;\n    margin: 15px 0;\n    line-height: 1.8;\n}\n\n.key-vocab {\n    font-size: 16px;\n    color: #666666;\n    margin-top: 15px;\n}\n\n.vocab {\n    font-weight: bold;\n    color: #2B70C9;\n}\n\n.blank {\n    display: inline-block;\n    min-width: 4em;\n    border-bottom: 2px solid #2B2B2B;\n    color: transparent;\n}\n\n.cloze-answer {\n    color: #2B70C9;\n    font-weight: bold;\n}\n\n.listening-front { margin: 40px 0; }\n\n.register {\n    display: inline-block;\n    padding: 2px 8px;\n    border-radius: 0.75rem;\n    font-size: 11px;\n    font-weight: bold;\n    text-transform: uppercase;\n    letter-spacing: 0.5px;\n    margin-top: 6px;\n    margin-left: 6px;\n    vertical-align: middle;\n    border: 1px solid #E5E5E5;\n}\n.register-casual  { background: #F7F7F7; color: #666666; }\n.register-polite  { background: #e3f2fd; color: #1565c0; border-color: #bbdefb; }\n.register-formal  { background: #fff3e0; color: #e65100; border-color: #ffe0b2; }\n.register-keigo   { background: #f3e5f5; color: #6a1b9a; border-color: #e1bee7; }\n/* Document and signage language, as opposed to anything anyone says aloud.\n   Introduced by the fudosan deck, where 54 of 180 cards come off contracts and\n   municipal forms. An unregistered value still renders as a neutral badge -\n   see it-kundoku's `wenyan` - but this one is too common to leave bare. */\n.register-written { background: #e8f5e9; color: #2e7d32; border-color: #c8e6c9; }\n\n.pitch-h { color: #4caf50; }\n.pitch-l { color: #f44336; }\n\n.night_mode .translation { color: #E8E8E8; }\n.night_mode .pronunciation { color: #999999; }\n.night_mode .key-vocab { color: #999999; }\n.night_mode .vocab { color: #6DB3F2; }\n.night_mode .cloze-answer { color: #6DB3F2; }\n.night_mode .blank { border-bottom-color: #999999; }\n.night_mode .register { border-color: #333333; }\n.night_mode .register-casual  { background: #252525; color: #999999; }\n.night_mode .register-polite  { background: #1a2a3a; color: #64b5f6; border-color: #1a2a3a; }\n.night_mode .register-formal  { background: #2a1f0e; color: #ffb74d; border-color: #2a1f0e; }\n.night_mode .register-keigo   { background: #2a1a2a; color: #ce93d8; border-color: #2a1a2a; }\n.night_mode .register-written { background: #16261a; color: #81c784; border-color: #16261a; }\n.night_mode .pitch-h { color: #81c784; }\n.night_mode .pitch-l { color: #e57373; }\n",
+      "did": 2059400125,
+      "flds": [
+        {
+          "name": "Sentence",
+          "ord": 0,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "name": "Translation",
+          "ord": 1,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "name": "Cloze",
+          "ord": 2,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "name": "Pronunciation",
+          "ord": 3,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "name": "Category",
+          "ord": 4,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "name": "Audio",
+          "ord": 5,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "name": "Register",
+          "ord": 6,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "name": "KeyMeaning",
+          "ord": 7,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "name": "PitchAccent",
+          "ord": 8,
+          "font": "Liberation Sans",
+          "media": [],
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "id": "1607392323",
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "latexsvg": false,
+      "mod": 1788304572,
+      "name": "Japanese IT Vocabulary (3-Card)",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            5
+          ]
+        ],
+        [
+          1,
+          "any",
+          [
+            0,
+            4,
+            6
+          ]
+        ],
+        [
+          2,
+          "any",
+          [
+            0,
+            1,
+            2,
+            4
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [],
+      "tmpls": [
+        {
+          "name": "Listening",
+          "qfmt": "<div class=\"card-type\">Listening</div>\n<div class=\"audio listening-front\">{{Audio}}</div>\n",
+          "afmt": "<div class=\"card-type\">Listening</div>\n<div class=\"audio\">{{Audio}}</div>\n<div class=\"sentence\">{{Pronunciation}}</div>\n<div class=\"translation\">{{Translation}}</div>\n<hr id=\"answer\">\n<div class=\"category\">{{Category}}</div>{{#Register}}<span class=\"register register-{{Register}}\">{{Register}}</span>{{/Register}}\n<div class=\"key-vocab\">Key: {{#PitchAccent}}{{PitchAccent}}{{/PitchAccent}}{{^PitchAccent}}<span class=\"vocab\">{{Cloze}}</span>{{/PitchAccent}} ({{KeyMeaning}})</div>\n",
+          "ord": 0,
+          "bafmt": "",
+          "bqfmt": "",
+          "bfont": "",
+          "bsize": 0,
+          "did": null
+        },
+        {
+          "name": "Reading",
+          "qfmt": "<div class=\"card-type\">Reading</div>\n<div class=\"sentence\">{{Sentence}}</div>\n<div class=\"category\">{{Category}}</div>{{#Register}}<span class=\"register register-{{Register}}\">{{Register}}</span>{{/Register}}\n",
+          "afmt": "<div class=\"card-type\">Reading</div>\n<div class=\"audio\">{{Audio}}</div>\n<div class=\"sentence\">{{Pronunciation}}</div>\n<hr id=\"answer\">\n<div class=\"translation\">{{Translation}}</div>\n<div class=\"key-vocab\">Key: {{#PitchAccent}}{{PitchAccent}}{{/PitchAccent}}{{^PitchAccent}}<span class=\"vocab\">{{Cloze}}</span>{{/PitchAccent}} ({{KeyMeaning}})</div>\n",
+          "ord": 1,
+          "bafmt": "",
+          "bqfmt": "",
+          "bfont": "",
+          "bsize": 0,
+          "did": null
+        },
+        {
+          "name": "Vocabulary",
+          "qfmt": "<div class=\"card-type\">Vocabulary</div>\n<div id=\"sentence\" class=\"sentence\">{{Sentence}}</div>\n<div class=\"translation\">{{Translation}}</div>\n<div class=\"category\">{{Category}}</div>\n<script>\n(function() {\n    var el = document.getElementById('sentence');\n    var cloze = '{{Cloze}}';\n    el.innerHTML = el.textContent.split(cloze).join('<span class=\"blank\">＿＿＿</span>');\n})();\n</script>\n",
+          "afmt": "<div class=\"card-type\">Vocabulary</div>\n<div id=\"sentence\" class=\"sentence\">{{Sentence}}</div>\n<div class=\"audio\">{{Audio}}</div>\n<div class=\"translation\">{{Translation}}</div>\n<hr id=\"answer\">\n<div class=\"pronunciation\">{{Pronunciation}}</div>\n<script>\n(function() {\n    var el = document.getElementById('sentence');\n    var cloze = '{{Cloze}}';\n    el.innerHTML = el.textContent.split(cloze).join('<span class=\"cloze-answer\">' + cloze + '</span>');\n})();\n</script>\n",
+          "ord": 2,
+          "bafmt": "",
+          "bqfmt": "",
+          "bfont": "",
+          "bsize": 0,
+          "did": null
+        }
+      ],
+      "type": 0,
+      "usn": -1,
+      "vers": []
+    }
+  },
+  "decks": {
+    "1": "Default",
+    "2059400111": "Japanese IT Vocabulary::01 Foundational",
+    "2059400112": "Japanese IT Vocabulary::02 Basic Development",
+    "2059400113": "Japanese IT Vocabulary::03 Intermediate",
+    "2059400114": "Japanese IT Vocabulary::04 Advanced",
+    "2059400115": "Japanese IT Vocabulary::05 Communication",
+    "2059400116": "Japanese IT Vocabulary::06 Expert",
+    "2059400117": "Japanese IT Vocabulary::07 Job Interview",
+    "2059400118": "Japanese IT Vocabulary::08 Problem Solving",
+    "2059400119": "Japanese IT Vocabulary::09 AI & Agents",
+    "2059400120": "Japanese IT Vocabulary::10 Documentation & Engineering Culture",
+    "2059400121": "Japanese IT Vocabulary::11 Casual Chat",
+    "2059400122": "Japanese IT Vocabulary::12 Live Meetings",
+    "2059400123": "Japanese IT Vocabulary::13 Corporate Life",
+    "2059400124": "Japanese IT Vocabulary::14 Business Email",
+    "2059400125": "Japanese IT Vocabulary::15 Written Tickets & Commits"
+  },
+  "media": 1516,
+  "audio_fields": {
+    "Audio": 1516
+  },
+  "missing_reference_count": 0,
+  "missing_references": []
+}

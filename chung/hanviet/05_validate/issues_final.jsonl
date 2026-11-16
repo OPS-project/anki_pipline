@@ -1,0 +1,30 @@
+{"note_key": "zh:hskstory-hsk2:1792758600290", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk2:1792758600298", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk2:1792758600342", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk2:1792758600350", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk3:1792758600082", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk3:1792758600162", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk3:1792758600354", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk3:1792758600456", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk3:1792758600476", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk3:1792758600500", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk3:1792758600512", "file": "batch_01b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk3:1792758600536", "file": "batch_01b.tsv", "code": "E_HV_COUNT", "level": "error", "detail": "1 âm, hanzi có 3 chữ CJK"}
+{"note_key": "zh:hskstory-hsk3:1792758600536", "file": "batch_01b.tsv", "code": "E_HV_NOT_IN_CANDS", "level": "error", "detail": "âm 1 'MÌ' không nằm trong cands của chữ 1"}
+{"note_key": "zh:hskstory-hsk4:1792758600440", "file": "batch_02b.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'tham gia thi'"}
+{"note_key": "zh:hskstory-hsk4:1792758600660", "file": "batch_02b.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'tra an ninh'"}
+{"note_key": "zh:hskstory-hsk4:1792758601500", "file": "batch_03a.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'trong phong bao'"}
+{"note_key": "zh:hskstory-hsk5:1792758600308", "file": "batch_03b.tsv", "code": "W_HAN_IN_NGHIA", "level": "warn", "detail": "chữ Hán trong nghia_vi"}
+{"note_key": "zh:hskstory-hsk6:1792758600512", "file": "batch_05b.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'ra cho xem'"}
+{"note_key": "zh:hskstory-hsk6:1792758600834", "file": "batch_06a.tsv", "code": "W_HAN_IN_NGHIA", "level": "warn", "detail": "chữ Hán trong nghia_vi"}
+{"note_key": "zh:hskstory-hsk6:1792758603164", "file": "batch_07b.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'tay cho ai'"}
+{"note_key": "zh:hskstory-hsk7:1792758600524", "file": "batch_08a.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'sung cho nhau'"}
+{"note_key": "zh:hskstory-hsk7:1792758600584", "file": "batch_08a.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk7:1792758601358", "file": "batch_08b.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'oan cho ai'"}
+{"note_key": "zh:hskstory-hsk7:1792758602892", "file": "batch_09b.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'khi hy sinh'"}
+{"note_key": "zh:hskstory-hsk7:1792758604226", "file": "batch_10b.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'ra sau khi'"}
+{"note_key": "zh:hskstory-hsk7:1792758605338", "file": "batch_11a.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'tay trong tay'"}
+{"note_key": "zh:hskstory-hsk7:1792758605858", "file": "batch_11b.tsv", "code": "E_TU_VIET_LOAI", "level": "error", "detail": "tu_viet có giá trị nhưng loai=yeu_to"}
+{"note_key": "zh:hskstory-hsk7:1792758607254", "file": "batch_12b.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'do vua cai'"}
+{"note_key": "zh:hskstory-hsk7:1792758602934", "file": "hard_03.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'sau khi chia tay'"}
+{"note_key": "zh:hskstory-hsk7:1792758602892", "file": "fixes_r4_set_cd_04.tsv", "code": "W_ENGLISH", "level": "warn", "detail": "có thể là tiếng Anh: 'khi hy sinh'"}

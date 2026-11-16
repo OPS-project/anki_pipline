@@ -1,0 +1,402 @@
+[
+  {
+    "index": 0,
+    "id": 1508885367902,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::1 - Basic"
+    ],
+    "fields": {
+      "Japanese": "これは本だ・です。",
+      "Reading": "これは本だ・です。",
+      "English": "This is a book.",
+      "Grammar Point": "は～だ",
+      "Explanation": "Someone or something is/was someone or something or is/was in some state, or will do/does/did something.",
+      "AwesomeTTS": "[sound:naverclovapremium-2c41a352-57602e37-13af7026-785c5f72-17d17fca.mp3]",
+      "Level": "Basic",
+      "Page Number": "521",
+      "Extra Notes": ""
+    },
+    "ref": "naverclovapremium-2c41a352-57602e37-13af7026-785c5f72-17d17fca.mp3",
+    "duration": 1.032,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_00000.wav",
+    "decode_ok": true,
+    "previous": "これは本だ・です。",
+    "next": "コンサートは八時からだ・です。",
+    "decoded_seconds": 1.032
+  },
+  {
+    "index": 352,
+    "id": 1508885373421,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::1 - Basic"
+    ],
+    "fields": {
+      "Japanese": "木村さんとは友達として付き合っているだけです。",
+      "Reading": "木村さんとは友達として付き合っているだけです。",
+      "English": "I'm just keeping company with Mr. Kimura as a friend.",
+      "Grammar Point": "として",
+      "Explanation": "As; in the capacity of | A compound particle which indicates the capacity, role or function of someone or something.",
+      "AwesomeTTS": " [sound:amazon-45f1e7e0-d2077d62-3aa679c5-6b97b693-273fb950.mp3]",
+      "Level": "Basic",
+      "Page Number": "501",
+      "Extra Notes": ""
+    },
+    "ref": "amazon-45f1e7e0-d2077d62-3aa679c5-6b97b693-273fb950.mp3",
+    "duration": 3.504,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_00352.wav",
+    "decode_ok": true,
+    "previous": "私は医者としてあなたに言います。",
+    "next": "この部屋は物置として使っている。",
+    "decoded_seconds": 3.504
+  },
+  {
+    "index": 704,
+    "id": 1508885373773,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::1 - Basic"
+    ],
+    "fields": {
+      "Japanese": "来年日本へ行くから日本語を勉強している・います。",
+      "Reading": "来年日本へ行くから日本語を勉強している・います。",
+      "English": "I'm studying Japanese because I'm going to Japan next year.",
+      "Grammar Point": "から - So; since; because",
+      "Explanation": "A subordinate conjunction which expresses a reason or a cause.",
+      "AwesomeTTS": "[sound:vocalware-054c2427-aee1bf23-d77115c9-de3944c5-2e99e2e4.mp3]",
+      "Level": "Basic",
+      "Page Number": "179",
+      "Extra Notes": ""
+    },
+    "ref": "vocalware-054c2427-aee1bf23-d77115c9-de3944c5-2e99e2e4.mp3",
+    "duration": 2.8995,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_00704.wav",
+    "decode_ok": true,
+    "previous": "アメリカに来てから今日で三年になる。",
+    "next": "A:どうして日本語を勉強しているん（だ・ですか）。  B:来年日本へ行くからだ・です。",
+    "decoded_seconds": 2.899625
+  },
+  {
+    "index": 1056,
+    "id": 1508885374125,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::1 - Basic"
+    ],
+    "fields": {
+      "Japanese": "友達は私にチップを払わせた。",
+      "Reading": "友達は私にチップを 払[はら]わせた。",
+      "English": "My friend made me leave (lit pay) a tip.",
+      "Grammar Point": "させる",
+      "Explanation": "Make someone/something do something; cause someone/something to do something; let someone/something do something; allow someone/something to do something; have someone/something do something; get someone/something to do something. | Cause someone/something to do something or cause something to change its state.",
+      "AwesomeTTS": " [sound:azure-353f65f9-6d722b00-88f71424-5559137b-63955816.mp3]",
+      "Level": "Basic",
+      "Page Number": "387",
+      "Extra Notes": "チップ - tip"
+    },
+    "ref": "azure-353f65f9-6d722b00-88f71424-5559137b-63955816.mp3",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_01056.wav",
+    "decode_ok": true,
+    "previous": "このゲームはジムに勝たせようと思う。",
+    "next": "アンダーソンさんは子供達に好きなだけアイスクリームを食べさせた。",
+    "decoded_seconds": 3.336
+  },
+  {
+    "index": 1407,
+    "id": 1508885374476,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::2 - Intermediate"
+    ],
+    "fields": {
+      "Japanese": "外国生活は、一方では新しい文化に接することが出来て楽しい面もあるが、他方ではカルチャーショックで大変困ることもある。",
+      "Reading": "外国生活は、一方では新しい文化に 接[せっ]することが出来て楽しい面もあるが、他方ではカルチャーショックで大変困ることもある。",
+      "English": "Life in a foreign country is, on the one hand, enjoyable because one can encounter a new culture, but, on the other hand, it is sometimes hard because of culture shock.",
+      "Grammar Point": "一方で（は） ~ 他方で（は）",
+      "Explanation": "On the one hand ~, on the other hand | A structure used to describe two concurring, contrastive actions/states of someone or something.",
+      "AwesomeTTS": " [sound:azure-30978aa5-467a04d3-ff531bde-040000f7-6e483057.mp3]",
+      "Level": "Intermediate",
+      "Page Number": "73",
+      "Extra Notes": ""
+    },
+    "ref": "azure-30978aa5-467a04d3-ff531bde-040000f7-6e483057.mp3",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_01407.wav",
+    "decode_ok": true,
+    "previous": "ストレスは、一方では害になることもあるが、他方では生活のいい刺激にもなるそうだ。",
+    "next": "この映画は教育上よくない。",
+    "decoded_seconds": 10.44
+  },
+  {
+    "index": 1759,
+    "id": 1508885374828,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::2 - Intermediate"
+    ],
+    "fields": {
+      "Japanese": "私達のクラスには中国人の学生もいればスペイン人の学生もいる。",
+      "Reading": "私達のクラスには中国人の学生もいればスペイン人の学生もいる。",
+      "English": "In my class, there are Chinese students and there are Spanish students too.",
+      "Grammar Point": "も~も",
+      "Explanation": "Both ~ and ~; neither ~ nor ~; also; (not) either | A structure which presents two states or actions of someone or something.",
+      "AwesomeTTS": " [sound:vocalware-83adb61c-2987671e-7a4accc9-e7cb701a-1ae7f777.mp3]",
+      "Level": "Intermediate",
+      "Page Number": "185",
+      "Extra Notes": ""
+    },
+    "ref": "vocalware-83adb61c-2987671e-7a4accc9-e7cb701a-1ae7f777.mp3",
+    "duration": 5.2245,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_01759.wav",
+    "decode_ok": true,
+    "previous": "彼は親戚でもなければ友達でもない。",
+    "next": "私はドイツ語なら読みも話しも出来る。",
+    "decoded_seconds": 5.2245
+  },
+  {
+    "index": 2111,
+    "id": 1508885375180,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::2 - Intermediate"
+    ],
+    "fields": {
+      "Japanese": "日本留学のことでちょっとご相談があるんですが。",
+      "Reading": "日本留学のことでちょっとご相談があるんですが。",
+      "English": "I'd like to talk to you about studying in Japan.",
+      "Grammar Point": "のこと",
+      "Explanation": "About; in terms of; related to | Things of/about.",
+      "AwesomeTTS": " [sound:azure-8c3c1cc7-73078236-6dd12405-3516a145-caa24b3c.mp3]",
+      "Level": "Intermediate",
+      "Page Number": "304",
+      "Extra Notes": ""
+    },
+    "ref": "azure-8c3c1cc7-73078236-6dd12405-3516a145-caa24b3c.mp3",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_02111.wav",
+    "decode_ok": true,
+    "previous": "彼女のことはもう忘れた方がいいよ。",
+    "next": "実は、明日の会議のことなんですが。",
+    "decoded_seconds": 4.416
+  },
+  {
+    "index": 2463,
+    "id": 1508885375532,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::2 - Intermediate"
+    ],
+    "fields": {
+      "Japanese": "読んだ小説はそれぞれ面白かった。",
+      "Reading": "読んだ小説はそれぞれ面白かった。",
+      "English": "Each of the novels I read was interesting (in its own way).",
+      "Grammar Point": "それぞれ",
+      "Explanation": "Each; respectively | Each of two or more things/persons.",
+      "AwesomeTTS": " [sound:naverclovapremium-2fab8197-b2ddf41a-77521107-5f52d8a5-cc06f557.mp3]",
+      "Level": "Intermediate",
+      "Page Number": "436",
+      "Extra Notes": ""
+    },
+    "ref": "naverclovapremium-2fab8197-b2ddf41a-77521107-5f52d8a5-cc06f557.mp3",
+    "duration": 2.688,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_02463.wav",
+    "decode_ok": true,
+    "previous": "山田さんと鈴木さんは、果物とお菓子をそれぞれ買った。",
+    "next": "好子、美保子、信夫はそれぞれ十五歳、十三歳、九歳です。",
+    "decoded_seconds": 2.688
+  },
+  {
+    "index": 2815,
+    "id": 1508885375884,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::2 - Intermediate"
+    ],
+    "fields": {
+      "Japanese": "彼女はフランス語が専門の上（に）パリにしばらく住んでいたから、フランス語かペラペラだ。",
+      "Reading": "彼女はフランス語が専門の上（に）パリにしばらく住んでいたから、フランス語がペラペラだ。",
+      "English": "<div>Not only did she major in French, but, because she lived in Paris for awhile, she is also fluent (in French).</div>",
+      "Grammar Point": "上（に）",
+      "Explanation": "As well; in addition; besides; furthermore; moreover; not only ~ but also | A conjunction which introduces an additional, emphatic statement.",
+      "AwesomeTTS": " [sound:naverclovapremium-57278544-b01b194d-224912e4-60c85f87-78db9853.mp3]",
+      "Level": "Intermediate",
+      "Page Number": "551",
+      "Extra Notes": ""
+    },
+    "ref": "naverclovapremium-57278544-b01b194d-224912e4-60c85f87-78db9853.mp3",
+    "duration": 6.408,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_02815.wav",
+    "decode_ok": true,
+    "previous": "彼は仕事を見つけてくれた上（に）お金まで貸してくれた。",
+    "next": "吉岡さんは奥さんに離婚された上（に）仕事まで失った。",
+    "decoded_seconds": 6.408
+  },
+  {
+    "index": 3167,
+    "id": 1508885376236,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::3 - Advanced"
+    ],
+    "fields": {
+      "Japanese": "A:どうして会ってくれないの？B:だって、僕、今日忙しいんだ。",
+      "Reading": "A:どうして会ってくれないの？<div>B:だって、僕、今日忙しいんだ。</div>",
+      "English": "A: Why won't you see me?&nbsp;<div>B: 'Cause I'm busy today.</div>",
+      "Grammar Point": "だって - Because",
+      "Explanation": "A conjunction that indicates a reason",
+      "AwesomeTTS": "[sound:naver-defeb33a-eac70a29-0357ef6c-b1ed11f9-471e81ac.mp3][sound:naverclovapremium-d14c4182-f08e9265-99e96e34-4d3131a3-c6d5f26f.mp3]",
+      "Level": "Advanced",
+      "Page Number": "60",
+      "Extra Notes": ""
+    },
+    "ref": "naver-defeb33a-eac70a29-0357ef6c-b1ed11f9-471e81ac.mp3",
+    "duration": 1.656,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_03167.wav",
+    "decode_ok": true,
+    "previous": "受験生たちは塾だのテストだのと忙しい毎日を送っている。",
+    "next": "A:母：さや、どうしてもっとご飯食べないの。\nB:さや：だっておなか、空いていないもん。",
+    "decoded_seconds": 1.656
+  },
+  {
+    "index": 3519,
+    "id": 1508885376588,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::3 - Advanced"
+    ],
+    "fields": {
+      "Japanese": "こうして見てみると、かつてはサダム・フセインも、ソ連やイランと戦ってきた、言わばアメリカの盟友だったわけである。",
+      "Reading": "こうして見てみると、かつてはサダム・フセインも、ソ連やイランと戦ってきた、言わばアメリカの盟友だったわけである。",
+      "English": "When we view it this way, the fact is that Saddam Hussein, who fought against Soviet Russia and Iran, used to be America's bosom buddy, so to speak.",
+      "Grammar Point": "言わば",
+      "Explanation": "So to speak; as it were; like; sort of | An adverb that means “if I were to say it some way (or a different way)”.",
+      "AwesomeTTS": "[sound:azure-67a1e82a-2777d853-a8fd0dff-b0063ab0-4645f666.mp3]",
+      "Level": "Advanced",
+      "Page Number": "170",
+      "Extra Notes": ""
+    },
+    "ref": "azure-67a1e82a-2777d853-a8fd0dff-b0063ab0-4645f666.mp3",
+    "duration": null,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_03519.wav",
+    "decode_ok": true,
+    "previous": "当地区には、言わば幽霊人口である非合法居住者が7~10万人いますが、この人たちは補助金対象外となります。",
+    "next": "ファッション写真は、１９３０年代までは、言わば「新参者」の分野と見られていたらしい。",
+    "decoded_seconds": 8.304
+  },
+  {
+    "index": 3871,
+    "id": 1508885376940,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::3 - Advanced"
+    ],
+    "fields": {
+      "Japanese": "彼は女性にとても親切だ。もっとも、それには下心がある場合が多いようだ。",
+      "Reading": "彼は女性にとても親切だ。もっとも、それには下心がある場合が多いようだ。",
+      "English": "He is very kind to ladies. But, apparently, he often has an ulterior motive.",
+      "Grammar Point": "もっとも",
+      "Explanation": "Although; though; but; yet; however | A conjunction used to add a comment indicating that what the speaker/writer has just expressed is not sufﬁcient.",
+      "AwesomeTTS": " [sound:naverclovapremium-d95542b0-4eea3037-3aac37ee-60cc27fa-36488d71.mp3]",
+      "Level": "Advanced",
+      "Page Number": "288",
+      "Extra Notes": ""
+    },
+    "ref": "naverclovapremium-d95542b0-4eea3037-3aac37ee-60cc27fa-36488d71.mp3",
+    "duration": 5.376,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_03871.wav",
+    "decode_ok": true,
+    "previous": "あの政治家は保守的だと言われている。もっとも、時々革新的なことを言うこともあるが。",
+    "next": "今日は魚がよく釣れた。もっとも、いつもこのように幸運だとは限らない。",
+    "decoded_seconds": 5.376
+  },
+  {
+    "index": 4222,
+    "id": 1508885377291,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::3 - Advanced"
+    ],
+    "fields": {
+      "Japanese": "子供は、大人が作っている社会の中で育つのだから、子供が変なのは大人のせいに決まっている。",
+      "Reading": "子供は、大人が作っている社会の中で育つのだから、子供が変なのは大人のせいに決まっている。",
+      "English": "Children grow up in a society that adults create. So, if the children are not normal, it is a given that the adults are at fault.",
+      "Grammar Point": "に決まっている",
+      "Explanation": "Surely; be bound to; be a given; of course; must be; we all know that | A phrase indicating the speaker’s/writer’s strong conviction or motivation.",
+      "AwesomeTTS": " [sound:naverclovapremium-ba95b687-20e52f10-7a79ca7b-47b200b2-9c1fc04b.mp3]",
+      "Level": "Advanced",
+      "Page Number": "395",
+      "Extra Notes": ""
+    },
+    "ref": "naverclovapremium-ba95b687-20e52f10-7a79ca7b-47b200b2-9c1fc04b.mp3",
+    "duration": 7.584,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_04222.wav",
+    "decode_ok": true,
+    "previous": "同じ商品なら気持ちのいい店で買うに決まっている。",
+    "next": "何しに来たって？飲みに来たに決まっているじゃないか。",
+    "decoded_seconds": 7.584
+  },
+  {
+    "index": 4574,
+    "id": 1508885377643,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::3 - Advanced"
+    ],
+    "fields": {
+      "Japanese": "この本は、イスラム世界に興味があるか否かを問わず、ぜひ読んでおくべき一冊である。",
+      "Reading": "この本は、イスラム世界に興味があるか否かを問わず、ぜひ読んでおくべき一冊である。",
+      "English": "This is one book you should definitely read, whether or not you  are interested in the Muslim world.",
+      "Grammar Point": "を問わず",
+      "Explanation": "Regardless of; irrespective of; without reference to; whether X or Y; whether X or not; whatever/whoever/etc.; no matter what/who/how/etc. | A compound particle that means “without questioning”.",
+      "AwesomeTTS": " [sound:naverclovapremium-e6f422c9-5fcf6cf9-af1f990c-05547e00-64f28594.mp3]",
+      "Level": "Advanced",
+      "Page Number": "514",
+      "Extra Notes": ""
+    },
+    "ref": "naverclovapremium-e6f422c9-5fcf6cf9-af1f990c-05547e00-64f28594.mp3",
+    "duration": 6.312,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_04574.wav",
+    "decode_ok": true,
+    "previous": "古くなったパソコン、メーカーを問わず引き取ります。",
+    "next": "選挙期間中であるか否かを問わず、選挙運動またはこれに類する行為にコンピュータ、掲示板等学内施設を利用することを禁ずる。",
+    "decoded_seconds": 6.312
+  },
+  {
+    "index": 4926,
+    "id": 1508885377995,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::3 - Advanced"
+    ],
+    "fields": {
+      "Japanese": "外食は飽きたし自分で料理するのも億劫だ。と言って、何も食べずにいるというわけにもいかない。",
+      "Reading": "外食は飽きたし自分で料理するのも億劫だ。と言って、何も食べずにいるというわけにもいかない。",
+      "English": "I've gotten tired of eating out, and cooking for myself is tiresome, too. But, I have to eat something (literally: I can't just not eat).",
+      "Grammar Point": "と言って",
+      "Explanation": "However; but; having said that | A conjunction used at the beginning of a sentence to convey the idea of “however”.",
+      "AwesomeTTS": "[sound:amazon-e2e4dbb3-e8bc44f1-bf94e858-b22b0510-d09ff0c2.mp3]",
+      "Level": "Advanced",
+      "Page Number": "635",
+      "Extra Notes": ""
+    },
+    "ref": "amazon-e2e4dbb3-e8bc44f1-bf94e858-b22b0510-d09ff0c2.mp3",
+    "duration": 7.44,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_04926.wav",
+    "decode_ok": true,
+    "previous": "あと１０００万円あればなんとか欲しい家が買える。と言って、そんな大金を借りられるあてはない。",
+    "next": "いくら考えても名案は浮かばない。と言って、何もしなければ事態は悪化する一方だ。",
+    "decoded_seconds": 7.44
+  },
+  {
+    "index": 5278,
+    "id": 1508885378347,
+    "decks": [
+      "Dictionaries of Japanese Grammar Sentences::3 - Advanced"
+    ],
+    "fields": {
+      "Japanese": "今回の野球ストは、これからのプロスポーツあり方を考えさせる出来事として、野球ファンならずとも注目する人が多かった。",
+      "Reading": "今回の野球ストは、これからのプロスポーツあり方を考えさせる出来事として、野球ファンならずとも注目する人が多かった。",
+      "English": "Many people, even if they were not baseball fans, paid attention to the baseball strike this time because it (was an event that) made them think about what professional sports should be like in the future (literally: from now on).",
+      "Grammar Point": "ずとも",
+      "Explanation": "Without ~ing; even if ~ not; if ~ not | A conjunctive phrase that indicates negative concession: “even if ~ not”.",
+      "AwesomeTTS": " [sound:vocalware-32f22184-54cf6a54-bc130929-956559b2-4f4cd788.mp3]",
+      "Level": "Advanced",
+      "Page Number": "755",
+      "Extra Notes": ""
+    },
+    "ref": "vocalware-32f22184-54cf6a54-bc130929-956559b2-4f4cd788.mp3",
+    "duration": 8.8555,
+    "wav": "chung\\kiem_chung_Codex_vong2\\djg\\sample_05278.wav",
+    "decode_ok": true,
+    "previous": "この理論は難解なので、今すぐ分からずともよい。",
+    "next": "今回の野球ストは、これからのプロスポーツあり方を考えさせる出来事として、野球ファンならずとも注目する人が多かった。",
+    "decoded_seconds": 8.8555625
+  }
+]

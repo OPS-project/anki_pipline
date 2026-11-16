@@ -1,0 +1,185 @@
+{
+  "method": {
+    "package": "Full collections and media maps independently parsed; raw APKG read only.",
+    "sample": "16 evenly spaced note indices per required/optional source; all 64 decoded to PCM 16k mono and recognized locally. One extra DJG dialogue response checked separately.",
+    "asr": "Whisper small-q5_1, whisper.cpp v1.9.2, no reference prompt; ASR similarity is a diagnostic, not an error rate or listening certification.",
+    "limits": "No human listening; no UI/mobile import test; sample not random or representative of whole corpus; only first audio per note in initial sample.",
+    "sampling_indices": {
+      "love-is-blind": [
+        0,
+        538,
+        1075,
+        1613,
+        2150,
+        2688,
+        3225,
+        3763,
+        4300,
+        4838,
+        5375,
+        5913,
+        6450,
+        6988,
+        7525,
+        8063
+      ],
+      "sekai-news": [
+        0,
+        129,
+        259,
+        388,
+        517,
+        647,
+        776,
+        905,
+        1035,
+        1164,
+        1293,
+        1423,
+        1552,
+        1681,
+        1811,
+        1940
+      ],
+      "djg": [
+        0,
+        352,
+        704,
+        1056,
+        1407,
+        1759,
+        2111,
+        2463,
+        2815,
+        3167,
+        3519,
+        3871,
+        4222,
+        4574,
+        4926,
+        5278
+      ],
+      "ted-amy": [
+        0,
+        17,
+        34,
+        51,
+        68,
+        85,
+        102,
+        119,
+        135,
+        152,
+        169,
+        186,
+        203,
+        220,
+        237,
+        254
+      ]
+    }
+  },
+  "love-is-blind": {
+    "translation_nonempty": 8064,
+    "comments": [
+      {
+        "index": 0,
+        "finding": "NETFLIX title text is not dialogue; caption should be separated."
+      },
+      {
+        "index": 1613,
+        "finding": "English has broader/looser context than literal Japanese; do not use as word-for-word gloss."
+      },
+      {
+        "index": 5913,
+        "finding": "Repeated Japanese clause and multiple speakers in one subtitle; ASR recognizes one welcoming phrase. Review CC duplication and transcript orthography."
+      },
+      {
+        "index": 8063,
+        "finding": "Japanese music marker and English subtitle credit; exclude from language sentence cards."
+      },
+      {
+        "index": 4300,
+        "finding": "Laughter-heavy note. ASR hallucinates repeated laughter; do not turn ASR output into correction."
+      }
+    ],
+    "asr_processed": 16
+  },
+  "sekai-news": {
+    "prose_in_16_samples": 12,
+    "nonprose_indices": [
+      0,
+      517,
+      776,
+      1940
+    ],
+    "comments": [
+      {
+        "index": 0,
+        "finding": "Preface heading has 83.606 decoded seconds; a text-length filter alone is not an alignment check."
+      },
+      {
+        "index": 1811,
+        "finding": "ASR contains next-note opening 大手のニュースサイトや after current sentence. Boundary leakage candidate, requires listening/crop QA."
+      },
+      {
+        "index": 129,
+        "finding": "ASR confuses 憂慮/有利; this alone does not establish a deck transcription error."
+      }
+    ],
+    "provenance": {
+      "id3_year": "2022",
+      "copyright": "(P)2021 Audible, Inc.",
+      "official_book_publication": "2019-10-09",
+      "official_audible_narrator": "岩崎 愛",
+      "audible_url": "https://www.audible.co.jp/pd/B09LYH11CL",
+      "note": "Matching title/year/Audible tag supports a commercial human recording; exact speaker identity not acoustically verified. audiobook.jp has a different narrator/version."
+    },
+    "asr_processed": 16
+  },
+  "djg": {
+    "dialogues": 137,
+    "multiple_sound_markers": 138,
+    "alternatives_or_middot_candidates": 389,
+    "comments": [
+      {
+        "id": 1508885374218,
+        "finding": "Nested/malformed sound tags. Japanese field lacks に in 上手になった whereas Reading includes it. Neither the embedded Azure filename nor the reconstructed Amazon filename exists in the package; needs replacement audio after text repair. Original file not changed."
+      },
+      {
+        "index": 3167,
+        "finding": "First clip is A question, second clip B answer. Recognizing only first clip cannot establish truncation of complete dialogue."
+      },
+      {
+        "index": 3519,
+        "finding": "Middot in サダム・フセイン is a proper-name separator, not a grammar alternative."
+      }
+    ],
+    "recoverable_inner_files": {
+      "azure-7bd6bf24-14cf11fd-448c9cdc-680534dc-85a8bd6f.mp3": false
+    },
+    "reconstructed_outer_files": {
+      "amazon-1a525f23-0d8714c3-cb95d092-40f9021a-81066547.mp3": false
+    },
+    "dialogue_second_clip_asr": "だって、僕、今日忙しいんだ",
+    "asr_processed": 16
+  },
+  "ted-amy": {
+    "comments": [
+      {
+        "index": 152,
+        "finding": "job interview. is a two-word subtitle fragment; needs adjacent context."
+      },
+      {
+        "index": 102,
+        "finding": "Question continues from previous note; not an independent complete sentence."
+      },
+      {
+        "index": 237,
+        "finding": "ASR differs slightly from transcript wording; use official transcript/audio, not blind ASR replacement."
+      }
+    ],
+    "source": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?view=transcript",
+    "asr_processed": 16
+  }
+}

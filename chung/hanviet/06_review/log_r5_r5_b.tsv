@@ -1,0 +1,246 @@
+note_key	verdict	van_de	ghi_chu
+zh:hskstory-hsk7:1792758604078	ok		张灯结彩 [L2]
+zh:hskstory-hsk7:1792758604116	ok		归根到底 [L2]
+zh:hskstory-hsk7:1792758604124	fixed	tu_viet_rut_gon	当事人 [L6] L6: 'đương sự' là dạng rút gọn, không phải nguyên dạng -> ghep_nghia
+zh:hskstory-hsk7:1792758604142	ok		形形色色 [L2]
+zh:hskstory-hsk7:1792758604144	ok		形影不离 [L2]
+zh:hskstory-hsk7:1792758604146	ok		彬彬有礼 [L2]
+zh:hskstory-hsk7:1792758604168	fixed	loai_danh_thap	徐徐 [L1] L1: 'từ từ' là từ Việt thông dụng, cùng nghĩa -> cung_dung
+zh:hskstory-hsk7:1792758604174	ok		得不偿失 [L2]
+zh:hskstory-hsk7:1792758604180	ok		得天独厚 [L2]
+zh:hskstory-hsk7:1792758604186	fixed	nghia_sai	得心应手 [L2] 'thuận buồm xuôi gió' là suôn sẻ, không phải thành thạo
+zh:hskstory-hsk7:1792758604188	ok		得意扬扬 [L2]
+zh:hskstory-hsk7:1792758604198	ok		循序渐进 [L2]
+zh:hskstory-hsk7:1792758604202	ok		微不足道 [L2]
+zh:hskstory-hsk7:1792758604218	ok		德才兼备 [L2]
+zh:hskstory-hsk7:1792758604224	ok		心安理得 [L2]
+zh:hskstory-hsk7:1792758604230	ok		心急如焚 [L2]
+zh:hskstory-hsk7:1792758604232	ok		心想事成 [L2]
+zh:hskstory-hsk7:1792758604238	ok		心灵手巧 [L2]
+zh:hskstory-hsk7:1792758604240	ok		心甘情愿 [L2]
+zh:hskstory-hsk7:1792758604254	ok		必不可少 [L2]
+zh:hskstory-hsk7:1792758604304	ok		念念不忘 [L2]
+zh:hskstory-hsk7:1792758604306	ok		忽冷忽热 [L2]
+zh:hskstory-hsk7:1792758604330	ok		怡然自得 [L2]
+zh:hskstory-hsk7:1792758604332	ok		急中生智 [L2]
+zh:hskstory-hsk7:1792758604336	fixed	pt_thieu_am	急于求成 [L2] cau_tao thiếu âm HV của 急于
+zh:hskstory-hsk7:1792758604342	ok		急功近利 [L2]
+zh:hskstory-hsk7:1792758604350	fixed	char_note_thieu	性命 [L6] L6: từ Việt đọc 'mạng'; giữ cung_dung, thêm char_note
+zh:hskstory-hsk7:1792758604372	ok		总而言之 [L2]
+zh:hskstory-hsk7:1792758604376	ok		恋恋不舍 [L2]
+zh:hskstory-hsk7:1792758604378	ok		恍然大悟 [L2]
+zh:hskstory-hsk7:1792758604388	fixed	nghia_lap_am	恒星 [L1] L1: 'hằng tinh' chỉ là thuật ngữ sách vở, người Việt nói 'ngôi sao' -> viết lại nghia_vi
+zh:hskstory-hsk7:1792758604404	ok		息息相关 [L2]
+zh:hskstory-hsk7:1792758604406	ok		恰到好处 [L2]
+zh:hskstory-hsk7:1792758604408	ok		恰如其分 [L2]
+zh:hskstory-hsk7:1792758604428	ok		恼羞成怒 [L2]
+zh:hskstory-hsk7:1792758604456	ok		情不自禁 [L2]
+zh:hskstory-hsk7:1792758604486	ok		惊天动地 [L5]
+zh:hskstory-hsk7:1792758604490	ok		惊心动魄 [L5]
+zh:hskstory-hsk7:1792758604494	ok		惊慌失措 [L2]
+zh:hskstory-hsk7:1792758604520	ok		想方设法 [L2]
+zh:hskstory-hsk7:1792758604524	ok		愁眉苦脸 [L2]
+zh:hskstory-hsk7:1792758604536	fixed	nghia_lap_am	意向 [L1] L1: 'ý hướng' rất hiếm trong tiếng Việt -> viết lại nghia_vi
+zh:hskstory-hsk7:1792758604544	ok		意想不到 [L2]
+zh:hskstory-hsk7:1792758604550	ok		愚公移山 [L2]
+zh:hskstory-hsk7:1792758604560	fixed	char_note_thieu	感恩 [L6] L6: 'cảm ơn' đọc 'ơn' (âm Việt hóa của ân); giữ khac_dung
+zh:hskstory-hsk7:1792758604584	fixed	char_note_thieu	慢性 [L6] L6: từ Việt đọc 'mãn' (mãn tính); giữ cung_dung
+zh:hskstory-hsk7:1792758604618	ok		成家立业 [L5]
+zh:hskstory-hsk7:1792758604624	ok		成群结队 [L2]
+zh:hskstory-hsk7:1792758604646	ok		截然不同 [L2]
+zh:hskstory-hsk7:1792758604652	ok		所作所为 [L2]
+zh:hskstory-hsk7:1792758604688	ok		扑面而来 [L2]
+zh:hskstory-hsk7:1792758604716	fixed	am_sai	打量 [L4] L4: 打量 dǎliang đọc LƯƠNG theo quyết định điều phối
+zh:hskstory-hsk7:1792758604724	ok		扣人心弦 [L2]
+zh:hskstory-hsk7:1792758604796	ok		抑扬顿挫 [L2]
+zh:hskstory-hsk7:1792758605020	ok		持之以恒 [L2]
+zh:hskstory-hsk7:1792758605088	ok		挨家挨户 [L2]
+zh:hskstory-hsk7:1792758605134	ok		损人利己 [L2]
+zh:hskstory-hsk7:1792758605190	ok		接二连三 [L2]
+zh:hskstory-hsk7:1792758605212	ok		推卸 [L4]
+zh:hskstory-hsk7:1792758605214	ok		推崇 [L4]
+zh:hskstory-hsk7:1792758605216	ok		推敲 [L4]
+zh:hskstory-hsk7:1792758605218	ok		推断 [L4]
+zh:hskstory-hsk7:1792758605220	ok		推理 [L4]
+zh:hskstory-hsk7:1792758605222	ok		推移 [L4]
+zh:hskstory-hsk7:1792758605224	fixed	nghia_sai	推算 [L4] 'suy tính' là cân nhắc, không phải tính ra
+zh:hskstory-hsk7:1792758605226	ok		推翻 [L4]
+zh:hskstory-hsk7:1792758605228	ok		推论 [L4]
+zh:hskstory-hsk7:1792758605230	ok		推辞 [L4]
+zh:hskstory-hsk7:1792758605232	ok		推选 [L4]
+zh:hskstory-hsk7:1792758605238	ok		掩耳盗铃 [L2]
+zh:hskstory-hsk7:1792758605242	ok		措手不及 [L2]
+zh:hskstory-hsk7:1792758605256	ok		提心吊胆 [L2]
+zh:hskstory-hsk7:1792758605278	ok		揠苗助长 [L2]
+zh:hskstory-hsk7:1792758605358	fixed	nghia_lap_am	摘要 [L1] L1: 'trích yếu' chỉ gặp trong văn bản hành chính -> viết lại nghia_vi
+zh:hskstory-hsk7:1792758605398	fixed	nghia_lap_am	操练 [L1] L1: 'thao luyện' cổ, hiện nay nói 'luyện tập, tập dượt' -> viết lại nghia_vi
+zh:hskstory-hsk7:1792758605454	ok		改邪归正 [L5]
+zh:hskstory-hsk7:1792758605500	ok		救死扶伤 [L2]
+zh:hskstory-hsk7:1792758605536	fixed	loai_danh_thap	敬而远之 [L2] L2: 'kính nhi viễn chi' quen trong tiếng Việt (báo chí, lời nói) -> cung_dung
+zh:hskstory-hsk7:1792758605542	ok		数一数二 [L2]
+zh:hskstory-hsk7:1792758605556	fixed	nghia_lap_am	整治 [L1] L1: 'chỉnh trị' Việt chỉ dùng trong 'chỉnh trị sông' -> viết lại nghia_vi
+zh:hskstory-hsk7:1792758605592	ok		斩钉截铁 [L2]
+zh:hskstory-hsk7:1792758605618	ok		新陈代谢 [L2]
+zh:hskstory-hsk7:1792758605650	ok		无价之宝 [L2]
+zh:hskstory-hsk7:1792758605654	ok		无关紧要 [L2]
+zh:hskstory-hsk7:1792758605658	ok		无动于衷 [L2]
+zh:hskstory-hsk7:1792758605660	ok		无可厚非 [L2]
+zh:hskstory-hsk7:1792758605662	ok		无可奈何 [L2]
+zh:hskstory-hsk7:1792758605664	ok		无家可归 [L2]
+zh:hskstory-hsk7:1792758605668	ok		无微不至 [L2]
+zh:hskstory-hsk7:1792758605670	ok		无忧无虑 [L2]
+zh:hskstory-hsk7:1792758605676	ok		无所事事 [L2]
+zh:hskstory-hsk7:1792758605678	ok		无所作为 [L2]
+zh:hskstory-hsk7:1792758605680	fixed	char_note_thieu	无故 [L6] L6: từ Việt đọc 'cớ' (vô cớ); giữ cung_dung
+zh:hskstory-hsk7:1792758605688	ok		无济于事 [L2]
+zh:hskstory-hsk7:1792758605698	ok		无精打采 [L2]
+zh:hskstory-hsk7:1792758605710	ok		无论如何 [L2]
+zh:hskstory-hsk7:1792758605712	ok		无话可说 [L2]
+zh:hskstory-hsk7:1792758605718	ok		无边无际 [L2]
+zh:hskstory-hsk7:1792758605724	ok		日复一日 [L2]
+zh:hskstory-hsk7:1792758605726	ok		日新月异 [L2]
+zh:hskstory-hsk7:1792758605734	ok		早年 [L5]
+zh:hskstory-hsk7:1792758605744	ok		时好时坏 [L2]
+zh:hskstory-hsk7:1792758605798	fixed	tu_viet_dao	显微镜 [L6] L6: tiếng Việt đảo thứ tự 'kính hiển vi' -> ghep_nghia
+zh:hskstory-hsk7:1792758605822	ok		晕头转向 [L2]
+zh:hskstory-hsk7:1792758605824	ok		晚年 [L5]
+zh:hskstory-hsk7:1792758605852	ok		暴风骤雨 [L2]
+zh:hskstory-hsk7:1792758605876	ok		有声有色 [L2]
+zh:hskstory-hsk7:1792758605888	fixed	pt_thieu_am	有条不紊 [L2] cau_tao thiếu âm HV của 有条
+zh:hskstory-hsk7:1792758605890	ok		有的放矢 [L2]
+zh:hskstory-hsk7:1792758605902	ok		朝三暮四 [L5]
+zh:hskstory-hsk7:1792758605904	ok		朝夕相处 [L2]
+zh:hskstory-hsk7:1792758605906	ok		朝气蓬勃 [L2]
+zh:hskstory-hsk7:1792758605922	ok		本事 [L4]
+zh:hskstory-hsk7:1792758605926	ok		本性 [L4]
+zh:hskstory-hsk7:1792758605932	ok		本色 [L4]
+zh:hskstory-hsk7:1792758605934	ok		本钱 [L4]
+zh:hskstory-hsk7:1792758605958	ok		杂乱无章 [L2]
+zh:hskstory-hsk7:1792758605976	ok		束手无策 [L5]
+zh:hskstory-hsk7:1792758606004	ok		来龙去脉 [L2]
+zh:hskstory-hsk7:1792758606020	fixed	nghia_lap_am	极限 [L1] L1: 'cực hạn' ít dùng, không chắc người Việt thường hiểu -> viết lại nghia_vi
+zh:hskstory-hsk7:1792758606126	ok		根深蒂固 [L5]
+zh:hskstory-hsk7:1792758606136	ok		格格不入 [L2]
+zh:hskstory-hsk7:1792758606160	ok		梦寐以求 [L2]
+zh:hskstory-hsk7:1792758606162	ok		梦幻 [L4]
+zh:hskstory-hsk7:1792758606224	ok		欢声笑语 [L2]
+zh:hskstory-hsk7:1792758606234	ok		欣欣向荣 [L2]
+zh:hskstory-hsk7:1792758606276	ok		此起彼伏 [L2]
+zh:hskstory-hsk7:1792758606388	ok		水涨船高 [L2]
+zh:hskstory-hsk7:1792758606392	ok		水滴石穿 [L2]
+zh:hskstory-hsk7:1792758606394	ok		水落石出 [L2]
+zh:hskstory-hsk7:1792758606404	ok		求同存异 [L2]
+zh:hskstory-hsk7:1792758606412	fixed	tu_viet_khac_chu	汇聚 [L6] L6: 'hội tụ' là 會聚 (chữ 會), 汇 không có âm hội -> ghep_nghia
+zh:hskstory-hsk7:1792758606418	fixed	tu_viet_dao	汗马功劳 [L5,L6] L5/L6: tiếng Việt đảo 'công lao hãn mã' -> ghep_nghia
+zh:hskstory-hsk7:1792758606464	ok		没完没了 [L2]
+zh:hskstory-hsk7:1792758606478	ok		沸沸扬扬 [L2]
+zh:hskstory-hsk7:1792758606486	fixed	am_sai	油腻 [L4] L4: 油腻 đọc NỊ theo quyết định điều phối
+zh:hskstory-hsk7:1792758606524	fixed	loai_danh_thap	法治 [L1] L1: 'pháp trị' là từ Việt có thật, cùng nghĩa -> cung_dung
+zh:hskstory-hsk7:1792758606766	fixed	char_note_thieu	渗透 [L6] L6: từ Việt đọc 'thẩm' (thẩm thấu); giữ cung_dung
+zh:hskstory-hsk7:1792758606832	ok		滔滔不绝 [L5]
+zh:hskstory-hsk7:1792758607198	ok		犹豫不决 [L5]
+zh:hskstory-hsk7:1792758607212	ok		独一无二 [L5]
+zh:hskstory-hsk7:1792758607290	ok		理所当然 [L5]
+zh:hskstory-hsk7:1792758607464	fixed	etym_khong_nguon	症结 [L4,L5] L4/L5: bỏ 'nghĩa gốc' trong nghia_vi
+zh:hskstory-hsk7:1792758607500	ok		百科全书 [L5]
+zh:hskstory-hsk7:1792758607506	ok		皆大欢喜 [L5]
+zh:hskstory-hsk7:1792758607572	ok		目中无人 [L5]
+zh:hskstory-hsk7:1792758607682	fixed	char_note_thieu	督促 [L6] L6: từ Việt đọc 'thúc' (đốc thúc); giữ cung_dung
+zh:hskstory-hsk7:1792758607682	policy	am_quy_uoc	督促: 促 có ứng viên 'thúc'; theo R1 mục 1.3 (lấy âm của từ Việt) có thể đổi ĐỐC THÚC. Không tự đổi (ngoài L4)
+zh:hskstory-hsk7:1792758607706	fixed	tu_viet_dao	知识分子 [L5] L5/L6: tiếng Việt đảo 'phần tử trí thức' -> ghep_nghia; char_note gộp 3 bản trùng
+zh:hskstory-hsk7:1792758607706	policy	am_quy_uoc	知识分子: char_note R1 ghi 'âm trí không có trong nguồn' nhưng item_hv của 知 có ứng viên 'trí'; điều phối xem lại câu ghi chú
+zh:hskstory-hsk7:1792758607710	ok		知足常乐 [L5]
+zh:hskstory-hsk7:1792758607804	ok		礼尚往来 [L5]
+zh:hskstory-hsk7:1792758607812	fixed	tu_viet_dao	社会主义 [L5,L6] L5/L6: tiếng Việt đảo 'chủ nghĩa xã hội' -> ghep_nghia
+zh:hskstory-hsk7:1792758607982	ok		突如其来 [L5]
+zh:hskstory-hsk7:1792758608038	ok		竭尽全力 [L2]
+zh:hskstory-hsk7:1792758608138	fixed	pt_thieu_am	粗心大意 [L2] goi_nho thiếu âm 大意, dễ lẫn với 'đại ý' Việt
+zh:hskstory-hsk7:1792758608162	fixed	loai_danh_thap	精巧 [L1] L1: 'tinh xảo' là từ Việt thông dụng, cùng nghĩa -> cung_dung
+zh:hskstory-hsk7:1792758608168	ok		精打细算 [L2]
+zh:hskstory-hsk7:1792758608174	ok		精疲力竭 [L2]
+zh:hskstory-hsk7:1792758608176	ok		精益求精 [L2]
+zh:hskstory-hsk7:1792758608204	ok		素不相识 [L2]
+zh:hskstory-hsk7:1792758608206	fixed	nghia_sai	素养 [L4] 'tố chất' là 素质 (phẩm chất bẩm sinh), không phải 素养
+zh:hskstory-hsk7:1792758608260	ok		约定俗成 [L2]
+zh:hskstory-hsk7:1792758608302	ok		纸上谈兵 [L2]
+zh:hskstory-hsk7:1792758608322	ok		细腻 [L4]
+zh:hskstory-hsk7:1792758608344	ok		经久不息 [L2]
+zh:hskstory-hsk7:1792758608372	ok		绘声绘色 [L2]
+zh:hskstory-hsk7:1792758608374	ok		络绎不绝 [L2]
+zh:hskstory-hsk7:1792758608454	fixed	char_note_thieu	缘故 [L6] L6: từ Việt đọc 'cớ' (duyên cớ); giữ cung_dung
+zh:hskstory-hsk7:1792758608508	ok		美中不足 [L2]
+zh:hskstory-hsk7:1792758608534	ok		翻天覆地 [L2]
+zh:hskstory-hsk7:1792758608538	ok		翻来覆去 [L2]
+zh:hskstory-hsk7:1792758608570	ok		耐人寻味 [L2]
+zh:hskstory-hsk7:1792758608588	ok		耳熟能详 [L2]
+zh:hskstory-hsk7:1792758608590	ok		耳目一新 [L2]
+zh:hskstory-hsk7:1792758608630	ok		聚精会神 [L2]
+zh:hskstory-hsk7:1792758608632	ok		肆无忌惮 [L2]
+zh:hskstory-hsk7:1792758608706	ok		胸有成竹 [L2]
+zh:hskstory-hsk7:1792758608718	fixed	etym_khong_nguon	脉络 [L4,L5] L4/L5: 'nghĩa gốc' -> 'nghĩa đen'; nghia_vi bỏ 'mạch lạc' (mâu thuẫn với khac_dung)
+zh:hskstory-hsk7:1792758608724	ok		脚踏实地 [L2]
+zh:hskstory-hsk7:1792758608726	ok		脱口而出 [L2]
+zh:hskstory-hsk7:1792758608736	ok		脱颖而出 [L2]
+zh:hskstory-hsk7:1792758608778	ok		自力更生 [L5]
+zh:hskstory-hsk7:1792758608790	ok		自始至终 [L2]
+zh:hskstory-hsk7:1792758608794	ok		自强不息 [L2]
+zh:hskstory-hsk7:1792758608802	ok		自然而然 [L5]
+zh:hskstory-hsk7:1792758608806	ok		自相矛盾 [L5]
+zh:hskstory-hsk7:1792758608832	fixed	char_note_thieu	致命 [L6] L6: từ Việt đọc 'chí mạng'; giữ cung_dung
+zh:hskstory-hsk7:1792758608926	ok		苦尽甘来 [L5]
+zh:hskstory-hsk7:1792758609020	ok		萍水相逢 [L5]
+zh:hskstory-hsk7:1792758609106	ok		虚幻 [L4]
+zh:hskstory-hsk7:1792758609140	ok		融资 [L4]
+zh:hskstory-hsk7:1792758609202	ok		袖手旁观 [L5]
+zh:hskstory-hsk7:1792758609232	fixed	char_note_thieu	裸体 [L6] L6: chuẩn hóa char_note thành 'từ Việt đọc lõa'
+zh:hskstory-hsk7:1792758609232	policy	am_quy_uoc	裸体: 裸 có ứng viên 'lõa' (hvpinyin) và từ Việt 'lõa thể' chứng thực; theo R1 mục 1.3/1.5 có thể đọc LÕA THỂ. Không tự đổi
+zh:hskstory-hsk7:1792758609250	fixed	loai_danh_thap	要领 [L1] L1: 'yếu lĩnh' (động tác, kỹ thuật) dùng phổ biến trong tiếng Việt -> cung_dung
+zh:hskstory-hsk7:1792758609252	ok		见义勇为 [L5]
+zh:hskstory-hsk7:1792758609256	ok		见利忘义 [L5]
+zh:hskstory-hsk7:1792758609260	ok		见多识广 [L5]
+zh:hskstory-hsk7:1792758609326	ok		触目惊心 [L5]
+zh:hskstory-hsk7:1792758609348	fixed	char_note_thieu	譬如 [L6] L6: 'ví như' đọc 'ví' (âm Việt hóa của thí); giữ cung_dung
+zh:hskstory-hsk7:1792758609398	fixed	nghia_lap_am	论述 [L1] L1: 'luận thuật' không dùng trong tiếng Việt -> viết lại nghia_vi
+zh:hskstory-hsk7:1792758609488	fixed	loai_danh_thap	请示 [L1] L1: 'thỉnh thị' (cấp trên) dùng trong văn bản và báo chí Việt, cùng nghĩa -> cung_dung
+zh:hskstory-hsk7:1792758609560	fixed	tu_viet_khac	豆子 [L6] L6: 'đậu' chỉ ứng với 豆, 子 là hậu tố -> yeu_to (như 房子, 瓶子)
+zh:hskstory-hsk7:1792758609640	fixed	char_note_thieu	资助 [L6] L6: từ Việt đọc 'tài' (tài trợ, như tài nguyên); giữ cung_dung
+zh:hskstory-hsk7:1792758609642	ok		资历 [L4]
+zh:hskstory-hsk7:1792758609644	fixed	tu_viet_dao	资本主义 [L5,L6] L5/L6: tiếng Việt đảo 'chủ nghĩa tư bản' -> ghep_nghia
+zh:hskstory-hsk7:1792758609646	ok		资深 [L4]
+zh:hskstory-hsk7:1792758609746	ok		足智多谋 [L5]
+zh:hskstory-hsk7:1792758609800	ok		身不由己 [L5]
+zh:hskstory-hsk7:1792758609840	fixed	tu_viet_khac_chu	软弱 [L6] L6: 'nhu nhược' là 柔弱 (chữ khác), nghĩa thiếu cương quyết -> ghep_nghia
+zh:hskstory-hsk7:1792758609856	ok		轻视 [L5]
+zh:hskstory-hsk7:1792758609920	ok		达标 [L1]
+zh:hskstory-hsk7:1792758609994	fixed	nghia_lap_am	远见 [L1] L1: 'viễn kiến' sách vở, không chắc người Việt thường dùng -> viết lại nghia_vi
+zh:hskstory-hsk7:1792758610402	ok		锦上添花 [L2]
+zh:hskstory-hsk7:1792758610406	ok		锲而不舍 [L2]
+zh:hskstory-hsk7:1792758610420	ok		长期以来 [L2]
+zh:hskstory-hsk7:1792758610462	ok		阅历 [L4]
+zh:hskstory-hsk7:1792758610576	ok		随处可见 [L2]
+zh:hskstory-hsk7:1792758610578	ok		随心所欲 [L2]
+zh:hskstory-hsk7:1792758610580	ok		随时随地 [L2]
+zh:hskstory-hsk7:1792758610610	ok		难以置信 [L2]
+zh:hskstory-hsk7:1792758610618	ok		难得一见 [L2]
+zh:hskstory-hsk7:1792758610622	ok		难能可贵 [L2]
+zh:hskstory-hsk7:1792758610658	ok		雪上加霜 [L2]
+zh:hskstory-hsk7:1792758610716	ok		面目全非 [L2]
+zh:hskstory-hsk7:1792758610718	ok		面红耳赤 [L2]
+zh:hskstory-hsk7:1792758610722	ok		面面俱到 [L2]
+zh:hskstory-hsk7:1792758610750	ok		顺其自然 [L2]
+zh:hskstory-hsk7:1792758610764	ok		顺理成章 [L2]
+zh:hskstory-hsk7:1792758610778	ok		顾全大局 [L2]
+zh:hskstory-hsk7:1792758610850	ok		颠倒黑白 [L2]
+zh:hskstory-hsk7:1792758610864	ok		风和日丽 [L2]
+zh:hskstory-hsk7:1792758610866	ok		风土人情 [L2]
+zh:hskstory-hsk7:1792758610900	ok		风雨无阻 [L2]
+zh:hskstory-hsk7:1792758610902	ok		风餐露宿 [L2]
+zh:hskstory-hsk7:1792758610912	ok		飞禽走兽 [L2]
+zh:hskstory-hsk7:1792758610928	ok		饱经沧桑 [L2]
+zh:hskstory-hsk7:1792758610988	ok		骇人听闻 [L2]
+zh:hskstory-hsk7:1792758611054	ok		鲜为人知 [L2]
+zh:hskstory-hsk7:1792758611072	ok		鸦雀无声 [L2]
+zh:hskstory-hsk7:1792758611078	ok		鹏程万里 [L2]
+zh:hskstory-hsk7:1792758611080	ok		鹤立鸡群 [L2]
+zh:hskstory-hsk7:1792758611082	fixed	tu_viet_khac	鹰 [L6] L6: 'ưng' không đứng riêng, chỉ có trong 'chim ưng' -> yeu_to
+zh:hskstory-hsk7:1792758611086	ok		麻 [L5]

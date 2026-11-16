@@ -1,0 +1,66 @@
+{
+  "notes": 366,
+  "sentence_field": "Target: line",
+  "audio_field": "Sound",
+  "translation_field": null,
+  "length": {
+    "n": 366,
+    "median": 6.0,
+    "p10": 2,
+    "p25": 3,
+    "p75": 9,
+    "p90": 12,
+    "min": 1,
+    "max": 15
+  },
+  "ge12": 39,
+  "ge20": 0,
+  "audio_present_notes": 366,
+  "audio_missing_notes": [],
+  "unique_referenced_files": 366,
+  "audio_seconds_unique": {
+    "n": 366,
+    "median": 5.28,
+    "p10": 4.296,
+    "p25": 4.608,
+    "p75": 5.904,
+    "p90": 6.576,
+    "min": 3.984,
+    "max": 8.208
+  },
+  "unparsed_durations": 0,
+  "nonempty_raw_fields": {
+    "Sound": 366,
+    "Time": 366,
+    "Source": 366,
+    "Image": 366,
+    "Target: line": 366,
+    "Base: line": 0,
+    "Target: line before": 365,
+    "Base: line before": 0,
+    "Target: line after": 365,
+    "Base: line after": 0,
+    "Hint": 0,
+    "Note": 0
+  },
+  "source_audio_prefixes": {},
+  "media_metadata_samples": {
+    "friends_s01e02_720p_bluray_x264-sujaidr_00001_377-00005_794.en.mp3": {
+      "duration": 4.464,
+      "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.29.100'])}",
+      "sample_rate": 48000
+    },
+    "friends_s01e02_720p_bluray_x264-sujaidr_00003_004-00009_048.en.mp3": {
+      "duration": 6.072,
+      "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.29.100'])}",
+      "sample_rate": 48000
+    },
+    "friends_s01e02_720p_bluray_x264-sujaidr_00006_424-00011_008.en.mp3": {
+      "duration": 4.608,
+      "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.29.100'])}",
+      "sample_rate": 48000
+    }
+  },
+  "context_before_nonempty": 365,
+  "context_after_nonempty": 365
+}

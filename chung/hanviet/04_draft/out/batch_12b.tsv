@@ -1,0 +1,351 @@
+note_key	hanviet	nghia_vi	loai	tu_viet	khac_biet	pt_kieu	pt_noi_dung	status	review_reason	char_note
+zh:hskstory-hsk7:1792758607252	=	ngọc (đá quý)	cung_dung	ngọc				draft		
+zh:hskstory-hsk7:1792758607254	=	vương quốc, nước do vua cai trị	cung_dung	vương quốc				draft		
+zh:hskstory-hsk7:1792758607256	=	triều đại (của một dòng vua)	cung_dung	vương triều				draft		
+zh:hskstory-hsk7:1792758607258	=	quân át chủ bài; người hoặc thứ mạnh nhất	ghep_nghia			cau_tao	王 vua + 牌 bài → lá bài mạnh nhất	draft		
+zh:hskstory-hsk7:1792758607260	=	đùa nghịch, chơi đùa với; cũng: coi như trò đùa, lợi dụng	ghep_nghia			cau_tao	玩 ngoạn (chơi) + 弄 lộng (mân mê) → nghịch, đùa bỡn	draft		
+zh:hskstory-hsk7:1792758607262	=	thứ, món, cái đồ (khẩu ngữ)	khong_giup					draft		
+zh:hskstory-hsk7:1792758607264	=	chơi đùa (như trẻ con)	ghep_nghia			cau_tao	玩 ngoạn (chơi, đùa) + 耍 (đùa bỡn) → vui chơi	draft		耍=sọa (đọc theo pinyin; TC còn ghi sái)
+zh:hskstory-hsk7:1792758607268	=	vòng quanh thế giới; toàn cầu	cung_dung	hoàn cầu		cau_tao	环 hoàn (vòng) + 球 cầu (quả cầu, địa cầu) → khắp địa cầu	draft		
+zh:hskstory-hsk7:1792758607270	=	bao quanh; xoay quanh	ghep_nghia			cau_tao	环 hoàn (vòng) + 绕 nhiễu (vòng quanh) → vây quanh	draft		
+zh:hskstory-hsk7:1792758607272	=	đương nhiệm, hiện đang giữ chức	ghep_nghia			cau_tao	现 hiện (hiện tại) + 任 nhiệm (chức vụ) → chức vụ hiện nay	draft		
+zh:hskstory-hsk7:1792758607274	=	có sẵn, làm sẵn	ghep_nghia			goi_nho	现 hiện (đang có sẵn) + 成 thành (xong) → đã xong sẵn	draft		
+zh:hskstory-hsk7:1792758607278	=	quý hiếm	ghep_nghia			cau_tao	珍 trân (quý báu) + 稀 hy (thưa, hiếm) → quý mà ít	draft		
+zh:hskstory-hsk7:1792758607280	=	cất giữ quý; bộ sưu tập quý	ghep_nghia			cau_tao	珍 trân (quý báu) + 藏 tàng (cất giấu) → cất giữ vật quý	draft		藏=tàng (cất giữ), không phải tạng
+zh:hskstory-hsk7:1792758607282	=	coi trọng, trân trọng	ghep_nghia			cau_tao	珍 trân (quý) + 视 thị (nhìn, xem) → xem là quý	draft		
+zh:hskstory-hsk7:1792758607284	=	trân trọng, quý trọng; cũng: (lời dặn) bảo trọng	khac_dung	trân trọng	Tiếng Trung còn dùng làm lời chia tay "bảo trọng"; tiếng Việt "trân trọng" thường là kính cẩn, coi trọng	cau_tao	珍 trân (quý) + 重 trọng (nặng, coi trọng) → quý trọng	draft		重 zhòng=trọng
+zh:hskstory-hsk7:1792758607286	=	thành viên hội đồng, ủy viên (hội đồng quản trị)	ghep_nghia			cau_tao	理 lý (xử lý) + 事 sự (việc) → người lo việc của tổ chức	draft		
+zh:hskstory-hsk7:1792758607288	=	hiểu, nắm được; cũng: để ý, đoái hoài	ghep_nghia			goi_nho	理 lý (lẽ) + 会 hội (hiểu, hội ý) → hiểu lẽ	draft		会 huì=hội (hội ý, lĩnh hội)
+zh:hskstory-hsk7:1792758607292	=	lý trí, sự sáng suốt biết suy xét	cung_dung	lý trí				draft		
+zh:hskstory-hsk7:1792758607294	=	có lý nên nói năng mạnh dạn, tự tin	ghep_nghia			goi_nho	理 lý lẽ + 直 thẳng + 气 khí + 壮 mạnh → lẽ thẳng, khí thế mạnh	draft		
+zh:hskstory-hsk7:1792758607296	=	để ý đến, đoái hoài (thường dùng ở phủ định)	khong_giup					draft		
+zh:hskstory-hsk7:1792758607298	=	nhỏ nhặt, vụn vặt	ghep_nghia			cau_tao	琐 tỏa (vụn vặt) + 碎 toái (vỡ vụn) → vụn vặt	draft		
+zh:hskstory-hsk7:1792758607304	=	vết nhỏ, khuyết điểm	cung_dung	hà tì		cau_tao	瑕 hà (vết ngọc) + 疵 tì (tật, bệnh) → vết lỗi nhỏ	draft		
+zh:hskstory-hsk7:1792758607306	=	tuyết rơi đúng lúc, điềm lành	ghep_nghia			cau_tao	瑞 thụy (điềm lành) + 雪 tuyết → tuyết báo điềm lành	draft		
+zh:hskstory-hsk7:1792758607308	=	báu vật, vật quý hiếm	ghep_nghia			cau_tao	瑰 khôi (ngọc đẹp) + 宝 bảo (báu) → báu vật	draft		
+zh:hskstory-hsk7:1792758607310	=	sáng rực, rực rỡ	ghep_nghia			cau_tao	璀 thôi + 璨 xán, đều chỉ ánh sáng của ngọc → sáng rực rỡ	draft		
+zh:hskstory-hsk7:1792758607312	=	chia cắt, xâu xé (như chia quả dưa)	ghep_nghia			goi_nho	瓜 dưa + 分 chia → chia xẻ như xẻ dưa	draft		
+zh:hskstory-hsk7:1792758607316	=	ngói lợp; cũng: oát (đơn vị công suất)	yeu_to		'ngõa' đứng riêng không phải từ Việt thông dụng; từ thuần Việt tương ứng là 'ngói'	goi_nho	như trong ngõa giải; Việt thuần: ngói	draft		
+zh:hskstory-hsk7:1792758607318	=	sụp đổ, tan rã	cung_dung	ngõa giải		goi_nho	瓦 ngói + 解 giải (tháo ra) → vỡ vụn như mái ngói tan	draft		
+zh:hskstory-hsk7:1792758607320	=	cổ chai; nghĩa bóng: nút thắt cổ chai	ghep_nghia			cau_tao	瓶 bình (chai, lọ) + 颈 cảnh (cổ) → cổ chai	draft		
+zh:hskstory-hsk7:1792758607322	=	cam lòng, bằng lòng (hay dùng ở phủ định: không cam lòng)	cung_dung	cam tâm		cau_tao	甘 cam (ngọt, vui lòng) + 心 tâm (lòng) → cam lòng	draft		
+zh:hskstory-hsk7:1792758607324	=	ngọt ngào, dễ nghe	ghep_nghia			cau_tao	甜 điềm (ngọt) + 美 mỹ (đẹp) → ngọt và đẹp	draft		
+zh:hskstory-hsk7:1792758607326	=	ngọt ngào, hạnh phúc	ghep_nghia			cau_tao	甜 điềm (ngọt) + 蜜 mật (mật ong) → ngọt như mật	draft		
+zh:hskstory-hsk7:1792758607328	=	dây chuyền sản xuất	ghep_nghia			cau_tao	生产 sinh sản (làm ra) + 线 tuyến (đường, dây) → tuyến sản xuất	draft		
+zh:hskstory-hsk7:1792758607330	=	khi còn sống (nói về người đã mất)	ghep_nghia			cau_tao	生 sinh (sống) + 前 tiền (trước) → lúc còn sống	draft		
+zh:hskstory-hsk7:1792758607332	=	huyết mạch, đường sống còn	ghep_nghia			cau_tao	生命 sinh mệnh (sự sống) + 线 tuyến (đường) → tuyến sống còn	draft		
+zh:hskstory-hsk7:1792758607334	=	cuộc đời, cả cuộc đời	ghep_nghia			goi_nho	生 sinh + 平 bình → cả đời (gần với "bình sinh")	draft		
+zh:hskstory-hsk7:1792758607336	=	chỉ sợ, sợ rằng (điều không mong muốn xảy ra)	khong_giup					draft		
+zh:hskstory-hsk7:1792758607338	=	có hiệu lực, bắt đầu có hiệu lực	ghep_nghia			cau_tao	生 sinh (phát sinh) + 效 hiệu (hiệu lực) → phát sinh hiệu lực	draft		
+zh:hskstory-hsk7:1792758607340	=	cơ hội sống, hy vọng; cũng: sức sống	ghep_nghia			cau_tao	生 sinh (sống) + 机 cơ (cơ hội, then chốt) → cơ hội sống	draft		机=cơ (機, cơ hội/then máy); không phải ki
+zh:hskstory-hsk7:1792758607342	=	sống chết	cung_dung	sinh tử				draft		
+zh:hskstory-hsk7:1792758607344	=	sự nghiệp, quãng đời làm nghề	khac_dung	sinh nhai	Tiếng Trung chỉ quãng đời hoặc sự nghiệp nghề nghiệp; tiếng Việt "sinh nhai" thường là kế kiếm sống			draft		
+zh:hskstory-hsk7:1792758607346	=	sinh lý	cung_dung	sinh lý				draft		
+zh:hskstory-hsk7:1792758607350	=	cứng nhắc, gượng gạo (thiếu tự nhiên)	ghep_nghia			cau_tao	生 sinh (sống, còn sống sượng) + 硬 ngạnh (cứng) → cứng nhắc, sượng	draft		
+zh:hskstory-hsk7:1792758607352	=	sinh con, sinh đẻ; cũng: khả năng sinh sản	ghep_nghia			cau_tao	生 sinh (sinh ra) + 育 dục (nuôi lớn) → sinh và nuôi con	draft		
+zh:hskstory-hsk7:1792758607354	=	dụng ý, ý định	cung_dung	dụng ý				draft		
+zh:hskstory-hsk7:1792758607356	=	vung, quăng, ném; cũng: bỏ rơi (ai đó)	khong_giup					draft		
+zh:hskstory-hsk7:1792758607358	=	ruộng vườn, vùng quê	cung_dung	điền viên		cau_tao	田 điền (ruộng) + 园 viên (vườn) → ruộng vườn	draft		
+zh:hskstory-hsk7:1792758607360	=	cánh đồng, đồng nội	khac_dung	điền dã	Tiếng Trung chỉ cánh đồng, đồng nội; tiếng Việt "điền dã" thường dùng trong "đi điền dã" (khảo sát thực địa)	cau_tao	田 điền (ruộng) + 野 dã (đồng) → đồng ruộng	draft		
+zh:hskstory-hsk7:1792758607362	=	ngoài đồng, giữa ruộng	ghep_nghia			cau_tao	田 điền (ruộng) + 间 gian (khoảng giữa) → giữa ruộng	draft		
+zh:hskstory-hsk7:1792758607364	=	chân thành, từ đáy lòng	ghep_nghia					draft		
+zh:hskstory-hsk7:1792758607366	=	xin đăng cai, nộp đơn xin tổ chức	ghep_nghia			goi_nho	申 thân (trình bày, xin) + 办 biện (làm, lo liệu) → xin được tổ chức	draft		办=biện (xử lý, lo liệu)
+zh:hskstory-hsk7:1792758607368	=	khai báo, kê khai với cơ quan chức năng	ghep_nghia			goi_nho	申 thân (trình bày) + 报 báo → trình báo	draft		
+zh:hskstory-hsk7:1792758607370	=	khiếu nại, kháng cáo	ghep_nghia			goi_nho	申 thân (trình bày) + 诉 tố → trình bày nỗi oan lên trên	draft		
+zh:hskstory-hsk7:1792758607372	=	đăng ký xin cấp, làm đơn xin nhận (giấy tờ)	ghep_nghia			goi_nho	申 thân (xin) + 领 lãnh (nhận, như lãnh lương)	draft		
+zh:hskstory-hsk7:1792758607374	=	viễn thông	khac_dung	điện tín	Tiếng Trung chỉ viễn thông nói chung; tiếng Việt "điện tín" chủ yếu là điện báo (telegram)			draft		
+zh:hskstory-hsk7:1792758607376	=	đài phát thanh; máy điện đài (thu phát vô tuyến)	khac_dung	điện đài	Tiếng Trung chủ yếu là đài phát thanh hoặc máy thu phát; tiếng Việt "điện đài" thường chỉ thiết bị vô tuyến, liên lạc			draft		
+zh:hskstory-hsk7:1792758607378	=	dây điện	ghep_nghia			cau_tao	电 điện + 线 tuyến (dây) → dây điện	draft		
+zh:hskstory-hsk7:1792758607380	=	lưới điện	ghep_nghia			cau_tao	电 điện + 网 võng (lưới) → lưới điện	draft		
+zh:hskstory-hsk7:1792758607382	=	viễn thông; tin tức truyền bằng điện	ghep_nghia			goi_nho	电 điện + 讯 tấn (tin, hỏi tin) → tin truyền bằng điện	draft		
+zh:hskstory-hsk7:1792758607384	=	bên nhà trai, phía chú rể	ghep_nghia			cau_tao	男 nam (con trai) + 方 phương (phía, bên) → bên nam	draft		
+zh:hskstory-hsk7:1792758607392	=	nói chuyện thoải mái, cởi mở	ghep_nghia			cau_tao	畅 sướng (thông suốt, thoải mái) + 谈 đàm (bàn, nói chuyện) → trò chuyện thoải mái	draft		
+zh:hskstory-hsk7:1792758607394	=	ranh giới, biên giới; cũng: giới (lĩnh vực)	yeu_to			goi_nho	như thế giới, biên giới, giới hạn	draft		
+zh:hskstory-hsk7:1792758607396	=	xác định rõ phạm vi, phân định	ghep_nghia			cau_tao	界 giới (ranh giới) + 定 định (định) → định rõ ranh giới	draft		
+zh:hskstory-hsk7:1792758607398	=	đường ranh giới, giới tuyến	cung_dung	giới tuyến				draft		
+zh:hskstory-hsk7:1792758607400	=	ranh giới (giữa hai phạm vi)	khac_dung	giới hạn	Tiếng Trung chủ yếu chỉ ranh giới phân chia hai phạm vi; tiếng Việt "giới hạn" thiên về mức tối đa không vượt qua	cau_tao	界 giới (ranh giới) + 限 hạn (mức hạn định) → ranh giới	draft		
+zh:hskstory-hsk7:1792758607402	=	sợ hãi, e sợ	ghep_nghia			cau_tao	畏 úy (sợ) + 惧 cụ (sợ hãi) → sợ hãi	draft		
+zh:hskstory-hsk7:1792758607404	=	rụt lại vì sợ, chùn bước	ghep_nghia			cau_tao	畏 úy (sợ) + 缩 súc (co lại, rụt) → sợ mà co rụt	draft		缩=súc (rút lại); 縮 còn nghĩa "thẳng" trong TC nhưng không dùng ở đây
+zh:hskstory-hsk7:1792758607406	=	để ý, chú ý, cẩn thận	cung_dung	lưu tâm		cau_tao	留 lưu (giữ lại) + 心 tâm (lòng) → để tâm	draft		
+zh:hskstory-hsk7:1792758607408	=	giữ làm kỷ niệm	cung_dung	lưu niệm				draft		
+zh:hskstory-hsk7:1792758607410	=	lưu luyến, quyến luyến không muốn rời	cung_dung	lưu luyến				draft		
+zh:hskstory-hsk7:1792758607412	=	chú ý, để ý	cung_dung	lưu ý				draft		
+zh:hskstory-hsk7:1792758607414	=	để ý, cẩn thận	ghep_nghia			goi_nho	留 lưu (giữ) + 神 thần (tinh thần) → giữ tinh thần để ý	draft		
+zh:hskstory-hsk7:1792758607416	SÚC MỤC	chăn nuôi gia súc	ghep_nghia			cau_tao	畜 súc (súc vật) + 牧 mục (chăn) → chăn nuôi gia súc	draft		畜=súc (gia súc, súc vật; xù); hv_pre là húc
+zh:hskstory-hsk7:1792758607420	=	hơi, một chút	ghep_nghia			goi_nho	略 lược (sơ qua) + 微 vi (nhỏ) → chỉ chút ít	draft		
+zh:hskstory-hsk7:1792758607422	=	dị dạng, biến dạng; cũng: lệch lạc, không cân đối	ghep_nghia			cau_tao	畸 ky (lệch, lẻ) + 形 hình (hình thể) → hình thể lệch	draft		
+zh:hskstory-hsk7:1792758607434	=	điểm đáng ngờ	ghep_nghia			cau_tao	疑 nghi (ngờ) + 点 điểm → điểm đáng nghi	draft		
+zh:hskstory-hsk7:1792758607436	=	nghi ngại, băn khoăn	ghep_nghia			cau_tao	疑 nghi (ngờ) + 虑 lự (lo nghĩ) → ngờ vực và lo nghĩ	draft		
+zh:hskstory-hsk7:1792758607438	=	nghỉ dưỡng chữa bệnh, dưỡng bệnh	ghep_nghia			cau_tao	疗 liệu (chữa bệnh) + 养 dưỡng (nuôi) → chữa và dưỡng sức	draft		
+zh:hskstory-hsk7:1792758607440	=	hiệu quả điều trị	ghep_nghia			cau_tao	疗 liệu (chữa bệnh) + 效 hiệu (hiệu quả) → hiệu quả chữa bệnh	draft		
+zh:hskstory-hsk7:1792758607442	=	liệu pháp, phương pháp điều trị	cung_dung	liệu pháp		cau_tao	疗 liệu (chữa bệnh) + 法 pháp (phép) → phép chữa	draft		
+zh:hskstory-hsk7:1792758607444	=	cục, mụn, nốt sưng; cũng: nút thắt trong lòng	khong_giup					draft		
+zh:hskstory-hsk7:1792758607446	=	sẹo, vết sẹo	khong_giup					draft		
+zh:hskstory-hsk7:1792758607448	=	vắc-xin	ghep_nghia			goi_nho	疫 dịch (bệnh dịch) + 苗 miêu (mầm non) → mầm ngừa dịch	draft		
+zh:hskstory-hsk7:1792758607450	=	điên, khùng; cũng: quá khích, mất kiểm soát	khong_giup					draft		
+zh:hskstory-hsk7:1792758607452	=	người điên, kẻ điên	ghep_nghia			goi_nho	疯 phong (điên) + 子 tử (hậu tố chỉ người) → người điên	draft		
+zh:hskstory-hsk7:1792758607454	=	mệt mỏi, uể oải	ghep_nghia			cau_tao	疲 bì (mỏi mệt) + 倦 quyện (mỏi mệt) → mệt mỏi	draft		
+zh:hskstory-hsk7:1792758607456	=	kiệt sức, mệt rã rời	ghep_nghia			cau_tao	疲 bì (mỏi mệt) + 惫 bại (mệt quá) → mệt rã rời	draft		惫=bại (mệt mỏi)
+zh:hskstory-hsk7:1792758607458	=	thương yêu hết mực	ghep_nghia			goi_nho	疼 đông (đau, xót) + 爱 ái (yêu) → yêu đến xót lòng	draft		
+zh:hskstory-hsk7:1792758607460	=	bệnh án, hồ sơ bệnh	ghep_nghia			goi_nho	病 bệnh + 历 lịch (trải qua) → ghi lại quá trình bệnh	draft		
+zh:hskstory-hsk7:1792758607462	=	bệnh, chứng bệnh	ghep_nghia			cau_tao	病 bệnh (ốm) + 症 chứng (chứng bệnh) → chứng bệnh	draft		
+zh:hskstory-hsk7:1792758607464	=	mấu chốt của vấn đề; nghĩa gốc: khối cứng trong bụng	ghep_nghia			goi_nho	癥 trưng (khối rắn trong bụng) + 结 kết (thắt) → chỗ nghẽn, mấu chốt	draft		症=癥 trưng (zhēng, khối rắn); không phải 症 chứng zhèng
+zh:hskstory-hsk7:1792758607466	=	đau lòng, xót xa	ghep_nghia			cau_tao	痛 thống (đau xót) + 心 tâm (lòng) → đau lòng	draft		
+zh:hskstory-hsk7:1792758607468	=	đờm	khong_giup					draft		
+zh:hskstory-hsk7:1792758607472	=	lòng si mê, say đắm mù quáng	ghep_nghia			cau_tao	痴 si (si mê) + 心 tâm (lòng) → lòng si mê	draft		
+zh:hskstory-hsk7:1792758607474	=	si mê, say mê đến bị cuốn hút	cung_dung	si mê				draft		
+zh:hskstory-hsk7:1792758607476	=	bệnh dịch lớn, ôn dịch	cung_dung	ôn dịch		cau_tao	瘟 ôn (bệnh truyền nhiễm) + 疫 dịch (bệnh dịch) → dịch bệnh	draft		
+zh:hskstory-hsk7:1792758607478	=	liệt, mất khả năng cử động	khong_giup					draft		
+zh:hskstory-hsk7:1792758607480	=	bị liệt; nghĩa bóng: tê liệt, ngưng trệ	ghep_nghia			cau_tao	瘫 than + 痪 hoán, cùng chỉ tay chân tê liệt → liệt	draft		
+zh:hskstory-hsk7:1792758607482	=	què, đi khập khiễng	khong_giup					draft		
+zh:hskstory-hsk7:1792758607484	=	nghiện, cơn nghiện	khong_giup					draft		
+zh:hskstory-hsk7:1792758607486	=	ung thư	khong_giup					draft		
+zh:hskstory-hsk7:1792758607488	=	bệnh ung thư	ghep_nghia			cau_tao	癌 ngai (ung thư) + 症 chứng (bệnh) → bệnh ung thư	draft		
+zh:hskstory-hsk7:1792758607490	=	lên sân khấu, ra mắt, xuất hiện	ghep_nghia			cau_tao	登 đăng (lên) + 场 trường (sân khấu, nơi diễn) → lên sân	draft		
+zh:hskstory-hsk7:1792758607492	=	đổ bộ, lên bờ	ghep_nghia			cau_tao	登 đăng (lên) + 陆 lục (đất liền) → lên đất liền	draft		
+zh:hskstory-hsk7:1792758607494	=	lên tới đỉnh	ghep_nghia			cau_tao	登 đăng (lên) + 顶 đỉnh (chóp, đỉnh) → lên đỉnh	draft		
+zh:hskstory-hsk7:1792758607500	=	bách khoa toàn thư	cung_dung	bách khoa toàn thư				draft		
+zh:hskstory-hsk7:1792758607502	=	trăm phương nghìn kế, đủ mọi cách	ghep_nghia			goi_nho	百 bách (trăm) + 般 ban (kiểu, loại) → trăm kiểu cách	draft		般=ban (kiểu, loại; như "nhất ban")
+zh:hskstory-hsk7:1792758607504	=	đều, tất cả	yeu_to			goi_nho	như trong "giai đại hoan hỷ"	draft		
+zh:hskstory-hsk7:1792758607506	=	mọi người đều vui vẻ, hài lòng	cung_dung	giai đại hoan hỷ		cau_tao	皆 giai (đều) + 大 đại (lớn) + 欢喜 hoan hỷ (vui mừng) → ai nấy đều vui	draft		
+zh:hskstory-hsk7:1792758607510	=	hoàng hậu	cung_dung	hoàng hậu				draft		
+zh:hskstory-hsk7:1792758607512	=	hoàng gia, hoàng tộc	cung_dung	hoàng thất				draft		
+zh:hskstory-hsk7:1792758607514	=	hoàng cung	cung_dung	hoàng cung				draft		
+zh:hskstory-hsk7:1792758607516	=	da thuộc	ghep_nghia			cau_tao	皮 bì (da) + 革 cách (da đã bỏ lông, thuộc) → da thuộc	draft		
+zh:hskstory-hsk7:1792758607518	=	nhăn, nhàu	khong_giup					draft		
+zh:hskstory-hsk7:1792758607520	=	nếp nhăn	ghep_nghia			cau_tao	皱 trứu (nhăn) + 纹 văn (vân, đường vằn) → vân nhăn	draft		
+zh:hskstory-hsk7:1792758607522	=	lòng chảo, chỗ trũng (địa lý)	cung_dung	bồn địa		cau_tao	盆 bồn (chậu) + 地 địa (đất) → vùng đất như cái chậu	draft		
+zh:hskstory-hsk7:1792758607524	=	lợi nhuận; kiếm lời	cung_dung	doanh lợi		cau_tao	盈 doanh (đầy) + 利 lợi → lợi thu đầy	draft		
+zh:hskstory-hsk7:1792758607526	=	lượng từ cho đèn; cũng: chén nhỏ	hu_tu					draft		
+zh:hskstory-hsk7:1792758607540	=	ăn trộm, ăn cắp; kẻ trộm	yeu_to		"đạo" đứng riêng trong tiếng Việt chủ yếu là "đạo" (lẽ, tôn giáo), không phải ăn trộm	goi_nho	như đạo tặc, đạo văn	draft		
+zh:hskstory-hsk7:1792758607542	=	bản lậu, hàng lậu (vi phạm bản quyền)	ghep_nghia			cau_tao	盗 đạo (trộm) + 版 bản (bản in) → bản ăn cắp	draft		
+zh:hskstory-hsk7:1792758607544	=	ăn trộm, trộm cắp	ghep_nghia			cau_tao	盗 đạo (trộm) + 窃 thiết (ăn cắp) → trộm cắp	draft		
+zh:hskstory-hsk7:1792758607546	=	lượn vòng, bay lượn xoắn ốc	ghep_nghia			cau_tao	盘 bàn (vòng, quanh) + 旋 hoàn (xoay, quay lại) → lượn vòng	draft		旋=hoàn (như khải hoàn); còn đọc tuyền/toàn
+zh:hskstory-hsk7:1792758607548	=	tính toán, cân nhắc kỹ trong lòng	ghep_nghia			cau_tao	盘 bàn (cân nhắc, xoay quanh) + 算 toán (tính) → tính toán	draft		
+zh:hskstory-hsk7:1792758607550	=	sản xuất nhiều, có nhiều (sản vật)	ghep_nghia			cau_tao	盛 thịnh (đầy đủ, dồi dào) + 产 sản (sinh ra, sản vật) → sản vật dồi dào	draft		
+zh:hskstory-hsk7:1792758607552	=	sự kiện lớn, buổi hội long trọng	ghep_nghia			cau_tao	盛 thịnh (lớn, đông đúc) + 会 hội (hội họp) → cuộc hội lớn	draft		
+zh:hskstory-hsk7:1792758607554	=	giữa mùa hè, lúc hè nóng nhất	ghep_nghia			cau_tao	盛 thịnh (cực thịnh) + 夏 hạ (mùa hè) → hè đang cao điểm	draft		
+zh:hskstory-hsk7:1792758607556	=	long trọng, hoành tráng	ghep_nghia			cau_tao	盛 thịnh (thịnh, đông đủ) + 大 đại (lớn) → lớn và thịnh	draft		
+zh:hskstory-hsk7:1792758607558	=	yến tiệc linh đình	ghep_nghia			cau_tao	盛 thịnh (thịnh soạn) + 宴 yến (tiệc) → tiệc lớn	draft		
+zh:hskstory-hsk7:1792758607560	=	nở rộ	ghep_nghia			cau_tao	盛 thịnh (đầy đủ) + 开 khai (mở, nở) → nở rộ	draft		
+zh:hskstory-hsk7:1792758607562	=	tấm lòng hiếu khách nồng hậu	cung_dung	thịnh tình		cau_tao	盛 thịnh (nồng hậu) + 情 tình (tình cảm) → tình cảm nồng hậu	draft		
+zh:hskstory-hsk7:1792758607564	=	hống hách, ngạo mạn, lấn át người khác	ghep_nghia			goi_nho	盛气 khí thế thịnh + 凌人 lăng (lấn lướt) người → khí thế áp đảo người	draft		凌=lăng (lấn át)
+zh:hskstory-hsk7:1792758607568	=	đồng minh	cung_dung	minh hữu		cau_tao	盟 minh (thề, liên minh) + 友 hữu (bạn) → bạn đồng minh	draft		
+zh:hskstory-hsk7:1792758607570	=	nhìn chăm chú không rời mắt	ghep_nghia			goi_nho	目 mục (mắt) + 不转睛 bất chuyển tình → mắt không xoay con ngươi	draft		转=chuyển (xoay, quay)
+zh:hskstory-hsk7:1792758607572	=	kiêu ngạo, coi thường mọi người	cung_dung	mục trung vô nhân		cau_tao	目 mục (mắt) + 中 trung (trong) + 无 vô (không) + 人 nhân (người) → trong mắt không có ai	draft		
+zh:hskstory-hsk7:1792758607574	=	chứng kiến tận mắt	ghep_nghia			cau_tao	目 mục (mắt) + 睹 đổ (thấy) → tận mắt thấy	draft		
+zh:hskstory-hsk7:1792758607578	=	nhìn chằm chằm, dán mắt vào	khong_giup					draft		
+zh:hskstory-hsk7:1792758607580	=	mù quáng, thiếu suy xét	ghep_nghia			cau_tao	盲 manh (mù) + 目 mục (mắt) → mắt mù	draft		
+zh:hskstory-hsk7:1792758607582	=	máy bay trực thăng	ghep_nghia			cau_tao	直 trực (thẳng) + 升 thăng (lên) + 机 cơ (máy) → máy bay lên thẳng	draft		机=cơ (máy móc, 機)
+zh:hskstory-hsk7:1792758607584	=	đường kính	ghep_nghia			goi_nho	直 trực (thẳng) + 径 kính (như đường kính, bán kính) → đường thẳng qua tâm	draft		
+zh:hskstory-hsk7:1792758607586	=	đường thẳng; cũng: (tăng/giảm) mạnh	khac_dung	trực tuyến	Tiếng Trung 直线 là đường thẳng; "trực tuyến" trong tiếng Việt thường nghĩa là online	cau_tao	直 trực (thẳng) + 线 tuyến (đường, dây) → đường thẳng	draft		
+zh:hskstory-hsk7:1792758607588	=	mãi cho đến, tới tận	ghep_nghia			cau_tao	直 trực (thẳng một mạch) + 至 chí (đến) → thẳng cho đến	draft		
+zh:hskstory-hsk7:1792758607590	=	trực quan, nhìn là hiểu ngay	cung_dung	trực quan				draft		
+zh:hskstory-hsk7:1792758607592	=	nhìn thẳng vào	ghep_nghia			cau_tao	直 trực (thẳng) + 视 thị (nhìn) → nhìn thẳng	draft		
+zh:hskstory-hsk7:1792758607594	=	trực giác	cung_dung	trực giác				draft		觉=giác (cảm giác, giác quan; jué)
+zh:hskstory-hsk7:1792758607596	=	thành phố trực thuộc trung ương (Trung Quốc)	ghep_nghia			goi_nho	直 trực (trực tiếp) + 辖 hạt (quản, như quản hạt) + 市 thị (thành phố)	draft		
+zh:hskstory-hsk7:1792758607598	=	đi thẳng tới nơi, không cần đổi chuyến	ghep_nghia			cau_tao	直 trực (thẳng) + 达 đạt (đến) → đến thẳng	draft		
+zh:hskstory-hsk7:1792758607600	=	đồng hành, bầu bạn	ghep_nghia			cau_tao	相 tương (cùng nhau) + 伴 bạn (bạn đồng hành) → cùng làm bạn	draft		
+zh:hskstory-hsk7:1792758607602	=	đánh đồng, đặt ngang hàng (thường dùng ở phủ định)	ghep_nghia			goi_nho	相提 cùng đem ra + 并论 tịnh luận (bàn chung) → đặt chung mà bàn	draft		
+zh:hskstory-hsk7:1792758607604	=	hẹn nhau	ghep_nghia			cau_tao	相 tương (cùng nhau) + 约 ước (hẹn) → cùng hẹn	draft		
+zh:hskstory-hsk7:1792758607606	=	nối tiếp nhau, lần lượt	ghep_nghia			cau_tao	相 tương (cùng) + 继 kế (nối tiếp) → nối nhau	draft		
+zh:hskstory-hsk7:1792758607608	=	quen nhau, làm quen	ghep_nghia			cau_tao	相 tương (cùng nhau) + 识 thức (biết) → biết nhau	draft		
+zh:hskstory-hsk7:1792758607610	=	diện mạo, vẻ ngoài	cung_dung	tướng mạo		cau_tao	相 tướng (hình dáng) + 貌 mạo (dáng mặt) → vẻ ngoài	draft		
+zh:hskstory-hsk7:1792758607612	=	bổ trợ cho nhau, cùng nhau làm nên	ghep_nghia			cau_tao	相 tương (lẫn nhau) + 辅 phụ (giúp) + 相 tương + 成 thành (nên) → giúp nhau mà thành	draft		
+zh:hskstory-hsk7:1792758607614	=	gần giống nhau, xấp xỉ	ghep_nghia			cau_tao	相 tương (cùng nhau) + 近 cận (gần) → gần nhau	draft		
+zh:hskstory-hsk7:1792758607616	=	thông với nhau, liên thông	ghep_nghia			cau_tao	相 tương (cùng nhau) + 通 thông (thông suốt) → thông nhau	draft		
+zh:hskstory-hsk7:1792758607618	=	gặp nhau, gặp gỡ	ghep_nghia			cau_tao	相 tương (cùng nhau) + 遇 ngộ (gặp) → gặp nhau	draft		
+zh:hskstory-hsk7:1792758607620	=	mong mỏi, trông chờ	khong_giup					draft		
+zh:hskstory-hsk7:1792758607622	=	đỡ phiền, đỡ tốn công	ghep_nghia			goi_nho	省 tỉnh (bớt, như tỉnh lược) + 事 sự (việc) → bớt việc	draft		
+zh:hskstory-hsk7:1792758607624	=	lược bỏ, bỏ bớt	cung_dung	tỉnh lược		cau_tao	省 tỉnh (bớt) + 略 lược (giản lược) → bỏ bớt	draft		
+zh:hskstory-hsk7:1792758607626	=	mặt mày rạng rỡ, cười tươi	ghep_nghia			cau_tao	眉 mi (lông mày) + 开 khai (mở) + 眼 nhãn (mắt) + 笑 tiếu (cười) → mày giãn, mắt cười	draft		
+zh:hskstory-hsk7:1792758607628	=	khán đài	cung_dung	khán đài				draft		
+zh:hskstory-hsk7:1792758607630	=	canh gác, trông giữ	ghep_nghia			cau_tao	看 khán (coi, trông) + 守 thủ (giữ) → trông giữ	draft		看 kān=khán (coi giữ)
+zh:hskstory-hsk7:1792758607632	=	chăm sóc, trông nom (người bệnh)	ghep_nghia			cau_tao	看 khán (trông) + 护 hộ (che chở) → trông nom chăm sóc	draft		看 kān=khán (coi giữ)
+zh:hskstory-hsk7:1792758607634	=	trông coi, canh giữ	ghep_nghia			cau_tao	看 khán (coi, trông) + 管 quản (quản lý) → trông coi	draft		看 kān=khán (coi giữ)
+zh:hskstory-hsk7:1792758607636	=	lòng thành, chân thành	cung_dung	chân tâm		cau_tao	真 chân (thật) + 心 tâm (lòng) → lòng thật	draft		
+zh:hskstory-hsk7:1792758607638	=	sự thật, tình hình thật; cũng: tình cảm chân thật	khac_dung	chân tình	Tiếng Trung 真情 trong câu là "sự thật, tình hình thực"; tiếng Việt "chân tình" thường nói về tình cảm chân thành	cau_tao	真 chân (thật) + 情 tình (tình, tình hình) → điều thật	draft		
+zh:hskstory-hsk7:1792758607640	=	chân thành tha thiết	ghep_nghia			goi_nho	真 chân (thật) + 挚 chí (thành khẩn) → thật lòng tha thiết	draft		
+zh:hskstory-hsk7:1792758607642	=	thật là, quả thật (cũng dùng khi bực, chê trách)	ghep_nghia			cau_tao	真 chân (thật) + 是 thị (là) → thật là	draft		
+zh:hskstory-hsk7:1792758607644	=	chân lý	cung_dung	chân lý				draft		
+zh:hskstory-hsk7:1792758607646	=	chân không	cung_dung	chân không		cau_tao	真 chân (thật) + 空 không (rỗng) → trống rỗng thật sự	draft		
+zh:hskstory-hsk7:1792758607648	=	chớp mắt, nháy mắt	ghep_nghia			cau_tao	眨 trát (nháy mắt) + 眼 nhãn (mắt) → nháy mắt	draft		
+zh:hskstory-hsk7:1792758607650	=	nheo mắt; cũng: chợp mắt	khong_giup					draft		
+zh:hskstory-hsk7:1792758607652	=	nhìn ra xa từ trên cao	ghep_nghia			cau_tao	眺 thiếu (ngắm xa) + 望 vọng (trông xa) → trông ra xa	draft		
+zh:hskstory-hsk7:1792758607654	=	bây giờ, lúc này	ghep_nghia			goi_nho	眼 nhãn (mắt) + 下 hạ (dưới) → ngay dưới mắt → lúc này	draft		
+zh:hskstory-hsk7:1792758607656	=	tầm nhìn, tầm hiểu biết	ghep_nghia			cau_tao	眼 nhãn (mắt) + 界 giới (cõi) → cõi mắt nhìn thấy	draft		
+zh:hskstory-hsk7:1792758607658	=	ánh mắt, thần thái trong mắt	ghep_nghia			goi_nho	眼 nhãn (mắt) + 神 thần (thần thái) → thần thái của mắt	draft		
+zh:hskstory-hsk7:1792758607660	=	thèm muốn, ghen tị	ghep_nghia			goi_nho	眼 nhãn (mắt) + 红 hồng (đỏ) → đỏ mắt vì thèm, ghen	draft		
+zh:hskstory-hsk7:1792758607662	=	ánh mắt ra hiệu	ghep_nghia			cau_tao	眼 nhãn (mắt) + 色 sắc (vẻ, sắc) → vẻ trong mắt	draft		
+zh:hskstory-hsk7:1792758607664	=	dồn sức, ra sức làm việc gì	ghep_nghia			goi_nho	着 trước (đặt vào, dồn vào) + 力 lực (sức) → dồn sức	draft		着=著 trước (zhuó, dồn vào)
+zh:hskstory-hsk7:1792758607666	=	thật sự, quả thật	ghep_nghia			goi_nho	着 trước (bám vào) + 实 thực (thật) → thật sự	draft		着=著 trước (zhuó)
+zh:hskstory-hsk7:1792758607668	=	nghĩ cho, cân nhắc cho (người khác)	ghep_nghia			goi_nho	着 trước (đặt vào, hướng tới) + 想 tưởng (nghĩ) → đặt tâm nghĩ tới	draft		着=著 trước (zhuó)
+zh:hskstory-hsk7:1792758607670	=	bắt tay vào làm	ghep_nghia			cau_tao	着 trước (bắt đầu) + 手 thủ (tay) → ra tay làm	draft		着=著 trước (zhuó)
+zh:hskstory-hsk7:1792758607672	=	nhắm vào, xuất phát từ (một mục tiêu)	ghep_nghia			goi_nho	着 trước (đặt vào) + 眼 nhãn (mắt) → đặt mắt vào	draft		着=著 trước (zhuó)
+zh:hskstory-hsk7:1792758607674	=	tung tích, chỗ dựa; cũng: sự giải quyết xong	khong_giup					draft		着=著 trước (zhuó)
+zh:hskstory-hsk7:1792758607676	=	mê mẩn, bị cuốn hút	ghep_nghia			cau_tao	着 trước (dính, mắc vào; zháo) + 迷 mê (mê) → mắc vào say mê	draft		着=著 trước (zháo, mắc vào)
+zh:hskstory-hsk7:1792758607678	=	nhấn mạnh, chú trọng	ghep_nghia			goi_nho	着 trước (đặt vào) + 重 trọng (nặng, coi trọng) → đặt trọng tâm	draft		着=著 trước (zhuó); 重 zhòng=trọng
+zh:hskstory-hsk7:1792758607680	=	túi ngủ	ghep_nghia			cau_tao	睡 thụy (ngủ) + 袋 đại (túi, đẫy) → túi để ngủ	draft		
+zh:hskstory-hsk7:1792758607682	ĐỐC THÚC	đôn đốc, thúc giục (làm việc)	cung_dung	đốc thúc		cau_tao	督 đốc (giám sát, đôn đốc) + 促 thúc (thúc giục) → đôn đốc thúc giục	draft		促=thúc (đốc thúc); hv_pre xúc
+zh:hskstory-hsk7:1792758607684	=	ngắm bắn, nhắm vào mục tiêu	ghep_nghia			cau_tao	瞄 miêu (ngắm) + 准 chuẩn (đúng, chuẩn) → ngắm cho chuẩn	draft		准=準 chuẩn
+zh:hskstory-hsk7:1792758607688	=	mù; cũng: bừa bãi, vô căn cứ	khong_giup					draft		
+zh:hskstory-hsk7:1792758607690	=	giấu giếm, giấu (không cho ai biết)	yeu_to			goi_nho	như man trá, man thiên quá hải	draft		
+zh:hskstory-hsk7:1792758607692	=	trừng mắt, mở to mắt nhìn	yeu_to			goi_nho	như trong "trừng mắt"	draft		
+zh:hskstory-hsk7:1792758607694	=	chiêm ngưỡng, kính cẩn ngắm nhìn	cung_dung	chiêm ngưỡng		cau_tao	瞻 chiêm (ngước nhìn) + 仰 ngưỡng (ngẩng lên) → ngước nhìn tôn kính	draft		
+zh:hskstory-hsk7:1792758607696	=	đứng sừng sững	ghep_nghia			cau_tao	矗 súc (thẳng đứng, sừng sững) + 立 lập (đứng) → đứng thẳng cao	draft		
+zh:hskstory-hsk7:1792758607698	=	mũi giáo; nghĩa bóng: hướng công kích, chỉ trích	ghep_nghia			goi_nho	矛 mâu (giáo, như mâu thuẫn) + 头 đầu (đầu) → mũi giáo	draft		
+zh:hskstory-hsk7:1792758607700	=	trợ từ cuối câu trong văn cổ, tương đương "đã, rồi"	hu_tu					draft		
+zh:hskstory-hsk7:1792758607702	=	bạn tri kỷ, người hiểu mình	cung_dung	tri kỷ				draft		
+zh:hskstory-hsk7:1792758607704	=	tri giác, nhận biết qua giác quan	cung_dung	tri giác				draft		觉=giác (jué)
+zh:hskstory-hsk7:1792758607708	=	biết đủ, hài lòng với những gì mình có	cung_dung	tri túc		cau_tao	知 tri (biết) + 足 túc (đủ) → biết đủ	draft		
+zh:hskstory-hsk7:1792758607710	=	biết đủ thì luôn vui	cung_dung	tri túc thường lạc		cau_tao	知足 tri túc (biết đủ) + 常乐 thường lạc (luôn vui) → biết đủ thì vui	draft		
+zh:hskstory-hsk7:1792758607714	=	ngắn ngủi, chóng qua	ghep_nghia			cau_tao	短 đoản (ngắn) + 暂 tạm (chốc lát) → ngắn ngủi	draft		
+zh:hskstory-hsk7:1792758607718	=	khoáng sản	cung_dung	khoáng sản		cau_tao	矿 khoáng (mỏ, quặng) + 产 sản (sản vật) → sản vật từ mỏ	draft		
+zh:hskstory-hsk7:1792758607720	=	mỏ khoáng sản, trữ lượng khoáng sản dưới lòng đất	ghep_nghia			cau_tao	矿 khoáng (mỏ) + 藏 tàng (chứa, cất giữ) → khoáng chứa trong đất	draft		藏 cáng=tàng (chứa, cất)
+zh:hskstory-hsk7:1792758607722	=	yard (đơn vị đo dài); cũng: mã, số hiệu, cỡ	khac_dung	mã	Tiếng Trung 码 còn là đơn vị yard, số hiệu, cỡ; tiếng Việt "mã" chủ yếu là mã số, mã (code)			draft		
+zh:hskstory-hsk7:1792758607724	=	chặt cây, đốn hạ	ghep_nghia			goi_nho	砍 khảm (chặt) + 伐 phạt (như trong phạt mộc, chặt cây) → đốn cây	draft		
+zh:hskstory-hsk7:1792758607726	=	phá lệ, làm ngoại lệ	cung_dung	phá lệ		cau_tao	破 phá (phá vỡ) + 例 lệ (lệ, thông lệ) → phá thông lệ	draft		
+zh:hskstory-hsk7:1792758607728	=	cũ nát, tồi tàn	ghep_nghia			cau_tao	破 phá (rách, vỡ) + 旧 cựu (cũ) → rách cũ	draft		
+zh:hskstory-hsk7:1792758607730	=	phá án (giải quyết vụ án)	cung_dung	phá án				draft		
+zh:hskstory-hsk7:1792758607732	=	tan vỡ (hy vọng, ảo tưởng)	khac_dung	phá diệt	Tiếng Trung 破灭 thường nói hy vọng, ảo tưởng tan vỡ; tiếng Việt "phá diệt" thiên về tiêu diệt, phá hủy	cau_tao	破 phá (vỡ) + 灭 diệt (mất, tan) → vỡ tan mất	draft		
+zh:hskstory-hsk7:1792758607734	=	vỡ vụn, tan nát	ghep_nghia			cau_tao	破 phá (vỡ) + 碎 toái (vụn) → vỡ vụn	draft		
+zh:hskstory-hsk7:1792758607736	=	nứt vỡ; nghĩa bóng: (quan hệ) đổ vỡ	ghep_nghia			cau_tao	破 phá (vỡ) + 裂 liệt (nứt, xé ra) → nứt vỡ	draft		
+zh:hskstory-hsk7:1792758607738	=	giải mã, tìm ra cách phá; cũng: phá (rào cản)	khac_dung	phá giải	Tiếng Trung thường là giải mã, bẻ khóa; tiếng Việt "phá giải" hay dùng cho việc hóa giải thế bí, bùa chú	cau_tao	破 phá (phá vỡ) + 解 giải (mở ra, cởi) → phá mở	draft		
+zh:hskstory-hsk7:1792758607740	=	loại bỏ, xóa bỏ (thành kiến, tập tục)	ghep_nghia			cau_tao	破 phá (phá vỡ) + 除 trừ (bỏ đi) → phá bỏ	draft		
+zh:hskstory-hsk7:1792758607742	=	đập vỡ, đập phá; cũng: làm hỏng	khong_giup					draft		
+zh:hskstory-hsk7:1792758607744	=	thành quả lớn	ghep_nghia			cau_tao	硕 thạc (to lớn) + 果 quả (kết quả) → thành quả lớn	draft		
+zh:hskstory-hsk7:1792758607746	=	đồng xu, tiền xu	ghep_nghia			goi_nho	硬 ngạnh (cứng) + 币 tệ (tiền, như tiền tệ) → tiền cứng	draft		
+zh:hskstory-hsk7:1792758607748	=	khỏe mạnh, cứng cáp (thường nói người già)	ghep_nghia			goi_nho	硬 ngạnh (cứng) + 朗 lãng (sáng, rõ) → cứng cáp, tráng kiện	draft		
+zh:hskstory-hsk7:1792758607750	=	ổ đĩa cứng	ghep_nghia			cau_tao	硬 ngạnh (cứng) + 盘 bàn (mâm, đĩa) → đĩa cứng	draft		
+zh:hskstory-hsk7:1792758607752	=	tin chắc	cung_dung	xác tín		cau_tao	确 xác (chắc chắn) + 信 tín (tin) → tin chắc	draft		
+zh:hskstory-hsk7:1792758607754	=	xác thực, không thể chối cãi	ghep_nghia			goi_nho	确 xác (chắc, bền) + 凿 tạc (đục) → chắc như đục vào đá	draft		
+zh:hskstory-hsk7:1792758607756	=	chính xác, rõ ràng	ghep_nghia			cau_tao	确 xác (chắc chắn) + 切 thiết (sát, thiết thực) → sát đúng	draft		
+zh:hskstory-hsk7:1792758607758	=	chẩn đoán xác định	ghep_nghia			cau_tao	确 xác (chắc chắn) + 诊 chẩn (khám bệnh) → chẩn đoán chắc chắn	draft		
+zh:hskstory-hsk7:1792758607760	=	vướng víu, gây cản trở	ghep_nghia			cau_tao	碍 ngại (cản trở) + 事 sự (việc) → cản việc	draft		
+zh:hskstory-hsk7:1792758607762	=	bia đá, tấm bia	yeu_to			goi_nho	như bi ký, văn bi; Việt thuần: bia	draft		
+zh:hskstory-hsk7:1792758607764	=	đĩa nhỏ (đựng thức ăn, nước chấm)	khong_giup					draft		
+zh:hskstory-hsk7:1792758607766	=	xanh biếc	ghep_nghia			cau_tao	碧 bích (ngọc bích, xanh biếc) + 绿 lục (xanh) → xanh biếc	draft		
+zh:hskstory-hsk7:1792758607768	=	tình cờ, đúng lúc	ghep_nghia			goi_nho	碰 bính (chạm, gặp) + 巧 xảo (khéo, trùng hợp) → gặp đúng dịp	draft		
+zh:hskstory-hsk7:1792758607770	=	bị từ chối, vấp phải trở ngại	ghep_nghia			goi_nho	碰 (đụng) + 钉子 đinh tử (cái đinh) → đụng phải đinh	draft		
+zh:hskstory-hsk7:1792758607772	=	băng từ, băng cassette	ghep_nghia			cau_tao	磁 từ (từ tính) + 带 đới (dải, băng) → dải băng từ	draft		带 dài=đới (dải, đai)
+zh:hskstory-hsk7:1792758607774	=	nam châm	ghep_nghia			cau_tao	磁 từ (từ tính) + 铁 thiết (sắt) → sắt có từ tính	draft		
+zh:hskstory-hsk7:1792758607776	=	cân bàn (dụng cụ cân); cũng: pound (đơn vị khối lượng)	khong_giup					draft		
+zh:hskstory-hsk7:1792758607778	=	thương lượng, bàn bạc kỹ	ghep_nghia			cau_tao	磋 tha (mài giũa, như thiết tha) + 商 thương (bàn bạc, đắn đo) → bàn bạc kỹ	draft		
+zh:hskstory-hsk7:1792758607780	=	gõ, va vào vật cứng; cũng: mê (một cặp nhân vật)	khong_giup					draft		
+zh:hskstory-hsk7:1792758607782	=	cọ xát, mài; cũng: xay	yeu_to			goi_nho	như ma luyện, ma nạn, trác ma	draft		
+zh:hskstory-hsk7:1792758607786	=	hao mòn, mài mòn (do dùng lâu)	ghep_nghia			cau_tao	磨 ma (mài, cọ xát) + 损 tổn (hao bớt) → mòn hao	draft		
+zh:hskstory-hsk7:1792758607788	=	tôi luyện, rèn giũa qua gian khổ	cung_dung	ma luyện		cau_tao	磨 ma (mài giũa) + 炼 luyện (rèn đúc) → mài giũa, rèn luyện	draft		
+zh:hskstory-hsk7:1792758607790	=	gian nan thử thách, tai ương	ghep_nghia			cau_tao	磨 ma (mài, giày vò) + 难 nạn (khó khăn, tai nạn) → nỗi khổ giày vò	draft		难 nàn=nạn (tai nạn)
+zh:hskstory-hsk7:1792758607792	=	đá ngầm, đá nhô lên khỏi mặt nước	ghep_nghia			cau_tao	礁 tiêu (đá ngầm) + 石 thạch (đá) → đá ngầm	draft		
+zh:hskstory-hsk7:1792758607794	=	biểu tình (phản đối); cũng: phô trương sức mạnh	khac_dung	thị uy	Tiếng Trung chủ yếu là biểu tình, tuần hành phản đối; tiếng Việt "thị uy" thiên về phô trương sức mạnh để uy hiếp	cau_tao	示 thị (bày ra) + 威 uy (uy thế) → bày tỏ sức mạnh	draft		
+zh:hskstory-hsk7:1792758607796	=	ra hiệu	ghep_nghia			goi_nho	示 thị (chỉ cho thấy, như chỉ thị) + 意 ý (ý) → tỏ ý bằng cử chỉ	draft		
+zh:hskstory-hsk7:1792758607798	=	phép tắc ứng xử, nghi lễ	cung_dung	lễ nghi		cau_tao	礼 lễ (phép tắc) + 仪 nghi (dáng vẻ, nghi thức) → phép tắc, nghi thức	draft		
+zh:hskstory-hsk7:1792758607800	=	quà tặng	ghep_nghia			cau_tao	礼 lễ (lễ vật) + 品 phẩm (vật phẩm) → vật dùng làm quà	draft		
+zh:hskstory-hsk7:1792758607802	=	hội trường, thính phòng	cung_dung	lễ đường		cau_tao	礼 lễ (nghi lễ) + 堂 đường (nhà lớn) → nhà làm lễ	draft		
+zh:hskstory-hsk7:1792758607804	=	có qua có lại, đáp lễ lại lễ	cung_dung	lễ thượng vãng lai		cau_tao	礼 lễ + 尚 thượng (chuộng) + 往来 vãng lai (qua lại) → lễ chuộng sự qua lại	draft		
+zh:hskstory-hsk7:1792758607806	=	lễ phục, trang phục trang trọng	cung_dung	lễ phục				draft		
+zh:hskstory-hsk7:1792758607808	=	nghi thức, phép tắc xã giao	cung_dung	lễ tiết		cau_tao	礼 lễ (phép tắc) + 节 tiết (tiết độ, mực thước) → phép tắc đúng mực	draft		
+zh:hskstory-hsk7:1792758607810	=	giao tiếp xã hội, kết giao	cung_dung	xã giao		cau_tao	社 xã (xã hội) + 交 giao (giao du) → giao du ngoài xã hội	draft		
+zh:hskstory-hsk7:1792758607814	=	câu lạc bộ, hội đoàn	ghep_nghia			goi_nho	社 xã (hội, như xã hội) + 团 đoàn (nhóm, như đoàn thể) → hội đoàn	draft		
+zh:hskstory-hsk7:1792758607816	=	cầu nguyện	ghep_nghia			cau_tao	祈 kỳ (cầu cúng) + 祷 đảo (cầu cúng) → cầu khấn	draft		
+zh:hskstory-hsk7:1792758607818	=	truyền lại từ tổ tiên, gia truyền	cung_dung	tổ truyền		cau_tao	祖 tổ (ông tổ) + 传 truyền (truyền lại) → tổ tiên truyền lại	draft		传 chuán=truyền (truyền lại)
+zh:hskstory-hsk7:1792758607820	=	tổ tiên, tổ tông	cung_dung	tổ tông				draft		
+zh:hskstory-hsk7:1792758607822	=	bà nội	cung_dung	tổ mẫu		cau_tao	祖 tổ (ông bà) + 母 mẫu (mẹ) → bà nội	draft		
+zh:hskstory-hsk7:1792758607824	=	ông nội	cung_dung	tổ phụ		cau_tao	祖 tổ (ông bà) + 父 phụ (cha) → ông nội	draft		
+zh:hskstory-hsk7:1792758607826	=	quê gốc của tổ tiên, nguyên quán	ghep_nghia			cau_tao	祖 tổ (tổ tiên) + 籍 tịch (sổ sách, hộ tịch) → nơi ghi sổ của tổ tiên	draft		
+zh:hskstory-hsk7:1792758607828	=	thần tiên, tiên nhân	cung_dung	thần tiên				draft		
+zh:hskstory-hsk7:1792758607830	=	thiêng liêng, thần thánh	khac_dung	thần thánh	Tiếng Trung chủ yếu là tính từ "thiêng liêng"; tiếng Việt "thần thánh" thường chỉ các vị thần thánh nói chung	cau_tao	神 thần (thần linh) + 圣 thánh (bậc thánh) → thiêng liêng	draft		
+zh:hskstory-hsk7:1792758607832	=	vẻ mặt, dáng điệu (thể hiện tâm trạng)	ghep_nghia			goi_nho	神 thần (thần sắc) + 态 thái (dáng, thái độ) → dáng vẻ thần sắc	draft		
+zh:hskstory-hsk7:1792758607834	=	vẻ mặt, nét mặt	ghep_nghia			goi_nho	神 thần (thần sắc) + 情 tình (tình cảm lộ ra) → vẻ lộ trên mặt	draft		
+zh:hskstory-hsk7:1792758607836	=	vẻ mặt, dáng vẻ; cũng: hăng hái, vênh váo	ghep_nghia					draft		
+zh:hskstory-hsk7:1792758607838	=	yên lành, hòa thuận	ghep_nghia			cau_tao	祥 tường (điềm lành) + 和 hòa (hòa thuận) → lành và hòa	draft		和 hé=hòa
+zh:hskstory-hsk7:1792758607840	=	doanh thu phòng vé; cũng: phòng bán vé	ghep_nghia			cau_tao	票 phiếu (vé) + 房 phòng (buồng) → phòng bán vé	draft		
+zh:hskstory-hsk7:1792758607842	=	cúng tế (thần linh, tổ tiên)	cung_dung	tế				draft		
+zh:hskstory-hsk7:1792758607844	=	cúng viếng, tế lễ người đã khuất	ghep_nghia			goi_nho	祭 tế (cúng tế) + 奠 điện (dâng cúng) → dâng lễ cúng	draft		
+zh:hskstory-hsk7:1792758607846	=	tế tự, cúng bái thần linh hoặc tổ tiên	cung_dung	tế tự		cau_tao	祭 tế (cúng tế) + 祀 tự (tế) → cúng tế	draft		
+zh:hskstory-hsk7:1792758607848	=	tai họa, mối họa; cũng: gây hại	ghep_nghia			cau_tao	祸 họa (tai vạ) + 害 hại (hại) → tai họa gây hại	draft		
+zh:hskstory-hsk7:1792758607852	=	khu vực cấm	ghep_nghia			cau_tao	禁 cấm (cấm chế) + 区 khu (khu vực) → khu cấm	draft		
+zh:hskstory-hsk7:1792758607854	=	điều cấm kỵ, điều kiêng kỵ	cung_dung	cấm kỵ		cau_tao	禁 cấm + 忌 kỵ (kiêng, ghét) → điều bị cấm và kiêng	draft		
+zh:hskstory-hsk7:1792758607858	=	kỳ lạ, quái dị, khó tin	khac_dung	ly kỳ	Tiếng Việt "ly kỳ" thường nhấn mạnh sự hấp dẫn, gay cấn; tiếng Trung nhấn sự kỳ quặc, khó tin	goi_nho	离 ly (xa rời) + 奇 kỳ (lạ) → lạ lùng, xa thường	draft		
+zh:hskstory-hsk7:1792758607862	=	cây mạ, lúa non	ghep_nghia			cau_tao	禾 hòa (lúa) + 苗 miêu (mạ non) → mạ lúa	draft		
+zh:hskstory-hsk7:1792758607864	=	xinh đẹp, thanh tú	ghep_nghia			cau_tao	秀 tú (đẹp, nẩy hoa) + 丽 lệ (đẹp) → thanh tú xinh đẹp	draft		
+zh:hskstory-hsk7:1792758607866	=	thanh tú, duyên dáng	ghep_nghia			cau_tao	秀 tú (đẹp) + 美 mỹ (đẹp) → thanh tú	draft		
+zh:hskstory-hsk7:1792758607868	=	riêng với nhau, kín đáo, không công khai	ghep_nghia			goi_nho	私 tư (riêng) + 下 hạ (bên dưới) → bàn riêng, ngầm	draft		
+zh:hskstory-hsk7:1792758607870	=	việc riêng	ghep_nghia			cau_tao	私 tư (riêng) + 事 sự (việc) → việc riêng	draft		
+zh:hskstory-hsk7:1792758607872	=	xe riêng, ô tô cá nhân	ghep_nghia			cau_tao	私 tư (riêng) + 家 gia (nhà) + 车 xa (xe) → xe của nhà riêng	draft		
+zh:hskstory-hsk7:1792758607874	=	thuộc sở hữu tư nhân	cung_dung	tư hữu		cau_tao	私 tư (riêng) + 有 hữu (có) → có riêng	draft		
+zh:hskstory-hsk7:1792758607876	=	tư nhân (do tư nhân lập, điều hành)	ghep_nghia			cau_tao	私 tư (riêng) + 立 lập (dựng, lập) → do tư nhân lập	draft		
+zh:hskstory-hsk7:1792758607878	=	tự ý, không xin phép	ghep_nghia			cau_tao	私 tư (riêng) + 自 tự (tự mình) → tự ý làm riêng	draft		
+zh:hskstory-hsk7:1792758607882	=	hói, trọc; cũng: trụi, cùn	khong_giup					draft		
+zh:hskstory-hsk7:1792758607884	=	vâng theo, tuân theo (chỉ thị, truyền thống)	ghep_nghia			cau_tao	秉 bỉnh (cầm, giữ) + 承 thừa (vâng, nhận) → nhận và giữ theo	draft		
+zh:hskstory-hsk7:1792758607886	=	giữ vững, kiên trì (nguyên tắc)	ghep_nghia			cau_tao	秉 bỉnh (cầm) + 持 trì (giữ) → cầm giữ	draft		
+zh:hskstory-hsk7:1792758607888	=	chủng tộc, dân tộc	cung_dung	chủng tộc				draft		种 zhǒng=chủng (giống, loại)
+zh:hskstory-hsk7:1792758607890	=	công thức bí truyền	cung_dung	bí phương		cau_tao	秘 bí (kín) + 方 phương (phương thuốc, công thức) → phương bí truyền	draft		方 fāng=phương (phương thuốc, cách)
+zh:hskstory-hsk7:1792758607892	=	bí quyết	cung_dung	bí quyết				draft		
+zh:hskstory-hsk7:1792758607894	=	thuê, cho thuê (nhà, thiết bị)	ghep_nghia			goi_nho	租 tô (cho thuê, như tô thuế) + 赁 nhẫm (làm thuê, thuê) → cho thuê, thuê mướn	draft		
+zh:hskstory-hsk7:1792758607896	=	cái cân (dụng cụ cân)	khong_giup					draft		
+zh:hskstory-hsk7:1792758607898	=	điệu múa dân gian nông thôn Trung Quốc (yangko)	ghep_nghia			goi_nho	秧 ương (mạ) + 歌 ca (hát) → hát múa dân gian nhà nông	draft		
+zh:hskstory-hsk7:1792758607900	=	tích lại, dồn lại (nước, tiền…); cũng: tích (phép nhân)	yeu_to			goi_nho	như tích lũy, tích trữ, tích tụ	draft		
+zh:hskstory-hsk7:1792758607902	=	dành dụm, gom góp dần	ghep_nghia			cau_tao	积 tích (chứa góp) + 攒 toản (họp lại, góp) → gom góp	draft		攒 zǎn=toản (tích góp)
+zh:hskstory-hsk7:1792758607904	=	lắng đọng, tích tụ lâu dài (văn hóa, kinh nghiệm)	ghep_nghia			cau_tao	积 tích (chứa góp) + 淀 điến (cặn lắng) → lắng đọng tích tụ	draft		淀=澱 điến (cặn lắng)
+zh:hskstory-hsk7:1792758607906	=	để dành, dành dụm; cũng: tiền tiết kiệm	ghep_nghia			cau_tao	积 tích (chứa góp) + 蓄 súc (dành chứa) → tích trữ	draft		蓄 xù=súc (dành chứa)
+zh:hskstory-hsk7:1792758607908	=	vừa lòng, đúng như mong muốn	ghep_nghia			cau_tao	称心 xứng tâm (hợp lòng) + 如意 như ý (đúng ý) → hợp lòng đúng ý	draft		称 chèn=xứng (hợp, vừa)
+zh:hskstory-hsk7:1792758607910	=	chuyển giao, bàn giao	ghep_nghia			cau_tao	移 di (dời, chuyển) + 交 giao (giao) → chuyển giao	draft		
+zh:hskstory-hsk7:1792758607912	=	cấy ghép (nội tạng, cây); cũng: di thực	khac_dung	di thực	Tiếng Trung dùng cả cho cấy ghép nội tạng, cây; tiếng Việt "di thực" chủ yếu nói về trồng cây từ nơi này sang nơi khác	cau_tao	移 di (dời) + 植 thực (trồng) → dời đi trồng	draft		
+zh:hskstory-hsk7:1792758607914	=	thưa, thưa thớt; cũng: hiếm, loãng	yeu_to			goi_nho	như hy hữu, hy hãn	draft		
+zh:hskstory-hsk7:1792758607916	=	hiếm lạ, lạ lùng	ghep_nghia			cau_tao	稀 hy (hiếm, thưa) + 奇 kỳ (lạ) → hiếm và lạ	draft		
+zh:hskstory-hsk7:1792758607918	=	ít ỏi, hiếm, thưa thớt	ghep_nghia			cau_tao	稀 hy (thưa, hiếm) + 少 thiểu (ít) → ít ỏi	draft		
+zh:hskstory-hsk7:1792758607920	=	hiếm có	cung_dung	hy hữu		cau_tao	稀 hy (hiếm) + 有 hữu (có) → hiếm có	draft		
+zh:hskstory-hsk7:1792758607922	=	hiếm; của hiếm; coi là quý	ghep_nghia			cau_tao	稀 hy (hiếm) + 罕 hãn (ít) → hiếm ít	draft		
+zh:hskstory-hsk7:1792758607928	=	công việc thuế, nghiệp vụ thuế	cung_dung	thuế vụ		cau_tao	税 thuế + 务 vụ (việc) → việc về thuế	draft		
+zh:hskstory-hsk7:1792758607930	=	thu thuế, nguồn thu từ thuế	ghep_nghia			cau_tao	税 thuế + 收 thu (thu) → thu thuế	draft		
+zh:hskstory-hsk7:1792758607932	=	non nớt, còn trẻ, chưa thạo	ghep_nghia			goi_nho	稚 trĩ (thơ bé, như ấu trĩ) + 嫩 nộn (non) → non nớt	draft		
+zh:hskstory-hsk7:1792758607934	=	đặc, sệt; cũng: dày đặc, đông đúc	yeu_to			goi_nho	như trù mật	draft		
+zh:hskstory-hsk7:1792758607936	=	dày đặc, đông đúc	cung_dung	trù mật		cau_tao	稠 trù (đông đúc) + 密 mật (rậm, kín) → dày đặc	draft		
+zh:hskstory-hsk7:1792758607938	=	vững, ổn định	cung_dung	ổn				draft		
+zh:hskstory-hsk7:1792758607940	=	vững vàng, chắc chắn	ghep_nghia			cau_tao	稳 ổn (yên ổn, vững) + 健 kiện (khỏe) → vững và khỏe	draft		
+zh:hskstory-hsk7:1792758607942	=	vững chắc, bền vững	ghep_nghia			cau_tao	稳 ổn (vững) + 固 cố (bền chắc) → vững bền	draft		
+zh:hskstory-hsk7:1792758607944	=	chắc chắn, an toàn, đáng tin cậy	cung_dung	ổn thỏa		cau_tao	稳 ổn (yên ổn) + 妥 thỏa (yên, thỏa đáng) → ổn thỏa	draft		
+zh:hskstory-hsk7:1792758607946	=	điềm đạm, chín chắn	ghep_nghia			goi_nho	稳 ổn (vững) + 重 trọng (nặng, đằm) → đằm và vững	draft		重 zhòng=trọng
+zh:hskstory-hsk7:1792758607948	=	rơm rạ, rơm	ghep_nghia			cau_tao	稻 đạo (lúa) + 草 thảo (cỏ) → cỏ của cây lúa	draft		
+zh:hskstory-hsk7:1792758607950	=	huyệt (châm cứu)	cung_dung	huyệt vị		cau_tao	穴 huyệt (hang, lỗ) + 位 vị (vị trí) → vị trí huyệt	draft		
+zh:hskstory-hsk7:1792758607952	=	không quân	cung_dung	không quân		cau_tao	空 không (bầu trời) + 军 quân (quân đội) → quân binh chủng trên không	draft		
+zh:hskstory-hsk7:1792758607954	=	chưa từng có	ghep_nghia			cau_tao	空 không (không có) + 前 tiền (trước) → chưa từng có trước đây	draft		
+zh:hskstory-hsk7:1792758607956	=	mơ tưởng viển vông, nghĩ hão	khac_dung	không tưởng	Tiếng Trung là động từ/danh từ "mơ tưởng viển vông"; tiếng Việt "không tưởng" thường là tính từ "phi thực tế"	cau_tao	空 không (rỗng, hão) + 想 tưởng (nghĩ) → nghĩ hão	draft		
+zh:hskstory-hsk7:1792758607958	=	rỗng tuếch, thiếu nội dung; cũng: hốc rỗng	ghep_nghia			cau_tao	空 không (rỗng) + 洞 động (lỗ, hang) → rỗng như cái hang	draft		
+zh:hskstory-hsk7:1792758607960	=	chỗ trống, khoảng trống (để điền)	ghep_nghia			cau_tao	空 khống (khoảng trống) + 白 bạch (trắng) → chỗ để trắng	draft		空 kòng=khống (chỗ trống); còn đọc không
+zh:hskstory-hsk7:1792758607962	=	trống trải, vắng tanh	ghep_nghia					draft		荡=đãng (như phóng đãng; bát ngát)
+zh:hskstory-hsk7:1792758607964	=	trống rỗng (trong lòng), hụt hẫng	ghep_nghia			goi_nho	空 không (rỗng) + 虚 hư (hư không) → trống rỗng	draft		
+zh:hskstory-hsk7:1792758607966	=	trạm vũ trụ	ghep_nghia			cau_tao	空间 không gian (khoảng không) + 站 trạm (trạm) → trạm trong không gian	draft		间 jiān=gian (như không gian)
+zh:hskstory-hsk7:1792758607968	=	khe hở, khoảng trống giữa hai vật	ghep_nghia			cau_tao	空 khống (chỗ trống) + 隙 khích (kẽ hở) → khoảng hở	draft		空 kòng=khống (chỗ trống)
+zh:hskstory-hsk7:1792758607970	=	tai nạn máy bay	ghep_nghia			cau_tao	空 không (trên không) + 难 nạn (tai nạn) → tai nạn trên không	draft		难 nàn=nạn (tai nạn)
+zh:hskstory-hsk7:1792758607972	=	đi lại liên tục, qua lại như thoi đưa	ghep_nghia			goi_nho	穿 xuyên (xuyên qua) + 梭 thoa (cái thoi dệt) → qua lại như con thoi	draft		
+zh:hskstory-hsk7:1792758607974	=	trang phục, cách ăn mặc	ghep_nghia			goi_nho	穿 xuyên (xỏ, mặc vào) + 着 trước (mang vào) → mặc vào	draft		着=著 trước (zhuó, mang vào)
+zh:hskstory-hsk7:1792758607976	=	đi xuyên qua, băng qua; cũng: xuyên không (thể loại truyện)	ghep_nghia			cau_tao	穿 xuyên (xuyên qua) + 越 việt (vượt qua) → xuyên và vượt qua	draft		
+zh:hskstory-hsk7:1792758607978	=	cao sừng sững; cũng: đột ngột	khac_dung	đột ngột	Tiếng Việt "đột ngột" chỉ sự bất ngờ; tiếng Trung 突兀 còn chỉ dáng núi, nhà cao vút, trồi lên			draft		
+zh:hskstory-hsk7:1792758607980	=	đột kích, tấn công bất ngờ; cũng: làm gấp cho xong	cung_dung	đột kích		cau_tao	突 đột (bất ngờ) + 击 kích (đánh) → đánh bất ngờ	draft		
+zh:hskstory-hsk7:1792758607982	=	xảy đến bất ngờ	cung_dung	đột như kỳ lai		cau_tao	突 đột (bất ngờ) + 如 như + 其 kỳ + 来 lai (đến) → bất ngờ mà đến	draft		其 qí=kỳ
+zh:hskstory-hsk7:1792758607984	=	mũi đột phá, chỗ phá vỡ phòng tuyến	cung_dung	đột phá khẩu		cau_tao	突破 đột phá (phá vỡ) + 口 khẩu (cửa, lối) → lối đột phá	draft		
+zh:hskstory-hsk7:1792758607986	=	đánh cắp (thông tin, quyền lực)	ghep_nghia			cau_tao	窃 thiết (ăn trộm) + 取 thủ (lấy) → trộm lấy	draft		
+zh:hskstory-hsk7:1792758607988	=	mẹo, bí quyết	ghep_nghia			goi_nho	窍 khiếu (lỗ, chỗ then chốt) + 门 môn (ngả, cửa) → ngả vào chỗ then chốt	draft		
+zh:hskstory-hsk7:1792758607992	=	ngạt thở, nghẹt thở	ghep_nghia			cau_tao	窒 trất (lấp, bít) + 息 tức (hơi thở) → bít hơi thở	draft		
+zh:hskstory-hsk7:1792758607994	=	rèm cửa sổ	ghep_nghia			cau_tao	窗 song (cửa sổ) + 帘 liêm (rèm) → rèm cửa sổ	draft		
+zh:hskstory-hsk7:1792758607996	=	túng quẫn, khó khăn, bế tắc	cung_dung	quẫn bách		cau_tao	窘 quẫn (cùng quẫn) + 迫 bách (ép sát) → túng ngặt	draft		迫 pò=bách (ép, gấp)
+zh:hskstory-hsk7:1792758607998	=	chạy trốn, chạy tán loạn, vụt chạy	khong_giup					draft		
+zh:hskstory-hsk7:1792758608000	=	tổ (chim, côn trùng), ổ; cũng: hốc, chỗ lõm	khong_giup					draft		
+zh:hskstory-hsk7:1792758608002	=	cái lỗ, lỗ thủng; cũng: nợ nần	ghep_nghia			goi_nho	窟 quật (hang) + 窿 lung (vòm, hốc) → hang hốc, lỗ hổng	draft		
+zh:hskstory-hsk7:1792758608004	=	cầu vượt, nút giao nhiều tầng	ghep_nghia			goi_nho	立 lập (đứng, nhiều tầng) + 交 giao (giao nhau) + 桥 kiều (cầu) → cầu giao cắt nhiều tầng	draft		桥=橋 kiều (cầu)
+zh:hskstory-hsk7:1792758608006	=	ba chiều, lập thể, nổi khối	cung_dung	lập thể		cau_tao	立 lập (đứng) + 体 thể (thân, hình khối) → vật có khối	draft		
+zh:hskstory-hsk7:1792758608008	=	lập công, có công lao	cung_dung	lập công		cau_tao	立 lập (dựng, tạo ra) + 功 công (công lao) → tạo công lao	draft		
+zh:hskstory-hsk7:1792758608010	=	lập phương; hình lập phương	cung_dung	lập phương		cau_tao	立 lập (đứng) + 方 phương (vuông) → khối vuông	draft		方 fāng=phương (vuông)
+zh:hskstory-hsk7:1792758608012	=	mét khối	ghep_nghia			cau_tao	立方 lập phương (khối) + 米 mễ (mét) → mét khối	draft		米=mễ (cũng là chữ gạo; ở đây dùng làm mét)
+zh:hskstory-hsk7:1792758608014	=	lập hồ sơ vụ án, thụ lý (để điều tra)	ghep_nghia			cau_tao	立 lập (dựng, lập) + 案 án (vụ án, hồ sơ) → lập án	draft		
+zh:hskstory-hsk7:1792758608016	=	lập pháp, ban hành luật	cung_dung	lập pháp		cau_tao	立 lập (đặt ra) + 法 pháp (luật) → đặt ra luật	draft		
+zh:hskstory-hsk7:1792758608018	=	đứng vững, có chỗ đứng; cũng: dựa trên	ghep_nghia			cau_tao	立 lập (đứng) + 足 túc (chân) → đứng bằng chân → có chỗ đứng	draft		
+zh:hskstory-hsk7:1792758608020	=	dựng đứng lên	ghep_nghia			cau_tao	竖 thụ (dựng đứng) + 立 lập (đứng) → dựng đứng	draft		
+zh:hskstory-hsk7:1792758608022	=	đứng	ghep_nghia			cau_tao	站 trạm (đứng lâu) + 立 lập (đứng) → đứng	draft		
+zh:hskstory-hsk7:1792758608024	=	thi đấu thể thao, tranh tài	ghep_nghia			cau_tao	竞 cạnh (tranh đua) + 技 kỹ (tài nghề) → thi tài	draft		
+zh:hskstory-hsk7:1792758608026	=	đua nhau, tranh nhau (làm gì)	ghep_nghia			cau_tao	竞 cạnh (tranh đua) + 相 tương (cùng nhau) → cùng đua nhau	draft		相 xiāng=tương
+zh:hskstory-hsk7:1792758608028	=	tranh cử, ra ứng cử	ghep_nghia			cau_tao	竞 cạnh (tranh đua) + 选 tuyển (chọn) → tranh được chọn	draft		
+zh:hskstory-hsk7:1792758608030	=	lại (không ngờ), thế mà; cũng: rốt cuộc	khong_giup					draft		
+zh:hskstory-hsk7:1792758608032	=	điều lệ, quy chế	khac_dung	chương trình	Tiếng Trung 章程 là điều lệ, quy chế; tiếng Việt "chương trình" là kế hoạch, lịch trình hoạt động	cau_tao	章 chương (điều khoản, văn chương) + 程 trình (khuôn phép) → điều khoản khuôn phép	draft		

@@ -1,0 +1,166 @@
+{
+  "model": "Whisper small-q5_1; whisper.cpp v1.9.2; greedy; language fixed; no reference prompt",
+  "method": "16 evenly spaced notes, diagnostic only. Not human listening or full-corpus alignment certification.",
+  "results": [
+    {
+      "index": 0,
+      "id": 1759921073992,
+      "reference": "What do Harry Potter, Katniss Everdeen, and Frodo all have in common with the heroes of ancient myths?",
+      "translation": "Điều gì đã làm nên Harry Potter, Katniss Everdeen, Họ có điểm gì chung với những vị anh hùng trong truyền thuyết?",
+      "asr": "What to Harry Potter, Katniss Everdeen and Frodo all have in common with the heroes of ancient myths?",
+      "similarity": 0.988,
+      "exit_code": 0,
+      "elapsed_seconds": 2.01
+    },
+    {
+      "index": 27,
+      "id": 1759921074019,
+      "reference": "11:00: Resolution All the tangled plot lines get straightened out.",
+      "translation": "11:00: Sự giải quyết Tất cả những âm mưu rối rắm được gỡ bỏ",
+      "asr": "11 o'clock resolution all the tangled plot lines get straightened out",
+      "similarity": 0.929,
+      "exit_code": 0,
+      "elapsed_seconds": 1.95
+    },
+    {
+      "index": 54,
+      "id": 1759921074046,
+      "reference": "Listen for your call to adventure.",
+      "translation": "Hãy lắng nghe tiếng gọi đến với cuộc phiêu lưu.",
+      "asr": "Listen for your call to adventure",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.92
+    },
+    {
+      "index": 81,
+      "id": 1759921933224,
+      "reference": "However, muscles rely on more than just activity to grow.",
+      "translation": "Tuy nhiên, ngoài vận động, cơ phát triển phụ thuộc vào nhiều yếu tố khác.",
+      "asr": "However, muscles rely on more than just activity to grow.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.92
+    },
+    {
+      "index": 108,
+      "id": 1760527519982,
+      "reference": "It's not the absurdity of bureaucracy alone, but the irony of the character's circular reasoning in reaction to it that is emblematic of Kafka's writing.",
+      "translation": "Không chỉ có sự phi lý của bộ máy quan liêu, mà sự trớ trêu của lý luận vòng quanh trong phản ứng với bộ máy đó mới là đặc trưng của văn Kafka.",
+      "asr": "It's not the absurdity of bureaucracy alone, but the irony of the character's circular reasoning in reaction to it that is emblematic of Kafka's writing.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.04
+    },
+    {
+      "index": 135,
+      "id": 1760531042678,
+      "reference": "They were the victims of paranoia about the supernatural, misdirected religious fervor— and a justice system that valued repentance over truth.",
+      "translation": "Họ là nạn nhân của chứng hoang tưởng về siêu nhiên, những niềm tin sai lệch trong tín ngưỡng— và một hệ thống công lý coi trọng sự ăn năn hối cải hơn sự thật.",
+      "asr": "They were the victims of paranoia about the supernatural, misdirected religious fervor, and a justice system that valued repentance over truth.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.0
+    },
+    {
+      "index": 162,
+      "id": 1760531042705,
+      "reference": "Those who dared to speak out, such as Judge Nathanial Saltonstall, came under suspicion.",
+      "translation": "Những người dám lên tiếng, như Thẩm phán Nathanial Saltonstall, bị nghi ngờ.",
+      "asr": "Those who dared to speak out, such as Judge Nathaniel Saltonstall, came under suspicion.",
+      "similarity": 0.986,
+      "exit_code": 0,
+      "elapsed_seconds": 1.99
+    },
+    {
+      "index": 189,
+      "id": 1760532678767,
+      "reference": "Increased dehydration can cause notable drops in energy, mood, skin moisture, and blood pressure, as well as signs of cognitive impairment.",
+      "translation": "Sự thiếu nước trầm trọng có thể gây thiếu hụt năng lượng, tâm trạng không tốt, da khô, giảm huyết áp, và các dấu hiệu suy giảm nhận thức.",
+      "asr": "Increased dehydration can cause notable drops in energy, mood, skin moisture, and blood pressure, as well as signs of cognitive impairment.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.99
+    },
+    {
+      "index": 217,
+      "id": 1760533496558,
+      "reference": "We dream to remember.",
+      "translation": "Chúng ta mơ để nhớ.",
+      "asr": "We dream to remember.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.91
+    },
+    {
+      "index": 244,
+      "id": 1760533496585,
+      "reference": "And those are just a few of the more prominent theories.",
+      "translation": "Trên đây chỉ là một số trong nhiều giả thuyết nổi bật.",
+      "asr": "And those are just a few of the more prominent theories, as",
+      "similarity": 0.978,
+      "exit_code": 0,
+      "elapsed_seconds": 1.91
+    },
+    {
+      "index": 271,
+      "id": 1760534364507,
+      "reference": "And some of the largest solar plants in the world are trying a new approach: giant mirrors.",
+      "translation": "Một vài trạm năng lượng lớn nhất thế giới đang cố gắng thử một cách mới: những tấm gương khổng lồ.",
+      "asr": "And some of the largest solar plants in the world are trying a new approach. Giant Mirrors.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.96
+    },
+    {
+      "index": 298,
+      "id": 1760535791399,
+      "reference": "Procrastination is when we avoid a task we said we would do, for no good reason, despite expecting our behavior to bring negative consequences.",
+      "translation": "Trì hoãn tức là tránh không làm điều ta bảo sẽ làm, biết rằng hành vi này sẽ gây ra hậu quả xấu.",
+      "asr": "Procrastination is when we avoid a task we said we would do for no good reason, despite expecting our behavior to bring negative consequences.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.02
+    },
+    {
+      "index": 325,
+      "id": 1760535791426,
+      "reference": "Being too hard on yourself can layer additional bad emotions onto a task, making the threat even more intense.",
+      "translation": "Quá khắt khe với bản thân khiến đe dọa đáng sợ hơn.",
+      "asr": "Being too hard on yourself can layer additional bad emotions onto a task, making the threat even more intense.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.04
+    },
+    {
+      "index": 352,
+      "id": 1760536583454,
+      "reference": "Because of that, most water-soluble vitamins need to be replenished on a daily basis through the food we eat.",
+      "translation": "Chính vì lí do đó, đa phần vitamin tan trong nước cần được hấp thụ mỗi ngày qua thức ăn.",
+      "asr": "Because of that, most water-soluble vitamins need to be replenished on a daily basis through the food we eat.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.04
+    },
+    {
+      "index": 379,
+      "id": 1760540158785,
+      "reference": "So where do you begin?",
+      "translation": "Vậy ta sẽ bắt đầu từ đâu?",
+      "asr": "So where do you begin?",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.91
+    },
+    {
+      "index": 406,
+      "id": 1760540158812,
+      "reference": "Thanks to your deductive reasoning, order is restored to the galaxy.",
+      "translation": "Nhờ tư duy diễn dịch của bạn, trật tự đã được lập lại trên dải ngân hà.",
+      "asr": "Thanks to your deductive reasoning, order is restored to the galaxy.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.96
+    }
+  ]
+}

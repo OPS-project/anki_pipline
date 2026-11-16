@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1759575206510,
+    "fields": {
+      "English": "During their training, medical residents learn countless techniques, surgeries, and procedures which they’ll later use to save lives.",
+      "Word_1": "medical residents: doctors in training after graduation",
+      "Word_Example_1": "Medical residents often work long shifts while still learning.",
+      "Vietnamese": "Trong quá trình đào tạo, các bác sĩ nội trú phải học vô số kỹ thuật, ca phẫu thuật và phương pháp mà sau này họ sẽ sử dụng để cứu người."
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "three_tips_on_how_to_study_effectively_000.mp3",
+        "bytes": 433451,
+        "duration": 8.437551020408163,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF16: 1>, text=['Lavf58.76.100']), 'APIC:': APIC(encoding=<Encoding.LATIN1: 0>, mime='image/jpg', type=<PictureType.COVER_FRONT: 3>, desc='', data=b'\\xff\\xd8\\xff\\xe0\\x00\\x10JFIF\\x00\\x01\\x02\\x00\\x00\\x01\\x00\\x01\\x00\\x00\\xff\\xfe\\x00\\x11Lavc58.134.100\\x00\\xff\\xdb\\x00C\\x00\\x08\\x0e\\x0e\\x10\\x0e\\x10\\x13\\x13\\x13\\x13\\x13\\x13\\x16\\x15\\x16\\x17\\x17\\x17\\x16\\x16\\x16\\x16\\x17\\x17\\x17\\x19\\x19\\x19\\x1d\\x1d\\x1d\\x19\\x19\\x19\\x17\\x17\\x19\\x19\\x1c\\x1c\\x1d\\x1d ! \\x1e\\x1e\\x1d\\x1e!!###**((112<<H\\xff\\xc4\\x00\\x9c\\x00\\x01\\x00\\x02\\x03\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x05\\x04\\x06\\x03\\x02\\x01\\x07\\x01\\x01\\x00\\x03\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x02\\x03\\x01\\x04\\x05\\x06\\x10\\x00\\x02\\x01\\x02\\x05\\x01\\x07\\x02\\x05\\x03\\x04\\x01\\x05\\x01\\x01\\x01\\x00\\x01\\x02\\x03\\x11\\x12!1A\\x04Q2qa\\x13\\x81\"\\x05\\x91B\\xb1\\xa1R#\\x14\\xc1\\xd13rb\\xe1\\x15\\xf0\\x82C$S\\xf14\\x92\\x06\\x11\\x01\\x01\\x00\\x02\\x01\\x04\\x01\\x03\\x04\\x01\\x04\\x02\\x03\\x01\\x01\\x01\\x00\\x01\\x02\\x11\\x03!1A\\x12Q\"a\\x13qB2\\"
+      },
+      {
+        "field": "Word_Example_1_Audio",
+        "ref": "hypertts-f99a49ce7c96b67d55e4b763efb86dfac11c956b4f4a1c2370c30b5b.mp3",
+        "bytes": 26148,
+        "duration": 3.24,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.LATIN1: 0>, text=['nVoiceTTS@NAVER'])}"
+      }
+    ]
+  },
+  {
+    "id": 1759734220745,
+    "fields": {
+      "English": "In Jerusalem, on April 11th, 1961, Adolf Eichmann stood trial for crimes against humanity.",
+      "Word_1": "stood trial: to face a court process for alleged crimes",
+      "Word_Example_1": "The general was extradited to stand trial in The Hague.",
+      "Vietnamese": "Tại Jerusalem, ngày 11 tháng 4 năm 1961, Adolf Eichmann bị xét xử vì tội ác chống lại loài người."
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "how_could_so_many_people_support_hitler_000.mp3",
+        "bytes": 306074,
+        "duration": 6.844081632653062,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF16: 1>, text=['Lavf58.76.100']), 'APIC:': APIC(encoding=<Encoding.LATIN1: 0>, mime='image/jpg', type=<PictureType.COVER_FRONT: 3>, desc='', data=b'\\xff\\xd8\\xff\\xe0\\x00\\x10JFIF\\x00\\x01\\x02\\x00\\x00\\x01\\x00\\x01\\x00\\x00\\xff\\xfe\\x00\\x11Lavc58.134.100\\x00\\xff\\xdb\\x00C\\x00\\x08\\n\\n\\x0b\\n\\x0b\\r\\r\\r\\r\\r\\r\\x10\\x0f\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x10\\x12\\x12\\x12\\x15\\x15\\x15\\x12\\x12\\x12\\x10\\x10\\x12\\x12\\x14\\x14\\x15\\x15\\x17\\x17\\x17\\x15\\x15\\x15\\x15\\x17\\x17\\x19\\x19\\x19\\x1e\\x1e\\x1c\\x1c##$++3\\xff\\xc4\\x00\\xaf\\x00\\x01\\x01\\x00\\x03\\x01\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x03\\x04\\x02\\x05\\x07\\x06\\x08\\x01\\x01\\x01\\x01\\x01\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x02\\x03\\x04\\x05\\x06\\x10\\x01\\x00\\x02\\x02\\x00\\x05\\x03\\x02\\x04\\x03\\x04\\x07\\x05\\x04\\x0b\\x01\\x00\\x01\\x02\\x03\\x11!\\x12\\x05\\x041A\\x13\\x06Q\"a2\\x81q\\x91\\x14\\xa1Rr#B$\\x15\\x82b3\\x92\\xb1\\xb3sC\\x166\\xb2\\xc14S\\xa3%\\xc2c\\x935Tdt\\xe1D\\xf0\\x11\\x01\\x00\\x02\\x02\\x00\\x04\\x04\\x04\\x04\\x04\\x06\\x03\\x01\\x0"
+      },
+      {
+        "field": "Word_Example_1_Audio",
+        "ref": "hypertts-4058eddc8d11e7bd1d1887d5d0bf47e262ed4fcb427b719f368b01ec.mp3",
+        "bytes": 24228,
+        "duration": 3.0,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.LATIN1: 0>, text=['nVoiceTTS@NAVER'])}"
+      }
+    ]
+  },
+  {
+    "id": 1759734942401,
+    "fields": {
+      "English": "One day around 850 CE, a goatherd named Kaldi observed that, after nibbling on some berries, his goats started acting abnormally.",
+      "Word_1": "observed that: reporting what someone noticed",
+      "Word_Example_1": "She observed that the students were unusually quiet.",
+      "Vietnamese": "Một ngày nọ vào khoảng năm 850, sau khi nhấm nháp vài quả mọng,"
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "how_humanity_got_hooked_on_coffee_000.mp3",
+        "bytes": 518504,
+        "duration": 10.475102040816326,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF16: 1>, text=['Lavf58.76.100']), 'APIC:': APIC(encoding=<Encoding.LATIN1: 0>, mime='image/jpg', type=<PictureType.COVER_FRONT: 3>, desc='', data=b'\\xff\\xd8\\xff\\xe0\\x00\\x10JFIF\\x00\\x01\\x02\\x00\\x00\\x01\\x00\\x01\\x00\\x00\\xff\\xfe\\x00\\x11Lavc58.134.100\\x00\\xff\\xdb\\x00C\\x00\\x08\\x12\\x12\\x15\\x12\\x15\\x18\\x18\\x18\\x18\\x18\\x18\\x1d\\x1b\\x1d\\x1e\\x1e\\x1e\\x1d\\x1d\\x1d\\x1d\\x1e\\x1e\\x1e   &&&   \\x1e\\x1e  $$&&)*)\\'\\'&\\'**---6633??AMM]\\xff\\xc4\\x00\\xa3\\x00\\x01\\x00\\x01\\x05\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x06\\x05\\x07\\x04\\x02\\x03\\x08\\x01\\x01\\x00\\x02\\x03\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x02\\x01\\x05\\x04\\x03\\x06\\x07\\x10\\x00\\x02\\x01\\x03\\x02\\x04\\x04\\x03\\x06\\x05\\x03\\x03\\x05\\x00\\x02\\x03\\x00\\x01\\x02\\x04\\x03\\x11!1\\x12Q\\x05A\\x13qa\"\\x912\\x81\\xa1R\\xb1\\xc1\\x14B#3b\\xd1\\x06\\x15r\\xf0\\xe1C\\x824$\\x92\\xf1S\\xa2\\xc2sD\\xd2\\x11\\x01\\x00\\x02\\x02\\x01\\x03\\x03\\x03\\x04\\x02\\x03\\x00\\x03\\x01\\x01\\x01\\x00\\x01\\x02\\x03\\x11!\\x121\\x04Q\\x13Aa2\"\\x05q\\x14RB\\x81#\\x913bC\\xa1\\xf1"
+      },
+      {
+        "field": "Word_Example_1_Audio",
+        "ref": "hypertts-a5ff9dbb7bca3f53f2e4cf0122e7bed7584475678bc3c2f5daa9d248.mp3",
+        "bytes": 22116,
+        "duration": 2.736,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.LATIN1: 0>, text=['nVoiceTTS@NAVER'])}"
+      }
+    ]
+  }
+]

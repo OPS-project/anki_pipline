@@ -1,0 +1,25 @@
+{
+  "reference_notes": 7386,
+  "zh_notes": 7335,
+  "exact_sentence_overlap_notes": 7330,
+  "normalized_sentence_overlap_notes": 7331,
+  "hanzi_answer_differences": 0,
+  "unmatched_examples": [
+    {
+      "id": 1780156027415,
+      "sentence": "他喜欢他的同学们。"
+    },
+    {
+      "id": 1780156027543,
+      "sentence": "妈妈和孩子们一起玩儿。"
+    },
+    {
+      "id": 1780156027907,
+      "sentence": "这个问题正在被讨论。&quot;"
+    },
+    {
+      "id": 1780156029892,
+      "sentence": "加油，Po&#x27;！你能行的！"
+    }
+  ]
+}

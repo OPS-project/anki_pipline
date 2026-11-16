@@ -1,0 +1,81 @@
+{
+  "source_path": "chung\\raw\\ja-subs2srs-audiobook-sekai-no-news\\deck.apkg",
+  "sha256": "6e28462f35024ea032ef92a227898691ed212027742d022243a1d51520de55bf",
+  "notes": 1941,
+  "cards": 1941,
+  "models": {
+    "170655988728": {
+      "vers": [],
+      "name": "audiobook to srs",
+      "tags": [],
+      "did": 1713921644307,
+      "usn": -1,
+      "req": [
+        [
+          0,
+          "all",
+          [
+            2
+          ]
+        ]
+      ],
+      "flds": [
+        {
+          "name": "Audio",
+          "media": [],
+          "sticky": false,
+          "rtl": false,
+          "ord": 0,
+          "font": "Liberation Sans",
+          "size": 20
+        },
+        {
+          "name": "Image",
+          "media": [],
+          "sticky": false,
+          "rtl": false,
+          "ord": 1,
+          "font": "Liberation Sans",
+          "size": 20
+        },
+        {
+          "name": "Sentence",
+          "media": [],
+          "sticky": false,
+          "rtl": false,
+          "ord": 2,
+          "font": "Liberation Sans",
+          "size": 20
+        }
+      ],
+      "sortf": 0,
+      "tmpls": [
+        {
+          "name": "Card 1",
+          "qfmt": "{{Sentence}}",
+          "did": null,
+          "bafmt": "",
+          "afmt": "{{FrontSide}}<hr id=\"answer\">{{Audio}} {{Image}}",
+          "ord": 0,
+          "bqfmt": ""
+        }
+      ],
+      "mod": 1713921647,
+      "latexPost": "\\end{document}",
+      "type": 0,
+      "id": "170655988728",
+      "css": "",
+      "latexPre": "\n\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n\n"
+    }
+  },
+  "decks": {
+    "1713921644307": "世界のニュースを日本人は何も知らない",
+    "1": "Default"
+  },
+  "media": 1942,
+  "audio_fields": {
+    "Audio": 1941
+  },
+  "missing_reference_count": 0,
+  "missing_references": []
+}

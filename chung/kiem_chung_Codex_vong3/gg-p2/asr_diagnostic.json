@@ -1,0 +1,166 @@
+{
+  "model": "Whisper small-q5_1; whisper.cpp v1.9.2; greedy; language fixed; no reference prompt",
+  "method": "16 evenly spaced notes, diagnostic only. Not human listening or full-corpus alignment certification.",
+  "results": [
+    {
+      "index": 0,
+      "id": 1759738470397,
+      "reference": "Mastering any physical skill, be it performing a pirouette, playing an instrument, or throwing a baseball, takes practice.",
+      "translation": "Để thuần thục bất kì kĩ năng nào, thực hiện động tác múa quay tròn, chơi một nhạc cụ, hay ném bóng vào rổ, cần trải qua việc luyện tập.",
+      "asr": "Mastering any physical skill, be it performing a pirouette, playing an instrument, or throwing a baseball, takes practice.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.07
+    },
+    {
+      "index": 26,
+      "id": 1759738470423,
+      "reference": "Start out slowly or in slow-motion.",
+      "translation": "Hãy bắt đầu thật chậm.",
+      "asr": "start out slowly or in slow motion.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    },
+    {
+      "index": 52,
+      "id": 1759799544223,
+      "reference": "By repeating conversations they’ve had with adults, children practice managing their behaviors and emotions on their own.",
+      "translation": "Bằng cách lặp lại các cuộc trò chuyện mà chúng đã có với người lớn, trẻ em thực hành được việc kiểm soát hành vi và cảm xúc của chính mình.",
+      "asr": "By repeating conversations they've had with adults, children practice managing their behaviors and emotions on their own.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.07
+    },
+    {
+      "index": 78,
+      "id": 1759800214014,
+      "reference": "Your posture, the way you hold your body when you're sitting or standing, is the foundation for every movement your body makes, and can determine how well your body adapts to the stresses on it.",
+      "translation": "Tư thế của bạn, cách bạn ngồi hay đứng, là nền tảng cho mọi cử động của cơ thể, và có thể quyết định cơ thể bạn thích ứng với các sức ép như thế nào.",
+      "asr": "Your posture, the way you hold your body when you're sitting or standing, is the foundation for every movement your body makes, and can determine how well your body adapts to the stresses on it.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.18
+    },
+    {
+      "index": 104,
+      "id": 1759800214040,
+      "reference": "But what if your posture isn't that great?",
+      "translation": "Nhưng nếu tư thế của bạn không được tốt như vậy?",
+      "asr": "But what if your posture isn't that great?",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.97
+    },
+    {
+      "index": 130,
+      "id": 1759800780264,
+      "reference": "The rabbit, too small to battle the current, nimbly hopped across stones and logs to come in fourth.",
+      "translation": "Thỏ vì quá nhỏ bé để chống lại dòng nước xiết nên đã nhảy qua đá và khúc cây để về thứ tư.",
+      "asr": "The rabbit, too small to battle the current, nimbly hopped across stones and logs to come in fourth.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.98
+    },
+    {
+      "index": 156,
+      "id": 1759801368712,
+      "reference": "America, Britain, and France joined forces with the Soviet Union against the Axis Powers.",
+      "translation": "Mỹ, Anh và Pháp tham gia thế chiến với Liên Xô chống lại phe Trục.",
+      "asr": "America, Britain, and France joined forces with the Soviet Union against the Axis powers.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.0
+    },
+    {
+      "index": 182,
+      "id": 1759801368738,
+      "reference": "Yet the risk was great.",
+      "translation": "Tuy nhiên nguy cơ rất cao.",
+      "asr": "Yet the risk was great.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.9
+    },
+    {
+      "index": 208,
+      "id": 1759801897589,
+      "reference": "As a pregnancy progresses, the uterus expands upward and outward with the growing fetus.",
+      "translation": "Trong quá trình mang thai, tử cung nở rộng lên trên và ra ngoài cùng với sự lớn dần của thai nhi.",
+      "asr": "As pregnancy progresses, the uterus expands upward and outward with the growing fetus.",
+      "similarity": 0.993,
+      "exit_code": 0,
+      "elapsed_seconds": 2.03
+    },
+    {
+      "index": 234,
+      "id": 1759801897615,
+      "reference": "The lack of information about pregnancy’s effects on the brain highlights a general truth: historically, almost all the research around pregnancy has focused on the fetus, rather than pregnant women.",
+      "translation": "Sự thiếu thông tin trong việc mang thai ảnh hưởng lên não làm nổi bật một sự thật: trong lịch sử, hầu như mọi nghiên cứu về thai sản đều tập trung vào thai nhi, mà quên đi sản phụ.",
+      "asr": "The lack of information about pregnancy's effects on the brain highlights a general truth. Historically, almost all the research around pregnancy has focused on the fetus rather than the pregnant women.",
+      "similarity": 0.991,
+      "exit_code": 0,
+      "elapsed_seconds": 2.13
+    },
+    {
+      "index": 260,
+      "id": 1759802447560,
+      "reference": "And by following a line of inquiry where it logically leads, both the question asker and answerer can end up in unexpected places.",
+      "translation": "Và bằng cách tuân theo một dòng chảy dẫn đến những điều logic, cả người hỏi lẫn người đáp đều có thể kết thúc ở những điểm không ngờ tới.",
+      "asr": "And by following a line of inquiry where it logically leads, both the question-asker and answerer can end up in unexpected places.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.05
+    },
+    {
+      "index": 286,
+      "id": 1759803050685,
+      "reference": "These warning signs point to a particular part of the brain: the hypothalamus.",
+      "translation": "Những dấu hiệu này hướng đến một vùng của bộ não: Vùng dưới đồi.",
+      "asr": "These warning signs point to a particular part of the brain, the hypothalamus.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    },
+    {
+      "index": 312,
+      "id": 1759803631211,
+      "reference": "You make crude tools, hunt, and gather food and materials, until, eventually, you perish.",
+      "translation": "Bạn chế tạo những vũ khí thô, đi săn, và hái lượm thức ăn và vật liệu, cho đến khi, cuối cùng, bạn qua đời.",
+      "asr": "you make crude tools, hunt, and gather food and materials until, eventually, you perish.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.97
+    },
+    {
+      "index": 338,
+      "id": 1759803631237,
+      "reference": "Business ventures that you built over generations transform overnight.",
+      "translation": "Việc kinh doanh mà bạn gây dựng qua nhiều thế hệ",
+      "asr": "Business ventures that you built over generations transform overnight.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    },
+    {
+      "index": 364,
+      "id": 1759804510170,
+      "reference": "It lingers for at least two consecutive weeks, and significantly interferes with one's ability to work, play, or love.",
+      "translation": "Nó kéo dài ít nhất trong 2 tuần liên tiếp, và ảnh hưởng lớn đến khả năng làm việc, vui chơi, hay yêu đương",
+      "asr": "It lingers for at least two consecutive weeks and significantly interferes with one's ability to work, play, or love.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.07
+    },
+    {
+      "index": 390,
+      "id": 1759804510196,
+      "reference": "And the more patients seek treatment, the more scientists will learn about depression, and the better the treatments will get.",
+      "translation": "và càng nhiều bệnh nhân được trị liệu thì các nhà khoa học càng biết nhiều hơn về căn bệnh này, và họ sẽ tìm ra nhiều cách chữa tốt hơn.",
+      "asr": "And the more patients seek treatment, the more scientists will learn about depression, and the better the treatments will get.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.96
+    }
+  ]
+}

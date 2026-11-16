@@ -1,0 +1,1306 @@
+{
+ "model": "opus",
+ "vong": "R6",
+ "ngay": "2026-11-16",
+ "ghi_chu": "hanviet_moi là chuỗi HOA cả từ. null = giữ nguyên trường. Mục needs_review giữ âm hiện tại trong hanviet (certainty 'uncertain' cho chữ đó). Mục 乒乓球 xuất hiện dưới cả 乒 và 乓 (cùng review_reason gộp) → áp một lần. 吹: 'giu' nhưng có theo_tu chỉ để sửa char_note (chi_sua_char_note=true).",
+ "cands_bosung": [
+  {
+   "char": "兔",
+   "reading": "thố",
+   "source": "wiktionary_web:https://en.wiktionary.org/wiki/兔",
+   "evidence": "Wiktionary (en), trang 兔, truy cập 2026-11-16: 'Hán Việt readings: thố / Nôm readings: thỏ, thò, xỏ'. Gián tiếp Thiều Chửu: 菟 #8222 am_han 'thỏ, thố, đồ', 'Cũng đọc là chữ thố' (bản số hóa ghi 兔 #6564 'thỏ')."
+  },
+  {
+   "char": "啃",
+   "reading": "khẩn",
+   "source": "thieuchuu(via 齦 #2296);hvpinyin(via 齦, ken3)",
+   "evidence": "啃 kSemanticVariant 齦 (Unihan). Thiều Chửu 齦 #2296 am_han 'ngân, khẩn': 'Một âm là khẩn. Cắn xương, nhá xương.' hvpinyin: 齦:['khẩn']/ken3."
+  }
+ ],
+ "chars": [
+  {
+   "char": "兔",
+   "nhom": "1",
+   "so_muc": 2,
+   "quyet_dinh": "doi:thố",
+   "can_cu": "Chỉ thị điều phối. Âm Hán Việt là THỐ: Wiktionary (en, trang 兔, truy cập 16/11/2026) ghi Hán Việt = thố, Nôm = thỏ/thò/xỏ; Thiều Chửu gián tiếp qua 菟 #8222 ('thỏ, thố, đồ'; 'Cũng đọc là chữ thố'). Bản Thiều Chửu số hóa ghi 兔 #6564 'thỏ'. 'thỏ' là từ Việt, giữ trong nghia_vi và có thể trong goi_nho.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk5:1792758600382",
+     "hanviet_cu": "THỎ TỬ",
+     "hanviet_moi": "THỐ TỬ",
+     "char_note": "兔 thỏ→thố: âm Hán Việt là thố (Wiktionary: Hán Việt thố, Nôm thỏ; Thiều Chửu gián tiếp qua 菟 #8222 'cũng đọc là chữ thố'; bản Thiều Chửu số hóa ghi 兔 'thỏ'). Từ Việt đọc 'thỏ' (âm Nôm).",
+     "pt_noi_dung_moi": "兔 thố (con thỏ) + 子 tử (hậu tố danh từ) → con thỏ",
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758603318",
+     "hanviet_cu": "THỦ CHU ĐÃI THỎ",
+     "hanviet_moi": "THỦ CHU ĐÃI THỐ",
+     "char_note": "兔 thỏ→thố: âm Hán Việt là thố (Wiktionary: Hán Việt thố, Nôm thỏ; Thiều Chửu gián tiếp qua 菟 #8222 'cũng đọc là chữ thố'; bản Thiều Chửu số hóa ghi 兔 'thỏ'). Từ Việt đọc 'thỏ' (âm Nôm).",
+     "pt_noi_dung_moi": "tiếng Việt nói \"ôm cây đợi thỏ\": 守 thủ (giữ) + 株 chu (gốc cây) + 待 đãi (đợi) + 兔 thố (con thỏ)",
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null
+    }
+   ]
+  },
+  {
+   "char": "吹",
+   "nhom": "1",
+   "so_muc": 4,
+   "quyet_dinh": "giu",
+   "can_cu": "Chỉ thị điều phối. xuy và xúy là hai âm có nguồn của CÙNG chữ 吹 (Thiều Chửu #5304 'xuy, xúy'; Wiktionary: xuy, xúy/xuý, súy/suý). Nghĩa 'thổi' → xuy (xuy tiêu, xuy địch); xúy dùng trong 'cổ xúy' 鼓吹 (không có mục 鼓吹 trong deck). 吹捧 (tâng bốc) vẫn là 'thổi phồng' → xuy. Giữ XUY cho cả 4 mục; chỉ cập nhật char_note.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk4:1792758600512",
+     "hanviet_moi": "XUY",
+     "char_note": "吹=xuy (thổi). Thiều Chửu #5304 ghi cùng chữ hai âm 'xuy, xúy': nghĩa thổi đọc xuy (xuy tiêu 吹簫, xuy địch 吹笛); 'Một âm là xúy', dùng trong 'cổ xúy' 鼓吹.",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null,
+     "chi_sua_char_note": true
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602394",
+     "hanviet_moi": "XUY PHỦNG",
+     "char_note": "吹=xuy (thổi). Thiều Chửu #5304 ghi cùng chữ hai âm 'xuy, xúy': nghĩa thổi đọc xuy (xuy tiêu 吹簫, xuy địch 吹笛); 'Một âm là xúy', dùng trong 'cổ xúy' 鼓吹. 捧=phủng (Thiều Chửu; 'bưng' là âm Nôm).",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null,
+     "chi_sua_char_note": true
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602396",
+     "hanviet_moi": "XUY NGƯU",
+     "char_note": "吹=xuy (thổi). Thiều Chửu #5304 ghi cùng chữ hai âm 'xuy, xúy': nghĩa thổi đọc xuy (xuy tiêu 吹簫, xuy địch 吹笛); 'Một âm là xúy', dùng trong 'cổ xúy' 鼓吹.",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null,
+     "chi_sua_char_note": true
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758610860",
+     "hanviet_moi": "PHONG XUY VŨ ĐẢ",
+     "char_note": "吹=xuy (thổi). Thiều Chửu #5304 ghi cùng chữ hai âm 'xuy, xúy': nghĩa thổi đọc xuy (xuy tiêu 吹簫, xuy địch 吹笛); 'Một âm là xúy', dùng trong 'cổ xúy' 鼓吹.",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null,
+     "chi_sua_char_note": true
+    }
+   ]
+  },
+  {
+   "char": "咱",
+   "nhom": "2",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "Thiều Chửu #6626 ghi 'cha, gia'; mục dị thể 喒 #8459: 'Về phương bắc kêu là chữ gia. Như gia môn 喒門 chúng ta', đúng từ 咱们. 'ta' (hvpinyin/kaikki) là đại từ thuần Việt, không dùng làm âm Hán Việt."
+  },
+  {
+   "char": "姥",
+   "nhom": "2",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "Thiều Chửu ghi 'mỗ, mụ' (cùng chữ). Cả hai đều là âm Hán Việt có nguồn; không từ Việt nào chứng thực riêng âm nào. Giữ mỗ (âm đầu của Thiều Chửu, R1 đã chọn), không phải bất định về độ đúng nên không đặt needs_review. 'lão' chỉ có ở hvpinyin (theo pinyin lǎo)."
+  },
+  {
+   "char": "踹",
+   "nhom": "2",
+   "so_muc": 1,
+   "quyet_dinh": "doi:sủy",
+   "can_cu": "Thiều Chửu #8880 ghi 'đoán, sủy': đoán = 'dọi gót chân xuống đất'; 'Một âm là sủy. Xéo nát'. Nghĩa mục (đá, đạp mạnh, giẫm) và âm tiết chuài khớp âm sủy (cùng kiểu ch-/s- như 揣 chuǎi = sủy, Thiều Chửu); đoán ứng âm tiết duàn. sủy có sẵn trong cands (thieuchuu).",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758609790",
+     "hanviet_cu": "ĐOÁN",
+     "hanviet_moi": "SỦY",
+     "char_note": "踹 đoán→sủy: Thiều Chửu ghi 'đoán, sủy'; 'Một âm là sủy. Xéo nát' khớp nghĩa đạp/giẫm và âm tiết chuài (như 揣 chuǎi sủy); đoán là nghĩa dọi gót chân.",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null
+    }
+   ]
+  },
+  {
+   "char": "椎",
+   "nhom": "2",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "颈椎 jǐng zhuī: Thiều Chửu 'truy, trùy' (trùy là âm khác: 'còn có âm là trùy' cho cái vồ/búi tóc). Âm tiết zhuī ứng truy; hvpinyin chuy/trùy/chùy gắn với chuí (槌). Giữ truy."
+  },
+  {
+   "char": "歪",
+   "nhom": "2",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "Thiều Chửu: 'oai, oa… Ta quen đọc là chữ oa'. Giữ oa."
+  },
+  {
+   "char": "滴",
+   "nhom": "2",
+   "so_muc": 2,
+   "quyet_dinh": "doi:trích",
+   "can_cu": "Thiều Chửu #9558 ghi 'tích, trích' và nói rõ 'Ta quen đọc là chữ trích', dẫn Nguyễn Trãi 'Điểm trích sổ tàn canh' 點滴數殘更. Cả hai âm đều có nguồn; theo chính lời Thiều Chửu về cách đọc quen của người Việt (cùng cách R1 đã xử lý 歪 'ta quen đọc oa'). trích có sẵn trong cands (thieuchuu).",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk6:1792758602272",
+     "hanviet_cu": "TÍCH",
+     "hanviet_moi": "TRÍCH",
+     "char_note": "滴 tích→trích: Thiều Chửu ghi 'tích, trích', 'ta quen đọc là chữ trích' (Nguyễn Trãi: 'điểm trích' 點滴); tích có ở hvpinyin.",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758606392",
+     "hanviet_cu": "THỦY TÍCH THẠCH XUYÊN",
+     "hanviet_moi": "THỦY TRÍCH THẠCH XUYÊN",
+     "char_note": "滴 tích→trích: Thiều Chửu ghi 'tích, trích', 'ta quen đọc là chữ trích' (Nguyễn Trãi: 'điểm trích' 點滴); tích có ở hvpinyin.",
+     "pt_noi_dung_moi": "水 thủy (nước) + 滴 trích (giọt) + 石 thạch (đá) + 穿 xuyên (thủng) → giọt nước làm thủng đá",
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null
+    }
+   ]
+  },
+  {
+   "char": "哨",
+   "nhom": "2",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "Thiều Chửu: 'Một âm là sáo. Sáo tử 哨子 cái còi… tuần sáo, phóng sáo'; khớp cả nghĩa còi và chốt gác; hvpinyin cũng ghi sáo. Ghi nhận: từ Việt 'tiền tiêu' 前哨 đọc 'tiêu' (pt của 哨 đã nhắc), không đổi âm mục."
+  },
+  {
+   "char": "吗",
+   "nhom": "2",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "Thiều Chửu 嗎 #219 'mạ': 'Tục dùng làm tiếng giúp lời'. 'ma' chỉ có ở hvpinyin. Giữ mạ (hu_tu)."
+  },
+  {
+   "char": "撞",
+   "nhom": "2",
+   "so_muc": 4,
+   "quyet_dinh": "giu",
+   "can_cu": "Thiều Chửu và Unihan đều ghi chàng ('chàng chung 撞鐘 đánh chuông'); 'tràng' chỉ có ở hvpinyin. Giữ chàng."
+  },
+  {
+   "char": "晃",
+   "nhom": "2",
+   "so_muc": 4,
+   "quyet_dinh": "giu",
+   "can_cu": "Thiều Chửu + hvpinyin đều ghi hoảng; 'hoàng' chỉ có ở hvpinyin. Giữ hoảng."
+  },
+  {
+   "char": "挣",
+   "nhom": "2",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "Thiều Chửu (via 掙) + Unihan ghi tránh; 'tranh' chỉ có ở hvpinyin. Giữ tránh."
+  },
+  {
+   "char": "钉",
+   "nhom": "2",
+   "so_muc": 4,
+   "quyet_dinh": "giu",
+   "can_cu": "đinh có ở cả ba nguồn và là từ Việt 'đinh'; 'đính' chỉ có ở hvpinyin (dìng). Giữ đinh."
+  },
+  {
+   "char": "刹",
+   "nhom": "2",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "sát có ở Thiều Chửu + hvpinyin; từ Việt 'sát na' 刹那, 'cổ sát'. 'sa' chỉ có ở hvpinyin (shā). Giữ sát."
+  },
+  {
+   "char": "呵",
+   "nhom": "2",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "ha có hai nguồn (hvpinyin hē + Unihan kVietnamese); Thiều Chửu chỉ ghi âm 'a' (tiếng đệm, nghĩa khác). Giữ ha."
+  },
+  {
+   "char": "哈",
+   "nhom": "2",
+   "so_muc": 1,
+   "quyet_dinh": "doi:cáp",
+   "can_cu": "Thiều Chửu #6609 chỉ ghi cáp, có cả nghĩa tiếng cười: 'Cáp cáp 哈哈 tiếng cười hầng hậc, khanh khách' (đúng nghĩa thán từ của mục). 'ha/hà' chỉ có ở hvpinyin; từ Việt chứng thực cáp: 'Cáp Nhĩ Tân' (哈爾濱). Theo quy ước R1 mục 1.5: chữ có mục Thiều Chửu thì theo Thiều Chửu. cáp có sẵn trong cands (thieuchuu).",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk5:1792758600766",
+     "hanviet_cu": "HA",
+     "hanviet_moi": "CÁP",
+     "char_note": "哈 ha→cáp: Thiều Chửu chỉ ghi cáp ('cáp cáp 哈哈 tiếng cười'); 'ha' chỉ có ở hvpinyin; từ Việt: Cáp Nhĩ Tân 哈爾濱.",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null
+    }
+   ]
+  },
+  {
+   "char": "吭",
+   "nhom": "2",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "吭 kēng (lên tiếng): âm 'khang' chỉ có ở hvpinyin, không có từ Việt chứng thực; Thiều Chửu chỉ ghi hàng/hạng với nghĩa cổ họng (háng), chưa chắc áp được cho kēng.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758600018",
+     "hanviet_moi": "NHẤT THANH BẤT KHANG",
+     "char_note": "吭=khang (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "吭 kēng (lên tiếng): âm 'khang' chỉ có ở hvpinyin, không có từ Việt chứng thực; Thiều Chửu chỉ ghi hàng/hạng với nghĩa cổ họng (háng), chưa chắc áp được cho kēng."
+    }
+   ]
+  },
+  {
+   "char": "什",
+   "nhom": "2",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "什么 shén: hvpinyin ghi riêng thậm cho shén (thập cho shí). Nguồn thứ hai gián tiếp: 什麼 = 甚麼, và Thiều Chửu 甚 'thậm… Nào. Như thậm nhật quy lai 甚日歸來 ngày nào trở về' (nghĩa nghi vấn); từ Việt 'thậm chí'. Thập (Thiều Chửu/Unihan) là âm cho nghĩa 'mười', sai âm tiết shén. Giữ thậm."
+  },
+  {
+   "char": "缅",
+   "nhom": "2",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "Từ Việt 'Miến Điện' (緬甸) chứng thực âm miến của chính chữ này, cùng pinyin miǎn; Thiều Chửu ghi miễn/diến nhưng không tách âm theo nghĩa. Giữ miến (R1)."
+  },
+  {
+   "char": "姐",
+   "nhom": "3",
+   "so_muc": 3,
+   "quyet_dinh": "giu",
+   "can_cu": "tỷ: từ Việt 'tỷ muội', 'tỷ tỷ' (hvpinyin); thư theo từ Việt 'tiểu thư' cho 小姐 (Thiều Chửu). Giữ theo từ như hiện tại."
+  },
+  {
+   "char": "饺",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "cảo: từ Việt 'sủi cảo', 'há cảo' (hvpinyin). Giữ."
+  },
+  {
+   "char": "咖",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "doi:già",
+   "can_cu": "Thiều Chửu #5860 ghi 咖 'già' và nêu đúng từ này: 'Già phê 咖啡 cây cà phê'. 'ca' chỉ có ở hvpinyin, không có từ Việt Hán Việt chứng thực ('cà phê' là từ vay mượn tiếng Pháp, không phải âm Hán Việt). già có sẵn trong cands (thieuchuu). Đảo lại quyết định R1 ('ca, phiên âm') vì Thiều Chửu có mục trực tiếp cho 咖啡.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk2:1792758600082",
+     "hanviet_cu": "CA PHÊ",
+     "hanviet_moi": "GIÀ PHÊ",
+     "char_note": "咖 ca→già: Thiều Chửu ghi 'Già phê 咖啡 cây cà phê'; 'ca' chỉ có ở hvpinyin. Từ Việt đọc 'cà phê' (vay mượn tiếng Pháp).",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null
+    }
+   ]
+  },
+  {
+   "char": "卡",
+   "nhom": "3",
+   "so_muc": 7,
+   "quyet_dinh": "needs_review",
+   "can_cu": "卡 kǎ (thẻ, chữ phiên âm card/car): âm 'ca' chỉ có ở hvpinyin (gắn theo ka3), không có nguồn thứ hai hay từ Việt chứng thực; Thiều Chửu chỉ ghi tạp/khải với nghĩa trạm canh, sở thuế (qiǎ), chưa chắc áp được cho nghĩa thẻ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk3:1792758600084",
+     "hanviet_moi": "TÍN DỤNG CA",
+     "char_note": "卡=ca (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "卡 kǎ (thẻ, chữ phiên âm card/car): âm 'ca' chỉ có ở hvpinyin (gắn theo ka3), không có nguồn thứ hai hay từ Việt chứng thực; Thiều Chửu chỉ ghi tạp/khải với nghĩa trạm canh, sở thuế (qiǎ), chưa chắc áp được cho nghĩa thẻ."
+    },
+    {
+     "note_key": "zh:hskstory-hsk3:1792758600194",
+     "hanviet_moi": "CA",
+     "char_note": "卡=ca (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "卡 kǎ (thẻ, chữ phiên âm card/car): âm 'ca' chỉ có ở hvpinyin (gắn theo ka3), không có nguồn thứ hai hay từ Việt chứng thực; Thiều Chửu chỉ ghi tạp/khải với nghĩa trạm canh, sở thuế (qiǎ), chưa chắc áp được cho nghĩa thẻ."
+    },
+    {
+     "note_key": "zh:hskstory-hsk3:1792758600928",
+     "hanviet_moi": "NGÂN HÀNG CA",
+     "char_note": "卡=ca (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "卡 kǎ (thẻ, chữ phiên âm card/car): âm 'ca' chỉ có ở hvpinyin (gắn theo ka3), không có nguồn thứ hai hay từ Việt chứng thực; Thiều Chửu chỉ ghi tạp/khải với nghĩa trạm canh, sở thuế (qiǎ), chưa chắc áp được cho nghĩa thẻ."
+    },
+    {
+     "note_key": "zh:hskstory-hsk6:1792758600652",
+     "hanviet_moi": "CA PHIẾN",
+     "char_note": "卡=ca (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "卡 kǎ (thẻ, chữ phiên âm card/car): âm 'ca' chỉ có ở hvpinyin (gắn theo ka3), không có nguồn thứ hai hay từ Việt chứng thực; Thiều Chửu chỉ ghi tạp/khải với nghĩa trạm canh, sở thuế (qiǎ), chưa chắc áp được cho nghĩa thẻ."
+    },
+    {
+     "note_key": "zh:hskstory-hsk6:1792758601556",
+     "hanviet_moi": "ĐẢ CA",
+     "char_note": "卡=ca (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "卡 kǎ (thẻ, chữ phiên âm card/car): âm 'ca' chỉ có ở hvpinyin (gắn theo ka3), không có nguồn thứ hai hay từ Việt chứng thực; Thiều Chửu chỉ ghi tạp/khải với nghĩa trạm canh, sở thuế (qiǎ), chưa chắc áp được cho nghĩa thẻ."
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758601940",
+     "hanviet_moi": "CA XA",
+     "char_note": "卡=ca (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "卡 kǎ (thẻ, chữ phiên âm card/car): âm 'ca' chỉ có ở hvpinyin (gắn theo ka3), không có nguồn thứ hai hay từ Việt chứng thực; Thiều Chửu chỉ ghi tạp/khải với nghĩa trạm canh, sở thuế (qiǎ), chưa chắc áp được cho nghĩa thẻ."
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758601942",
+     "hanviet_moi": "CA THÔNG",
+     "char_note": "卡=ca (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "卡 kǎ (thẻ, chữ phiên âm card/car): âm 'ca' chỉ có ở hvpinyin (gắn theo ka3), không có nguồn thứ hai hay từ Việt chứng thực; Thiều Chửu chỉ ghi tạp/khải với nghĩa trạm canh, sở thuế (qiǎ), chưa chắc áp được cho nghĩa thẻ."
+    }
+   ]
+  },
+  {
+   "char": "单",
+   "nhom": "3",
+   "so_muc": 23,
+   "quyet_dinh": "giu",
+   "can_cu": "đơn: hvpinyin + Unihan; từ Việt đơn giản, đơn vị, cô đơn, thực đơn. Giữ (R1)."
+  },
+  {
+   "char": "啤",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "啤: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. 'bia' trùng từ Việt vay mượn tiếng Pháp (bière), không phải từ Hán Việt.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk3:1792758600278",
+     "hanviet_moi": "BIA TỬU",
+     "char_note": "啤=bia (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "啤: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. 'bia' trùng từ Việt vay mượn tiếng Pháp (bière), không phải từ Hán Việt."
+    }
+   ]
+  },
+  {
+   "char": "层",
+   "nhom": "3",
+   "so_muc": 9,
+   "quyet_dinh": "giu",
+   "can_cu": "tầng: hvpinyin, Unihan, kaikki, Wiktionary; từ Việt tầng lớp, giai tầng. Giữ."
+  },
+  {
+   "char": "带",
+   "nhom": "3",
+   "so_muc": 19,
+   "quyet_dinh": "giu",
+   "can_cu": "đới: hvpinyin; từ Việt nhiệt đới, ôn đới, hàn đới. Giữ (R1)."
+  },
+  {
+   "char": "乒",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "乒/乓: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (binh, bàng); Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk4:1792758600072",
+     "hanviet_moi": "BINH BÀNG CẦU",
+     "char_note": "乒=binh (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "乒/乓: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (binh, bàng); Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "乓",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "乒/乓: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (binh, bàng); Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk4:1792758600072",
+     "hanviet_moi": "BINH BÀNG CẦU",
+     "char_note": "乓=bàng (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "乒/乓: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (binh, bàng); Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "份",
+   "nhom": "3",
+   "so_muc": 8,
+   "quyet_dinh": "giu",
+   "can_cu": "phần: hvpinyin + Unihan; từ Việt cổ phần. Giữ (R1)."
+  },
+  {
+   "char": "嗯",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "嗯: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; char_note cũ đã nghi 'âm đặt tạm'.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk4:1792758600536",
+     "hanviet_moi": "ÂN",
+     "char_note": "嗯=ân (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "嗯: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; char_note cũ đã nghi 'âm đặt tạm'."
+    }
+   ]
+  },
+  {
+   "char": "帅",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "soái: hvpinyin + Unihan; từ Việt nguyên soái, thống soái. Giữ."
+  },
+  {
+   "char": "胳",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "胳: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (cả dị thể 肐 cũng chỉ hvpinyin); Thiều Chửu không có chữ; Unihan chỉ ghi âm Nôm.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk4:1792758601594",
+     "hanviet_moi": "CÁCH BÁC",
+     "char_note": "胳=cách (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "胳: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (cả dị thể 肐 cũng chỉ hvpinyin); Thiều Chửu không có chữ; Unihan chỉ ghi âm Nôm."
+    }
+   ]
+  },
+  {
+   "char": "延",
+   "nhom": "3",
+   "so_muc": 10,
+   "quyet_dinh": "giu",
+   "can_cu": "diên: hvpinyin; từ Việt diên trì. Giữ (R1)."
+  },
+  {
+   "char": "分",
+   "nhom": "3",
+   "so_muc": 55,
+   "quyet_dinh": "giu",
+   "can_cu": "phân/phận/phần theo từ (thành phần, phần tử; bổn phận…). Giữ (R1)."
+  },
+  {
+   "char": "扩",
+   "nhom": "3",
+   "so_muc": 7,
+   "quyet_dinh": "giu",
+   "can_cu": "khuếch: hvpinyin; từ Việt khuếch đại, khuếch tán, khuếch trương. Giữ."
+  },
+  {
+   "char": "捡",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "捡/撿: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk5:1792758601548",
+     "hanviet_moi": "KIỂM",
+     "char_note": "捡=kiểm (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "捡/撿: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "搞",
+   "nhom": "3",
+   "so_muc": 3,
+   "quyet_dinh": "needs_review",
+   "can_cu": "搞: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. Dị thể Unihan 攪 có Thiều Chửu 'giảo' (quấy) nhưng khác âm tiết (jiǎo) và khác nghĩa (làm) nên không thay được; Unihan 'cào' là âm Nôm.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk5:1792758601602",
+     "hanviet_moi": "CẢO",
+     "char_note": "搞=cảo (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "搞: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. Dị thể Unihan 攪 có Thiều Chửu 'giảo' (quấy) nhưng khác âm tiết (jiǎo) và khác nghĩa (làm) nên không thay được; Unihan 'cào' là âm Nôm."
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758605326",
+     "hanviet_moi": "CẢO TIẾU",
+     "char_note": "搞=cảo (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "搞: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. Dị thể Unihan 攪 có Thiều Chửu 'giảo' (quấy) nhưng khác âm tiết (jiǎo) và khác nghĩa (làm) nên không thay được; Unihan 'cào' là âm Nôm."
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758605328",
+     "hanviet_moi": "CẢO QUỶ",
+     "char_note": "搞=cảo (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "搞: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. Dị thể Unihan 攪 có Thiều Chửu 'giảo' (quấy) nhưng khác âm tiết (jiǎo) và khác nghĩa (làm) nên không thay được; Unihan 'cào' là âm Nôm."
+    }
+   ]
+  },
+  {
+   "char": "浓",
+   "nhom": "3",
+   "so_muc": 5,
+   "quyet_dinh": "giu",
+   "can_cu": "nồng: hvpinyin, kaikki, Wiktionary; từ Việt nồng độ, nồng hậu. Giữ."
+  },
+  {
+   "char": "玫",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "mai: hvpinyin + Thiều Chửu (via 玟); từ Việt 'mai khôi'. Giữ."
+  },
+  {
+   "char": "璃",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "lê: hvpinyin + Unihan; từ Việt 'pha lê'. Giữ."
+  },
+  {
+   "char": "综",
+   "nhom": "3",
+   "so_muc": 3,
+   "quyet_dinh": "giu",
+   "can_cu": "tổng (综合 tổng hợp) / tông (错综). Giữ (R1)."
+  },
+  {
+   "char": "领",
+   "nhom": "3",
+   "so_muc": 25,
+   "quyet_dinh": "giu",
+   "can_cu": "lãnh/lĩnh theo nghĩa (lãnh đạo, lãnh thổ / lĩnh vực, chiếm lĩnh). Giữ (R1)."
+  },
+  {
+   "char": "侄",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "điệt: Thiều Chửu 侄 'Tục mượn làm chữ điệt 姪 cháu' + Thiều Chửu 姪 điệt + hvpinyin. Giữ."
+  },
+  {
+   "char": "并",
+   "nhom": "3",
+   "so_muc": 11,
+   "quyet_dinh": "giu",
+   "can_cu": "tịnh (並) / tính (併, thôn tính). Giữ (R1)."
+  },
+  {
+   "char": "嘿",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "嘿 hēi: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. Dị thể 默 mặc chỉ ứng âm mò (lặng im), không ứng thán từ hēi.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk6:1792758600848",
+     "hanviet_moi": "HẮC",
+     "char_note": "嘿=hắc (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "嘿 hēi: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. Dị thể 默 mặc chỉ ứng âm mò (lặng im), không ứng thán từ hēi."
+    }
+   ]
+  },
+  {
+   "char": "顶",
+   "nhom": "3",
+   "so_muc": 7,
+   "quyet_dinh": "giu",
+   "can_cu": "đỉnh: hvpinyin, kaikki, Wiktionary; từ Việt đỉnh, đỉnh cao. Giữ."
+  },
+  {
+   "char": "摆",
+   "nhom": "3",
+   "so_muc": 7,
+   "quyet_dinh": "giu",
+   "can_cu": "bài: hvpinyin; từ Việt bài trí. Giữ (R1)."
+  },
+  {
+   "char": "潮",
+   "nhom": "3",
+   "so_muc": 7,
+   "quyet_dinh": "giu",
+   "can_cu": "triều/trào theo nghĩa; từ Việt trào lưu, cao trào. Giữ (R1)."
+  },
+  {
+   "char": "迫",
+   "nhom": "3",
+   "so_muc": 12,
+   "quyet_dinh": "giu",
+   "can_cu": "bách/bức theo từ Việt (cưỡng bách, cấp bách / áp bức, bức thiết). Giữ."
+  },
+  {
+   "char": "间",
+   "nhom": "3",
+   "so_muc": 26,
+   "quyet_dinh": "giu",
+   "can_cu": "gian/gián theo từ Việt (gián tiếp, gián đoạn). Giữ."
+  },
+  {
+   "char": "仇",
+   "nhom": "3",
+   "so_muc": 4,
+   "quyet_dinh": "giu",
+   "can_cu": "thù: Thiều Chửu (via 讎) + hvpinyin + Unihan; từ Việt thù hận, báo thù. Giữ."
+  },
+  {
+   "char": "姆",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "mẫu: từ Việt 'bảo mẫu' (保姆). Giữ."
+  },
+  {
+   "char": "旋",
+   "nhom": "3",
+   "so_muc": 6,
+   "quyet_dinh": "giu",
+   "can_cu": "toàn; riêng 凯旋 hoàn theo từ Việt 'khải hoàn'. Giữ (R1)."
+  },
+  {
+   "char": "勾",
+   "nhom": "3",
+   "so_muc": 3,
+   "quyet_dinh": "giu",
+   "can_cu": "câu; riêng 勾结 cấu theo từ Việt 'cấu kết'. Giữ."
+  },
+  {
+   "char": "去",
+   "nhom": "3",
+   "so_muc": 19,
+   "quyet_dinh": "giu",
+   "can_cu": "khứ; khử cho nghĩa loại bỏ theo từ Việt trừ khử, khử trùng. Giữ."
+  },
+  {
+   "char": "愣",
+   "nhom": "3",
+   "so_muc": 2,
+   "quyet_dinh": "needs_review",
+   "can_cu": "愣: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602088",
+     "hanviet_moi": "PHÁT LĂNG",
+     "char_note": "愣=lăng (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "愣: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758604568",
+     "hanviet_moi": "LĂNG",
+     "char_note": "愣=lăng (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "愣: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "叛",
+   "nhom": "3",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "phản: hvpinyin; từ Việt phản bội, phản nghịch. Giữ."
+  },
+  {
+   "char": "叼",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "叼: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602264",
+     "hanviet_moi": "ĐIÊU",
+     "char_note": "叼=điêu (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "叼: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "唬",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "唬 hǔ: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; các dị thể (諕 hào, 虓 hao, 猇 khiêu) khác âm tiết, không thay được.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602364",
+     "hanviet_moi": "HÁCH HỔ",
+     "char_note": "唬=hổ (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "唬 hǔ: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; các dị thể (諕 hào, 虓 hao, 猇 khiêu) khác âm tiết, không thay được."
+    }
+   ]
+  },
+  {
+   "char": "咧",
+   "nhom": "3",
+   "so_muc": 2,
+   "quyet_dinh": "needs_review",
+   "can_cu": "咧: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; Unihan chỉ ghi âm Nôm 'lác'.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602474",
+     "hanviet_moi": "LIỆT CHỦY",
+     "char_note": "咧=liệt (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "咧: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; Unihan chỉ ghi âm Nôm 'lác'."
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602998",
+     "hanviet_moi": "ĐẠI ĐẠI LIỆT LIỆT",
+     "char_note": "咧=liệt (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "咧: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; Unihan chỉ ghi âm Nôm 'lác'."
+    }
+   ]
+  },
+  {
+   "char": "嗦",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "嗦: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602494",
+     "hanviet_moi": "ĐÁ SÁCH",
+     "char_note": "嗦=sách (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "嗦: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "啃",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "doi:khẩn",
+   "can_cu": "啃 là dị thể nghĩa của 齦 (Unihan kSemanticVariant, có trong hồ sơ). Thiều Chửu 齦 #2296: 'ngân, khẩn… Một âm là khẩn. Cắn xương, nhá xương' (đúng nghĩa gặm); hvpinyin ghi 齦 khẩn cho ken3, khớp pinyin kěn. 'khẳng' chỉ có ở hvpinyin (mục 啃, pinyin *). Âm khẩn chưa nằm trong cands của 啃 → cần dòng cands_bosung.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602538",
+     "hanviet_cu": "KHẲNG",
+     "hanviet_moi": "KHẨN",
+     "char_note": "啃 khẳng→khẩn: 啃 là dị thể nghĩa của 齦 (Unihan); Thiều Chửu 齦: 'Một âm là khẩn. Cắn xương, nhá xương'; hvpinyin 齦 khẩn (ken3). 'khẳng' chỉ có ở hvpinyin.",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "draft",
+     "review_reason": null
+    }
+   ]
+  },
+  {
+   "char": "嘀",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "嘀: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602604",
+     "hanviet_moi": "ĐÊ CÔ",
+     "char_note": "嘀=đê (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "嘀: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "垮",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "垮: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; Unihan chỉ ghi 'khoai'.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758602798",
+     "hanviet_moi": "KHỎA",
+     "char_note": "垮=khỏa (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "垮: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; Unihan chỉ ghi 'khoai'."
+    }
+   ]
+  },
+  {
+   "char": "峡",
+   "nhom": "3",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "hiệp: hvpinyin; từ Việt 'Tam Hiệp' (三峽). Giữ (R1)."
+  },
+  {
+   "char": "惦",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "điếm có hai nguồn (hvpinyin + Unihan kVietnamese). Giữ."
+  },
+  {
+   "char": "憋",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "憋: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758604592",
+     "hanviet_moi": "BIỆT",
+     "char_note": "憋=biệt (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "憋: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "挎",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "挎: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758605062",
+     "hanviet_moi": "KHÓA",
+     "char_note": "挎=khóa (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "挎: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "捂",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "捂: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758605110",
+     "hanviet_moi": "NGỘ",
+     "char_note": "捂=ngộ (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "捂: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "捅",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "捅: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; Unihan chỉ ghi âm Nôm 'thòng'.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758605112",
+     "hanviet_moi": "THỐNG",
+     "char_note": "捅=thống (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "捅: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ; Unihan chỉ ghi âm Nôm 'thòng'."
+    }
+   ]
+  },
+  {
+   "char": "掺",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "掺/摻: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (hvpinyin sam cho chān, sảm cho shǎn); Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758605246",
+     "hanviet_moi": "SAM",
+     "char_note": "掺=sam (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "掺/摻: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (hvpinyin sam cho chān, sảm cho shǎn); Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "揍",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "揍: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758605250",
+     "hanviet_moi": "TẤU",
+     "char_note": "揍=tấu (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "揍: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "暨",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "暨: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758605846",
+     "hanviet_moi": "KỴ",
+     "char_note": "暨=kỵ (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "暨: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "胧",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "lung: từ Việt 'mông lung'. Giữ."
+  },
+  {
+   "char": "萎",
+   "nhom": "3",
+   "so_muc": 2,
+   "quyet_dinh": "giu",
+   "can_cu": "ủy: từ Việt 'ủy mị' (萎靡). Giữ."
+  },
+  {
+   "char": "橱",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "橱/櫥 (tủ): âm 'trù' chỉ có ở hvpinyin, không có từ Việt chứng thực; Thiều Chửu ghi 橱 'thụ' nhưng giảng 'tục dùng như chữ thụ 樹' (nghĩa cây), không khớp nghĩa tủ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758606208",
+     "hanviet_moi": "TRÙ SONG",
+     "char_note": "橱=trù (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "橱/櫥 (tủ): âm 'trù' chỉ có ở hvpinyin, không có từ Việt chứng thực; Thiều Chửu ghi 橱 'thụ' nhưng giảng 'tục dùng như chữ thụ 樹' (nghĩa cây), không khớp nghĩa tủ."
+    }
+   ]
+  },
+  {
+   "char": "沏",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "沏: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758606452",
+     "hanviet_moi": "THẾ",
+     "char_note": "沏=thế (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "沏: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "涮",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "涮: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758606696",
+     "hanviet_moi": "XUYẾN",
+     "char_note": "涮=xuyến (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "涮: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "溜",
+   "nhom": "3",
+   "so_muc": 2,
+   "quyet_dinh": "needs_review",
+   "can_cu": "溜: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (hvpinyin lưu/lựu); Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758606810",
+     "hanviet_moi": "LƯU",
+     "char_note": "溜=lưu (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "溜: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (hvpinyin lưu/lựu); Thiều Chửu không có chữ."
+    },
+    {
+     "note_key": "zh:hskstory-hsk7:1792758606812",
+     "hanviet_moi": "LƯU ĐẠT",
+     "char_note": "溜=lưu (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "溜: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực (hvpinyin lưu/lựu); Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "甩",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "甩: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. Dị thể chuyên biệt 摔 có Thiều Chửu 'suất' (quẳng xuống đất) nhưng khác chữ, khác âm tiết (shuāi) nên chưa đủ để thay.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758607356",
+     "hanviet_moi": "SÚY",
+     "char_note": "甩=súy (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "甩: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ. Dị thể chuyên biệt 摔 có Thiều Chửu 'suất' (quẳng xuống đất) nhưng khác chữ, khác âm tiết (shuāi) nên chưa đủ để thay."
+    }
+   ]
+  },
+  {
+   "char": "礁",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "giu",
+   "can_cu": "tiêu: từ Việt 'ám tiêu' (暗礁, đá ngầm). Ghi nhận Thiều Chửu ghi tiều đúng nghĩa đá ngầm; nếu muốn chặt theo Thiều Chửu có thể đổi tiều, nhưng căn cứ R1 vẫn đứng."
+  },
+  {
+   "char": "裸",
+   "nhom": "3",
+   "so_muc": 3,
+   "quyet_dinh": "giu",
+   "can_cu": "khỏa (khỏa thân) / lõa (lõa thể) theo từ Việt, đã chốt ở điều phối r9. Giữ."
+  },
+  {
+   "char": "趴",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "趴: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758609750",
+     "hanviet_moi": "BÁT",
+     "char_note": "趴=bát (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "趴: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  },
+  {
+   "char": "蹦",
+   "nhom": "3",
+   "so_muc": 1,
+   "quyet_dinh": "needs_review",
+   "can_cu": "蹦: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ.",
+   "theo_tu": [
+    {
+     "note_key": "zh:hskstory-hsk7:1792758609794",
+     "hanviet_moi": "BÍNH",
+     "char_note": "蹦=bính (chỉ hvpinyin; chưa có nguồn thứ hai) — giữ tạm, certainty: uncertain",
+     "pt_noi_dung_moi": null,
+     "khac_biet_moi": null,
+     "tu_viet_moi": null,
+     "loai_moi": null,
+     "status": "needs_review",
+     "review_reason": "蹦: âm chỉ có ở hvpinyin, không có nguồn từ điển thứ hai/từ Việt chứng thực; Thiều Chửu không có chữ."
+    }
+   ]
+  }
+ ]
+}

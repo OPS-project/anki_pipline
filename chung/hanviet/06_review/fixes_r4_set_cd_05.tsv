@@ -1,0 +1,86 @@
+note_key	hanviet	nghia_vi	loai	tu_viet	khac_biet	pt_kieu	pt_noi_dung	status	review_reason	char_note	reviewer
+zh:hskstory-hsk7:1792758606052	NHU HÒA	dịu dàng, mềm mại	ghep_nghia			goi_nho	柔 nhu (mềm, như nhu mì) + 和 hòa (êm, như hòa nhã) → êm dịu	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606088	TIÊU NGỮ	khẩu hiệu, biểu ngữ	khac_dung	tiêu ngữ	Tiếng Việt 'tiêu ngữ' chủ yếu chỉ câu khẩu hiệu ở đầu văn bản (dưới quốc hiệu); khẩu hiệu treo, dán nơi công cộng thường gọi 'khẩu hiệu, biểu ngữ'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606090	ĐỐNG LƯƠNG	xà nóc nhà; (bóng) rường cột, người gánh vác	ghep_nghia			goi_nho	栋 đống (xà nóc) + 梁 lương (xà nhà); tiếng Việt văn chương nói đảo 'lương đống' (người tài gánh vác)	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606122	CĂN CƠ	nền tảng, nền móng	khac_dung	căn cơ	Tiếng Việt 'căn cơ' thường nghĩa là chắt chiu, biết tính toán chi tiêu (hoặc căn tính trong nhà Phật); nghĩa 'nền móng, nền tảng' ít dùng.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606126	CĂN THÂM ĐẾ CỐ	ăn sâu bám rễ, khó bỏ (thành ngữ)	ghep_nghia			goi_nho	根 căn (rễ) + 深 thâm (sâu) + 蒂 đế (cuống) + 固 cố (bền); tiếng Việt nói đảo 'thâm căn cố đế'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606140	TÀI BỒI	trồng trọt; bồi dưỡng, đào tạo	ghep_nghia			goi_nho	栽 tài (trồng) + 培 bồi (vun đất, như bồi đắp) → vun trồng	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606226	HOAN KHOÁI	vui tươi, rộn ràng	ghep_nghia			goi_nho	欢 hoan (vui, như hân hoan) + 快 khoái (vui sướng) → vui vẻ rộn ràng	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606230	HÂN HỶ	vui mừng	ghep_nghia			goi_nho	欣 hân (vui, như hân hoan) + 喜 hỷ (mừng, như hoan hỷ) → vui mừng	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606472	THƯƠNG TANG	thăng trầm, bể dâu, nhiều đổi thay	ghep_nghia			goi_nho	沧 thương (biển xanh) + 桑 tang (cây dâu) → bể dâu; tiếng Việt nói đảo 'tang thương'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606518	PHÁP TẮC	quy luật, quy tắc	ghep_nghia			goi_nho	法 pháp (phép, như pháp luật) + 则 tắc (khuôn phép, như quy tắc) → quy luật	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606560	THÁI ĐẨU	bậc thầy, nhân vật hàng đầu trong ngành	cung_dung	thái đẩu	"Tiếng Việt ""thái đẩu"" mang sắc thái văn chương, ít dùng trong khẩu ngữ"	goi_nho	泰 Thái (núi Thái Sơn) + 斗 đẩu (sao Bắc Đẩu): rút gọn của 泰山北斗 → bậc được ngưỡng vọng	draft		斗: hvpinyin nhiều âm; lọc theo Thiều Chửu còn 1	opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606822	TƯ VỊ	mùi vị, hương vị; cũng: cảm giác	khac_dung	tư vị	Tiếng Việt 'tư vị' thường hiểu là thiên vị, bênh riêng; nghĩa 'mùi vị, cảm giác' chỉ gặp trong văn chương.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606876	TIÊU SÁI	phóng khoáng, tự nhiên, phong thái đẹp	khong_giup			goi_nho	'tiêu sái' hầu như chỉ gặp trong truyện kiếm hiệp, ngôn tình dịch	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606942	HỎA TIỄN	tên lửa	ghep_nghia			goi_nho	火 hỏa (lửa) + 箭 tiễn (mũi tên) → tên lửa; 'hỏa tiễn' là cách nói cũ, nay thường nói 'tên lửa'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758606988	THÁN	than củi, than đá	khong_giup			goi_nho	âm gần với từ Việt 'than' (liên tưởng, không khẳng định từ nguyên)	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607082	PHIẾN ĐỘNG	xúi giục, kích động	khac_dung	phiến động	Tiếng Việt 'phiến động' chủ yếu dùng trong ngữ cảnh chính trị (phần tử phiến động, gây bạo loạn); tiếng Trung là xúi giục, kích động nói chung.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607198	DO DỰ BẤT QUYẾT	do dự, không quyết được	ghep_nghia			goi_nho	犹豫 do dự + 不决 bất quyết (không quyết) → do dự không quyết	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607250	HUYỀN CƠ	điều huyền diệu, bí ẩn sâu xa	ghep_nghia			goi_nho	玄 huyền (sâu kín, như huyền bí) + 机 cơ (then chốt, như thiên cơ) → điều huyền bí	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607304	HÀ TỲ	vết nhỏ, khuyết điểm	ghep_nghia			goi_nho	瑕 hà (vết trên ngọc) + 疵 tì (vết, như tì vết) → vết lỗi nhỏ	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607506	GIAI ĐẠI HOAN HỶ	mọi người đều vui vẻ, hài lòng	ghep_nghia			cau_tao	皆 giai (đều) + 大 đại (lớn) + 欢喜 hoan hỷ (vui mừng) → ai nấy đều vui	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607522	BỒN ĐỊA	lòng chảo, chỗ trũng (địa lý)	ghep_nghia			cau_tao	盆 bồn (chậu) + 地 địa (đất) → vùng đất như cái chậu	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607568	MINH HỮU	đồng minh	ghep_nghia			goi_nho	盟 minh (thề ước, như đồng minh) + 友 hữu (bạn, như bằng hữu) → bạn đồng minh	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607572	MỤC TRUNG VÔ NHÂN	kiêu ngạo, coi thường mọi người	ghep_nghia			goi_nho	目 mục (mắt) + 中 trung (trong) + 无 vô (không) + 人 nhân (người) → trong mắt không có ai; tiếng Việt quen 'mục hạ vô nhân'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607624	TỈNH LƯỢC	lược bỏ, bỏ bớt	ghep_nghia			goi_nho	省 tỉnh (bớt) + 略 lược (bỏ bớt, như giản lược) → lược bỏ	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607636	CHÂN TÂM	lòng thành, chân thành	ghep_nghia			goi_nho	真 chân (thật, như chân thành) + 心 tâm (lòng) → thật lòng	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607708	TRI TÚC	biết đủ, hài lòng với những gì mình có	ghep_nghia			cau_tao	知 tri (biết) + 足 túc (đủ) → biết đủ	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607710	TRI TÚC THƯỜNG LẠC	biết đủ thì luôn vui	ghep_nghia			cau_tao	知足 tri túc (biết đủ) + 常乐 thường lạc (luôn vui) → biết đủ thì vui	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607752	XÁC TÍN	tin chắc	ghep_nghia			cau_tao	确 xác (chắc chắn) + 信 tín (tin) → tin chắc	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607788	MA LUYỆN	tôi luyện, rèn giũa qua gian khổ	ghep_nghia			cau_tao	磨 ma (mài giũa) + 炼 luyện (rèn đúc) → mài giũa, rèn luyện	draft		磨: hvpinyin nhiều âm; lọc theo Thiều Chửu còn 1	opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607802	LỄ ĐƯỜNG	hội trường, giảng đường lớn	khac_dung	lễ đường	Tiếng Việt 'lễ đường' thường chỉ nơi cử hành hôn lễ, nghi lễ (nhà thờ, tiệc cưới); hội trường của trường, cơ quan gọi là 'hội trường'.	cau_tao	礼 lễ (nghi lễ) + 堂 đường (nhà lớn) → nhà làm lễ	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607804	LỄ THƯỢNG VÃNG LAI	có qua có lại, đáp lễ lại lễ	ghep_nghia			goi_nho	礼 lễ + 尚 thượng (chuộng) + 往来 vãng lai (qua lại) → lễ chuộng sự qua lại; tiếng Việt nói 'có qua có lại'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607822	TỔ MẪU	bà nội	khac_dung	tổ mẫu	Tiếng Việt 'tổ mẫu' chỉ dùng trong văn trang trọng, cổ (văn tế, phim cổ trang); hằng ngày nói 'bà nội'.	cau_tao	祖 tổ (ông bà) + 母 mẫu (mẹ) → bà nội	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607824	TỔ PHỤ	ông nội	khac_dung	tổ phụ	Tiếng Việt 'tổ phụ' chỉ dùng trong văn trang trọng, cổ (văn tế, gia phả); hằng ngày nói 'ông nội'.	cau_tao	祖 tổ (ông bà) + 父 phụ (cha) → ông nội	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607890	BÍ PHƯƠNG	công thức bí truyền	ghep_nghia			cau_tao	秘 bí (kín) + 方 phương (phương thuốc, công thức) → phương bí truyền	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758607982	ĐỘT NHƯ KỲ LAI	xảy đến bất ngờ	ghep_nghia			cau_tao	突 đột (bất ngờ) + 如 như + 其 kỳ + 来 lai (đến) → bất ngờ mà đến	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608092	GIẢN THỂ TỰ	chữ Hán giản thể	ghep_nghia			goi_nho	简体 giản thể (thể chữ giản lược) + 字 tự (chữ); tiếng Việt nói 'chữ giản thể'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608234	PHỒN THỂ TỰ	chữ Hán phồn thể	ghep_nghia			goi_nho	繁体 phồn thể (thể chữ phức tạp) + 字 tự (chữ); tiếng Việt nói 'chữ phồn thể'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608362	KẾT TOÁN	thanh toán, chốt sổ	khac_dung	kết toán	Tiếng Việt 'kết toán' chủ yếu là thuật ngữ kế toán (khóa sổ cuối kỳ); trả tiền khi trả phòng, mua hàng thì nói 'thanh toán'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608518	MỸ ĐỨC	đức tính tốt đẹp	ghep_nghia			goi_nho	美 mỹ (đẹp) + 德 đức (đức tính) → đức tính đẹp	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608750	HỦ BẠI	tham nhũng, thối nát	khac_dung	hủ bại	Tiếng Việt 'hủ bại' nghĩa là mục nát, suy đồi (chế độ, lối sống); nghĩa 'tham nhũng' tiếng Việt nói 'tham nhũng'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608796	TỰ TRỊ KHU	khu tự trị (đơn vị hành chính cấp tỉnh ở Trung Quốc)	ghep_nghia			goi_nho	自治 tự trị + 区 khu (vùng); tiếng Việt nói đảo 'khu tự trị'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608802	TỰ NHIÊN NHI NHIÊN	một cách tự nhiên, không gượng ép	ghep_nghia					draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608806	TỰ TƯƠNG MÂU THUẪN	tự mâu thuẫn, trước sau không khớp	ghep_nghia			goi_nho	自 tự (tự mình) + 相 tương (lẫn nhau) + 矛盾 mâu thuẫn; tiếng Việt nói gọn 'tự mâu thuẫn'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608874	DIỄM LỆ	lộng lẫy, rực rỡ	khac_dung	diễm lệ	Tiếng Việt 'diễm lệ' mang sắc thái văn chương, chủ yếu tả nhan sắc, cảnh đẹp; tiếng Trung hay dùng cho màu sắc, trang phục rực rỡ.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608936	KHỔ NẠN	nỗi khổ đau, cảnh hoạn nạn	ghep_nghia			goi_nho	苦 khổ (đau khổ) + 难 nạn (như hoạn nạn) → cảnh khổ ải	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608958	MANG MANG	mênh mông, bao la	ghep_nghia			goi_nho	茫 mang (mênh mông); gợi nhớ 'mênh mang' trong tiếng Việt (liên tưởng)	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758608974	HOANG LƯƠNG	hoang vắng, tiêu điều	ghep_nghia			goi_nho	荒 hoang (hoang vắng) + 凉 lương (lạnh lẽo, như thê lương) → hoang vắng lạnh lẽo	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609018	MANH NHA	nảy mầm; (nghĩa bóng) manh nha	khac_dung	manh nha	Tiếng Việt 'manh nha' chỉ dùng nghĩa bóng (ý tưởng, hiện tượng mới nhen nhóm); hạt nảy mầm thì nói 'nảy mầm'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609020	BÌNH THỦY TƯƠNG PHÙNG	gặp nhau tình cờ như bèo nước	ghep_nghia			cau_tao	萍 bình (bèo) + 水 thủy (nước) + 相逢 tương phùng (gặp nhau) → bèo nước gặp nhau	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609108	HƯ NHƯỢC	yếu ớt, suy nhược	ghep_nghia			goi_nho	虚 hư (rỗng, yếu) + 弱 nhược (yếu, như suy nhược) → yếu ớt	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609202	TỤ THỦ BÀNG QUAN	khoanh tay đứng nhìn	ghep_nghia			goi_nho	袖手 tụ thủ (giấu tay trong tay áo) + 旁观 bàng quan (đứng ngoài nhìn, như thái độ bàng quan)	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609212	TÀI QUYẾT	phán quyết, phân xử	ghep_nghia			goi_nho	裁 tài (xét định, như trọng tài) + 决 quyết (quyết định) → phán quyết	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609232	KHỎA THỂ	khỏa thân, trần truồng	cung_dung	lõa thể				draft		裸: giữ khỏa (Thiều Chửu, như 'khỏa thân'); từ Việt 'lõa thể' đọc 'lõa' (âm lõa chỉ có ở hvpinyin)	opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609252	KIẾN NGHĨA DŨNG VI	thấy việc nghĩa hăng hái ra tay	ghep_nghia					draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609256	KIẾN LỢI VONG NGHĨA	thấy lợi quên nghĩa	ghep_nghia					draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609260	KIẾN ĐA THỨC QUẢNG	từng trải, hiểu biết rộng	ghep_nghia					draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609262	KIẾN HIỆU	có hiệu quả, phát huy tác dụng	ghep_nghia			goi_nho	见 kiến (thấy) + 效 hiệu (hiệu quả) → thấy hiệu quả	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609270	KIẾN VĂN	điều mắt thấy tai nghe	ghep_nghia			goi_nho	见 kiến (thấy) + 闻 văn (nghe) → điều thấy và nghe	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609294	GIÁC TỈNH	thức tỉnh, tỉnh ngộ	ghep_nghia			goi_nho	觉 giác (tỉnh ra, như giác ngộ) + 醒 tỉnh (tỉnh dậy, như thức tỉnh) → thức tỉnh	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609316	GIẢI TRỪ	gỡ bỏ, hủy bỏ, chấm dứt	khac_dung	giải trừ	Tiếng Việt 'giải trừ' hẹp hơn, thường gặp trong 'giải trừ quân bị'; chấm dứt hợp đồng, dỡ bỏ lệnh cấm thì nói 'hủy bỏ, dỡ bỏ'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609326	XÚC MỤC KINH TÂM	thấy mà kinh hoàng, rùng mình	ghep_nghia					draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609378	NGHỊ TRÌNH	chương trình nghị sự	ghep_nghia			goi_nho	议 nghị (bàn bạc, như nghị sự) + 程 trình (trình tự, như chương trình) → chương trình nghị sự	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609410	CHỨNG NHÂN	nhân chứng	khac_dung	chứng nhân	Tiếng Việt 'chứng nhân' dùng trang trọng, chỉ người chứng kiến (chứng nhân lịch sử); người làm chứng trước tòa gọi là 'nhân chứng'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609426	TỐ KHỔ	than khổ, kể khổ, phàn nàn	khac_dung	tố khổ	Tiếng Việt 'tố khổ' gắn với việc kể tội, tố cáo nỗi khổ trước đám đông; than thở chuyện thường ngày thì nói 'kể khổ, than vãn'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609462	VU HÃM	vu khống, gài bẫy hãm hại	ghep_nghia			goi_nho	诬 vu (vu khống) + 陷 hãm (hãm hại) → vu khống hãm hại	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609512	ĐIỀU GIẢI	hòa giải, giúp hai bên thỏa thuận	ghep_nghia			goi_nho	调 điều (điều hòa) + 解 giải (gỡ, như hòa giải) → hòa giải	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609606	BẦN CÙNG	nghèo khó	khac_dung	bần cùng	Tiếng Việt 'bần cùng' thiên về cảnh nghèo túng cùng cực; tiếng Trung là 'nghèo' nói chung.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609746	TÚC TRÍ ĐA MƯU	lắm mưu nhiều kế, mưu trí	ghep_nghia					draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609856	KHINH THỊ	coi thường, khinh thường	ghep_nghia			goi_nho	轻 khinh (coi nhẹ) + 视 thị (nhìn) → coi nhẹ, như 'khinh thường'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758609902	BIỆN LUẬN	tranh luận	khac_dung	biện luận	Tiếng Việt 'biện luận' thường là lập luận, lý giải (biện luận kết quả); cuộc tranh cãi giữa các bên thì gọi là 'tranh luận'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610082	TỐNG BIỆT	tiễn biệt, tiễn đưa	ghep_nghia			goi_nho	送 tống (tiễn, như tống tiễn) + 别 biệt (từ biệt) → tiễn biệt	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610102	TUYỂN CỬ	bầu cử	khac_dung	tuyển cử	Tiếng Việt 'tuyển cử' chỉ dùng trong văn phong trang trọng (tổng tuyển cử); thông thường nói 'bầu cử'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610150	THỆ THẾ	qua đời	ghep_nghia			goi_nho	逝 thệ (đi qua, mất đi) + 世 thế (đời) → lìa đời; gần nghĩa 'tạ thế'	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610160	TẠO PHÚC	mang lại phúc lợi, ban phúc	ghep_nghia			goi_nho	造 tạo (làm ra) + 福 phúc (phúc lợi) → mang phúc lợi cho	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610172	BỨC BÁCH	ép buộc, cưỡng ép	khac_dung	bức bách	Tiếng Việt 'bức bách' ngày nay hay dùng nghĩa cấp bách, gấp rút (yêu cầu bức bách); nghĩa 'ép buộc ai' ít gặp.			draft		迫: hvpinyin nhiều âm; lọc theo Thiều Chửu còn 1	opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610178	NGỘ NẠN	gặp nạn mà thiệt mạng	ghep_nghia			goi_nho	遇 ngộ (gặp, như hội ngộ) + 难 nạn (tai nạn) → gặp nạn	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610188	DI THỂ	thi hài, thi thể (người đã mất)	khac_dung	di thể	Tiếng Việt 'di thể' rất trang trọng, chủ yếu dùng cho lãnh tụ; thi thể nạn nhân thì nói 'thi thể, thi hài'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610256	PHỐI NGẪU	vợ hoặc chồng	ghep_nghia			goi_nho	配 phối (sánh đôi, như hôn phối) + 偶 ngẫu (thành đôi) → người bạn đời	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610266	TỬU LÂU	nhà hàng, quán ăn lớn	ghep_nghia			goi_nho	酒 tửu (rượu) + 楼 lâu (lầu) → lầu rượu, quán ăn	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610542	TRẦN THUẬT	trình bày, tuyên bố (sự thật)	khac_dung	trần thuật	Tiếng Việt 'trần thuật' chủ yếu là thuật ngữ văn học, ngữ pháp (lời trần thuật, câu trần thuật); trình bày sự việc thì nói 'trình bày'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610730	CÚC CUNG	cúi chào	khac_dung	cúc cung	Tiếng Việt 'cúc cung' chủ yếu gặp trong 'cúc cung tận tụy' (hết lòng phụng sự); hành động cúi chào thì nói 'cúi chào'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610810	DỰ NGÔN	dự đoán, tiên tri	ghep_nghia			goi_nho	预 dự (trước, như dự đoán) + 言 ngôn (lời) → nói trước	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758610848	ĐIÊN ĐẢO	lật ngược, đảo lộn	khac_dung	điên đảo	Tiếng Việt 'điên đảo' thường dùng nghĩa bóng (đảo lộn, khốn đốn; say mê điên đảo); lật ngược đồ vật thì nói 'lộn ngược'.			draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758611008	CỐT KHÍ	khí phách, tính cứng cỏi	ghep_nghia			goi_nho	骨 cốt (xương, như cốt cách) + 气 khí (khí phách) → khí phách cứng cỏi	draft			opus:r4_set_cd_05
+zh:hskstory-hsk7:1792758611040	QUỶ	ma, quỷ	khac_dung	quỷ	Tiếng Việt 'quỷ' nghiêng về ác quỷ, yêu quái; hồn người chết hiện về tiếng Việt thường gọi là 'ma'.			draft			opus:r4_set_cd_05

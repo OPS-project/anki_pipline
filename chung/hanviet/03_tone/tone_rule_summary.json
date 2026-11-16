@@ -1,0 +1,77 @@
+{
+ "total_chars": 3088,
+ "measured": 2077,
+ "via_traditional_variant": 636,
+ "excluded": {
+  "khong_co_kVietnamese": 947,
+  "nhieu_am_HV": 49,
+  "nhieu_kMandarin": 15
+ },
+ "by_level": {
+  "HSK1": {
+   "total": 248,
+   "measured": 208,
+   "excluded": {
+    "khong_co_kVietnamese": 31,
+    "nhieu_am_HV": 7,
+    "nhieu_kMandarin": 2
+   }
+  },
+  "HSK2": {
+   "total": 123,
+   "measured": 102,
+   "excluded": {
+    "nhieu_kMandarin": 2,
+    "nhieu_am_HV": 2,
+    "khong_co_kVietnamese": 17
+   }
+  },
+  "HSK3": {
+   "total": 284,
+   "measured": 225,
+   "excluded": {
+    "khong_co_kVietnamese": 53,
+    "nhieu_kMandarin": 2,
+    "nhieu_am_HV": 4
+   }
+  },
+  "HSK4": {
+   "total": 441,
+   "measured": 340,
+   "excluded": {
+    "khong_co_kVietnamese": 95,
+    "nhieu_am_HV": 5,
+    "nhieu_kMandarin": 1
+   }
+  },
+  "HSK5": {
+   "total": 431,
+   "measured": 327,
+   "excluded": {
+    "khong_co_kVietnamese": 95,
+    "nhieu_am_HV": 7,
+    "nhieu_kMandarin": 2
+   }
+  },
+  "HSK6": {
+   "total": 413,
+   "measured": 272,
+   "excluded": {
+    "khong_co_kVietnamese": 126,
+    "nhieu_am_HV": 14,
+    "nhieu_kMandarin": 1
+   }
+  },
+  "HSK7-9": {
+   "total": 1148,
+   "measured": 603,
+   "excluded": {
+    "khong_co_kVietnamese": 530,
+    "nhieu_kMandarin": 5,
+    "nhieu_am_HV": 10
+   }
+  }
+ },
+ "simple_rule_match": 1450,
+ "cell_modal_match": 1563
+}

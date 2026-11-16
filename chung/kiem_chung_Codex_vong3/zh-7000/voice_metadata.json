@@ -1,0 +1,9 @@
+{
+  "TSSE": {
+    "nVoiceTTS@NAVER": 7325
+  },
+  "sample_rate": {
+    "24000": 7325
+  },
+  "parse_failures": []
+}

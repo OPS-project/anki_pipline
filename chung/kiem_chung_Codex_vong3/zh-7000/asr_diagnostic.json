@@ -1,0 +1,166 @@
+{
+  "model": "Whisper small-q5_1; whisper.cpp v1.9.2; greedy; language fixed; no reference prompt",
+  "method": "16 evenly spaced notes, diagnostic only. Not human listening or full-corpus alignment certification.",
+  "results": [
+    {
+      "index": 0,
+      "id": 1780156027323,
+      "reference": "你好！",
+      "translation": "Xin chào!",
+      "asr": "你好!",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.03
+    },
+    {
+      "index": 489,
+      "id": 1780156027812,
+      "reference": "Bill跑得比Bob快。",
+      "translation": "Bill chạy nhanh hơn Bob.",
+      "asr": "必路跑格比搭不快",
+      "similarity": 0.316,
+      "exit_code": 0,
+      "elapsed_seconds": 1.92
+    },
+    {
+      "index": 978,
+      "id": 1780156028301,
+      "reference": "请问,周小姐在哪里？",
+      "translation": "Xin lỗi, cô Zhou đâu rồi?",
+      "asr": "请问,周桥借在哪里?",
+      "similarity": 0.75,
+      "exit_code": 0,
+      "elapsed_seconds": 1.93
+    },
+    {
+      "index": 1467,
+      "id": 1780156028790,
+      "reference": "比起出门，我更喜欢待在家。",
+      "translation": "Tôi thích ở nhà hơn là đi ra ngoài.",
+      "asr": "比起出門,我更喜歡待在家。",
+      "similarity": 0.818,
+      "exit_code": 0,
+      "elapsed_seconds": 1.93
+    },
+    {
+      "index": 1956,
+      "id": 1780156029279,
+      "reference": "这个评论写得很好。",
+      "translation": "Bình luận này được viết rất hay.",
+      "asr": "這個評論解得很好。",
+      "similarity": 0.375,
+      "exit_code": 0,
+      "elapsed_seconds": 1.91
+    },
+    {
+      "index": 2445,
+      "id": 1780156029768,
+      "reference": "他把电话挂上了。",
+      "translation": "Anh ta cúp điện thoại.",
+      "asr": "他把電話掛上了。",
+      "similarity": 0.571,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    },
+    {
+      "index": 2934,
+      "id": 1780156030257,
+      "reference": "他创造了新的记录。",
+      "translation": "Anh ấy đã lập kỷ lục mới.",
+      "asr": "它創造了新的記錄",
+      "similarity": 0.5,
+      "exit_code": 0,
+      "elapsed_seconds": 1.95
+    },
+    {
+      "index": 3423,
+      "id": 1780156030746,
+      "reference": "我会用筷子吃饭。",
+      "translation": "Tôi có thể ăn bằng đũa.",
+      "asr": "我会用筷子吃饭。",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.91
+    },
+    {
+      "index": 3911,
+      "id": 1780156031234,
+      "reference": "他向那位女士问好。",
+      "translation": "Anh ấy chào người phụ nữ.",
+      "asr": "她向那位女士問好",
+      "similarity": 0.75,
+      "exit_code": 0,
+      "elapsed_seconds": 1.93
+    },
+    {
+      "index": 4400,
+      "id": 1780156031723,
+      "reference": "杨先生的工作难吗？",
+      "translation": "Công việc của ông Yang có khó không?",
+      "asr": "養先生的工作難忘",
+      "similarity": 0.625,
+      "exit_code": 0,
+      "elapsed_seconds": 1.93
+    },
+    {
+      "index": 4889,
+      "id": 1780156032212,
+      "reference": "这是一座钢铁桥梁。",
+      "translation": "Đây là một cây cầu thép.",
+      "asr": "这是一座钢铁桥梁",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.96
+    },
+    {
+      "index": 5378,
+      "id": 1780156032701,
+      "reference": "考试测验还没有结束。",
+      "translation": "Các kỳ thi và bài kiểm tra vẫn chưa kết thúc.",
+      "asr": "考試測驗還沒有結束。",
+      "similarity": 0.333,
+      "exit_code": 0,
+      "elapsed_seconds": 2.05
+    },
+    {
+      "index": 5867,
+      "id": 1780156033190,
+      "reference": "种瓜得瓜，种豆得豆。",
+      "translation": "Gieo nhân nào gặt quả ấy.",
+      "asr": "中寡德瓜,重豆的豆",
+      "similarity": 0.375,
+      "exit_code": 0,
+      "elapsed_seconds": 1.93
+    },
+    {
+      "index": 6356,
+      "id": 1780156033679,
+      "reference": "他们的家境很贫寒。",
+      "translation": "Gia đình họ rất nghèo.",
+      "asr": "他们的家境很平函。",
+      "similarity": 0.75,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    },
+    {
+      "index": 6845,
+      "id": 1780156034168,
+      "reference": "因为洪灾，农民的收入减少了。",
+      "translation": "Thu nhập của nông dân đã giảm sút do lũ lụt.",
+      "asr": "因為洪在農民的收入減少了",
+      "similarity": 0.667,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    },
+    {
+      "index": 7334,
+      "id": 1780156034657,
+      "reference": "谣言传得纷纷纭纭。",
+      "translation": "Tin đồn lan truyền nhanh như cháy rừng.",
+      "asr": "謠言喘得紛紛韻韻",
+      "similarity": 0.25,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    }
+  ]
+}

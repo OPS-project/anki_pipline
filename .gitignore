@@ -1,0 +1,49 @@
+# Deck và media: nặng, có bản quyền, không đưa lên git
+*.apkg
+*.colpkg
+*.anki2
+*.anki21
+*.anki21b
+*.mp3
+*.ogg
+*.m4a
+*.wav
+*.opus
+*.mp4
+*.mkv
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+
+# Deck tải về / giải nén của người khác
+chung/raw/
+research/downloads/
+
+# Nguồn từ điển bên thứ ba (Thiều Chửu: chỉ dùng cá nhân; repo con có .git riêng)
+chung/hanviet/01_sources/
+
+# Thư mục kiểm chứng chứa audio/clip giải nén
+**/media/
+**/extracted/
+**/_tmp/
+__pycache__/
+*.pyc
+
+# Bản dump nội dung deck người khác, công cụ/model nhị phân
+research/inspection/
+research/tools/
+*.sqlite
+*.sqlite3
+*.db
+notes.json
+*.bin
+*.zip
+*.7z
+*.exe
+*.dll
+
+# Ngoại lệ: deck HSK bản 2 (đi qua Git LFS, xem .gitattributes)
+!chung/build/zh/Tieng_Trung_HSK_nghe_cau_v2_hanviet.apkg

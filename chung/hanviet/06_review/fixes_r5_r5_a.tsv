@@ -1,0 +1,76 @@
+note_key	hanviet	nghia_vi	loai	tu_viet	khac_biet	pt_kieu	pt_noi_dung	status	review_reason	char_note	reviewer
+zh:hskstory-hsk1:1792758600084	THA	anh ấy, ông ấy, nó	yeu_to		'tha' trong "tha nhân, tha hương" nghĩa là 'khác'; tiếng Việt không dùng 'tha' làm đại từ 'anh ấy'.	goi_nho	như "tha nhân, tha hương" (người khác, nơi khác)	draft			opus:r5_a
+zh:hskstory-hsk1:1792758600504	YẾU	muốn, cần; sẽ, sắp	yeu_to			goi_nho	như "thiết yếu, cần yếu" (cần, quan trọng)	draft			opus:r5_a
+zh:hskstory-hsk3:1792758600336	NỮ NHÂN	phụ nữ	ghep_nghia			cau_tao	女 nữ (gái, như phụ nữ) + 人 nhân (người) → người phụ nữ	draft			opus:r5_a
+zh:hskstory-hsk4:1792758600442	CẬP THỜI	kịp thời, đúng lúc	cung_dung	kịp thời				draft		及: từ Việt đọc 'kịp thời' (hanviet giữ âm Hán Việt 'cập')	opus:r5_a
+zh:hskstory-hsk4:1792758601610	TỰ TÍN	tự tin	cung_dung	tự tin				draft		信: từ Việt đọc 'tự tin' (hanviet giữ âm Hán Việt 'tín')	opus:r5_a
+zh:hskstory-hsk4:1792758601856	TRỌNG THỊ	coi trọng, xem trọng	khac_dung	trọng thị	Tiếng Trung 重视 là coi trọng, chú trọng; tiếng Việt 'trọng thị' thường là đón tiếp trang trọng, tôn kính (tiếp đón trọng thị).	goi_nho	重 trọng (nặng, coi trọng) + 视 thị (nhìn, xem) → coi trọng	draft			opus:r5_a
+zh:hskstory-hsk4:1792758601948	MAN ĐẦU	màn thầu, bánh bao không nhân	cung_dung	màn thầu				draft		馒头: từ Việt đọc 'màn thầu' (âm 'màn', 'thầu' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk5:1792758600134	SỰ THỰC	sự thật	cung_dung	sự thật				draft		实: từ Việt thường đọc 'sự thật'; 'sự thực' cũng dùng	opus:r5_a
+zh:hskstory-hsk5:1792758600398	CÔNG BÌNH	công bằng	cung_dung	công bằng				draft		平: từ Việt đọc 'công bằng' (âm 'bằng' không có trong nguồn); 'công bình' cũng dùng	opus:r5_a
+zh:hskstory-hsk5:1792758600586	HIỆP NGHỊ	thỏa thuận, hiệp định	ghep_nghia			goi_nho	協 hiệp (cùng nhau, như hiệp định) + 議 nghị (bàn bạc) → điều hai bên bàn và thống nhất	draft			opus:r5_a
+zh:hskstory-hsk5:1792758601172	THỊ DÂN	người dân thành phố	ghep_nghia			goi_nho	市 thị (thành thị) + 民 dân → dân thành phố	draft			opus:r5_a
+zh:hskstory-hsk5:1792758601312	TÂM THÁI	tâm lý, thái độ tinh thần	ghep_nghia			goi_nho	心 tâm (lòng) + 态 thái (trạng thái, như thái độ) → trạng thái tâm lý, thái độ	draft			opus:r5_a
+zh:hskstory-hsk5:1792758601570	THÔI ĐỘNG	thúc đẩy	ghep_nghia			goi_nho	推 thôi (đẩy) + 动 động → đẩy cho chuyển động	draft		推: 推=thôi (nghĩa đẩy; suy là âm của nghĩa suy luận)	opus:r5_a
+zh:hskstory-hsk5:1792758601844	MÔ HỒ	mờ, không rõ; mơ hồ	cung_dung	mơ hồ				draft		模: từ Việt đọc 'mơ hồ' (âm 'mơ' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk5:1792758602008	KÍCH LIỆT	gay gắt, quyết liệt (cạnh tranh, chiến đấu)	ghep_nghia			goi_nho	激 kích (mạnh, như kích động) + 烈 liệt (dữ dội, như mãnh liệt) → gay gắt, dữ dội; gần với từ Việt 'kịch liệt' (viết 劇烈)	draft			opus:r5_a
+zh:hskstory-hsk5:1792758602618	GIÁC ĐỘ	góc, góc độ	cung_dung	giác độ				draft		角: 角 jiǎo=giác; tiếng Việt cũng nói (thường hơn) 'góc độ'	opus:r5_a
+zh:hskstory-hsk5:1792758602688	NGỮ KHÍ	giọng điệu, giọng nói	ghep_nghia			goi_nho	语 ngữ (lời) + 气 khí (hơi) → hơi giọng khi nói, giọng điệu	draft			opus:r5_a
+zh:hskstory-hsk5:1792758602736	TƯ NGUYÊN	tài nguyên	cung_dung	tài nguyên				draft		资: từ Việt đọc 'tài nguyên' (âm 'tài' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk5:1792758602966	TRƯỜNG KỲ	dài hạn, lâu dài	khac_dung	trường kỳ	Tiếng Trung 长期 là từ thường ngày (lâu dài, dài hạn); tiếng Việt 'trường kỳ' mang sắc thái trang trọng, hay gặp trong 'kháng chiến trường kỳ'; nói thường dùng 'lâu dài', 'dài hạn'.			draft			opus:r5_a
+zh:hskstory-hsk6:1792758600342	TÍN NIỆM	niềm tin vững chắc	ghep_nghia			cau_tao	信 tín (tin) + 念 niệm (nghĩ) → điều tin tưởng trong lòng	draft			opus:r5_a
+zh:hskstory-hsk6:1792758600836	HỶ SỰ	việc vui; đám cưới	cung_dung	hỷ sự				draft			opus:r5_a
+zh:hskstory-hsk6:1792758600876	QUỐC BẢO	báu vật quốc gia, bảo vật quốc gia	ghep_nghia			goi_nho	国 quốc + 宝 bảo (báu vật) → báu vật quốc gia; tiếng Việt quen nói 'bảo vật quốc gia'	draft			opus:r5_a
+zh:hskstory-hsk6:1792758600990	ĐA TÀI ĐA NGHỆ	giỏi nhiều mặt, nhiều tài	cung_dung	đa tài đa nghệ		goi_nho	多才 đa tài (nhiều tài) + 多艺 đa nghệ (nhiều nghề) → giỏi nhiều mặt	draft			opus:r5_a
+zh:hskstory-hsk6:1792758600998	ĐẠI ĐỊA	mặt đất, đất đai rộng lớn	ghep_nghia			goi_nho	大 đại (lớn) + 地 địa (đất) → mặt đất bao la	draft			opus:r5_a
+zh:hskstory-hsk6:1792758601504	HÍ KHÚC	kịch hát truyền thống Trung Quốc	ghep_nghia			goi_nho	戏 hí (tuồng, kịch) + 曲 khúc (khúc hát) → kịch hát truyền thống	draft			opus:r5_a
+zh:hskstory-hsk6:1792758601588	ĐẦU PHIẾU	bỏ phiếu	cung_dung	đầu phiếu		goi_nho	投 đầu (ném, bỏ vào) + 票 phiếu → bỏ phiếu; nói thường là 'bỏ phiếu'	draft			opus:r5_a
+zh:hskstory-hsk6:1792758601604	ĐỂ KHÁNG	kháng cự, chống lại	cung_dung	đề kháng		goi_nho	抵 để (chống, chạm) + 抗 kháng (chống) → chống lại	draft		抵: từ Việt đọc 'đề kháng' (âm 'đề' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk6:1792758601632	CHIÊU SINH	tuyển sinh	cung_dung	chiêu sinh		goi_nho	với trường đại học, tiếng Việt thường nói 'tuyển sinh'	draft			opus:r5_a
+zh:hskstory-hsk6:1792758601694	THÔI HÀNH	thực hiện, đưa vào áp dụng	ghep_nghia			cau_tao	推 thôi (đẩy) + 行 hành (thi hành) → đẩy mạnh thi hành	draft		R1: 推: thôi = đẩy (Thiều Chửu: đẩy lên, dời đi; 推敲 thôi xao); suy = suy xét, suy cử (suy luận, suy đoán, suy cử, suy tôn); 行 xíng=hành	opus:r5_a
+zh:hskstory-hsk6:1792758601770	CỨU MỆNH	cứu mạng	cung_dung	cứu mạng				draft		命: từ Việt đọc 'cứu mạng' (âm 'mạng' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk6:1792758601820	PHƯƠNG NGÔN	phương ngữ, tiếng địa phương	khac_dung	phương ngôn	Tiếng Việt hiện đại gọi tiếng địa phương là 'phương ngữ'; 'phương ngôn' thường được hiểu là câu nói dân gian, châm ngôn.			draft			opus:r5_a
+zh:hskstory-hsk6:1792758601872	TRÍ LỰC	trí tuệ, trí thông minh	ghep_nghia			cau_tao	智 trí (khôn) + 力 lực (sức) → sức khôn	draft			opus:r5_a
+zh:hskstory-hsk6:1792758601966	THƯƠNG	khẩu súng	khac_dung	thương	Tiếng Trung chủ yếu là súng; tiếng Việt 'thương' là cây giáo dài (ngọn thương).			draft			opus:r5_a
+zh:hskstory-hsk6:1792758602290	KÍCH LỆ	khích lệ, động viên	cung_dung	khích lệ				draft		激: từ Việt đọc 'khích lệ' (âm 'khích' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk6:1792758602376	ĐẶC ĐỊNH	nhất định, cụ thể, được chỉ định	ghep_nghia			cau_tao	特 đặc (riêng, đặc biệt) + 定 định (xác định) → được xác định riêng	draft			opus:r5_a
+zh:hskstory-hsk6:1792758602412	CHÂU BẢO	châu báu, trang sức quý	cung_dung	châu báu				draft		宝: từ Việt đọc 'châu báu' (âm 'báu' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk6:1792758602444	ĐIỀN KÍNH	điền kinh	cung_dung	điền kinh				draft		径: từ Việt đọc 'điền kinh' (âm 'kinh' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk6:1792758602502	TƯỚNG THANH	tấu hài đối đáp truyền thống Trung Quốc	ghep_nghia					draft			opus:r5_a
+zh:hskstory-hsk6:1792758602676	TINH XÁC	chính xác, chuẩn xác	ghep_nghia			goi_nho	精 tinh (tinh, kỹ) + 确 xác (chắc, đúng) → rất đúng	draft			opus:r5_a
+zh:hskstory-hsk6:1792758603076	TÀI VẬT	tiền của, đồ đạc (tài sản cá nhân)	ghep_nghia			goi_nho	财 tài (của cải) + 物 vật (đồ vật) → tiền của, đồ đạc	draft			opus:r5_a
+zh:hskstory-hsk6:1792758603320	KHỐC	ngầu, chất; cũng: tàn khốc	khong_giup			goi_nho	nghĩa Hán Việt: tàn ác, quá mức (như 'tàn khốc', 'khốc liệt'); nghĩa 'ngầu' dùng như tiếng Anh 'cool'	draft			opus:r5_a
+zh:hskstory-hsk6:1792758603456	CÁCH MỆNH	cách mạng	cung_dung	cách mạng				draft		命: từ Việt đọc 'cách mạng' (âm 'mạng' không có trong nguồn); 'cách mệnh' là cách nói cũ	opus:r5_a
+zh:hskstory-hsk7:1792758600120	THƯỢNG DU	thượng nguồn (sông); cũng: vị trí dẫn đầu	khac_dung	thượng du	Tiếng Trung chủ yếu là 'thượng nguồn của sông'; tiếng Việt 'thượng du' thường chỉ vùng núi cao phía trên			draft			opus:r5_a
+zh:hskstory-hsk7:1792758600154	HẠ DU	hạ lưu (sông), xuôi dòng	cung_dung	hạ du		goi_nho	tiếng Việt hay gặp trong 'vùng hạ du' (tin lũ); cũng nói 'hạ lưu'	draft			opus:r5_a
+zh:hskstory-hsk7:1792758600158	HẠ CẤP	cấp dưới	khac_dung	hạ cấp	Tiếng Trung chủ yếu là 'cấp dưới, người dưới quyền'; tiếng Việt 'hạ cấp' hay dùng với nghĩa cấp thấp, kém chất lượng (hàng hạ cấp); nói thường là 'cấp dưới'.			draft			opus:r5_a
+zh:hskstory-hsk7:1792758600522	KHUY BẢN	lỗ vốn	ghep_nghia			goi_nho	亏 khuy (thiếu hụt) + 本 bản (vốn) → hụt vốn	draft			opus:r5_a
+zh:hskstory-hsk7:1792758600656	THUNG DUNG	thong thả, điềm tĩnh	cung_dung	thong dong				draft		从: 从=thung (Thiều Chửu: thung dung = thong thả; tiếng Việt "thong dong")	opus:r5_a
+zh:hskstory-hsk7:1792758600836	THỂ PHÁCH	thể chất, vóc dáng và sức khỏe	ghep_nghia			goi_nho	体 thể (thân thể) + 魄 phách (sức sống, như hồn phách) → thể lực, vóc dáng	draft			opus:r5_a
+zh:hskstory-hsk7:1792758601066	THIÊN BÀNG	thành phần cấu tạo chữ Hán (như bộ thủ)	ghep_nghia			goi_nho	偏 thiên (lệch, bên) + 旁 bàng (bên cạnh) → phần ở bên của chữ	draft			opus:r5_a
+zh:hskstory-hsk7:1792758601104	THÔI XÚC	thúc giục	cung_dung	thôi thúc				draft		促: từ Việt đọc 'thôi thúc'	opus:r5_a
+zh:hskstory-hsk7:1792758601116	TĂNG NHÂN	nhà sư	ghep_nghia			cau_tao	僧 tăng (sư, người đi tu Phật) + 人 nhân (người)	draft			opus:r5_a
+zh:hskstory-hsk7:1792758601166	QUANG VINH	vinh dự, vẻ vang	cung_dung	quang vinh				draft			opus:r5_a
+zh:hskstory-hsk7:1792758601282	HƯNG VƯỢNG	thịnh vượng, phát đạt	ghep_nghia			goi_nho	兴 hưng (dấy lên; như hưng thịnh) + 旺 vượng (thịnh) → thịnh vượng	draft			opus:r5_a
+zh:hskstory-hsk7:1792758601302	DƯỠNG DỤC	nuôi nấng, nuôi dạy	cung_dung	dưỡng dục				draft			opus:r5_a
+zh:hskstory-hsk7:1792758601376	QUYẾT NGHỊ	nghị quyết	khac_dung	quyết nghị	Tiếng Trung 决议 là danh từ (văn bản được thông qua); tiếng Việt 'quyết nghị' chủ yếu là động từ (hội nghị quyết nghị…), danh từ thường nói 'nghị quyết'.	goi_nho	tiếng Việt nói đảo: 'nghị quyết'	draft			opus:r5_a
+zh:hskstory-hsk7:1792758601592	PHÁN ĐỊNH	phán quyết, xác định, kết luận	ghep_nghia			goi_nho	判 phán (phân xử, như phán quyết) + 定 định (xác định) → xét và kết luận	draft			opus:r5_a
+zh:hskstory-hsk7:1792758601940	CA XA	xe tải	ghep_nghia			goi_nho	卡 ca (chữ dùng để phiên âm) + 车 xa (xe) → xe tải	draft		卡: 卡 kǎ=ca (hvpinyin; phiên âm)	opus:r5_a
+zh:hskstory-hsk7:1792758601954	ẤN CHƯƠNG	con dấu	ghep_nghia			goi_nho	印 ấn (con dấu, như ấn tín) + 章 chương (con dấu) → con dấu	draft			opus:r5_a
+zh:hskstory-hsk7:1792758602136	THỤ SỦNG NHƯỢC KINH	được ưu ái bất ngờ mà mừng rỡ lẫn bối rối	ghep_nghia			cau_tao	受 thụ (nhận) + 宠 sủng (yêu chiều) + 若 nhược (như) + 惊 kinh (sợ) → được sủng mà như hoảng	draft		受: 受=thụ (thụ hưởng)	opus:r5_a
+zh:hskstory-hsk7:1792758602206	KHẨU ÂM	giọng (địa phương), giọng nói	ghep_nghia			cau_tao	口 khẩu (miệng) + 音 âm (tiếng) → giọng nói	draft			opus:r5_a
+zh:hskstory-hsk7:1792758602210	CỔ KIM TRUNG NGOẠI	xưa nay trong và ngoài nước	ghep_nghia			cau_tao	古 cổ + 今 kim + 中 trung + 外 ngoại → mọi thời mọi nơi; gần với cách nói Việt 'đông tây kim cổ'	draft			opus:r5_a
+zh:hskstory-hsk7:1792758602216	CỔ TỊCH	sách cổ	ghep_nghia			cau_tao	古 cổ (xưa) + 籍 tịch (sách vở) → sách xưa	draft			opus:r5_a
+zh:hskstory-hsk7:1792758602454	HÔ ỨNG	ăn khớp, phối hợp với nhau	ghep_nghia			goi_nho	呼 hô (gọi) + 应 ứng (đáp, như hưởng ứng) → gọi và đáp, ăn khớp với nhau	draft			opus:r5_a
+zh:hskstory-hsk7:1792758602942	TỊCH DƯƠNG	mặt trời lặn, hoàng hôn	ghep_nghia			goi_nho	夕 tịch (chiều tối) + 阳 dương (mặt trời) → mặt trời chiều; "tịch dương" chỉ gặp trong văn thơ	draft			opus:r5_a
+zh:hskstory-hsk7:1792758602948	NGOẠI TẠI	bên ngoài, từ bên ngoài	ghep_nghia			goi_nho	外 ngoại (ngoài) + 在 tại (ở) → ở bên ngoài; trái với 内在 'nội tại'	draft			opus:r5_a
+zh:hskstory-hsk7:1792758603220	UY VỌNG	uy tín, được kính nể	ghep_nghia			goi_nho	威 uy (như uy tín) + 望 vọng (như danh vọng) → uy tín, được kính nể	draft			opus:r5_a
+zh:hskstory-hsk7:1792758603222	UY PHONG	oai phong, oai vệ	cung_dung	oai phong				draft		威: từ Việt đọc 'oai phong' (âm 'oai' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk7:1792758603276	HIẾU KÍNH	hiếu thảo, kính trọng; biếu quà, phụng dưỡng người trên	cung_dung	hiếu kính		cau_tao	孝 hiếu (thảo) + 敬 kính (kính trọng) → hiếu thảo kính trọng	draft			opus:r5_a
+zh:hskstory-hsk7:1792758603290	HỌC NGHIỆP	việc học, chương trình học	ghep_nghia			goi_nho	学 học + 业 nghiệp (việc, như sự nghiệp) → việc học	draft			opus:r5_a
+zh:hskstory-hsk7:1792758603338	HOÀN BỊ	đầy đủ, hoàn chỉnh	ghep_nghia			goi_nho	完 hoàn (trọn, như hoàn chỉnh) + 备 bị (đủ, như trang bị) → đầy đủ	draft			opus:r5_a
+zh:hskstory-hsk7:1792758603350	TÔNG GIÁO	tôn giáo	cung_dung	tôn giáo				draft		宗: từ Việt đọc 'tôn giáo' (âm 'tôn' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk7:1792758603352	TÔNG CHỈ	tôn chỉ, mục đích chính	cung_dung	tôn chỉ				draft		宗: từ Việt đọc 'tôn chỉ' (âm 'tôn' không có trong nguồn)	opus:r5_a
+zh:hskstory-hsk7:1792758603356	QUAN BINH	sĩ quan và binh lính; cán bộ chiến sĩ	ghep_nghia			goi_nho	官 quan (sĩ quan) + 兵 binh (lính) → sĩ quan và binh lính; "quan binh" trong tiếng Việt mang sắc thái cũ	draft			opus:r5_a
+zh:hskstory-hsk7:1792758603484	KHOAN HẬU	rộng lượng, nhân hậu	ghep_nghia			goi_nho	宽 khoan (rộng) + 厚 hậu (dày, hậu) → rộng lượng, hậu đãi	draft			opus:r5_a
+zh:hskstory-hsk7:1792758603552	ĐỐI CHỨNG HẠ DƯỢC	kê đúng thuốc đúng bệnh; giải quyết đúng gốc vấn đề	ghep_nghia			cau_tao	对 đối + 症 chứng (bệnh) + 下药 hạ dược (cho thuốc) → đúng bệnh cho thuốc	draft			opus:r5_a

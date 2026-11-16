@@ -1,0 +1,8389 @@
+{
+  "notes": 7335,
+  "sentence_field": "Hanzi",
+  "audio_field": "Audio Chinese",
+  "translation_field": "Part of Speech",
+  "length": {
+    "n": 7335,
+    "median": 9,
+    "p10": 6,
+    "p25": 7,
+    "p75": 11,
+    "p90": 14,
+    "min": 3,
+    "max": 38
+  },
+  "ge12": 1674,
+  "ge20": 99,
+  "audio_present_notes": 7334,
+  "audio_missing_notes": [
+    {
+      "id": 1780156028821,
+      "sentence": "我真不聪明。",
+      "audio_field": ""
+    }
+  ],
+  "unique_referenced_files": 7325,
+  "audio_seconds_unique": {
+    "n": 7325,
+    "median": 2.112,
+    "p10": 1.488,
+    "p25": 1.776,
+    "p75": 2.592,
+    "p90": 3.12,
+    "min": 0.624,
+    "max": 8.688
+  },
+  "unparsed_durations": 0,
+  "nonempty_raw_fields": {
+    "Hanzi": 7335,
+    "Answer": 7335,
+    "Phrase Vietnamese": 0,
+    "Part of Speech": 7335,
+    "Phrase Chinese": 7335,
+    "Part of Speech 2": 0,
+    "Audio Chinese": 7334,
+    "Image": 0,
+    "Vocab": 0,
+    "Mean": 0
+  },
+  "source_audio_prefixes": {
+    "naver": 7325
+  },
+  "media_metadata_samples": {
+    "naver-93c182a7-e2d3047a-2be74df1-604f3445-b87aa4dc.mp3": {
+      "duration": 0.84,
+      "tags": "{'TSSE': TSSE(encoding=<Encoding.LATIN1: 0>, text=['nVoiceTTS@NAVER'])}",
+      "sample_rate": 24000
+    },
+    "naver-a978ebba-c9ac0050-cbd2c0ce-8d38e84c-aca0b6dc.mp3": {
+      "duration": 1.128,
+      "tags": "{'TSSE': TSSE(encoding=<Encoding.LATIN1: 0>, text=['nVoiceTTS@NAVER'])}",
+      "sample_rate": 24000
+    },
+    "naver-6da99b30-462ee064-85c40136-cacd11ce-21e59583.mp3": {
+      "duration": 1.32,
+      "tags": "{'TSSE': TSSE(encoding=<Encoding.LATIN1: 0>, text=['nVoiceTTS@NAVER'])}",
+      "sample_rate": 24000
+    }
+  },
+  "translation_empty_notes": [],
+  "translation_lengths": [
+    {
+      "id": 1780156027323,
+      "source_n": 3,
+      "vi_n": 2,
+      "source": "你好！",
+      "translation": "Xin chào!"
+    },
+    {
+      "id": 1780156027324,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "你说什么？",
+      "translation": "Bạn vừa nói gì vậy?"
+    },
+    {
+      "id": 1780156027325,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "你做了什么？",
+      "translation": "Bạn đã làm gì?"
+    },
+    {
+      "id": 1780156027326,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我会做。",
+      "translation": "Tôi sẽ làm."
+    },
+    {
+      "id": 1780156027327,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "你想我了？",
+      "translation": "Bạn có nhớ tôi không?"
+    },
+    {
+      "id": 1780156027328,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他们会做。",
+      "translation": "Họ sẽ làm điều đó."
+    },
+    {
+      "id": 1780156027329,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们在说什么？",
+      "translation": "Họ đang nói gì vậy?"
+    },
+    {
+      "id": 1780156027330,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "你会做吗？",
+      "translation": "Bạn có làm được không?"
+    },
+    {
+      "id": 1780156027331,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "你做什么工作？",
+      "translation": "Bạn làm nghề gì?"
+    },
+    {
+      "id": 1780156027332,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她做什么工作？",
+      "translation": "Cô ấy làm nghề gì?"
+    },
+    {
+      "id": 1780156027333,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "怎么了？",
+      "translation": "Có chuyện gì vậy?"
+    },
+    {
+      "id": 1780156027337,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你在哪里工作？",
+      "translation": "Bạn làm việc ở đâu?"
+    },
+    {
+      "id": 1780156027338,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "你去哪里？",
+      "translation": "Bạn đi đâu?"
+    },
+    {
+      "id": 1780156027339,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "你想去哪里？",
+      "translation": "Bạn muốn đi đâu?"
+    },
+    {
+      "id": 1780156027340,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她是哪里的人？",
+      "translation": "Cô ấy đến từ đâu?"
+    },
+    {
+      "id": 1780156027341,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你想去哪里吃？",
+      "translation": "Bạn muốn ăn ở đâu?"
+    },
+    {
+      "id": 1780156027342,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "你想要什么？",
+      "translation": "Bạn muốn gì?"
+    },
+    {
+      "id": 1780156027343,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "我想看看。",
+      "translation": "Tôi muốn xem."
+    },
+    {
+      "id": 1780156027344,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "你做对了。",
+      "translation": "Bạn đã làm đúng."
+    },
+    {
+      "id": 1780156027345,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "给我看。",
+      "translation": "Cho tôi xem đi."
+    },
+    {
+      "id": 1780156027346,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我爱你。",
+      "translation": "Anh Yêu Em."
+    },
+    {
+      "id": 1780156027350,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我喜欢中国。",
+      "translation": "Tôi thích Trung Quốc."
+    },
+    {
+      "id": 1780156027352,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "中国很大。",
+      "translation": "Trung Quốc rất rộng lớn."
+    },
+    {
+      "id": 1780156027353,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "他是谁？",
+      "translation": "Anh ta là ai?"
+    },
+    {
+      "id": 1780156027358,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我要去北京。",
+      "translation": "Tôi sẽ đến Bắc Kinh."
+    },
+    {
+      "id": 1780156027367,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "你从哪里来？",
+      "translation": "Bạn đến từ đâu"
+    },
+    {
+      "id": 1780156027368,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他是什么地方人？",
+      "translation": "Anh ấy đến từ đâu?"
+    },
+    {
+      "id": 1780156027369,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "什么时候开始？",
+      "translation": "Nó bắt đầu khi nào?"
+    },
+    {
+      "id": 1780156027371,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他是我的朋友。",
+      "translation": "Anh ấy là bạn tôi."
+    },
+    {
+      "id": 1780156027374,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我的朋友没来。",
+      "translation": "Bạn tôi không đến."
+    },
+    {
+      "id": 1780156027376,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我们是朋友。",
+      "translation": "Chúng ta là bạn bè."
+    },
+    {
+      "id": 1780156027378,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "这是我家。",
+      "translation": "Đây là nhà của tôi."
+    },
+    {
+      "id": 1780156027379,
+      "source_n": 4,
+      "vi_n": 2,
+      "source": "为什么？",
+      "translation": "Tại sao?"
+    },
+    {
+      "id": 1780156027388,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "让我想一想。",
+      "translation": "Để tôi suy nghĩ đã."
+    },
+    {
+      "id": 1780156027389,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "请让一让！",
+      "translation": "Xin hãy tránh đường!"
+    },
+    {
+      "id": 1780156027392,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我在学校。",
+      "translation": "Tôi đang ở trường."
+    },
+    {
+      "id": 1780156027394,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我要去学校。",
+      "translation": "Tôi cần phải đến trường."
+    },
+    {
+      "id": 1780156027395,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "学校在哪里？",
+      "translation": "Trường học ở đâu?"
+    },
+    {
+      "id": 1780156027396,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "我是老师。",
+      "translation": "Tôi là một giáo viên."
+    },
+    {
+      "id": 1780156027401,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "我是老师。",
+      "translation": "Tôi là một giáo viên."
+    },
+    {
+      "id": 1780156027402,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "老师要去学校。",
+      "translation": "Cô giáo đang đi học."
+    },
+    {
+      "id": 1780156027403,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "老师去哪里？",
+      "translation": "Cô giáo đi đâu rồi?"
+    },
+    {
+      "id": 1780156027404,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "听老师说。",
+      "translation": "Theo lời giáo viên."
+    },
+    {
+      "id": 1780156027405,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他是美国人。",
+      "translation": "Anh ấy là người Mỹ."
+    },
+    {
+      "id": 1780156027406,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我是美国人。",
+      "translation": "Tôi là người Mỹ."
+    },
+    {
+      "id": 1780156027407,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他是美国人。",
+      "translation": "Anh ấy là người Mỹ."
+    },
+    {
+      "id": 1780156027410,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我从美国来。",
+      "translation": "Tôi đến từ Mỹ."
+    },
+    {
+      "id": 1780156027411,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "这里是美国。",
+      "translation": "Đây là nước Mỹ."
+    },
+    {
+      "id": 1780156027412,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她住在哪里？",
+      "translation": "Cô ấy sống ở đâu?"
+    },
+    {
+      "id": 1780156027416,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们都是一样的吗？",
+      "translation": "Chúng có giống nhau không?"
+    },
+    {
+      "id": 1780156027418,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "这里是哪里啊？",
+      "translation": "Tôi đang ở đâu?"
+    },
+    {
+      "id": 1780156027419,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "请跟我来。",
+      "translation": "Hãy theo dõi tôi nhé."
+    },
+    {
+      "id": 1780156027423,
+      "source_n": 3,
+      "vi_n": 2,
+      "source": "走吧。",
+      "translation": "Đi thôi."
+    },
+    {
+      "id": 1780156027428,
+      "source_n": 8,
+      "vi_n": 3,
+      "source": "Kate,坐吧。",
+      "translation": "Kate, mời ngồi."
+    },
+    {
+      "id": 1780156027429,
+      "source_n": 12,
+      "vi_n": 5,
+      "source": "“是谁？”“是你妈妈。”",
+      "translation": "\"Ai đấy?\" \"Là mẹ con.\""
+    },
+    {
+      "id": 1780156027430,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "现在是10点。",
+      "translation": "Bây giờ là 10 giờ."
+    },
+    {
+      "id": 1780156027433,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "现在三点。",
+      "translation": "Bây giờ là 3 giờ."
+    },
+    {
+      "id": 1780156027435,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "已经是11点了。",
+      "translation": "Đã 11 giờ rồi."
+    },
+    {
+      "id": 1780156027436,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他们有两个孩子。",
+      "translation": "Họ có hai đứa con."
+    },
+    {
+      "id": 1780156027437,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "已经五点了。",
+      "translation": "Đã năm giờ rồi."
+    },
+    {
+      "id": 1780156027438,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "现在是五点。",
+      "translation": "Bây giờ là năm giờ."
+    },
+    {
+      "id": 1780156027439,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "晚上好。",
+      "translation": "Buổi tối vui vẻ."
+    },
+    {
+      "id": 1780156027446,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "您学习吗？",
+      "translation": "Bạn có đi học không?"
+    },
+    {
+      "id": 1780156027448,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你看见什么了？",
+      "translation": "Bạn đã nhìn thấy gì?"
+    },
+    {
+      "id": 1780156027449,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我在家。",
+      "translation": "Tôi ở nhà."
+    },
+    {
+      "id": 1780156027450,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在家吗？",
+      "translation": "Cô ấy có nhà không?"
+    },
+    {
+      "id": 1780156027451,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我要去看电影。",
+      "translation": "Tôi muốn đi xem phim."
+    },
+    {
+      "id": 1780156027452,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我想去看电影。",
+      "translation": "Tôi muốn đi xem phim."
+    },
+    {
+      "id": 1780156027453,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "电影好看吗？",
+      "translation": "Bộ phim hay không?"
+    },
+    {
+      "id": 1780156027454,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我必须走了。",
+      "translation": "Tôi phải đi rồi."
+    },
+    {
+      "id": 1780156027455,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我们必须去学校了。",
+      "translation": "Chúng ta phải đến trường."
+    },
+    {
+      "id": 1780156027456,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "准备好了吗？",
+      "translation": "Bạn đã sẵn sàng chưa?"
+    },
+    {
+      "id": 1780156027457,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我往学校去。",
+      "translation": "Tôi đã đến trường."
+    },
+    {
+      "id": 1780156027458,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "一人说一句。",
+      "translation": "Mỗi người nói một câu."
+    },
+    {
+      "id": 1780156027461,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "这有很多钱。",
+      "translation": "Có rất nhiều tiền."
+    },
+    {
+      "id": 1780156027472,
+      "source_n": 5,
+      "vi_n": 2,
+      "source": "当然可以！",
+      "translation": "Chắc chắn!"
+    },
+    {
+      "id": 1780156027474,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我回来了。",
+      "translation": "Tôi đã trở lại."
+    },
+    {
+      "id": 1780156027476,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我想讲几句话。",
+      "translation": "Tôi muốn nói vài lời."
+    },
+    {
+      "id": 1780156027481,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我了解她。",
+      "translation": "Tôi biết cô ấy."
+    },
+    {
+      "id": 1780156027484,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我正在听你说。",
+      "translation": "Tôi đang lắng nghe bạn."
+    },
+    {
+      "id": 1780156027485,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "他们在读一本书。",
+      "translation": "Họ đang đọc sách."
+    },
+    {
+      "id": 1780156027488,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "考试开始了。",
+      "translation": "Kỳ thi đã bắt đầu."
+    },
+    {
+      "id": 1780156027491,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "现在是六点。",
+      "translation": "Bây giờ là sáu giờ."
+    },
+    {
+      "id": 1780156027493,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "你要喝什么？",
+      "translation": "Bạn muốn uống gì?"
+    },
+    {
+      "id": 1780156027494,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "你想要什么喝的吗？",
+      "translation": "Bạn muốn uống gì?"
+    },
+    {
+      "id": 1780156027498,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我想喝东西。",
+      "translation": "Tôi muốn uống gì đó."
+    },
+    {
+      "id": 1780156027500,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我想吃一点东西。",
+      "translation": "Tôi muốn ăn gì đó."
+    },
+    {
+      "id": 1780156027501,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我是个男人。",
+      "translation": "Tôi là đàn ông."
+    },
+    {
+      "id": 1780156027502,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "男人应该工作。",
+      "translation": "Đàn ông nên đi làm."
+    },
+    {
+      "id": 1780156027505,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "这不可能！",
+      "translation": "Điều đó là không thể!"
+    },
+    {
+      "id": 1780156027515,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这是我的儿子。",
+      "translation": "Đây là con trai tôi."
+    },
+    {
+      "id": 1780156027516,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我儿子三岁了。",
+      "translation": "Con trai tôi ba tuổi."
+    },
+    {
+      "id": 1780156027517,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "机会来了。",
+      "translation": "Cơ hội đã đến."
+    },
+    {
+      "id": 1780156027524,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "说英语不难。",
+      "translation": "Nói tiếng Anh không khó."
+    },
+    {
+      "id": 1780156027525,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "学英语很难。",
+      "translation": "Học tiếng Anh rất khó."
+    },
+    {
+      "id": 1780156027537,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "用英语说。",
+      "translation": "Hãy nói bằng tiếng Anh."
+    },
+    {
+      "id": 1780156027542,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他和我一样高。",
+      "translation": "Anh ấy cao bằng tôi."
+    },
+    {
+      "id": 1780156027544,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "你有一米高了。",
+      "translation": "Bạn cao một mét."
+    },
+    {
+      "id": 1780156027545,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他与我同龄。",
+      "translation": "Anh ấy bằng tuổi tôi."
+    },
+    {
+      "id": 1780156027548,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们我都认识。",
+      "translation": "Tôi biết hết bọn họ."
+    },
+    {
+      "id": 1780156027555,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我认识他。",
+      "translation": "Tôi biết anh ấy."
+    },
+    {
+      "id": 1780156027561,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "你爸爸很高。",
+      "translation": "Bố của bạn rất cao."
+    },
+    {
+      "id": 1780156027587,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "你听懂了吗？",
+      "translation": "Bạn đã hiểu chưa?"
+    },
+    {
+      "id": 1780156027594,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "音乐很好听。",
+      "translation": "Nhạc hay quá."
+    },
+    {
+      "id": 1780156027596,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "你有钱吗？",
+      "translation": "Bạn có tiền không?"
+    },
+    {
+      "id": 1780156027600,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "一切都没有问题。",
+      "translation": "Mọi thứ đều ổn."
+    },
+    {
+      "id": 1780156027602,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "其他的一切都好。",
+      "translation": "Mọi thứ khác đều ổn."
+    },
+    {
+      "id": 1780156027603,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我希望如此。",
+      "translation": "Tôi hy vọng vậy."
+    },
+    {
+      "id": 1780156027606,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我喜欢买衣服。",
+      "translation": "Tôi thích mua quần áo."
+    },
+    {
+      "id": 1780156027612,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "接电话。",
+      "translation": "Hãy nghe điện thoại."
+    },
+    {
+      "id": 1780156027613,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "请接一下电话。",
+      "translation": "Vui lòng nghe điện thoại."
+    },
+    {
+      "id": 1780156027616,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "请介绍你自己。",
+      "translation": "Hãy tự giới thiệu."
+    },
+    {
+      "id": 1780156027620,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "我不记得了。",
+      "translation": "Tôi không nhớ."
+    },
+    {
+      "id": 1780156027623,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "找工作很容易。",
+      "translation": "Tìm việc làm rất dễ."
+    },
+    {
+      "id": 1780156027626,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她很有才华。",
+      "translation": "Cô ấy rất tài năng."
+    },
+    {
+      "id": 1780156027634,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这是你的信。",
+      "translation": "Đây là thư của bạn."
+    },
+    {
+      "id": 1780156027637,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我家离学校很近。",
+      "translation": "Nhà tôi rất gần trường."
+    },
+    {
+      "id": 1780156027640,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "你不这么认为吗？",
+      "translation": "Bạn không nghĩ vậy sao?"
+    },
+    {
+      "id": 1780156027643,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我来帮您。",
+      "translation": "Để tôi giúp bạn."
+    },
+    {
+      "id": 1780156027645,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "帮我一下。",
+      "translation": "Xin hãy giúp tôi."
+    },
+    {
+      "id": 1780156027648,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "那没人帮你吗？",
+      "translation": "Không ai giúp bạn sao?"
+    },
+    {
+      "id": 1780156027649,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "请继续说。",
+      "translation": "Hãy tiếp tục."
+    },
+    {
+      "id": 1780156027651,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "请你继续说。",
+      "translation": "Hãy tiếp tục."
+    },
+    {
+      "id": 1780156027653,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "这是我的父亲。",
+      "translation": "Đây là bố tôi."
+    },
+    {
+      "id": 1780156027657,
+      "source_n": 10,
+      "vi_n": 4,
+      "source": "请问您从事什么工作？",
+      "translation": "Bạn làm nghề gì?"
+    },
+    {
+      "id": 1780156027659,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "你的手机在哪里？",
+      "translation": "Điện thoại của bạn đâu?"
+    },
+    {
+      "id": 1780156027663,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "手机在哪里？",
+      "translation": "Điện thoại ở đâu?"
+    },
+    {
+      "id": 1780156027666,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "清楚了吗？",
+      "translation": "Bạn đã hiểu rõ chưa?"
+    },
+    {
+      "id": 1780156027674,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你找我有事吗？",
+      "translation": "Bạn cần gì ở tôi?"
+    },
+    {
+      "id": 1780156027675,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "打开你的书。",
+      "translation": "Mở sách ra."
+    },
+    {
+      "id": 1780156027683,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她教中文。",
+      "translation": "Cô ấy dạy tiếng Trung."
+    },
+    {
+      "id": 1780156027684,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我教中文。",
+      "translation": "Tôi dạy tiếng Trung."
+    },
+    {
+      "id": 1780156027685,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我的朋友教中文。",
+      "translation": "Bạn tôi dạy tiếng Trung."
+    },
+    {
+      "id": 1780156027690,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "请你不要哭。",
+      "translation": "Đừng khóc nhé."
+    },
+    {
+      "id": 1780156027691,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我想哭。",
+      "translation": "Tôi muốn khóc."
+    },
+    {
+      "id": 1780156027695,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他成功了。",
+      "translation": "Ông ấy đã thành công."
+    },
+    {
+      "id": 1780156027698,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "妈妈很忙。",
+      "translation": "Mẹ rất bận."
+    },
+    {
+      "id": 1780156027699,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我爸爸很忙。",
+      "translation": "Bố tôi rất bận rộn."
+    },
+    {
+      "id": 1780156027702,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她需要帮助。",
+      "translation": "Cô ấy cần giúp đỡ."
+    },
+    {
+      "id": 1780156027703,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我爱我的母亲。",
+      "translation": "Tôi yêu mẹ tôi."
+    },
+    {
+      "id": 1780156027709,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "你工作太努力了。",
+      "translation": "Bạn làm việc quá sức."
+    },
+    {
+      "id": 1780156027723,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "请来我的家里。",
+      "translation": "Mời bạn đến nhà tôi."
+    },
+    {
+      "id": 1780156027724,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这道题很难。",
+      "translation": "Câu hỏi này rất khó."
+    },
+    {
+      "id": 1780156027728,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "下个月是几月？",
+      "translation": "Tháng tới là tháng mấy?"
+    },
+    {
+      "id": 1780156027740,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "没有人理解我。",
+      "translation": "Không ai hiểu tôi cả."
+    },
+    {
+      "id": 1780156027744,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你的在那儿呢。",
+      "translation": "Của bạn ở đằng kia."
+    },
+    {
+      "id": 1780156027745,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我有好几打呢。",
+      "translation": "Tôi có vài chục cái."
+    },
+    {
+      "id": 1780156027749,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这是我的房间。",
+      "translation": "Đây là phòng của tôi."
+    },
+    {
+      "id": 1780156027750,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "不要往我房间里看。",
+      "translation": "Đừng nhìn vào phòng tôi."
+    },
+    {
+      "id": 1780156027758,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我不喜欢看电视。",
+      "translation": "Tôi không thích xem tivi."
+    },
+    {
+      "id": 1780156027759,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "没有人相信我说的话。",
+      "translation": "Không ai tin tôi cả."
+    },
+    {
+      "id": 1780156027763,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她是医生。",
+      "translation": "Cô ấy là bác sĩ."
+    },
+    {
+      "id": 1780156027773,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "下个月是二月。",
+      "translation": "Tháng tới là tháng Hai."
+    },
+    {
+      "id": 1780156027780,
+      "source_n": 3,
+      "vi_n": 2,
+      "source": "请坐。",
+      "translation": "Mời ngồi."
+    },
+    {
+      "id": 1780156027781,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她喜欢小狗。",
+      "translation": "Cô ấy thích chó con."
+    },
+    {
+      "id": 1780156027789,
+      "source_n": 4,
+      "vi_n": 2,
+      "source": "谢谢您。",
+      "translation": "Cảm ơn."
+    },
+    {
+      "id": 1780156027801,
+      "source_n": 4,
+      "vi_n": 2,
+      "source": "我懂了。",
+      "translation": "Tôi hiểu."
+    },
+    {
+      "id": 1780156027802,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我大概懂了。",
+      "translation": "Tôi nghĩ tôi hiểu rồi."
+    },
+    {
+      "id": 1780156027803,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "有人进去了。",
+      "translation": "Có người bước vào."
+    },
+    {
+      "id": 1780156027804,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "让我进去。",
+      "translation": "Cho tôi vào."
+    },
+    {
+      "id": 1780156027805,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我的钱掉了。",
+      "translation": "Tôi đã mất hết tiền."
+    },
+    {
+      "id": 1780156027806,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "你到底去不去？",
+      "translation": "Bạn có đi không?"
+    },
+    {
+      "id": 1780156027809,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他跑得很快。",
+      "translation": "Anh ấy chạy rất nhanh."
+    },
+    {
+      "id": 1780156027811,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他跑得真快。",
+      "translation": "Anh ấy chạy rất nhanh."
+    },
+    {
+      "id": 1780156027812,
+      "source_n": 12,
+      "vi_n": 5,
+      "source": "Bill跑得比Bob快。",
+      "translation": "Bill chạy nhanh hơn Bob."
+    },
+    {
+      "id": 1780156027815,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我跑了3里路。",
+      "translation": "Tôi đã chạy 3 dặm."
+    },
+    {
+      "id": 1780156027816,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她跑了一段路。",
+      "translation": "Cô ấy chạy một lúc."
+    },
+    {
+      "id": 1780156027817,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "马跑得真快。",
+      "translation": "Con ngựa chạy rất nhanh."
+    },
+    {
+      "id": 1780156027826,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "他怕狗。",
+      "translation": "Anh ấy sợ chó."
+    },
+    {
+      "id": 1780156027834,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "比赛开始了。",
+      "translation": "Trận đấu đã bắt đầu."
+    },
+    {
+      "id": 1780156027835,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我们正在开会。",
+      "translation": "Chúng tôi đang họp."
+    },
+    {
+      "id": 1780156027838,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "警察来了。",
+      "translation": "Cảnh sát đã đến."
+    },
+    {
+      "id": 1780156027839,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我在读书。",
+      "translation": "Tôi đang đọc sách."
+    },
+    {
+      "id": 1780156027842,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "他们的生活很幸福。",
+      "translation": "Họ rất hạnh phúc."
+    },
+    {
+      "id": 1780156027843,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我们的生活很幸福。",
+      "translation": "Chúng tôi rất hạnh phúc."
+    },
+    {
+      "id": 1780156027844,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "他们生活得很幸福。",
+      "translation": "Họ sống hạnh phúc."
+    },
+    {
+      "id": 1780156027845,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "给我打电话。",
+      "translation": "Hãy gọi cho tôi."
+    },
+    {
+      "id": 1780156027851,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "请给他打电话。",
+      "translation": "Hãy gọi cho anh ấy."
+    },
+    {
+      "id": 1780156027852,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "请给我打电话。",
+      "translation": "Hãy gọi cho tôi."
+    },
+    {
+      "id": 1780156027864,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "会议开始了。",
+      "translation": "Cuộc họp bắt đầu."
+    },
+    {
+      "id": 1780156027871,
+      "source_n": 12,
+      "vi_n": 5,
+      "source": "Steve看上去很高兴。",
+      "translation": "Steve trông rất vui vẻ."
+    },
+    {
+      "id": 1780156027872,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我非常高兴。",
+      "translation": "Tôi rất hạnh phúc."
+    },
+    {
+      "id": 1780156027873,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她感到很高兴。",
+      "translation": "Cô ấy rất hạnh phúc."
+    },
+    {
+      "id": 1780156027875,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "你看起来很高兴。",
+      "translation": "Trông bạn rất vui vẻ."
+    },
+    {
+      "id": 1780156027876,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他看起来很年轻。",
+      "translation": "Anh ấy trông rất trẻ."
+    },
+    {
+      "id": 1780156027877,
+      "source_n": 11,
+      "vi_n": 5,
+      "source": "我的妈妈看起来很年轻。",
+      "translation": "Mẹ tôi trông rất trẻ."
+    },
+    {
+      "id": 1780156027879,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "请再解释一下。",
+      "translation": "Hãy giải thích lại."
+    },
+    {
+      "id": 1780156027897,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我坐在他旁边。",
+      "translation": "Tôi ngồi cạnh anh ấy."
+    },
+    {
+      "id": 1780156027905,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "让我考虑一下。",
+      "translation": "Để tôi suy nghĩ đã."
+    },
+    {
+      "id": 1780156027912,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "太热了。",
+      "translation": "Trời nóng quá."
+    },
+    {
+      "id": 1780156027917,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "很少人这么认为。",
+      "translation": "Ít người nghĩ như vậy."
+    },
+    {
+      "id": 1780156027926,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "她在中间。",
+      "translation": "Cô ấy ở giữa."
+    },
+    {
+      "id": 1780156027939,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "车不动了。",
+      "translation": "Chiếc xe dừng lại."
+    },
+    {
+      "id": 1780156027942,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "大家都站着。",
+      "translation": "Mọi người đều đang đứng."
+    },
+    {
+      "id": 1780156027943,
+      "source_n": 3,
+      "vi_n": 3,
+      "source": "拿着。",
+      "translation": "Hãy lấy nó."
+    },
+    {
+      "id": 1780156027944,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "正在下着雪。",
+      "translation": "Trời đang có tuyết."
+    },
+    {
+      "id": 1780156027945,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这里全是雪。",
+      "translation": "Ở đây toàn là tuyết."
+    },
+    {
+      "id": 1780156027946,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "雪很白。",
+      "translation": "Tuyết trắng muốt."
+    },
+    {
+      "id": 1780156027950,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她是我的媳妇。",
+      "translation": "Cô ấy là vợ tôi."
+    },
+    {
+      "id": 1780156027951,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "现在不行。",
+      "translation": "Không phải bây giờ."
+    },
+    {
+      "id": 1780156027954,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他又结婚了。",
+      "translation": "Ông ấy tái hôn."
+    },
+    {
+      "id": 1780156027955,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他们结婚了。",
+      "translation": "Họ đã kết hôn."
+    },
+    {
+      "id": 1780156027964,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "我想吃饭。",
+      "translation": "Tôi muốn ăn."
+    },
+    {
+      "id": 1780156027967,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我的地址是……",
+      "translation": "Địa chỉ của tôi là..."
+    },
+    {
+      "id": 1780156027970,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我住在学校附近。",
+      "translation": "Tôi sống gần trường học."
+    },
+    {
+      "id": 1780156027973,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我的阅读比说话好。",
+      "translation": "Tôi đọc giỏi hơn nói."
+    },
+    {
+      "id": 1780156027977,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她样子长得老。",
+      "translation": "Trông bà ấy già rồi."
+    },
+    {
+      "id": 1780156027981,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "严重吗？",
+      "translation": "Có nghiêm trọng không?"
+    },
+    {
+      "id": 1780156027983,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "我们一块儿吃饭吧！",
+      "translation": "Cùng nhau ăn nhé!"
+    },
+    {
+      "id": 1780156027989,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "我很难过。",
+      "translation": "Tôi rất buồn."
+    },
+    {
+      "id": 1780156027990,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "您放心！",
+      "translation": "Đừng lo lắng!"
+    },
+    {
+      "id": 1780156027992,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "我去上学。",
+      "translation": "Tôi đi học."
+    },
+    {
+      "id": 1780156027998,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我感到很担心。",
+      "translation": "Tôi rất lo lắng."
+    },
+    {
+      "id": 1780156028001,
+      "source_n": 4,
+      "vi_n": 2,
+      "source": "别担心。",
+      "translation": "Đừng lo."
+    },
+    {
+      "id": 1780156028006,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "他们笑得很开心。",
+      "translation": "Họ cười vui vẻ."
+    },
+    {
+      "id": 1780156028007,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "他们活得很开心。",
+      "translation": "Họ rất hạnh phúc."
+    },
+    {
+      "id": 1780156028014,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我有一只猫。",
+      "translation": "Tôi có một con mèo."
+    },
+    {
+      "id": 1780156028023,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "我差不多完成了。",
+      "translation": "Tôi sắp xong rồi."
+    },
+    {
+      "id": 1780156028031,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "不要把门开着。",
+      "translation": "Đừng để cửa mở."
+    },
+    {
+      "id": 1780156028039,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他是我的丈夫。",
+      "translation": "Anh ấy là chồng tôi."
+    },
+    {
+      "id": 1780156028042,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他很容易觉得累。",
+      "translation": "Anh ấy dễ mệt mỏi."
+    },
+    {
+      "id": 1780156028043,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我已经很累了。",
+      "translation": "Tôi đã rất mệt rồi."
+    },
+    {
+      "id": 1780156028045,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "你累了，不是吗？",
+      "translation": "Bạn mệt rồi phải không?"
+    },
+    {
+      "id": 1780156028051,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "请大声一点。",
+      "translation": "Hãy nói to hơn."
+    },
+    {
+      "id": 1780156028053,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他说得很大声。",
+      "translation": "Ông ấy nói rất to."
+    },
+    {
+      "id": 1780156028054,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我去过德国。",
+      "translation": "Tôi đã từng đến Đức."
+    },
+    {
+      "id": 1780156028059,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "你认为怎么样？",
+      "translation": "Bạn nghĩ sao?"
+    },
+    {
+      "id": 1780156028060,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "你觉得怎么样？",
+      "translation": "Bạn nghĩ sao?"
+    },
+    {
+      "id": 1780156028069,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "哪个比较大？",
+      "translation": "Cái nào lớn hơn?"
+    },
+    {
+      "id": 1780156028073,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "她是什么时候出生的？",
+      "translation": "Cô ấy sinh khi nào?"
+    },
+    {
+      "id": 1780156028089,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这是一家银行。",
+      "translation": "Đây là một ngân hàng."
+    },
+    {
+      "id": 1780156028091,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我住在银行附近。",
+      "translation": "Tôi sống gần ngân hàng."
+    },
+    {
+      "id": 1780156028099,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我有十美元。",
+      "translation": "Tôi có mười đô la."
+    },
+    {
+      "id": 1780156028107,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我需要多睡觉。",
+      "translation": "Tôi cần ngủ nhiều hơn."
+    },
+    {
+      "id": 1780156028112,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我同意。",
+      "translation": "Tôi đồng ý."
+    },
+    {
+      "id": 1780156028114,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "没关系。",
+      "translation": "Điều đó không quan trọng."
+    },
+    {
+      "id": 1780156028123,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "你应该好好儿休息。",
+      "translation": "Bạn nên nghỉ ngơi."
+    },
+    {
+      "id": 1780156028138,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "太阳很大。",
+      "translation": "Mặt trời rất sáng."
+    },
+    {
+      "id": 1780156028139,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "太阳出来了。",
+      "translation": "Mặt trời đang ló dạng."
+    },
+    {
+      "id": 1780156028142,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这所学校很大。",
+      "translation": "Ngôi trường này rất lớn."
+    },
+    {
+      "id": 1780156028151,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "你觉得如何？",
+      "translation": "Bạn nghĩ sao?"
+    },
+    {
+      "id": 1780156028152,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这件事情很奇怪。",
+      "translation": "Điều này thật kỳ lạ."
+    },
+    {
+      "id": 1780156028164,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "妹妹八岁了。",
+      "translation": "Em gái tôi tám tuổi."
+    },
+    {
+      "id": 1780156028192,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "这辆自行车是谁的？",
+      "translation": "Xe đạp này của ai?"
+    },
+    {
+      "id": 1780156028200,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我的精神不太好。",
+      "translation": "Tôi cảm thấy không khỏe."
+    },
+    {
+      "id": 1780156028203,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我已经吃够了。",
+      "translation": "Tôi chịu đựng đủ rồi."
+    },
+    {
+      "id": 1780156028204,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我住在二楼。",
+      "translation": "Tôi sống ở tầng hai."
+    },
+    {
+      "id": 1780156028207,
+      "source_n": 11,
+      "vi_n": 5,
+      "source": "不要哭得像个孩子似的。",
+      "translation": "Đừng khóc như trẻ con."
+    },
+    {
+      "id": 1780156028208,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这本书很旧。",
+      "translation": "Cuốn sách này đã cũ."
+    },
+    {
+      "id": 1780156028212,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "车子已经旧了。",
+      "translation": "Chiếc xe này cũ rồi."
+    },
+    {
+      "id": 1780156028214,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他们是兄弟。",
+      "translation": "Họ là anh em ruột."
+    },
+    {
+      "id": 1780156028221,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "问题很明显。",
+      "translation": "Vấn đề quá rõ ràng."
+    },
+    {
+      "id": 1780156028222,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "雨停了。",
+      "translation": "Trời đã tạnh mưa."
+    },
+    {
+      "id": 1780156028223,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "雨开始往下掉。",
+      "translation": "Trời bắt đầu mưa."
+    },
+    {
+      "id": 1780156028224,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他是加拿大人。",
+      "translation": "Anh ấy là người Canada."
+    },
+    {
+      "id": 1780156028226,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我把那件事忘了。",
+      "translation": "Tôi quên mất chuyện đó."
+    },
+    {
+      "id": 1780156028227,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "呀，我忘了。",
+      "translation": "Ồ, tôi quên mất."
+    },
+    {
+      "id": 1780156028234,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我要去上课了。",
+      "translation": "Tôi phải đi học."
+    },
+    {
+      "id": 1780156028235,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "非常感谢！",
+      "translation": "Cảm ơn bạn rất nhiều!"
+    },
+    {
+      "id": 1780156028239,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "这是地图。",
+      "translation": "Đây là một bản đồ."
+    },
+    {
+      "id": 1780156028244,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很优秀。",
+      "translation": "Anh ấy rất tài năng."
+    },
+    {
+      "id": 1780156028253,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "接下来怎么做呢？",
+      "translation": "Bước tiếp theo là gì?"
+    },
+    {
+      "id": 1780156028257,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这道数学题很难。",
+      "translation": "Bài toán này rất khó."
+    },
+    {
+      "id": 1780156028259,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "这道数学题很容易。",
+      "translation": "Bài toán này rất dễ."
+    },
+    {
+      "id": 1780156028262,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他不教数学。",
+      "translation": "Ông ấy không dạy toán."
+    },
+    {
+      "id": 1780156028266,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "你在干什么？",
+      "translation": "Bạn đang làm gì thế?"
+    },
+    {
+      "id": 1780156028267,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她们在干什么？",
+      "translation": "Họ đang làm gì vậy?"
+    },
+    {
+      "id": 1780156028275,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "他们放弃了努力。",
+      "translation": "Họ đã bỏ cuộc."
+    },
+    {
+      "id": 1780156028279,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我突然忘记了。",
+      "translation": "Tôi đột nhiên quên mất."
+    },
+    {
+      "id": 1780156028280,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "把你的自行车放好。",
+      "translation": "Đỗ xe đạp đúng cách."
+    },
+    {
+      "id": 1780156028282,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "车到站了。",
+      "translation": "Tàu đã đến ga."
+    },
+    {
+      "id": 1780156028283,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我不喜欢茶。",
+      "translation": "Tôi không thích trà."
+    },
+    {
+      "id": 1780156028285,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "你喜欢茶吗？",
+      "translation": "Bạn có thích trà không?"
+    },
+    {
+      "id": 1780156028291,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "雨下了一周。",
+      "translation": "Trời mưa suốt một tuần."
+    },
+    {
+      "id": 1780156028293,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "大约两周内。",
+      "translation": "Trong khoảng hai tuần."
+    },
+    {
+      "id": 1780156028305,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "放学了。",
+      "translation": "Tan học rồi."
+    },
+    {
+      "id": 1780156028307,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "这是一个错误。",
+      "translation": "Đây là một lỗi."
+    },
+    {
+      "id": 1780156028314,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "钟不走了。",
+      "translation": "Đồng hồ ngừng chạy."
+    },
+    {
+      "id": 1780156028315,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这件衣服很便宜。",
+      "translation": "Món đồ này rất rẻ."
+    },
+    {
+      "id": 1780156028316,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "那个东西很便宜。",
+      "translation": "Thứ đó rẻ lắm."
+    },
+    {
+      "id": 1780156028317,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "似乎很便宜。",
+      "translation": "Giá có vẻ rất rẻ."
+    },
+    {
+      "id": 1780156028333,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我弟弟六岁了。",
+      "translation": "Em trai tôi sáu tuổi."
+    },
+    {
+      "id": 1780156028334,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "弟弟哭了。",
+      "translation": "Em trai tôi đã khóc."
+    },
+    {
+      "id": 1780156028335,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我有一个弟弟。",
+      "translation": "Tôi có một em trai."
+    },
+    {
+      "id": 1780156028340,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "请给我一杯茶。",
+      "translation": "Cho tôi một tách trà."
+    },
+    {
+      "id": 1780156028344,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我在喝水。",
+      "translation": "Tôi đang uống nước."
+    },
+    {
+      "id": 1780156028345,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "天气这么好。",
+      "translation": "Thời tiết thật tuyệt vời."
+    },
+    {
+      "id": 1780156028350,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "今天的天气很冷。",
+      "translation": "Hôm nay trời rất lạnh."
+    },
+    {
+      "id": 1780156028351,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "天冷了。",
+      "translation": "Trời đang trở lạnh."
+    },
+    {
+      "id": 1780156028352,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "天很冷。",
+      "translation": "Trời rất lạnh."
+    },
+    {
+      "id": 1780156028353,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "天空很蓝。",
+      "translation": "Bầu trời rất xanh."
+    },
+    {
+      "id": 1780156028354,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "天快亮了。",
+      "translation": "Trời gần sáng rồi."
+    },
+    {
+      "id": 1780156028356,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "你做得很好。",
+      "translation": "Bạn đã làm rất tốt."
+    },
+    {
+      "id": 1780156028362,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "火车就要开了。",
+      "translation": "Chuyến tàu sắp khởi hành."
+    },
+    {
+      "id": 1780156028378,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "你有本子吗？",
+      "translation": "Bạn có sổ tay không?"
+    },
+    {
+      "id": 1780156028384,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "你确定吗？",
+      "translation": "Bạn có chắc không?"
+    },
+    {
+      "id": 1780156028385,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "酒吧在哪里？",
+      "translation": "Quán bar ở đâu?"
+    },
+    {
+      "id": 1780156028386,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我害怕。",
+      "translation": "Tôi sợ quá."
+    },
+    {
+      "id": 1780156028387,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她在害怕什么？",
+      "translation": "Cô ấy sợ điều gì?"
+    },
+    {
+      "id": 1780156028388,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "我很害怕。",
+      "translation": "Tôi rất sợ."
+    },
+    {
+      "id": 1780156028389,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "别喊了！",
+      "translation": "Đừng la hét nữa!"
+    },
+    {
+      "id": 1780156028395,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "她们跳得很高。",
+      "translation": "Họ nhảy rất cao."
+    },
+    {
+      "id": 1780156028396,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "妈妈去市场了。",
+      "translation": "Mẹ đi chợ."
+    },
+    {
+      "id": 1780156028405,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她一直等到中午。",
+      "translation": "Cô ấy đợi đến trưa."
+    },
+    {
+      "id": 1780156028415,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "这是报纸。",
+      "translation": "Đây là một tờ báo."
+    },
+    {
+      "id": 1780156028420,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我们用腿走。",
+      "translation": "Chúng ta cùng đi bộ."
+    },
+    {
+      "id": 1780156028421,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "不要拉我的腿！",
+      "translation": "Đừng có đùa tôi!"
+    },
+    {
+      "id": 1780156028422,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "水往下流。",
+      "translation": "Nước chảy xuống dưới."
+    },
+    {
+      "id": 1780156028437,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他们在聊天。",
+      "translation": "Họ đang trò chuyện."
+    },
+    {
+      "id": 1780156028441,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "太可惜了！",
+      "translation": "Thật đáng tiếc!"
+    },
+    {
+      "id": 1780156028448,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "老人坐了下来。",
+      "translation": "Ông lão ngồi xuống."
+    },
+    {
+      "id": 1780156028449,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "那个老人很健康。",
+      "translation": "Ông lão rất khỏe mạnh."
+    },
+    {
+      "id": 1780156028466,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个人有点怪。",
+      "translation": "Người này hơi kỳ lạ."
+    },
+    {
+      "id": 1780156028469,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我喜欢吃肉。",
+      "translation": "Tôi thích ăn thịt."
+    },
+    {
+      "id": 1780156028470,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "怎么办？",
+      "translation": "Tôi phải làm gì đây?"
+    },
+    {
+      "id": 1780156028477,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我也喝咖啡。",
+      "translation": "Tôi cũng uống cà phê."
+    },
+    {
+      "id": 1780156028484,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我更喜欢咖啡。",
+      "translation": "Tôi thích cà phê hơn."
+    },
+    {
+      "id": 1780156028494,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她的头发很黑。",
+      "translation": "Tóc cô ấy rất đen."
+    },
+    {
+      "id": 1780156028495,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "头发干了。",
+      "translation": "Tóc tôi bị khô."
+    },
+    {
+      "id": 1780156028497,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "咖啡有点苦。",
+      "translation": "Cà phê hơi đắng."
+    },
+    {
+      "id": 1780156028502,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "他们取得了成功。",
+      "translation": "Họ đã thành công."
+    },
+    {
+      "id": 1780156028552,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我很快乐。",
+      "translation": "Tôi rất hạnh phúc."
+    },
+    {
+      "id": 1780156028553,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我很快乐。",
+      "translation": "Tôi rất hạnh phúc."
+    },
+    {
+      "id": 1780156028566,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "你看起来很轻松。",
+      "translation": "Trông bạn rất thư thái."
+    },
+    {
+      "id": 1780156028599,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我要学习汉语。",
+      "translation": "Tôi muốn học tiếng Trung."
+    },
+    {
+      "id": 1780156028604,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "学汉语很难。",
+      "translation": "Học tiếng Trung rất khó."
+    },
+    {
+      "id": 1780156028606,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "你满意吗？",
+      "translation": "Bạn có hài lòng không?"
+    },
+    {
+      "id": 1780156028632,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "二的两倍是四。",
+      "translation": "Hai nhân hai bằng bốn."
+    },
+    {
+      "id": 1780156028636,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他能游得很快。",
+      "translation": "Anh ấy bơi rất nhanh."
+    },
+    {
+      "id": 1780156028660,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "他们走得很慢。",
+      "translation": "Họ đi rất chậm."
+    },
+    {
+      "id": 1780156028661,
+      "source_n": 12,
+      "vi_n": 5,
+      "source": "Tom说话比Bill慢。",
+      "translation": "Tom nói chậm hơn Bill."
+    },
+    {
+      "id": 1780156028665,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "广场很大。",
+      "translation": "Quảng trường này rất rộng."
+    },
+    {
+      "id": 1780156028667,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "天黑了。",
+      "translation": "Trời tối dần."
+    },
+    {
+      "id": 1780156028671,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "真麻烦！",
+      "translation": "Thật phiền phức!"
+    },
+    {
+      "id": 1780156028677,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "父亲正忙着写信。",
+      "translation": "Bố đang bận viết thư."
+    },
+    {
+      "id": 1780156028687,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "韩国很小。",
+      "translation": "Hàn Quốc rất nhỏ."
+    },
+    {
+      "id": 1780156028688,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "韩国不大。",
+      "translation": "Hàn Quốc không lớn."
+    },
+    {
+      "id": 1780156028689,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "您的身体情况良好。",
+      "translation": "Bạn có sức khỏe tốt."
+    },
+    {
+      "id": 1780156028690,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "你的身体情况良好。",
+      "translation": "Sức khỏe của bạn tốt."
+    },
+    {
+      "id": 1780156028698,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我喜欢喝酒。",
+      "translation": "Tôi thích uống rượu."
+    },
+    {
+      "id": 1780156028702,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我喜欢黄颜色。",
+      "translation": "Tôi thích màu vàng."
+    },
+    {
+      "id": 1780156028710,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她活了很久。",
+      "translation": "Bà ấy sống rất thọ."
+    },
+    {
+      "id": 1780156028716,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我恨你。",
+      "translation": "Tôi ghét bạn."
+    },
+    {
+      "id": 1780156028727,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她爱干净。",
+      "translation": "Cô ấy rất sạch sẽ."
+    },
+    {
+      "id": 1780156028728,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "请拉开门。",
+      "translation": "Vui lòng mở cửa."
+    },
+    {
+      "id": 1780156028732,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很可怜。",
+      "translation": "Anh ta thật đáng thương."
+    },
+    {
+      "id": 1780156028733,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "你的样子真可怜。",
+      "translation": "Trông bạn thật đáng thương."
+    },
+    {
+      "id": 1780156028737,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "树有根。",
+      "translation": "Cây có rễ."
+    },
+    {
+      "id": 1780156028740,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "事情太复杂了。",
+      "translation": "Mọi chuyện quá phức tạp."
+    },
+    {
+      "id": 1780156028744,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我大概跑了13秒。",
+      "translation": "Tôi chạy khoảng 13 giây."
+    },
+    {
+      "id": 1780156028758,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她睡着了。",
+      "translation": "Cô ấy ngủ thiếp đi."
+    },
+    {
+      "id": 1780156028759,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他睡着了。",
+      "translation": "Anh ấy ngủ thiếp đi."
+    },
+    {
+      "id": 1780156028761,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "这条鱼死了。",
+      "translation": "Con cá đã chết."
+    },
+    {
+      "id": 1780156028762,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这条鱼真大。",
+      "translation": "Con cá đó to thật."
+    },
+    {
+      "id": 1780156028764,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "饭店在哪里？",
+      "translation": "Nhà hàng ở đâu?"
+    },
+    {
+      "id": 1780156028766,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我不太舒服。",
+      "translation": "Tôi cảm thấy không khỏe."
+    },
+    {
+      "id": 1780156028774,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我去过俄罗斯。",
+      "translation": "Tôi đã từng đến Nga."
+    },
+    {
+      "id": 1780156028792,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "那就是问题所在了。",
+      "translation": "Đó chính là vấn đề."
+    },
+    {
+      "id": 1780156028793,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "学期结束了。",
+      "translation": "Học kỳ đã kết thúc."
+    },
+    {
+      "id": 1780156028796,
+      "source_n": 11,
+      "vi_n": 5,
+      "source": "请问,你的经理在哪里？",
+      "translation": "Quản lý của bạn đâu?"
+    },
+    {
+      "id": 1780156028797,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "经理没来。",
+      "translation": "Quản lý không đến."
+    },
+    {
+      "id": 1780156028806,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "手指甲太长了。",
+      "translation": "Móng tay tôi dài quá."
+    },
+    {
+      "id": 1780156028824,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很聪明。",
+      "translation": "Anh ấy rất thông minh."
+    },
+    {
+      "id": 1780156028829,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "我租房子。",
+      "translation": "Tôi thuê nhà."
+    },
+    {
+      "id": 1780156028830,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你租房子了吗？",
+      "translation": "Bạn đã thuê nhà chưa?"
+    },
+    {
+      "id": 1780156028833,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你该学得更多。",
+      "translation": "Bạn nên tìm hiểu thêm."
+    },
+    {
+      "id": 1780156028834,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他太胖了。",
+      "translation": "Anh ta quá béo."
+    },
+    {
+      "id": 1780156028835,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "你胖了。",
+      "translation": "Bạn đã tăng cân."
+    },
+    {
+      "id": 1780156028848,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "大连怎么样？",
+      "translation": "Đại Liên như thế nào?"
+    },
+    {
+      "id": 1780156028854,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "让我练习一下。",
+      "translation": "Để tôi luyện tập."
+    },
+    {
+      "id": 1780156028880,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "这有四个小孩。",
+      "translation": "Có bốn đứa con."
+    },
+    {
+      "id": 1780156028890,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我的脚很疼。",
+      "translation": "Chân tôi đau lắm."
+    },
+    {
+      "id": 1780156028891,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "孩子们洗了他们的脚。",
+      "translation": "Các em nhỏ rửa chân."
+    },
+    {
+      "id": 1780156028892,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "请把手洗干净。",
+      "translation": "Hãy rửa tay thật kỹ."
+    },
+    {
+      "id": 1780156028909,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们有同样的观念。",
+      "translation": "Họ có cùng quan điểm."
+    },
+    {
+      "id": 1780156028912,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他是国王。",
+      "translation": "Ông ấy là vua."
+    },
+    {
+      "id": 1780156028919,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "他们在唱歌。",
+      "translation": "Họ đang hát."
+    },
+    {
+      "id": 1780156028928,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "屋子里很黑。",
+      "translation": "Căn phòng rất tối."
+    },
+    {
+      "id": 1780156028929,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他租了一间屋子。",
+      "translation": "Anh ấy thuê một phòng."
+    },
+    {
+      "id": 1780156028931,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "他们坐在屋子前面。",
+      "translation": "Họ ngồi trước nhà."
+    },
+    {
+      "id": 1780156028934,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "英国的啤酒比较苦。",
+      "translation": "Bia Anh khá đắng."
+    },
+    {
+      "id": 1780156028936,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "喝啤酒吗？",
+      "translation": "Bạn muốn uống bia không?"
+    },
+    {
+      "id": 1780156028937,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我要喝啤酒。",
+      "translation": "Tôi muốn uống bia."
+    },
+    {
+      "id": 1780156028939,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我喜欢喝啤酒。",
+      "translation": "Tôi thích uống bia."
+    },
+    {
+      "id": 1780156028942,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "啤酒很好喝。",
+      "translation": "Bia rất ngon."
+    },
+    {
+      "id": 1780156028954,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "厨房很干净。",
+      "translation": "Nhà bếp rất sạch sẽ."
+    },
+    {
+      "id": 1780156028963,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他比我瘦。",
+      "translation": "Anh ấy gầy hơn tôi."
+    },
+    {
+      "id": 1780156028970,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她一整晚都在哭。",
+      "translation": "Cô ấy khóc suốt đêm."
+    },
+    {
+      "id": 1780156028971,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "妈妈在整理房间。",
+      "translation": "Mẹ đang dọn dẹp phòng."
+    },
+    {
+      "id": 1780156028974,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我们保持了沉默。",
+      "translation": "Chúng tôi giữ im lặng."
+    },
+    {
+      "id": 1780156028975,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我们保持联系吧。",
+      "translation": "Hãy giữ liên lạc nhé."
+    },
+    {
+      "id": 1780156029006,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "外面在下雨。",
+      "translation": "Trời đang mưa ngoài kia."
+    },
+    {
+      "id": 1780156029008,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "天好像要下雨了。",
+      "translation": "Trời có vẻ sắp mưa."
+    },
+    {
+      "id": 1780156029010,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "天快要下雨了。",
+      "translation": "Trời sắp mưa rồi."
+    },
+    {
+      "id": 1780156029011,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我觉得天要下雨了。",
+      "translation": "Tôi nghĩ trời sắp mưa."
+    },
+    {
+      "id": 1780156029012,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "看起来要下雨。",
+      "translation": "Trời có vẻ sắp mưa."
+    },
+    {
+      "id": 1780156029027,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我的钱包丢了。",
+      "translation": "Tôi bị mất ví rồi."
+    },
+    {
+      "id": 1780156029029,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "书从桌子上掉下来了。",
+      "translation": "Cuốn sách rơi khỏi bàn."
+    },
+    {
+      "id": 1780156029032,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "图书馆里很安静。",
+      "translation": "Thư viện rất yên tĩnh."
+    },
+    {
+      "id": 1780156029034,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这条街道很安静。",
+      "translation": "Con phố rất yên tĩnh."
+    },
+    {
+      "id": 1780156029038,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "这里一共有五个人。",
+      "translation": "Ở đây có năm người."
+    },
+    {
+      "id": 1780156029039,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "天渐渐黑了。",
+      "translation": "Trời tối dần."
+    },
+    {
+      "id": 1780156029048,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他缺乏自信。",
+      "translation": "Anh ta thiếu tự tin."
+    },
+    {
+      "id": 1780156029079,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "大家害怕死亡。",
+      "translation": "Con người sợ chết."
+    },
+    {
+      "id": 1780156029093,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他正在除雪。",
+      "translation": "Anh ấy đang xúc tuyết."
+    },
+    {
+      "id": 1780156029094,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "妈妈正在除草。",
+      "translation": "Mẹ đang nhổ cỏ."
+    },
+    {
+      "id": 1780156029096,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "开车要注意安全。",
+      "translation": "Hãy lái xe an toàn."
+    },
+    {
+      "id": 1780156029103,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我怕鬼。",
+      "translation": "Tôi sợ ma."
+    },
+    {
+      "id": 1780156029111,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "小强跑步很慢。",
+      "translation": "Xiaoqiang chạy rất chậm."
+    },
+    {
+      "id": 1780156029114,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "黄金很贵。",
+      "translation": "Vàng rất đắt tiền."
+    },
+    {
+      "id": 1780156029117,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "我们真棒。",
+      "translation": "Chúng ta thật tuyệt vời."
+    },
+    {
+      "id": 1780156029120,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "夏天到了。",
+      "translation": "Mùa hè đã đến."
+    },
+    {
+      "id": 1780156029123,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "糖是甜的。",
+      "translation": "Đường thì ngọt."
+    },
+    {
+      "id": 1780156029128,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "沙发很舒服。",
+      "translation": "Ghế sofa rất thoải mái."
+    },
+    {
+      "id": 1780156029137,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我只是开玩笑。",
+      "translation": "Tôi chỉ đùa thôi."
+    },
+    {
+      "id": 1780156029145,
+      "source_n": 10,
+      "vi_n": 4,
+      "source": "我家房子的面积很大。",
+      "translation": "Nhà tôi rất rộng."
+    },
+    {
+      "id": 1780156029154,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们起床了吗？",
+      "translation": "Họ đã thức dậy chưa?"
+    },
+    {
+      "id": 1780156029157,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "别生气嘛。",
+      "translation": "Đừng tức giận."
+    },
+    {
+      "id": 1780156029158,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我很后悔。",
+      "translation": "Tôi rất hối tiếc."
+    },
+    {
+      "id": 1780156029159,
+      "source_n": 5,
+      "vi_n": 2,
+      "source": "喂，你好。",
+      "translation": "Xin chào."
+    },
+    {
+      "id": 1780156029171,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "他们很穷。",
+      "translation": "Họ rất nghèo."
+    },
+    {
+      "id": 1780156029174,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个小岛很美。",
+      "translation": "Hòn đảo này thật đẹp."
+    },
+    {
+      "id": 1780156029183,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "电脑很普遍。",
+      "translation": "Máy tính rất phổ biến."
+    },
+    {
+      "id": 1780156029193,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "冬天到了。",
+      "translation": "Mùa đông đã đến."
+    },
+    {
+      "id": 1780156029198,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她吻了妈妈。",
+      "translation": "Cô ấy hôn mẹ mình."
+    },
+    {
+      "id": 1780156029201,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他的背很痛。",
+      "translation": "Lưng anh ấy đau lắm."
+    },
+    {
+      "id": 1780156029203,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "风景真好看。",
+      "translation": "Cảnh vật rất đẹp."
+    },
+    {
+      "id": 1780156029205,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他的皮肤很白。",
+      "translation": "Da anh ấy rất trắng."
+    },
+    {
+      "id": 1780156029207,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他们恋爱了。",
+      "translation": "Họ đã yêu nhau."
+    },
+    {
+      "id": 1780156029212,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我支持蓝队。",
+      "translation": "Tôi ủng hộ đội xanh."
+    },
+    {
+      "id": 1780156029215,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我丢了行李。",
+      "translation": "Tôi bị mất hành lý."
+    },
+    {
+      "id": 1780156029227,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "Allen是个诗人。",
+      "translation": "Allen là một nhà thơ."
+    },
+    {
+      "id": 1780156029231,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她很有魅力。",
+      "translation": "Cô ấy rất quyến rũ."
+    },
+    {
+      "id": 1780156029246,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "你有空吗？",
+      "translation": "Bạn rảnh không?"
+    },
+    {
+      "id": 1780156029256,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "小朋友在画画。",
+      "translation": "Các em nhỏ đang vẽ."
+    },
+    {
+      "id": 1780156029263,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你随便挑一个。",
+      "translation": "Chọn ngẫu nhiên một cái."
+    },
+    {
+      "id": 1780156029272,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我有两张门票。",
+      "translation": "Tôi có hai vé."
+    },
+    {
+      "id": 1780156029277,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我今天很伤心。",
+      "translation": "Hôm nay tôi rất buồn."
+    },
+    {
+      "id": 1780156029278,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "莫要太伤心！",
+      "translation": "Đừng buồn quá!"
+    },
+    {
+      "id": 1780156029283,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很节省。",
+      "translation": "Anh ấy rất tiết kiệm."
+    },
+    {
+      "id": 1780156029285,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她们在花园里玩。",
+      "translation": "Họ đang chơi trong vườn."
+    },
+    {
+      "id": 1780156029291,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "农业很重要。",
+      "translation": "Nông nghiệp rất quan trọng."
+    },
+    {
+      "id": 1780156029295,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我很想念你。",
+      "translation": "Tôi nhớ bạn nhiều lắm."
+    },
+    {
+      "id": 1780156029296,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "真臭呀。",
+      "translation": "Nó bốc mùi khó chịu."
+    },
+    {
+      "id": 1780156029300,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "今天是星期天。",
+      "translation": "Hôm nay là Chủ nhật."
+    },
+    {
+      "id": 1780156029305,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他很会赚钱。",
+      "translation": "Anh ta giỏi kiếm tiền."
+    },
+    {
+      "id": 1780156029326,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们互相交换名片。",
+      "translation": "Họ trao đổi danh thiếp."
+    },
+    {
+      "id": 1780156029332,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他犯罪了。",
+      "translation": "Anh ta đã phạm tội."
+    },
+    {
+      "id": 1780156029341,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "市场里很挤。",
+      "translation": "Chợ rất đông đúc."
+    },
+    {
+      "id": 1780156029342,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "商店关门了。",
+      "translation": "Cửa hàng đã đóng cửa."
+    },
+    {
+      "id": 1780156029349,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你看这个例题。",
+      "translation": "Hãy xem ví dụ này."
+    },
+    {
+      "id": 1780156029352,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个工厂很大。",
+      "translation": "Nhà máy này rất lớn."
+    },
+    {
+      "id": 1780156029374,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在作画。",
+      "translation": "Cô ấy đang vẽ tranh."
+    },
+    {
+      "id": 1780156029376,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "你输了。",
+      "translation": "Bạn đã thua."
+    },
+    {
+      "id": 1780156029378,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "我尝一下。",
+      "translation": "Tôi sẽ thử."
+    },
+    {
+      "id": 1780156029391,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在看报纸。",
+      "translation": "Anh ấy đang đọc báo."
+    },
+    {
+      "id": 1780156029392,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我天天看报纸。",
+      "translation": "Tôi đọc báo mỗi ngày."
+    },
+    {
+      "id": 1780156029396,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "这是一个水果市场。",
+      "translation": "Đây là chợ trái cây."
+    },
+    {
+      "id": 1780156029399,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "小阳正在画图。",
+      "translation": "Xiao Yang đang vẽ."
+    },
+    {
+      "id": 1780156029403,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "宝宝在睡觉。",
+      "translation": "Em bé đang ngủ."
+    },
+    {
+      "id": 1780156029412,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他的态度很亲切。",
+      "translation": "Anh ấy rất thân thiện."
+    },
+    {
+      "id": 1780156029428,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他在做白日梦。",
+      "translation": "Anh ấy đang mơ mộng."
+    },
+    {
+      "id": 1780156029433,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个苹果很大。",
+      "translation": "Quả táo này rất to."
+    },
+    {
+      "id": 1780156029434,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我想吃苹果派。",
+      "translation": "Tôi muốn ăn bánh táo."
+    },
+    {
+      "id": 1780156029439,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我喜欢吃米饭。",
+      "translation": "Tôi thích ăn cơm."
+    },
+    {
+      "id": 1780156029448,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我重了一公斤。",
+      "translation": "Tôi tăng một kilogram."
+    },
+    {
+      "id": 1780156029451,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "屋里太乱了。",
+      "translation": "Căn phòng bừa bộn quá."
+    },
+    {
+      "id": 1780156029466,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "哇，好恐怖呀！",
+      "translation": "Ôi, thật đáng sợ!"
+    },
+    {
+      "id": 1780156029467,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "我的肩膀有点痛。",
+      "translation": "Vai tôi hơi đau."
+    },
+    {
+      "id": 1780156029471,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们信仰什么宗教?",
+      "translation": "Họ theo tôn giáo nào?"
+    },
+    {
+      "id": 1780156029475,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "现在九点一刻。",
+      "translation": "Bây giờ là 9:15."
+    },
+    {
+      "id": 1780156029476,
+      "source_n": 6,
+      "vi_n": 2,
+      "source": "道路是直的。",
+      "translation": "Đường thẳng."
+    },
+    {
+      "id": 1780156029479,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "妈的！真不错！",
+      "translation": "Tuyệt vời! Quá đỉnh!"
+    },
+    {
+      "id": 1780156029491,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "出口在左边。",
+      "translation": "Lối ra nằm bên trái."
+    },
+    {
+      "id": 1780156029496,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "合法结婚年龄",
+      "translation": "tuổi kết hôn hợp pháp"
+    },
+    {
+      "id": 1780156029503,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "我很烦。",
+      "translation": "Tôi bực mình quá."
+    },
+    {
+      "id": 1780156029516,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "请排队！",
+      "translation": "Mời xếp hàng!"
+    },
+    {
+      "id": 1780156029518,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "这里的水很浅。",
+      "translation": "Nước ở đây nông."
+    },
+    {
+      "id": 1780156029522,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "那篇文章很长。",
+      "translation": "Bài báo đó rất dài."
+    },
+    {
+      "id": 1780156029529,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我踢了他一脚。",
+      "translation": "Tôi đá anh ta."
+    },
+    {
+      "id": 1780156029535,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "请签名！",
+      "translation": "Hãy ký tên!"
+    },
+    {
+      "id": 1780156029550,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "客厅很干净。",
+      "translation": "Phòng khách rất sạch sẽ."
+    },
+    {
+      "id": 1780156029551,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "请问鸡蛋在哪里？",
+      "translation": "Quả trứng ở đâu?"
+    },
+    {
+      "id": 1780156029553,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他很有力气。",
+      "translation": "Anh ấy rất khỏe."
+    },
+    {
+      "id": 1780156029560,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "秋天到了。",
+      "translation": "Mùa thu đã đến."
+    },
+    {
+      "id": 1780156029563,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "我收到一个电子邮件。",
+      "translation": "Tôi nhận được một email."
+    },
+    {
+      "id": 1780156029571,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我的月经没来。",
+      "translation": "Tôi chưa có kinh nguyệt."
+    },
+    {
+      "id": 1780156029587,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我今天穿西装。",
+      "translation": "Hôm nay tôi mặc vest."
+    },
+    {
+      "id": 1780156029594,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "战争停止了。",
+      "translation": "Chiến tranh đã kết thúc."
+    },
+    {
+      "id": 1780156029599,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "这个湖很大。",
+      "translation": "Hồ này rất lớn."
+    },
+    {
+      "id": 1780156029602,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "裤子太紧了。",
+      "translation": "Chiếc quần này chật quá."
+    },
+    {
+      "id": 1780156029605,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "请集中注意力。",
+      "translation": "Hãy tập trung."
+    },
+    {
+      "id": 1780156029607,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他娶了她。",
+      "translation": "Anh ấy cưới cô ấy."
+    },
+    {
+      "id": 1780156029611,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "走，去逛街。",
+      "translation": "Đi mua sắm thôi nào."
+    },
+    {
+      "id": 1780156029631,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她很烦恼。",
+      "translation": "Cô ấy rất bực mình."
+    },
+    {
+      "id": 1780156029637,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这个洞很深。",
+      "translation": "Cái hố này rất sâu."
+    },
+    {
+      "id": 1780156029638,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "太吵了。",
+      "translation": "Ồn ào quá."
+    },
+    {
+      "id": 1780156029639,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "邻居们非常吵。",
+      "translation": "Hàng xóm ồn ào quá."
+    },
+    {
+      "id": 1780156029666,
+      "source_n": 11,
+      "vi_n": 4,
+      "source": "这个菜，放了太多的盐.",
+      "translation": "Món này quá mặn."
+    },
+    {
+      "id": 1780156029668,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "水滚了。",
+      "translation": "Nước đã sôi."
+    },
+    {
+      "id": 1780156029672,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很富有。",
+      "translation": "Ông ấy rất giàu có."
+    },
+    {
+      "id": 1780156029675,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我怕蛇。",
+      "translation": "Tôi sợ rắn."
+    },
+    {
+      "id": 1780156029683,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "战争爆发了。",
+      "translation": "Chiến tranh nổ ra."
+    },
+    {
+      "id": 1780156029685,
+      "source_n": 4,
+      "vi_n": 2,
+      "source": "我请客。",
+      "translation": "Tôi mời."
+    },
+    {
+      "id": 1780156029692,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这条裤子很脏。",
+      "translation": "Chiếc quần này rất bẩn."
+    },
+    {
+      "id": 1780156029693,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他的脸脏了。",
+      "translation": "Mặt anh ta lấm lem."
+    },
+    {
+      "id": 1780156029699,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我们到达了目的地。",
+      "translation": "Chúng tôi đã đến đích."
+    },
+    {
+      "id": 1780156029709,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这家旅馆很便宜。",
+      "translation": "Khách sạn này rất rẻ."
+    },
+    {
+      "id": 1780156029715,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我在洗盘子。",
+      "translation": "Tôi đang rửa bát."
+    },
+    {
+      "id": 1780156029716,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个盘子很脏。",
+      "translation": "Chiếc đĩa này bẩn rồi."
+    },
+    {
+      "id": 1780156029717,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "火山喷发了。",
+      "translation": "Núi lửa phun trào."
+    },
+    {
+      "id": 1780156029723,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他发火了。",
+      "translation": "Anh ta nổi giận."
+    },
+    {
+      "id": 1780156029742,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他们很团结。",
+      "translation": "Họ rất đoàn kết."
+    },
+    {
+      "id": 1780156029746,
+      "source_n": 4,
+      "vi_n": 2,
+      "source": "铃响了。",
+      "translation": "Chuông reo."
+    },
+    {
+      "id": 1780156029757,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在录音。",
+      "translation": "Cô ấy đang thu âm."
+    },
+    {
+      "id": 1780156029768,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他把电话挂上了。",
+      "translation": "Anh ta cúp điện thoại."
+    },
+    {
+      "id": 1780156029773,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在抽烟。",
+      "translation": "Cô ấy đang hút thuốc."
+    },
+    {
+      "id": 1780156029778,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他进了监狱。",
+      "translation": "Ông ta đã vào tù."
+    },
+    {
+      "id": 1780156029784,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他长得很帅。",
+      "translation": "Anh ấy rất đẹp trai."
+    },
+    {
+      "id": 1780156029795,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这栋楼很高。",
+      "translation": "Tòa nhà này rất cao."
+    },
+    {
+      "id": 1780156029806,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "要去散步吗？",
+      "translation": "Bạn muốn đi dạo không?"
+    },
+    {
+      "id": 1780156029809,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "我不敢游泳。",
+      "translation": "Tôi sợ bơi."
+    },
+    {
+      "id": 1780156029817,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "它长得很丑。",
+      "translation": "Nó rất xấu."
+    },
+    {
+      "id": 1780156029823,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她在冲洗头发。",
+      "translation": "Cô ấy đang gội đầu."
+    },
+    {
+      "id": 1780156029829,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "两个军队停火了。",
+      "translation": "Hai bên đã ngừng bắn."
+    },
+    {
+      "id": 1780156029838,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "他疯了。",
+      "translation": "Hắn ta phát điên rồi."
+    },
+    {
+      "id": 1780156029840,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "空气被污染了。",
+      "translation": "Không khí bị ô nhiễm."
+    },
+    {
+      "id": 1780156029871,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "把手举起来！",
+      "translation": "Giơ tay lên!"
+    },
+    {
+      "id": 1780156029873,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他们在拆信。",
+      "translation": "Họ đang mở thư."
+    },
+    {
+      "id": 1780156029901,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "瓶子里充满了水。",
+      "translation": "Chiếc chai chứa đầy nước."
+    },
+    {
+      "id": 1780156029902,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "请打开瓶子。",
+      "translation": "Hãy mở nắp chai."
+    },
+    {
+      "id": 1780156029909,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我想减肥。",
+      "translation": "Tôi muốn giảm cân."
+    },
+    {
+      "id": 1780156029927,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他击中了球。",
+      "translation": "Anh ấy đánh quả bóng."
+    },
+    {
+      "id": 1780156029939,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "我会骑马。",
+      "translation": "Tôi có thể cưỡi ngựa."
+    },
+    {
+      "id": 1780156029943,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我认识字母D。",
+      "translation": "Tôi nhận ra chữ D."
+    },
+    {
+      "id": 1780156029948,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他在推车。",
+      "translation": "Anh ấy đang đẩy xe."
+    },
+    {
+      "id": 1780156029952,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他是盲人。",
+      "translation": "Anh ấy bị mù."
+    },
+    {
+      "id": 1780156029976,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "一尾鱼多少钱？",
+      "translation": "Cá có giá bao nhiêu?"
+    },
+    {
+      "id": 1780156029981,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我们俩是好朋友。",
+      "translation": "Chúng tôi là bạn tốt."
+    },
+    {
+      "id": 1780156029984,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她在画一幅画。",
+      "translation": "Cô ấy đang vẽ tranh."
+    },
+    {
+      "id": 1780156029989,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "还有空房吗？",
+      "translation": "Còn phòng trống không?"
+    },
+    {
+      "id": 1780156030008,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "这个糖盒空了。",
+      "translation": "Hộp kẹo đã hết."
+    },
+    {
+      "id": 1780156030019,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "船沉没了。",
+      "translation": "Con tàu bị chìm."
+    },
+    {
+      "id": 1780156030035,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我不在乎。",
+      "translation": "Tôi không quan tâm."
+    },
+    {
+      "id": 1780156030038,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "请张开嘴。",
+      "translation": "Mở miệng ra nào."
+    },
+    {
+      "id": 1780156030051,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "枕头很软。",
+      "translation": "Chiếc gối rất mềm."
+    },
+    {
+      "id": 1780156030053,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这块石头很硬。",
+      "translation": "Loại đá này rất cứng."
+    },
+    {
+      "id": 1780156030059,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "看电视没有趣。",
+      "translation": "Xem tivi thật nhàm chán."
+    },
+    {
+      "id": 1780156030061,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他在写诗。",
+      "translation": "Anh ấy đang viết thơ."
+    },
+    {
+      "id": 1780156030089,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我太太怀孕了。",
+      "translation": "Vợ tôi đang mang thai."
+    },
+    {
+      "id": 1780156030090,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她害怕怀孕。",
+      "translation": "Cô ấy sợ mang thai."
+    },
+    {
+      "id": 1780156030091,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我怀孕了。",
+      "translation": "Tôi đang mang thai."
+    },
+    {
+      "id": 1780156030094,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "大家在吃午饭。",
+      "translation": "Mọi người đang ăn trưa."
+    },
+    {
+      "id": 1780156030105,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "噢！快看这个！",
+      "translation": "Ôi! Nhìn này!"
+    },
+    {
+      "id": 1780156030109,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她迈上了台阶。",
+      "translation": "Cô bước lên cầu thang."
+    },
+    {
+      "id": 1780156030110,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "我头痛。",
+      "translation": "Tôi bị đau đầu."
+    },
+    {
+      "id": 1780156030122,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "海底真美。",
+      "translation": "Đáy biển thật đẹp."
+    },
+    {
+      "id": 1780156030136,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她在挑选李子。",
+      "translation": "Cô ấy đang chọn mận."
+    },
+    {
+      "id": 1780156030143,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "请右转。",
+      "translation": "Vui lòng rẽ phải."
+    },
+    {
+      "id": 1780156030147,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "天气很湿。",
+      "translation": "Thời tiết rất ẩm ướt."
+    },
+    {
+      "id": 1780156030149,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "他浑身都湿了。",
+      "translation": "Anh ta ướt sũng."
+    },
+    {
+      "id": 1780156030151,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "你又迟到了。",
+      "translation": "Bạn lại đến muộn rồi."
+    },
+    {
+      "id": 1780156030156,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你上班迟到了。",
+      "translation": "Bạn đi làm muộn rồi."
+    },
+    {
+      "id": 1780156030169,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我的父亲是药师。",
+      "translation": "Bố tôi là dược sĩ."
+    },
+    {
+      "id": 1780156030184,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我们是同胞姐妹。",
+      "translation": "Chúng tôi là chị em."
+    },
+    {
+      "id": 1780156030197,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "那有两块蛋糕。",
+      "translation": "Có hai chiếc bánh."
+    },
+    {
+      "id": 1780156030198,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "蛋糕真好吃。",
+      "translation": "Chiếc bánh rất ngon."
+    },
+    {
+      "id": 1780156030200,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "夜市很热闹。",
+      "translation": "Chợ đêm rất nhộn nhịp."
+    },
+    {
+      "id": 1780156030204,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他们吓坏了。",
+      "translation": "Họ vô cùng sợ hãi."
+    },
+    {
+      "id": 1780156030205,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "成龙很有名。",
+      "translation": "Jackie Chan rất nổi tiếng."
+    },
+    {
+      "id": 1780156030218,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他在吃粥。",
+      "translation": "Anh ấy đang ăn cháo."
+    },
+    {
+      "id": 1780156030223,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我尊敬那个人。",
+      "translation": "Tôi tôn trọng người đó."
+    },
+    {
+      "id": 1780156030225,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我们得后退了。",
+      "translation": "Chúng ta phải lùi lại."
+    },
+    {
+      "id": 1780156030228,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "我头痛。",
+      "translation": "Tôi bị đau đầu."
+    },
+    {
+      "id": 1780156030229,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "现在我有些许头痛。",
+      "translation": "Tôi đang hơi đau đầu."
+    },
+    {
+      "id": 1780156030238,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "请关打印机。",
+      "translation": "Vui lòng tắt máy in."
+    },
+    {
+      "id": 1780156030255,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我们很喜欢海洋。",
+      "translation": "Chúng tôi yêu biển cả."
+    },
+    {
+      "id": 1780156030262,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我们彼此相爱。",
+      "translation": "Chúng tôi yêu thương nhau."
+    },
+    {
+      "id": 1780156030268,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她在吃早餐。",
+      "translation": "Cô ấy đang ăn sáng."
+    },
+    {
+      "id": 1780156030272,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我在吃早餐。",
+      "translation": "Tôi đang ăn sáng."
+    },
+    {
+      "id": 1780156030282,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "军人服从命令。",
+      "translation": "Binh lính tuân lệnh."
+    },
+    {
+      "id": 1780156030294,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她在染头发。",
+      "translation": "Cô ấy đang nhuộm tóc."
+    },
+    {
+      "id": 1780156030323,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她打开盒子。",
+      "translation": "Cô ấy mở chiếc hộp."
+    },
+    {
+      "id": 1780156030325,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "保持联络！",
+      "translation": "Hãy giữ liên lạc!"
+    },
+    {
+      "id": 1780156030327,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "让我们保持联络。",
+      "translation": "Hãy giữ liên lạc nhé."
+    },
+    {
+      "id": 1780156030335,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "她戴着一副眼镜。",
+      "translation": "Cô ấy đeo kính."
+    },
+    {
+      "id": 1780156030337,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "他戴着一副眼镜。",
+      "translation": "Anh ấy đeo kính."
+    },
+    {
+      "id": 1780156030339,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "她戴着帽子。",
+      "translation": "Cô ấy đội mũ."
+    },
+    {
+      "id": 1780156030342,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "她戴上了她的帽子。",
+      "translation": "Cô ấy đội mũ lên."
+    },
+    {
+      "id": 1780156030345,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "她发烧了。",
+      "translation": "Cô ấy bị sốt."
+    },
+    {
+      "id": 1780156030352,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我在超级市场。",
+      "translation": "Tôi đang ở siêu thị."
+    },
+    {
+      "id": 1780156030353,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "妈妈去超级市场了。",
+      "translation": "Mẹ đi siêu thị."
+    },
+    {
+      "id": 1780156030359,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "请开灯。",
+      "translation": "Vui lòng bật đèn lên."
+    },
+    {
+      "id": 1780156030374,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "集市很热闹。",
+      "translation": "Khu chợ rất nhộn nhịp."
+    },
+    {
+      "id": 1780156030379,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他在敲门。",
+      "translation": "Anh ta đang gõ cửa."
+    },
+    {
+      "id": 1780156030389,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "您贵姓？",
+      "translation": "Họ của bạn là gì?"
+    },
+    {
+      "id": 1780156030427,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他太不合群。",
+      "translation": "Anh ta quá khép kín."
+    },
+    {
+      "id": 1780156030432,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "体力用尽了。",
+      "translation": "Tôi kiệt sức rồi."
+    },
+    {
+      "id": 1780156030450,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "商店休业了。",
+      "translation": "Cửa hàng đã đóng cửa."
+    },
+    {
+      "id": 1780156030451,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她失业了。",
+      "translation": "Cô ấy bị mất việc."
+    },
+    {
+      "id": 1780156030458,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他的情绪很激动。",
+      "translation": "Anh ấy rất xúc động."
+    },
+    {
+      "id": 1780156030471,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "谁是朱小姐？",
+      "translation": "Cô Zhu là ai?"
+    },
+    {
+      "id": 1780156030478,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "一艘船掉了头。",
+      "translation": "Con tàu quay đầu."
+    },
+    {
+      "id": 1780156030483,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "把球传给我！",
+      "translation": "Chuyền bóng cho tôi!"
+    },
+    {
+      "id": 1780156030499,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我怕地震。",
+      "translation": "Tôi sợ động đất."
+    },
+    {
+      "id": 1780156030508,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我喜欢红玫瑰。",
+      "translation": "Tôi thích hoa hồng đỏ."
+    },
+    {
+      "id": 1780156030509,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "玫瑰真香！",
+      "translation": "Hoa hồng thơm quá!"
+    },
+    {
+      "id": 1780156030511,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这朵玫瑰真漂亮。",
+      "translation": "Bông hồng này thật đẹp."
+    },
+    {
+      "id": 1780156030513,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "酒的味道有点淡。",
+      "translation": "Rượu có vị hơi nhạt."
+    },
+    {
+      "id": 1780156030514,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "玫瑰有刺。",
+      "translation": "Hoa hồng có gai."
+    },
+    {
+      "id": 1780156030515,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "叶子是淡绿色的。",
+      "translation": "Lá có màu xanh nhạt."
+    },
+    {
+      "id": 1780156030521,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "妈妈把门关严了。",
+      "translation": "Mẹ đóng chặt cửa lại."
+    },
+    {
+      "id": 1780156030527,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "妈妈催我起床。",
+      "translation": "Mẹ tôi giục tôi dậy."
+    },
+    {
+      "id": 1780156030531,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "路很窄。",
+      "translation": "Con đường rất hẹp."
+    },
+    {
+      "id": 1780156030535,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "我胃痛。",
+      "translation": "Tôi bị đau bụng."
+    },
+    {
+      "id": 1780156030536,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他学的专业是医学。",
+      "translation": "Anh ấy học ngành y."
+    },
+    {
+      "id": 1780156030543,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他们友好地握手。",
+      "translation": "Họ bắt tay thân thiện."
+    },
+    {
+      "id": 1780156030555,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "树叶掉在地上。",
+      "translation": "Lá rụng xuống đất."
+    },
+    {
+      "id": 1780156030556,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "树叶很绿。",
+      "translation": "Những chiếc lá rất xanh."
+    },
+    {
+      "id": 1780156030562,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "这汤里盐放多了。",
+      "translation": "Súp này quá mặn."
+    },
+    {
+      "id": 1780156030572,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他搬家了。",
+      "translation": "Anh ấy đã chuyển đi."
+    },
+    {
+      "id": 1780156030577,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "说俄语很难。",
+      "translation": "Nói tiếng Nga rất khó."
+    },
+    {
+      "id": 1780156030578,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "学俄语很难。",
+      "translation": "Học tiếng Nga rất khó."
+    },
+    {
+      "id": 1780156030611,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "那栋灰色的大楼吗？",
+      "translation": "Tòa nhà màu xám đó?"
+    },
+    {
+      "id": 1780156030615,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "秋天树叶会掉落。",
+      "translation": "Lá rụng vào mùa thu."
+    },
+    {
+      "id": 1780156030616,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "箱子倒了。",
+      "translation": "Chiếc hộp bị đổ."
+    },
+    {
+      "id": 1780156030617,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这些箱子很重。",
+      "translation": "Những thùng này rất nặng."
+    },
+    {
+      "id": 1780156030618,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个箱子很轻。",
+      "translation": "Chiếc hộp này rất nhẹ."
+    },
+    {
+      "id": 1780156030625,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我喜欢吃豆腐。",
+      "translation": "Tôi thích ăn đậu phụ."
+    },
+    {
+      "id": 1780156030629,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "她们站成一行。",
+      "translation": "Họ đứng thành hàng."
+    },
+    {
+      "id": 1780156030640,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "路上有很多泥。",
+      "translation": "Đường sá lầy lội lắm."
+    },
+    {
+      "id": 1780156030653,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "他很矮。",
+      "translation": "Anh ấy rất thấp."
+    },
+    {
+      "id": 1780156030654,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我比你矮。",
+      "translation": "Tôi thấp hơn bạn."
+    },
+    {
+      "id": 1780156030666,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我超重了。",
+      "translation": "Tôi bị thừa cân."
+    },
+    {
+      "id": 1780156030668,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "你真可恶。",
+      "translation": "Bạn thật tệ."
+    },
+    {
+      "id": 1780156030685,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她正在听音乐。",
+      "translation": "Cô ấy đang nghe nhạc."
+    },
+    {
+      "id": 1780156030687,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他喜欢听音乐。",
+      "translation": "Anh ấy thích nghe nhạc."
+    },
+    {
+      "id": 1780156030695,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "刘先生是什么地方人？",
+      "translation": "Ông Lưu đến từ đâu?"
+    },
+    {
+      "id": 1780156030713,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这杯茶很烫。",
+      "translation": "Cốc trà này nóng quá."
+    },
+    {
+      "id": 1780156030717,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我想去西雅图。",
+      "translation": "Tôi muốn đến Seattle."
+    },
+    {
+      "id": 1780156030718,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他的情绪很低落。",
+      "translation": "Anh ấy rất chán nản."
+    },
+    {
+      "id": 1780156030720,
+      "source_n": 6,
+      "vi_n": 2,
+      "source": "今天是晴天。",
+      "translation": "Trời nắng."
+    },
+    {
+      "id": 1780156030727,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "地面打扫得真干净！",
+      "translation": "Sàn nhà sạch quá!"
+    },
+    {
+      "id": 1780156030732,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "卧室很舒适。",
+      "translation": "Phòng ngủ rất thoải mái."
+    },
+    {
+      "id": 1780156030737,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "孔老师爱好诗词。",
+      "translation": "Thầy Kong rất yêu thơ."
+    },
+    {
+      "id": 1780156030738,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他们接受了委托。",
+      "translation": "Họ đã nhận nhiệm vụ."
+    },
+    {
+      "id": 1780156030759,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "陈先生比你胖。",
+      "translation": "Ông Chen béo hơn bạn."
+    },
+    {
+      "id": 1780156030762,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "给陈先生打电话。",
+      "translation": "Hãy gọi cho ông Chen."
+    },
+    {
+      "id": 1780156030768,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我认识陈先生。",
+      "translation": "Tôi biết ông Chen."
+    },
+    {
+      "id": 1780156030769,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "陈先生从哪里来？",
+      "translation": "Ông Chen đến từ đâu?"
+    },
+    {
+      "id": 1780156030776,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "陈先生很有意思。",
+      "translation": "Ông Chen rất thú vị."
+    },
+    {
+      "id": 1780156030780,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "我饱了。",
+      "translation": "Tôi no rồi."
+    },
+    {
+      "id": 1780156030792,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我赞成你的意见。",
+      "translation": "Tôi đồng ý với bạn."
+    },
+    {
+      "id": 1780156030799,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "他们在盖房子。",
+      "translation": "Họ đang xây nhà."
+    },
+    {
+      "id": 1780156030810,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "电灯亮了。",
+      "translation": "Đèn bật sáng."
+    },
+    {
+      "id": 1780156030812,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "停车场是免费的。",
+      "translation": "Đỗ xe miễn phí."
+    },
+    {
+      "id": 1780156030813,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "大家聚集在一起。",
+      "translation": "Mọi người tụ tập lại."
+    },
+    {
+      "id": 1780156030822,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "让我瞧一瞧。",
+      "translation": "Để tôi xem nào."
+    },
+    {
+      "id": 1780156030825,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "飞机将要起飞。",
+      "translation": "Máy bay sắp cất cánh."
+    },
+    {
+      "id": 1780156030841,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很调皮。",
+      "translation": "Cậu ấy rất nghịch ngợm."
+    },
+    {
+      "id": 1780156030842,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "冰箱坏了。",
+      "translation": "Tủ lạnh bị hỏng."
+    },
+    {
+      "id": 1780156030866,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "朋友们聚在一起。",
+      "translation": "Bạn bè tụ họp lại."
+    },
+    {
+      "id": 1780156030881,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "酒瓶空了。",
+      "translation": "Chai đã hết."
+    },
+    {
+      "id": 1780156030894,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他喜欢冒险。",
+      "translation": "Anh ấy thích phiêu lưu."
+    },
+    {
+      "id": 1780156030895,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他喜欢冒险。",
+      "translation": "Anh ấy thích phiêu lưu."
+    },
+    {
+      "id": 1780156030913,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "海水是咸的。",
+      "translation": "Nước biển có vị mặn."
+    },
+    {
+      "id": 1780156030914,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "海水是很咸的。",
+      "translation": "Nước biển rất mặn."
+    },
+    {
+      "id": 1780156030917,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "汗水是很咸的。",
+      "translation": "Mồ hôi rất mặn."
+    },
+    {
+      "id": 1780156030922,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "抢劫是一种犯罪。",
+      "translation": "Cướp là một tội phạm."
+    },
+    {
+      "id": 1780156030926,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "哦，我很抱歉。",
+      "translation": "Ồ, tôi xin lỗi."
+    },
+    {
+      "id": 1780156030930,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "他们紧紧地抱在一起。",
+      "translation": "Họ ôm nhau thật chặt."
+    },
+    {
+      "id": 1780156030931,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我们在吃晚餐。",
+      "translation": "Chúng tôi đang ăn tối."
+    },
+    {
+      "id": 1780156030934,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这堵墙很高。",
+      "translation": "Bức tường này rất cao."
+    },
+    {
+      "id": 1780156030935,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "他们在刷一堵墙。",
+      "translation": "Họ đang sơn tường."
+    },
+    {
+      "id": 1780156030949,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我爱吃土豆泥。",
+      "translation": "Tôi thích khoai tây nghiền."
+    },
+    {
+      "id": 1780156030956,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "伊拉克位于中东。",
+      "translation": "Iraq nằm ở Trung Đông."
+    },
+    {
+      "id": 1780156030967,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "物价上涨了。",
+      "translation": "Giá cả đã tăng lên."
+    },
+    {
+      "id": 1780156030970,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "物价上涨了。",
+      "translation": "Giá cả đã tăng lên."
+    },
+    {
+      "id": 1780156030972,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他想拦球。",
+      "translation": "Anh ấy muốn chặn bóng."
+    },
+    {
+      "id": 1780156030985,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "今天的波浪很大。",
+      "translation": "Hôm nay sóng rất lớn."
+    },
+    {
+      "id": 1780156030989,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我喜欢吃饺子。",
+      "translation": "Tôi thích ăn bánh bao."
+    },
+    {
+      "id": 1780156030992,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在化妆。",
+      "translation": "Cô ấy đang trang điểm."
+    },
+    {
+      "id": 1780156030999,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "我爱吃虾。",
+      "translation": "Tôi rất thích ăn tôm."
+    },
+    {
+      "id": 1780156031008,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他们签订了合同。",
+      "translation": "Họ đã ký hợp đồng."
+    },
+    {
+      "id": 1780156031014,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "小夏很喜欢上网。",
+      "translation": "Xia rất thích lướt internet."
+    },
+    {
+      "id": 1780156031015,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我叫汤姆。",
+      "translation": "Tôi tên là Tom."
+    },
+    {
+      "id": 1780156031021,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "她们迷路了。",
+      "translation": "Họ bị lạc đường."
+    },
+    {
+      "id": 1780156031022,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "我迷路了。",
+      "translation": "Tôi bị lạc đường rồi."
+    },
+    {
+      "id": 1780156031033,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这条裤子很宽松。",
+      "translation": "Chiếc quần này rất rộng."
+    },
+    {
+      "id": 1780156031034,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "牛奶洒出来了。",
+      "translation": "Sữa bị đổ."
+    },
+    {
+      "id": 1780156031037,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "沙子很细。",
+      "translation": "Cát ở đây rất mịn."
+    },
+    {
+      "id": 1780156031038,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我被埋在沙子里了。",
+      "translation": "Tôi bị vùi trong cát."
+    },
+    {
+      "id": 1780156031040,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "室外很寒冷。",
+      "translation": "Trời bên ngoài rất lạnh."
+    },
+    {
+      "id": 1780156031042,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "气温降低了。",
+      "translation": "Nhiệt độ đã giảm."
+    },
+    {
+      "id": 1780156031046,
+      "source_n": 11,
+      "vi_n": 5,
+      "source": "我知道我的样子很潇洒。",
+      "translation": "Tôi biết mình trông ngầu."
+    },
+    {
+      "id": 1780156031056,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们在嘲笑她。",
+      "translation": "Họ cười nhạo cô ấy."
+    },
+    {
+      "id": 1780156031061,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他们很恩爱。",
+      "translation": "Họ yêu nhau say đắm."
+    },
+    {
+      "id": 1780156031067,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她看起来很悲伤。",
+      "translation": "Cô ấy trông rất buồn."
+    },
+    {
+      "id": 1780156031068,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "开洗衣机。",
+      "translation": "Hãy bật máy giặt lên."
+    },
+    {
+      "id": 1780156031076,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "别把孩子惯坏了。",
+      "translation": "Đừng nuông chiều con cái."
+    },
+    {
+      "id": 1780156031084,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他被逮捕了。",
+      "translation": "Anh ta đã bị bắt."
+    },
+    {
+      "id": 1780156031103,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她的睡眠很好。",
+      "translation": "Cô ấy ngủ rất ngon."
+    },
+    {
+      "id": 1780156031110,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我正在炒菜。",
+      "translation": "Tôi đang nấu ăn."
+    },
+    {
+      "id": 1780156031112,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "小偷逃走了。",
+      "translation": "Tên trộm đã trốn thoát."
+    },
+    {
+      "id": 1780156031114,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这片田野真美。",
+      "translation": "Cánh đồng này thật đẹp."
+    },
+    {
+      "id": 1780156031117,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他喝醉了。",
+      "translation": "Anh ta say rượu."
+    },
+    {
+      "id": 1780156031130,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "这张地图被弄皱了。",
+      "translation": "Bản đồ bị nhăn."
+    },
+    {
+      "id": 1780156031138,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "鸟飞得很低。",
+      "translation": "Con chim bay rất thấp."
+    },
+    {
+      "id": 1780156031151,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "外婆的身体很好。",
+      "translation": "Bà tôi vẫn khỏe mạnh."
+    },
+    {
+      "id": 1780156031162,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "屋内很暖。",
+      "translation": "Bên trong ấm áp."
+    },
+    {
+      "id": 1780156031174,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "地毯有点脏。",
+      "translation": "Thảm hơi bẩn."
+    },
+    {
+      "id": 1780156031176,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她感到非常沮丧。",
+      "translation": "Cô ấy rất bực bội."
+    },
+    {
+      "id": 1780156031180,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "她很凶。",
+      "translation": "Cô ấy rất hung dữ."
+    },
+    {
+      "id": 1780156031181,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们吵得很凶。",
+      "translation": "Họ cãi nhau kịch liệt."
+    },
+    {
+      "id": 1780156031182,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "他很凶。",
+      "translation": "Anh ta rất hung dữ."
+    },
+    {
+      "id": 1780156031183,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们遵守诺言。",
+      "translation": "Họ đã giữ lời hứa."
+    },
+    {
+      "id": 1780156031185,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "我遵守我的诺言。",
+      "translation": "Tôi giữ lời hứa."
+    },
+    {
+      "id": 1780156031188,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "让窗子关着。",
+      "translation": "Hãy đóng kín cửa sổ."
+    },
+    {
+      "id": 1780156031189,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "路被挡住了。",
+      "translation": "Đường bị chặn."
+    },
+    {
+      "id": 1780156031192,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她们俩长得很像。",
+      "translation": "Chúng trông rất giống nhau."
+    },
+    {
+      "id": 1780156031194,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我没任何零钱。",
+      "translation": "Tôi không có tiền lẻ."
+    },
+    {
+      "id": 1780156031196,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在搭帐篷。",
+      "translation": "Anh ấy đang dựng lều."
+    },
+    {
+      "id": 1780156031197,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "房间里很暖和。",
+      "translation": "Căn phòng ấm áp."
+    },
+    {
+      "id": 1780156031205,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "她们在玩纸牌。",
+      "translation": "Họ đang chơi bài."
+    },
+    {
+      "id": 1780156031216,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "墙壁上有字。",
+      "translation": "Trên tường có dòng chữ."
+    },
+    {
+      "id": 1780156031220,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这面镜子挂歪了。",
+      "translation": "Chiếc gương bị treo lệch."
+    },
+    {
+      "id": 1780156031224,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她对人很友善。",
+      "translation": "Cô ấy rất thân thiện."
+    },
+    {
+      "id": 1780156031226,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我要去茶馆。",
+      "translation": "Tôi sẽ đến quán trà."
+    },
+    {
+      "id": 1780156031230,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我想去拉萨。",
+      "translation": "Tôi muốn đến Lhasa."
+    },
+    {
+      "id": 1780156031240,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他们在争吵。",
+      "translation": "Họ đang cãi nhau."
+    },
+    {
+      "id": 1780156031247,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "物价下跌了。",
+      "translation": "Giá cả đã giảm."
+    },
+    {
+      "id": 1780156031248,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "米价下跌了。",
+      "translation": "Giá gạo đã giảm."
+    },
+    {
+      "id": 1780156031256,
+      "source_n": 4,
+      "vi_n": 2,
+      "source": "祝贺你。",
+      "translation": "Chúc mừng."
+    },
+    {
+      "id": 1780156031257,
+      "source_n": 4,
+      "vi_n": 2,
+      "source": "闪电了。",
+      "translation": "Sét đánh."
+    },
+    {
+      "id": 1780156031268,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "不能插队。",
+      "translation": "Không được chen hàng."
+    },
+    {
+      "id": 1780156031269,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他被打伤了。",
+      "translation": "Anh ấy bị thương."
+    },
+    {
+      "id": 1780156031278,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "圣诞节快到了。",
+      "translation": "Giáng sinh sắp đến rồi."
+    },
+    {
+      "id": 1780156031298,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我跑步跑了三公里。",
+      "translation": "Tôi đã chạy ba ki-lô-mét."
+    },
+    {
+      "id": 1780156031334,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "味道很难闻。",
+      "translation": "Mùi rất khó chịu."
+    },
+    {
+      "id": 1780156031342,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "那个东西太昂贵了。",
+      "translation": "Thứ đó đắt quá."
+    },
+    {
+      "id": 1780156031345,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "病人苏醒了。",
+      "translation": "Bệnh nhân đã tỉnh lại."
+    },
+    {
+      "id": 1780156031360,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她有点咳嗽。",
+      "translation": "Cô ấy bị ho nhẹ."
+    },
+    {
+      "id": 1780156031361,
+      "source_n": 5,
+      "vi_n": 2,
+      "source": "欢迎光临！",
+      "translation": "Chào mừng!"
+    },
+    {
+      "id": 1780156031363,
+      "source_n": 5,
+      "vi_n": 2,
+      "source": "欢迎光临。",
+      "translation": "Chào mừng."
+    },
+    {
+      "id": 1780156031369,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "新郎长得真帅。",
+      "translation": "Chú rể rất đẹp trai."
+    },
+    {
+      "id": 1780156031382,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "王小姐在哪里？",
+      "translation": "Cô Vương đang ở đâu?"
+    },
+    {
+      "id": 1780156031383,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "王小姐不想吃东西。",
+      "translation": "Cô Vương không muốn ăn."
+    },
+    {
+      "id": 1780156031389,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我认识王小姐。",
+      "translation": "Tôi biết cô Wang."
+    },
+    {
+      "id": 1780156031398,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "王小姐会说英语。",
+      "translation": "Cô Wang nói tiếng Anh."
+    },
+    {
+      "id": 1780156031404,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "王小姐的工作是什么？",
+      "translation": "Cô Wang làm nghề gì?"
+    },
+    {
+      "id": 1780156031413,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "2乘以3等于6。",
+      "translation": "2 nhân 3 bằng 6."
+    },
+    {
+      "id": 1780156031428,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "喇叭太响了。",
+      "translation": "Loa phát thanh quá to."
+    },
+    {
+      "id": 1780156031433,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们正在互相讽刺。",
+      "translation": "Họ đang chế nhạo nhau."
+    },
+    {
+      "id": 1780156031442,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他们是亲家。",
+      "translation": "Họ là người nhà chồng/vợ."
+    },
+    {
+      "id": 1780156031447,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "西瓜真好吃！",
+      "translation": "Dưa hấu ngon tuyệt!"
+    },
+    {
+      "id": 1780156031452,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "它们是瓜。",
+      "translation": "Chúng là dưa."
+    },
+    {
+      "id": 1780156031459,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "老师在发脾气。",
+      "translation": "Cô giáo đang tức giận."
+    },
+    {
+      "id": 1780156031460,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他发脾气了。",
+      "translation": "Anh ta mất bình tĩnh."
+    },
+    {
+      "id": 1780156031462,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "马在奔跑。",
+      "translation": "Con ngựa đang chạy."
+    },
+    {
+      "id": 1780156031470,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他丢失了钱包。",
+      "translation": "Anh ấy bị mất ví."
+    },
+    {
+      "id": 1780156031479,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他加薪了。",
+      "translation": "Anh ấy được tăng lương."
+    },
+    {
+      "id": 1780156031491,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她在吃葡萄。",
+      "translation": "Cô ấy đang ăn nho."
+    },
+    {
+      "id": 1780156031492,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在摘葡萄。",
+      "translation": "Anh ấy đang hái nho."
+    },
+    {
+      "id": 1780156031499,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "请爱护大自然。",
+      "translation": "Hãy trân trọng thiên nhiên."
+    },
+    {
+      "id": 1780156031506,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我喉咙很干。",
+      "translation": "Cổ họng tôi rất khô."
+    },
+    {
+      "id": 1780156031507,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "现在是时候行动了。",
+      "translation": "Đã đến lúc hành động."
+    },
+    {
+      "id": 1780156031510,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "红辣椒很辣。",
+      "translation": "Ớt đỏ rất cay."
+    },
+    {
+      "id": 1780156031514,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "竹子里面是空的。",
+      "translation": "Cây tre rỗng bên trong."
+    },
+    {
+      "id": 1780156031520,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "禁止吸烟。",
+      "translation": "Cấm hút thuốc."
+    },
+    {
+      "id": 1780156031523,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这里禁止停车。",
+      "translation": "Cấm đỗ xe tại đây."
+    },
+    {
+      "id": 1780156031525,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这里不许吸烟。",
+      "translation": "Cấm hút thuốc tại đây."
+    },
+    {
+      "id": 1780156031532,
+      "source_n": 8,
+      "vi_n": 3,
+      "source": "一个人必须诚实。",
+      "translation": "Phải trung thực."
+    },
+    {
+      "id": 1780156031542,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "米是一种主食。",
+      "translation": "Gạo là lương thực chính."
+    },
+    {
+      "id": 1780156031545,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "天气很潮湿。",
+      "translation": "Thời tiết rất ẩm ướt."
+    },
+    {
+      "id": 1780156031546,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她把眼镜摘下来。",
+      "translation": "Cô ấy tháo kính ra."
+    },
+    {
+      "id": 1780156031562,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "妈妈在煎鱼。",
+      "translation": "Mẹ đang chiên cá."
+    },
+    {
+      "id": 1780156031565,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他推销汽车。",
+      "translation": "Anh ấy bán ô tô."
+    },
+    {
+      "id": 1780156031569,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这条小路不平。",
+      "translation": "Con đường này gồ ghề."
+    },
+    {
+      "id": 1780156031572,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "飞机降落了。",
+      "translation": "Máy bay đã hạ cánh."
+    },
+    {
+      "id": 1780156031577,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "迟做总比不做好。",
+      "translation": "Thà muộn còn hơn không."
+    },
+    {
+      "id": 1780156031578,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他喜欢绘画。",
+      "translation": "Anh ấy thích vẽ tranh."
+    },
+    {
+      "id": 1780156031583,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "暖气坏了。",
+      "translation": "Hệ thống sưởi bị hỏng."
+    },
+    {
+      "id": 1780156031588,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我喜欢看喜剧电影。",
+      "translation": "Tôi thích xem phim hài."
+    },
+    {
+      "id": 1780156031605,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个仓库很大。",
+      "translation": "Kho hàng này rất lớn."
+    },
+    {
+      "id": 1780156031612,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我应该节食。",
+      "translation": "Tôi nên ăn kiêng."
+    },
+    {
+      "id": 1780156031623,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他是一个间谍。",
+      "translation": "Anh ta là gián điệp."
+    },
+    {
+      "id": 1780156031632,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "交通阻塞了。",
+      "translation": "Giao thông bị ùn tắc."
+    },
+    {
+      "id": 1780156031663,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她很疲倦。",
+      "translation": "Cô ấy rất mệt mỏi."
+    },
+    {
+      "id": 1780156031664,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这幅画价值连城。",
+      "translation": "Bức tranh này vô giá."
+    },
+    {
+      "id": 1780156031700,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "黄金涨价了。",
+      "translation": "Giá vàng đã tăng lên."
+    },
+    {
+      "id": 1780156031711,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我匆忙地去上班。",
+      "translation": "Tôi vội vã đi làm."
+    },
+    {
+      "id": 1780156031713,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "她睁开了双眼。",
+      "translation": "Cô ấy mở mắt."
+    },
+    {
+      "id": 1780156031726,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "杨先生应该休息。",
+      "translation": "Ông Yang nên nghỉ ngơi."
+    },
+    {
+      "id": 1780156031731,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "杨先生要回家。",
+      "translation": "Ông Yang muốn về nhà."
+    },
+    {
+      "id": 1780156031758,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他正在接待客户。",
+      "translation": "Anh ấy đang tiếp khách."
+    },
+    {
+      "id": 1780156031785,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "伊拉克占领了科威特。",
+      "translation": "Kuwait bị Iraq chiếm đóng."
+    },
+    {
+      "id": 1780156031786,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "伊拉克侵略科威特。",
+      "translation": "Iraq đã xâm lược Kuwait."
+    },
+    {
+      "id": 1780156031788,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "工人再度罢工。",
+      "translation": "Công nhân lại đình công."
+    },
+    {
+      "id": 1780156031790,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "房间里的光线太暗。",
+      "translation": "Căn phòng quá tối."
+    },
+    {
+      "id": 1780156031809,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "门被锁住了。",
+      "translation": "Cửa đã bị khóa."
+    },
+    {
+      "id": 1780156031811,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这条道路很狭窄。",
+      "translation": "Con đường này rất hẹp."
+    },
+    {
+      "id": 1780156031813,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我喜欢吃义大利面。",
+      "translation": "Tôi thích ăn mì Ý."
+    },
+    {
+      "id": 1780156031822,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "我的体重减轻了。",
+      "translation": "Tôi đã giảm cân."
+    },
+    {
+      "id": 1780156031832,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "那是一个阴谋。",
+      "translation": "Đó là một âm mưu."
+    },
+    {
+      "id": 1780156031839,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他是守门员。",
+      "translation": "Anh ấy là thủ môn."
+    },
+    {
+      "id": 1780156031843,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "他们十分贫穷。",
+      "translation": "Họ rất nghèo."
+    },
+    {
+      "id": 1780156031845,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他很贫穷。",
+      "translation": "Ông ấy rất nghèo."
+    },
+    {
+      "id": 1780156031856,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "她们获胜了。",
+      "translation": "Họ đã thắng."
+    },
+    {
+      "id": 1780156031860,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她在照镜子。",
+      "translation": "Cô ấy đang soi gương."
+    },
+    {
+      "id": 1780156031861,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "我去了一趟柏林。",
+      "translation": "Tôi đã đến Berlin."
+    },
+    {
+      "id": 1780156031875,
+      "source_n": 12,
+      "vi_n": 5,
+      "source": "非典（SARS）会传染。",
+      "translation": "SARS rất dễ lây lan."
+    },
+    {
+      "id": 1780156031878,
+      "source_n": 11,
+      "vi_n": 5,
+      "source": "他们从山坡上滑下来了。",
+      "translation": "Họ trượt xuống sườn đồi."
+    },
+    {
+      "id": 1780156031883,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "铜版上刻有字。",
+      "translation": "Tấm đồng có khắc chữ."
+    },
+    {
+      "id": 1780156031885,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他跌倒了。",
+      "translation": "Anh ta ngã xuống."
+    },
+    {
+      "id": 1780156031888,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "小孩子怕打针。",
+      "translation": "Trẻ em thường sợ tiêm."
+    },
+    {
+      "id": 1780156031890,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他违背了诺言。",
+      "translation": "Anh ta đã thất hứa."
+    },
+    {
+      "id": 1780156031891,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他违背了承诺。",
+      "translation": "Anh ta đã thất hứa."
+    },
+    {
+      "id": 1780156031906,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "床已经铺好了。",
+      "translation": "Giường đã được dọn."
+    },
+    {
+      "id": 1780156031913,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这桩生意成功了。",
+      "translation": "Thương vụ đã thành công."
+    },
+    {
+      "id": 1780156031916,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "他们相互拥抱。",
+      "translation": "Họ ôm nhau."
+    },
+    {
+      "id": 1780156031917,
+      "source_n": 11,
+      "vi_n": 5,
+      "source": "他们亲密的拥抱在一起。",
+      "translation": "Họ ôm nhau thật chặt."
+    },
+    {
+      "id": 1780156031932,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "棉花糖比较粘牙。",
+      "translation": "Kẹo dẻo khá dính."
+    },
+    {
+      "id": 1780156031949,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这座峡谷很美。",
+      "translation": "Hẻm núi này thật đẹp."
+    },
+    {
+      "id": 1780156031964,
+      "source_n": 8,
+      "vi_n": 3,
+      "source": "她打了一个哈欠。",
+      "translation": "Cô ấy ngáp."
+    },
+    {
+      "id": 1780156031982,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "浴室很干净。",
+      "translation": "Phòng tắm rất sạch sẽ."
+    },
+    {
+      "id": 1780156031987,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "脂肪减少了。",
+      "translation": "Lượng mỡ đã giảm."
+    },
+    {
+      "id": 1780156032009,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "姚明很有名。",
+      "translation": "Yao Ming rất nổi tiếng."
+    },
+    {
+      "id": 1780156032023,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他的身体康复了。",
+      "translation": "Ông ấy đã hồi phục."
+    },
+    {
+      "id": 1780156032027,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他着凉了。",
+      "translation": "Anh ấy bị cảm lạnh."
+    },
+    {
+      "id": 1780156032031,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "学生们哄堂大笑。",
+      "translation": "Các học sinh bật cười."
+    },
+    {
+      "id": 1780156032032,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "不要再瞒我了。",
+      "translation": "Đừng giấu giếm tôi nữa."
+    },
+    {
+      "id": 1780156032042,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他这个人有点怪异。",
+      "translation": "Anh ấy hơi lập dị."
+    },
+    {
+      "id": 1780156032062,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "打雷了。",
+      "translation": "Trời nổi sấm."
+    },
+    {
+      "id": 1780156032063,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "小文害怕打雷。",
+      "translation": "Tiểu Văn sợ sấm sét."
+    },
+    {
+      "id": 1780156032090,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她得了癌症。",
+      "translation": "Cô ấy bị ung thư."
+    },
+    {
+      "id": 1780156032091,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他得了癌症。",
+      "translation": "Ông ấy bị ung thư."
+    },
+    {
+      "id": 1780156032098,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他被蚊子咬了。",
+      "translation": "Anh ấy bị muỗi đốt."
+    },
+    {
+      "id": 1780156032107,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "今天刮大风。",
+      "translation": "Hôm nay trời rất gió."
+    },
+    {
+      "id": 1780156032110,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "今天刮冷风。",
+      "translation": "Hôm nay trời lạnh."
+    },
+    {
+      "id": 1780156032111,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "台风刮得很猛。",
+      "translation": "Cơn bão rất mạnh."
+    },
+    {
+      "id": 1780156032122,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "玻璃碎了。",
+      "translation": "Chiếc ly bị vỡ rồi."
+    },
+    {
+      "id": 1780156032143,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她有点害羞。",
+      "translation": "Cô ấy hơi nhút nhát."
+    },
+    {
+      "id": 1780156032145,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她很害羞。",
+      "translation": "Cô ấy rất nhút nhát."
+    },
+    {
+      "id": 1780156032148,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "你很害羞吗？",
+      "translation": "Bạn có nhút nhát không?"
+    },
+    {
+      "id": 1780156032154,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很害羞。",
+      "translation": "Anh ấy rất nhút nhát."
+    },
+    {
+      "id": 1780156032161,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他在给草坪洒水。",
+      "translation": "Anh ấy đang tưới cỏ."
+    },
+    {
+      "id": 1780156032162,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "草坪很漂亮。",
+      "translation": "Bãi cỏ rất đẹp."
+    },
+    {
+      "id": 1780156032164,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "老师在授课。",
+      "translation": "Giáo viên đang giảng bài."
+    },
+    {
+      "id": 1780156032174,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "直角等于90度。",
+      "translation": "Góc vuông bằng 90 độ."
+    },
+    {
+      "id": 1780156032176,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "水结冰了。",
+      "translation": "Nước đã đóng băng."
+    },
+    {
+      "id": 1780156032182,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他正在蒸饭。",
+      "translation": "Anh ấy đang hấp cơm."
+    },
+    {
+      "id": 1780156032184,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我的脚肿了。",
+      "translation": "Chân tôi bị sưng."
+    },
+    {
+      "id": 1780156032196,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "饼干很脆口。",
+      "translation": "Bánh quy rất giòn."
+    },
+    {
+      "id": 1780156032197,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "叫救护车。",
+      "translation": "Gọi xe cấp cứu."
+    },
+    {
+      "id": 1780156032199,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这有很多股电线。",
+      "translation": "Có rất nhiều sợi dây."
+    },
+    {
+      "id": 1780156032203,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "水是液体。",
+      "translation": "Nước là chất lỏng."
+    },
+    {
+      "id": 1780156032216,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "系上您的安全带。",
+      "translation": "Hãy thắt dây an toàn."
+    },
+    {
+      "id": 1780156032217,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "一年有四季。",
+      "translation": "Một năm có bốn mùa."
+    },
+    {
+      "id": 1780156032221,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他们在操练。",
+      "translation": "Họ đang luyện tập."
+    },
+    {
+      "id": 1780156032224,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "我喜欢吃罐头食品。",
+      "translation": "Tôi thích đồ hộp."
+    },
+    {
+      "id": 1780156032240,
+      "source_n": 8,
+      "vi_n": 3,
+      "source": "着火了！快跑啊！",
+      "translation": "Cháy! Chạy đi!"
+    },
+    {
+      "id": 1780156032241,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "房屋着火了。",
+      "translation": "Ngôi nhà đang cháy."
+    },
+    {
+      "id": 1780156032246,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她遭到了殴打。",
+      "translation": "Cô ấy đã bị đánh."
+    },
+    {
+      "id": 1780156032255,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他的口很渴。",
+      "translation": "Anh ấy rất khát nước."
+    },
+    {
+      "id": 1780156032256,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "他渴了。",
+      "translation": "Anh ấy khát nước."
+    },
+    {
+      "id": 1780156032262,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "这位是安田先生。",
+      "translation": "Đây là ông Yasuda."
+    },
+    {
+      "id": 1780156032264,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们的意见有分歧。",
+      "translation": "Họ bất đồng quan điểm."
+    },
+    {
+      "id": 1780156032267,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "我会划船。",
+      "translation": "Tôi có thể chèo thuyền."
+    },
+    {
+      "id": 1780156032269,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我喜欢吃炸鸡。",
+      "translation": "Tôi thích gà rán."
+    },
+    {
+      "id": 1780156032271,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "炸弹爆炸了。",
+      "translation": "Quả bom phát nổ."
+    },
+    {
+      "id": 1780156032272,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "原子弹爆炸了。",
+      "translation": "Bom nguyên tử phát nổ."
+    },
+    {
+      "id": 1780156032299,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "刚刚下了一阵雨。",
+      "translation": "Trời vừa mưa một lúc."
+    },
+    {
+      "id": 1780156032300,
+      "source_n": 12,
+      "vi_n": 5,
+      "source": "这个黑帮组织的势力很大。",
+      "translation": "Băng đảng này rất mạnh."
+    },
+    {
+      "id": 1780156032301,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "植物需要土壤。",
+      "translation": "Cây cần đất."
+    },
+    {
+      "id": 1780156032302,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "土壤受到了污染。",
+      "translation": "Đất đã bị ô nhiễm."
+    },
+    {
+      "id": 1780156032303,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在刮胡须。",
+      "translation": "Anh ấy đang cạo râu."
+    },
+    {
+      "id": 1780156032309,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我去扔垃圾。",
+      "translation": "Tôi sẽ vứt rác đi."
+    },
+    {
+      "id": 1780156032315,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这家银行倒闭了。",
+      "translation": "Ngân hàng đã phá sản."
+    },
+    {
+      "id": 1780156032318,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在弹琴。",
+      "translation": "Cô ấy đang chơi piano."
+    },
+    {
+      "id": 1780156032324,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "这个房间很整洁。",
+      "translation": "Phòng rất sạch sẽ."
+    },
+    {
+      "id": 1780156032325,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "巴勒斯坦在中东。",
+      "translation": "Palestine nằm ở Trung Đông."
+    },
+    {
+      "id": 1780156032331,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "我在抄笔记。",
+      "translation": "Tôi đang ghi chép."
+    },
+    {
+      "id": 1780156032346,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "火灾很危险。",
+      "translation": "Lửa rất nguy hiểm."
+    },
+    {
+      "id": 1780156032352,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很谦虚。",
+      "translation": "Anh ấy rất khiêm tốn."
+    },
+    {
+      "id": 1780156032360,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "中国正在崛起。",
+      "translation": "Trung Quốc đang trỗi dậy."
+    },
+    {
+      "id": 1780156032361,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "天气阴沉。",
+      "translation": "Thời tiết ảm đạm."
+    },
+    {
+      "id": 1780156032364,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在拉弓。",
+      "translation": "Cô ấy đang giương cung."
+    },
+    {
+      "id": 1780156032371,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这是比萨斜塔。",
+      "translation": "Đây là Tháp nghiêng Pisa."
+    },
+    {
+      "id": 1780156032375,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "我想偷懒。",
+      "translation": "Tôi muốn được lười biếng."
+    },
+    {
+      "id": 1780156032379,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这把剪刀很利。",
+      "translation": "Chiếc kéo này rất sắc."
+    },
+    {
+      "id": 1780156032390,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他有嫌疑。",
+      "translation": "Anh ta là nghi phạm."
+    },
+    {
+      "id": 1780156032394,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "赵先生，您好！",
+      "translation": "Chào ông Triệu!"
+    },
+    {
+      "id": 1780156032395,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "赵先生太骄傲了。",
+      "translation": "Ông Triệu quá kiêu ngạo."
+    },
+    {
+      "id": 1780156032400,
+      "source_n": 8,
+      "vi_n": 3,
+      "source": "电影正在放映中。",
+      "translation": "Phim đang chiếu."
+    },
+    {
+      "id": 1780156032408,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "塔倾斜了。",
+      "translation": "Tòa tháp đang nghiêng."
+    },
+    {
+      "id": 1780156032411,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "球被压扁了。",
+      "translation": "Quả bóng đã bị bẹp."
+    },
+    {
+      "id": 1780156032414,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我辞职不干了。",
+      "translation": "Tôi đã nghỉ việc."
+    },
+    {
+      "id": 1780156032421,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "不要买盗版的软件。",
+      "translation": "Đừng mua phần mềm lậu."
+    },
+    {
+      "id": 1780156032427,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "胡先生丢饭碗了。",
+      "translation": "Ông Hu đã mất việc."
+    },
+    {
+      "id": 1780156032430,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "桃子熟透了。",
+      "translation": "Những quả đào đã chín."
+    },
+    {
+      "id": 1780156032445,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "快到月末了。",
+      "translation": "Sắp hết tháng rồi."
+    },
+    {
+      "id": 1780156032472,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这个姿势不容易。",
+      "translation": "Tư thế này không dễ."
+    },
+    {
+      "id": 1780156032473,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "艾滋病不容易治疗。",
+      "translation": "AIDS không dễ điều trị."
+    },
+    {
+      "id": 1780156032478,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他在撒谎。",
+      "translation": "Anh ta đang nói dối."
+    },
+    {
+      "id": 1780156032480,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "你在撒谎。",
+      "translation": "Bạn đang nói dối."
+    },
+    {
+      "id": 1780156032481,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我喜欢仙人掌。",
+      "translation": "Tôi thích cây xương rồng."
+    },
+    {
+      "id": 1780156032506,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他跑到终点了。",
+      "translation": "Anh ấy đã về đích."
+    },
+    {
+      "id": 1780156032509,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我想喝矿泉水。",
+      "translation": "Tôi muốn uống nước khoáng."
+    },
+    {
+      "id": 1780156032517,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们在此相逢。",
+      "translation": "Họ gặp nhau ở đây."
+    },
+    {
+      "id": 1780156032518,
+      "source_n": 8,
+      "vi_n": 3,
+      "source": "这里是巴基斯坦。",
+      "translation": "Đây là Pakistan."
+    },
+    {
+      "id": 1780156032521,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她跪在雪地上。",
+      "translation": "Cô quỳ xuống trên tuyết."
+    },
+    {
+      "id": 1780156032523,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "有人放屁。",
+      "translation": "Ai đó vừa đánh rắm."
+    },
+    {
+      "id": 1780156032524,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他的腿骨折了。",
+      "translation": "Chân anh ấy bị gãy."
+    },
+    {
+      "id": 1780156032532,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她闭着眼。",
+      "translation": "Cô ấy nhắm mắt lại."
+    },
+    {
+      "id": 1780156032534,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很勤劳。",
+      "translation": "Anh ấy rất chăm chỉ."
+    },
+    {
+      "id": 1780156032544,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "妈妈亲了我的额头。",
+      "translation": "Mẹ hôn lên trán tôi."
+    },
+    {
+      "id": 1780156032545,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她的额头有点痒。",
+      "translation": "Trán cô ấy hơi ngứa."
+    },
+    {
+      "id": 1780156032550,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "水壶里没有水。",
+      "translation": "Trong ấm không có nước."
+    },
+    {
+      "id": 1780156032553,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "唐先生想喝东西。",
+      "translation": "Ông Tang muốn uống nước."
+    },
+    {
+      "id": 1780156032555,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "她们在栽树。",
+      "translation": "Họ đang trồng cây."
+    },
+    {
+      "id": 1780156032560,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "今天的天气很晴朗。",
+      "translation": "Hôm nay trời rất nắng."
+    },
+    {
+      "id": 1780156032561,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "今天天气晴朗。",
+      "translation": "Hôm nay trời nắng."
+    },
+    {
+      "id": 1780156032563,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她很慌张。",
+      "translation": "Cô ấy rất bối rối."
+    },
+    {
+      "id": 1780156032564,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "他的身体很强壮。",
+      "translation": "Anh ấy rất khỏe."
+    },
+    {
+      "id": 1780156032565,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他很强壮。",
+      "translation": "Anh ấy rất khỏe."
+    },
+    {
+      "id": 1780156032568,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我喜欢看木偶表演。",
+      "translation": "Tôi thích xem múa rối."
+    },
+    {
+      "id": 1780156032571,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "小丑做了个鬼脸。",
+      "translation": "Chú hề nhăn mặt."
+    },
+    {
+      "id": 1780156032574,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "他们互相怨恨对方。",
+      "translation": "Họ căm ghét nhau."
+    },
+    {
+      "id": 1780156032582,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "戒烟吧！",
+      "translation": "Hãy bỏ thuốc lá!"
+    },
+    {
+      "id": 1780156032623,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他身手敏捷。",
+      "translation": "Anh ta rất nhanh nhẹn."
+    },
+    {
+      "id": 1780156032624,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "她喜欢潜水。",
+      "translation": "Cô ấy thích lặn."
+    },
+    {
+      "id": 1780156032630,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "路上有积雪。",
+      "translation": "Trên đường có tuyết."
+    },
+    {
+      "id": 1780156032633,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她很倔强。",
+      "translation": "Cô ấy rất bướng bỉnh."
+    },
+    {
+      "id": 1780156032661,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "你不要冤枉我！",
+      "translation": "Đừng hiểu lầm tôi!"
+    },
+    {
+      "id": 1780156032662,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "金子很希奇。",
+      "translation": "Vàng rất hiếm."
+    },
+    {
+      "id": 1780156032672,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他在涂油漆。",
+      "translation": "Anh ấy đang sơn."
+    },
+    {
+      "id": 1780156032673,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "油漆未干。",
+      "translation": "Lớp sơn vẫn chưa khô."
+    },
+    {
+      "id": 1780156032677,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我并不喜欢吃汉堡。",
+      "translation": "Tôi không thích ăn hamburger."
+    },
+    {
+      "id": 1780156032678,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这份是原稿。",
+      "translation": "Đây là bản thảo gốc."
+    },
+    {
+      "id": 1780156032680,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他正在赌牌。",
+      "translation": "Anh ta đang đánh bạc."
+    },
+    {
+      "id": 1780156032710,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "烤鸡真香啊。",
+      "translation": "Mùi gà nướng thơm quá!"
+    },
+    {
+      "id": 1780156032722,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "大树被截成两段。",
+      "translation": "Cây bị đốn làm đôi."
+    },
+    {
+      "id": 1780156032730,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "狼很狡猾。",
+      "translation": "Sói rất xảo quyệt."
+    },
+    {
+      "id": 1780156032735,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "观众人数庞大。",
+      "translation": "Lượng khán giả rất đông."
+    },
+    {
+      "id": 1780156032754,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "钻石非常坚硬。",
+      "translation": "Kim cương rất cứng."
+    },
+    {
+      "id": 1780156032763,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "洪水泛滥。",
+      "translation": "Lũ lụt đang hoành hành."
+    },
+    {
+      "id": 1780156032765,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "枪支泛滥。",
+      "translation": "Súng đạn tràn lan."
+    },
+    {
+      "id": 1780156032766,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "河水泛滥了。",
+      "translation": "Sông đã tràn bờ."
+    },
+    {
+      "id": 1780156032768,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "父亲戒酒了。",
+      "translation": "Bố tôi đã bỏ rượu."
+    },
+    {
+      "id": 1780156032774,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这里很荒凉。",
+      "translation": "Nơi đây thật hoang vắng."
+    },
+    {
+      "id": 1780156032775,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "沙漠很荒凉。",
+      "translation": "Sa mạc thật hoang vắng."
+    },
+    {
+      "id": 1780156032780,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他疲惫不堪。",
+      "translation": "Anh ấy kiệt sức."
+    },
+    {
+      "id": 1780156032781,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她在粉刷墙壁。",
+      "translation": "Cô ấy đang sơn tường."
+    },
+    {
+      "id": 1780156032785,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "宋先生富有吗？",
+      "translation": "Ông Song có giàu không?"
+    },
+    {
+      "id": 1780156032802,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这台大炮很古老。",
+      "translation": "Khẩu pháo này rất cổ."
+    },
+    {
+      "id": 1780156032806,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "手机在充电。",
+      "translation": "Điện thoại đang sạc."
+    },
+    {
+      "id": 1780156032812,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他迷失了方向。",
+      "translation": "Anh ta bị lạc đường."
+    },
+    {
+      "id": 1780156032813,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "飞机着陆了。",
+      "translation": "Máy bay đã hạ cánh."
+    },
+    {
+      "id": 1780156032831,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他们向右甩胳膊。",
+      "translation": "Họ vung tay sang phải."
+    },
+    {
+      "id": 1780156032851,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "我们都爱吃冰淇淋。",
+      "translation": "Ai cũng thích kem."
+    },
+    {
+      "id": 1780156032852,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "他喜欢冰淇淋的味道。",
+      "translation": "Anh ấy thích vị kem."
+    },
+    {
+      "id": 1780156032856,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "冰淇淋融化了。",
+      "translation": "Kem đã tan chảy."
+    },
+    {
+      "id": 1780156032858,
+      "source_n": 6,
+      "vi_n": 2,
+      "source": "冰块融化了。",
+      "translation": "Băng tan."
+    },
+    {
+      "id": 1780156032872,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个岛屿真美。",
+      "translation": "Hòn đảo này thật đẹp."
+    },
+    {
+      "id": 1780156032887,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "他们养育了三个孩子。",
+      "translation": "Họ có ba người con."
+    },
+    {
+      "id": 1780156032896,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他正在刮胡子。",
+      "translation": "Anh ấy đang cạo râu."
+    },
+    {
+      "id": 1780156032898,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她带着口罩。",
+      "translation": "Cô ấy đeo khẩu trang."
+    },
+    {
+      "id": 1780156032903,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这块比萨饼很薄。",
+      "translation": "Bánh pizza này rất mỏng."
+    },
+    {
+      "id": 1780156032915,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这有一串珍珠。",
+      "translation": "Có một chuỗi ngọc trai."
+    },
+    {
+      "id": 1780156032927,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "奶奶喜欢做针线活。",
+      "translation": "Bà thích thêu thùa."
+    },
+    {
+      "id": 1780156032930,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "乌龟爬得很缓慢。",
+      "translation": "Con rùa bò rất chậm."
+    },
+    {
+      "id": 1780156032935,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "你真卑鄙！",
+      "translation": "Bạn thật đáng khinh!"
+    },
+    {
+      "id": 1780156032942,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "小狗伸出舌头。",
+      "translation": "Chú cún con lè lưỡi."
+    },
+    {
+      "id": 1780156032947,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "参见上文。",
+      "translation": "Xem ở trên."
+    },
+    {
+      "id": 1780156032952,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "谁的钱包遗失了？",
+      "translation": "Ai bị mất ví vậy?"
+    },
+    {
+      "id": 1780156032969,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "棉被很暖和。",
+      "translation": "Chiếc chăn rất ấm áp."
+    },
+    {
+      "id": 1780156032985,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "小麦成熟了。",
+      "translation": "Lúa mì đã chín."
+    },
+    {
+      "id": 1780156032990,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "这条连衣裙很便宜。",
+      "translation": "Chiếc váy này rất rẻ."
+    },
+    {
+      "id": 1780156032996,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "池子里充满了水。",
+      "translation": "Hồ bơi đầy nước."
+    },
+    {
+      "id": 1780156033005,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "喷泉很好看。",
+      "translation": "Đài phun nước rất đẹp."
+    },
+    {
+      "id": 1780156033011,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "湖面很平静。",
+      "translation": "Mặt hồ tĩnh lặng."
+    },
+    {
+      "id": 1780156033014,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "他们正在搬迁。",
+      "translation": "Họ đang chuyển nhà."
+    },
+    {
+      "id": 1780156033017,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在敲钉子。",
+      "translation": "Anh ấy đang đóng đinh."
+    },
+    {
+      "id": 1780156033023,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "不要拖延时间！",
+      "translation": "Đừng chần chừ!"
+    },
+    {
+      "id": 1780156033034,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他是个牙医。",
+      "translation": "Anh ấy là nha sĩ."
+    },
+    {
+      "id": 1780156033044,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她两手托着下巴。",
+      "translation": "Cô chống cằm lên tay."
+    },
+    {
+      "id": 1780156033058,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "我在剪纸。",
+      "translation": "Tôi đang cắt giấy."
+    },
+    {
+      "id": 1780156033070,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "飞机快要坠落了。",
+      "translation": "Máy bay sắp rơi."
+    },
+    {
+      "id": 1780156033072,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们喜欢探险。",
+      "translation": "Họ yêu thích phiêu lưu."
+    },
+    {
+      "id": 1780156033089,
+      "source_n": 14,
+      "vi_n": 5,
+      "source": "预防措施比真正的治疗更有效。",
+      "translation": "Phòng bệnh hơn điều trị."
+    },
+    {
+      "id": 1780156033108,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我爱吃螃蟹。",
+      "translation": "Tôi rất thích ăn cua."
+    },
+    {
+      "id": 1780156033109,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "纸被撕开了。",
+      "translation": "Tờ giấy đã bị rách."
+    },
+    {
+      "id": 1780156033119,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "你诽谤我！",
+      "translation": "Bạn đang vu khống tôi!"
+    },
+    {
+      "id": 1780156033130,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "给我发电邮。",
+      "translation": "Hãy gửi email cho tôi."
+    },
+    {
+      "id": 1780156033135,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他昂头向上看。",
+      "translation": "Anh ta ngước nhìn lên."
+    },
+    {
+      "id": 1780156033139,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "橘子熟了。",
+      "translation": "Những quả cam đã chín."
+    },
+    {
+      "id": 1780156033141,
+      "source_n": 9,
+      "vi_n": 3,
+      "source": "他们惊得目瞪口呆。",
+      "translation": "Họ sững sờ."
+    },
+    {
+      "id": 1780156033152,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "球场上划有白线。",
+      "translation": "Sân được kẻ vạch trắng."
+    },
+    {
+      "id": 1780156033163,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我很害怕蜘蛛。",
+      "translation": "Tôi rất sợ nhện."
+    },
+    {
+      "id": 1780156033164,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "王小姐害怕蜘蛛。",
+      "translation": "Cô Wang sợ nhện."
+    },
+    {
+      "id": 1780156033166,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他喜欢自夸。",
+      "translation": "Anh ta thích khoe khoang."
+    },
+    {
+      "id": 1780156033167,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "艾菲尔铁塔位于巴黎。",
+      "translation": "Tháp Eiffel nằm ở Paris."
+    },
+    {
+      "id": 1780156033183,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "苹果腐烂了。",
+      "translation": "Quả táo đã bị thối."
+    },
+    {
+      "id": 1780156033194,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他发怒了。",
+      "translation": "Anh ta nổi giận."
+    },
+    {
+      "id": 1780156033198,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她拢了拢头发。",
+      "translation": "Cô ấy vuốt lại tóc."
+    },
+    {
+      "id": 1780156033199,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "树倒塌了。",
+      "translation": "Cây đã đổ."
+    },
+    {
+      "id": 1780156033205,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我去柜台付款。",
+      "translation": "Tôi đến quầy thanh toán."
+    },
+    {
+      "id": 1780156033208,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "公司赔钱了。",
+      "translation": "Công ty bị thua lỗ."
+    },
+    {
+      "id": 1780156033213,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "她架着拐杖往前走。",
+      "translation": "Bà bước tới, chống gậy."
+    },
+    {
+      "id": 1780156033219,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "水凝结成冰。",
+      "translation": "Nước đóng băng thành đá."
+    },
+    {
+      "id": 1780156033221,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "Ken大声呼救。",
+      "translation": "Ken hét lên cầu cứu."
+    },
+    {
+      "id": 1780156033245,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他站在梯子上。",
+      "translation": "Anh ta đứng trên thang."
+    },
+    {
+      "id": 1780156033246,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "把梯子靠墙放着。",
+      "translation": "Đặt thang dựa vào tường."
+    },
+    {
+      "id": 1780156033256,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "苏联已经瓦解了。",
+      "translation": "Liên Xô đã sụp đổ."
+    },
+    {
+      "id": 1780156033270,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "货币贬值了。",
+      "translation": "Đồng tiền đã mất giá."
+    },
+    {
+      "id": 1780156033271,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "她们很懒惰。",
+      "translation": "Họ lười biếng."
+    },
+    {
+      "id": 1780156033278,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "机械出故障了。",
+      "translation": "Máy bị trục trặc."
+    },
+    {
+      "id": 1780156033288,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "人参很珍贵。",
+      "translation": "Nhân sâm rất quý giá."
+    },
+    {
+      "id": 1780156033306,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这个勺子很脏。",
+      "translation": "Chiếc thìa này rất bẩn."
+    },
+    {
+      "id": 1780156033325,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她在钩毛线。",
+      "translation": "Cô ấy đang đan móc."
+    },
+    {
+      "id": 1780156033328,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "树干折断了。",
+      "translation": "Thân cây bị gãy."
+    },
+    {
+      "id": 1780156033333,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "价格很低廉。",
+      "translation": "Giá rất thấp."
+    },
+    {
+      "id": 1780156033334,
+      "source_n": 8,
+      "vi_n": 3,
+      "source": "把面粉搅拌一下。",
+      "translation": "Khuấy đều bột."
+    },
+    {
+      "id": 1780156033341,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "宝宝在吃稀饭。",
+      "translation": "Em bé đang ăn cháo."
+    },
+    {
+      "id": 1780156033343,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "丝绸不便宜。",
+      "translation": "Vải lụa không hề rẻ."
+    },
+    {
+      "id": 1780156033355,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "涨潮了。",
+      "translation": "Thủy triều đang lên."
+    },
+    {
+      "id": 1780156033359,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他喜欢打猎。",
+      "translation": "Anh ấy thích săn bắn."
+    },
+    {
+      "id": 1780156033366,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "他们签订了一个契约。",
+      "translation": "Họ đã ký hợp đồng."
+    },
+    {
+      "id": 1780156033378,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "铁架很牢固。",
+      "translation": "Khung sắt rất chắc chắn."
+    },
+    {
+      "id": 1780156033384,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "杨小姐很温柔。",
+      "translation": "Cô Yang rất dịu dàng."
+    },
+    {
+      "id": 1780156033385,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在吃药丸。",
+      "translation": "Anh ấy đang uống thuốc."
+    },
+    {
+      "id": 1780156033388,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她把药丸吞下去。",
+      "translation": "Cô ấy nuốt viên thuốc."
+    },
+    {
+      "id": 1780156033393,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "导弹的威力很大。",
+      "translation": "Tên lửa này rất mạnh."
+    },
+    {
+      "id": 1780156033420,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "煤炭在燃烧着。",
+      "translation": "Than đang cháy."
+    },
+    {
+      "id": 1780156033421,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "煤炭是黑色的。",
+      "translation": "Than đá có màu đen."
+    },
+    {
+      "id": 1780156033422,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "宫廷很豪华。",
+      "translation": "Cung điện rất xa hoa."
+    },
+    {
+      "id": 1780156033424,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "你被雇用了。",
+      "translation": "Bạn đã được tuyển dụng."
+    },
+    {
+      "id": 1780156033439,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他呛到了。",
+      "translation": "Anh ta nghẹn thở."
+    },
+    {
+      "id": 1780156033445,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "车厢里很宽敞。",
+      "translation": "Toa tàu rất rộng rãi."
+    },
+    {
+      "id": 1780156033447,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们相互叫嚷。",
+      "translation": "Họ quát tháo vào nhau."
+    },
+    {
+      "id": 1780156033450,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "模特摆好了姿势。",
+      "translation": "Người mẫu tạo dáng."
+    },
+    {
+      "id": 1780156033473,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "她昏倒了。",
+      "translation": "Cô ấy ngất xỉu."
+    },
+    {
+      "id": 1780156033479,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她对烹饪有兴趣。",
+      "translation": "Cô ấy thích nấu ăn."
+    },
+    {
+      "id": 1780156033483,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "把图纸卷起来。",
+      "translation": "Cuộn bản thiết kế lại."
+    },
+    {
+      "id": 1780156033491,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "它住在洞穴里。",
+      "translation": "Nó sống trong hang động."
+    },
+    {
+      "id": 1780156033492,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "很多人惧怕闪电。",
+      "translation": "Nhiều người sợ sấm sét."
+    },
+    {
+      "id": 1780156033499,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我喜欢吃果酱。",
+      "translation": "Tôi thích ăn mứt."
+    },
+    {
+      "id": 1780156033513,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "我的嘴裂开了。",
+      "translation": "Miệng tôi há hốc."
+    },
+    {
+      "id": 1780156033519,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "冯先生怕黑。",
+      "translation": "Ông Feng sợ bóng tối."
+    },
+    {
+      "id": 1780156033524,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "我把桔子分成两半。",
+      "translation": "Tôi bổ đôi quả cam."
+    },
+    {
+      "id": 1780156033526,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在列提纲。",
+      "translation": "Anh ấy đang phác thảo."
+    },
+    {
+      "id": 1780156033530,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这是我的祖父母。",
+      "translation": "Đây là ông bà tôi."
+    },
+    {
+      "id": 1780156033533,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "兔子繁殖得很快。",
+      "translation": "Thỏ sinh sản rất nhanh."
+    },
+    {
+      "id": 1780156033537,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "他贪心。",
+      "translation": "Hắn ta tham lam."
+    },
+    {
+      "id": 1780156033542,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她每天都洗淋浴。",
+      "translation": "Cô ấy tắm mỗi ngày."
+    },
+    {
+      "id": 1780156033546,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "车胎坏了。",
+      "translation": "Lốp xe bị xẹp."
+    },
+    {
+      "id": 1780156033559,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他非常吝啬。",
+      "translation": "Anh ta rất keo kiệt."
+    },
+    {
+      "id": 1780156033563,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "机器在铲土。",
+      "translation": "Chiếc máy đang xúc đất."
+    },
+    {
+      "id": 1780156033574,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我很喜欢烛光。",
+      "translation": "Tôi rất thích ánh nến."
+    },
+    {
+      "id": 1780156033576,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他在射箭。",
+      "translation": "Anh ta đang bắn cung."
+    },
+    {
+      "id": 1780156033579,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "瀑布很壮观。",
+      "translation": "Thác nước thật ngoạn mục."
+    },
+    {
+      "id": 1780156033581,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在掷标枪。",
+      "translation": "Anh ta đang ném lao."
+    },
+    {
+      "id": 1780156033589,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他经常酗酒。",
+      "translation": "Ông ta nghiện rượu nặng."
+    },
+    {
+      "id": 1780156033593,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很顽皮。",
+      "translation": "Cậu ấy rất nghịch ngợm."
+    },
+    {
+      "id": 1780156033595,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他是个囚犯。",
+      "translation": "Ông ta là tù nhân."
+    },
+    {
+      "id": 1780156033599,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这面镜子是凸的。",
+      "translation": "Gương này là gương lồi."
+    },
+    {
+      "id": 1780156033604,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "他辍学了。",
+      "translation": "Anh ta bỏ học."
+    },
+    {
+      "id": 1780156033611,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "蜗牛爬得很慢。",
+      "translation": "Ốc sên bò rất chậm."
+    },
+    {
+      "id": 1780156033615,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "蜂蜜很甜。",
+      "translation": "Mật ong rất ngọt."
+    },
+    {
+      "id": 1780156033624,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "他们驱车前往华盛顿。",
+      "translation": "Họ lái xe đến Washington."
+    },
+    {
+      "id": 1780156033641,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我的喉咙发炎了。",
+      "translation": "Cổ họng tôi bị viêm."
+    },
+    {
+      "id": 1780156033649,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "美国与加拿大相邻。",
+      "translation": "Hoa Kỳ giáp với Canada."
+    },
+    {
+      "id": 1780156033650,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "她们正在种水稻。",
+      "translation": "Họ đang trồng lúa."
+    },
+    {
+      "id": 1780156033651,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "水稻是主要的农作物。",
+      "translation": "Lúa là cây trồng chính."
+    },
+    {
+      "id": 1780156033663,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们正在渡河。",
+      "translation": "Họ đang băng qua sông."
+    },
+    {
+      "id": 1780156033675,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "路面很平坦。",
+      "translation": "Mặt đường rất bằng phẳng."
+    },
+    {
+      "id": 1780156033676,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "他们屡次打架。",
+      "translation": "Họ cãi nhau liên tục."
+    },
+    {
+      "id": 1780156033679,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们的家境很贫寒。",
+      "translation": "Gia đình họ rất nghèo."
+    },
+    {
+      "id": 1780156033680,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "飞机延迟起飞。",
+      "translation": "Chuyến bay bị hoãn."
+    },
+    {
+      "id": 1780156033691,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "树苗长大了。",
+      "translation": "Cây non đã lớn lên."
+    },
+    {
+      "id": 1780156033698,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "油墨快没了。",
+      "translation": "Mực gần hết rồi."
+    },
+    {
+      "id": 1780156033701,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "妈妈在切洋葱。",
+      "translation": "Mẹ đang thái hành."
+    },
+    {
+      "id": 1780156033713,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "你肯定脑子糊掉了。",
+      "translation": "Bạn chắc bị điên rồi."
+    },
+    {
+      "id": 1780156033715,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我把被子叠好了。",
+      "translation": "Tôi gấp tấm chăn lại."
+    },
+    {
+      "id": 1780156033717,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "腿抽筋了。",
+      "translation": "Chân tôi bị chuột rút."
+    },
+    {
+      "id": 1780156033719,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "水清如鉴。",
+      "translation": "Nước trong vắt như gương."
+    },
+    {
+      "id": 1780156033720,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她病逝了。",
+      "translation": "Bà ấy đã qua đời."
+    },
+    {
+      "id": 1780156033735,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在淘米。",
+      "translation": "Cô ấy đang vo gạo."
+    },
+    {
+      "id": 1780156033755,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "邓先生感到很惊讶。",
+      "translation": "Ông Đặng rất ngạc nhiên."
+    },
+    {
+      "id": 1780156033762,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在抽泣。",
+      "translation": "Cô ấy khóc nức nở."
+    },
+    {
+      "id": 1780156033767,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "谁是郑先生？",
+      "translation": "Ông Zheng là ai?"
+    },
+    {
+      "id": 1780156033787,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在贴瓷砖。",
+      "translation": "Anh ấy đang lát gạch."
+    },
+    {
+      "id": 1780156033788,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "他在铺瓷砖。",
+      "translation": "Anh ấy đang lát gạch."
+    },
+    {
+      "id": 1780156033796,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "烟囱正在冒烟。",
+      "translation": "Ống khói đang bốc khói."
+    },
+    {
+      "id": 1780156033808,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "小桶里装满了沙子。",
+      "translation": "Chiếc xô chứa đầy cát."
+    },
+    {
+      "id": 1780156033812,
+      "source_n": 6,
+      "vi_n": 3,
+      "source": "柠檬太酸了。",
+      "translation": "Chanh chua quá."
+    },
+    {
+      "id": 1780156033819,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "我的婶婶是一名医生。",
+      "translation": "Dì tôi là bác sĩ."
+    },
+    {
+      "id": 1780156033845,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "水管漏水了。",
+      "translation": "Ống nước bị rò rỉ."
+    },
+    {
+      "id": 1780156033856,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "皇宫很气派。",
+      "translation": "Cung điện rất tráng lệ."
+    },
+    {
+      "id": 1780156033857,
+      "source_n": 7,
+      "vi_n": 3,
+      "source": "机器正在掘土。",
+      "translation": "Máy đang đào."
+    },
+    {
+      "id": 1780156033861,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "蟑螂真令人讨厌。",
+      "translation": "Gián thật kinh tởm."
+    },
+    {
+      "id": 1780156033862,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "蟑螂让人厌恶。",
+      "translation": "Gián thật kinh tởm."
+    },
+    {
+      "id": 1780156033866,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "山顶光秃秃的。",
+      "translation": "Đỉnh núi trơ trụi."
+    },
+    {
+      "id": 1780156033870,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "我不喜欢吃大蒜。",
+      "translation": "Tôi không thích ăn tỏi."
+    },
+    {
+      "id": 1780156033896,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "这是一座矿山。",
+      "translation": "Đây là một mỏ."
+    },
+    {
+      "id": 1780156033901,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "巷子的空间很狭小。",
+      "translation": "Con hẻm rất hẹp."
+    },
+    {
+      "id": 1780156033917,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他是秃头。",
+      "translation": "Ông ta bị hói đầu."
+    },
+    {
+      "id": 1780156033919,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "玫瑰属于蔷薇科植物。",
+      "translation": "Hoa hồng thuộc họ Rosaceae."
+    },
+    {
+      "id": 1780156033923,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "大蒜是辛辣的。",
+      "translation": "Tỏi có mùi hăng."
+    },
+    {
+      "id": 1780156033932,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他很儒雅。",
+      "translation": "Anh ấy rất lịch lãm."
+    },
+    {
+      "id": 1780156033934,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "秋季来临了。",
+      "translation": "Mùa thu đã đến."
+    },
+    {
+      "id": 1780156033941,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他的双腿瘫痪了。",
+      "translation": "Chân anh ấy bị liệt."
+    },
+    {
+      "id": 1780156033942,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我们是同辈。",
+      "translation": "Chúng ta cùng thế hệ."
+    },
+    {
+      "id": 1780156033950,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "她的耳朵有点聋。",
+      "translation": "Cô ấy hơi khó nghe."
+    },
+    {
+      "id": 1780156033970,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "红薯很新鲜。",
+      "translation": "Khoai lang rất tươi."
+    },
+    {
+      "id": 1780156033981,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她在烹调食物。",
+      "translation": "Cô ấy đang nấu ăn."
+    },
+    {
+      "id": 1780156033988,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "我姓葛。",
+      "translation": "Họ của tôi là Ge."
+    },
+    {
+      "id": 1780156034003,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "伊朗紧邻以色列。",
+      "translation": "Iran giáp ranh với Israel."
+    },
+    {
+      "id": 1780156034015,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "这些是铝管。",
+      "translation": "Đây là những ống nhôm."
+    },
+    {
+      "id": 1780156034027,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "细菌是微小的。",
+      "translation": "Vi khuẩn rất nhỏ."
+    },
+    {
+      "id": 1780156034048,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "他总是沉默寡言。",
+      "translation": "Ông ấy luôn kiệm lời."
+    },
+    {
+      "id": 1780156034066,
+      "source_n": 17,
+      "vi_n": 4,
+      "source": "Olivier饰演了哈姆雷特一角。",
+      "translation": "Olivier đóng vai Hamlet."
+    },
+    {
+      "id": 1780156034086,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "他喜欢橙子。",
+      "translation": "Anh ấy thích cam."
+    },
+    {
+      "id": 1780156034087,
+      "source_n": 12,
+      "vi_n": 5,
+      "source": "他们在加利福尼亚种橙子。",
+      "translation": "Họ trồng cam ở California."
+    },
+    {
+      "id": 1780156034112,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "这是一件仿制品。",
+      "translation": "Đây là bản sao."
+    },
+    {
+      "id": 1780156034115,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "窗玻璃被打碎了。",
+      "translation": "Cửa kính đã bị vỡ."
+    },
+    {
+      "id": 1780156034121,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "河水很浑浊。",
+      "translation": "Nước sông rất đục."
+    },
+    {
+      "id": 1780156034131,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "警察举起了盾牌。",
+      "translation": "Cảnh sát giơ khiên lên."
+    },
+    {
+      "id": 1780156034135,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她长得很俏丽。",
+      "translation": "Cô ấy rất xinh đẹp."
+    },
+    {
+      "id": 1780156034144,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "火警警报响了。",
+      "translation": "Chuông báo cháy reo lên."
+    },
+    {
+      "id": 1780156034151,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我喜欢打乒乓。",
+      "translation": "Tôi thích chơi bóng bàn."
+    },
+    {
+      "id": 1780156034154,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "大家挥舞着旗帜。",
+      "translation": "Mọi người đều vẫy cờ."
+    },
+    {
+      "id": 1780156034173,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "水库里屯满了水。",
+      "translation": "Hồ chứa đã đầy nước."
+    },
+    {
+      "id": 1780156034178,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我想要橙汁。",
+      "translation": "Tôi muốn uống nước cam."
+    },
+    {
+      "id": 1780156034204,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这辆车生锈了。",
+      "translation": "Chiếc xe bị rỉ sét."
+    },
+    {
+      "id": 1780156034207,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "天色逼近黄昏。",
+      "translation": "Khi hoàng hôn buông xuống."
+    },
+    {
+      "id": 1780156034208,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "这是盐和胡椒。",
+      "translation": "Đây là muối và tiêu."
+    },
+    {
+      "id": 1780156034220,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他诬蔑我。",
+      "translation": "Hắn ta vu khống tôi."
+    },
+    {
+      "id": 1780156034223,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "房里的灯光很昏暗。",
+      "translation": "Căn phòng tối mờ."
+    },
+    {
+      "id": 1780156034225,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "橡树很高大。",
+      "translation": "Cây sồi này rất cao."
+    },
+    {
+      "id": 1780156034226,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "汽车的引擎损坏了。",
+      "translation": "Động cơ xe bị hỏng."
+    },
+    {
+      "id": 1780156034227,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "澳洲比南美洲小。",
+      "translation": "Úc nhỏ hơn Nam Mỹ."
+    },
+    {
+      "id": 1780156034228,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "鱼有腥味。",
+      "translation": "Con cá có mùi tanh."
+    },
+    {
+      "id": 1780156034235,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "这条小路凹凸不平。",
+      "translation": "Con đường gập ghềnh."
+    },
+    {
+      "id": 1780156034247,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "恐龙已经灭绝了。",
+      "translation": "Khủng long đã tuyệt chủng."
+    },
+    {
+      "id": 1780156034258,
+      "source_n": 10,
+      "vi_n": 4,
+      "source": "青蛙以捕捉昆虫为食。",
+      "translation": "Ếch ăn côn trùng."
+    },
+    {
+      "id": 1780156034265,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "这是白砂糖。",
+      "translation": "Đây là đường trắng."
+    },
+    {
+      "id": 1780156034269,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "她把车刹住了。",
+      "translation": "Cô ấy dừng xe lại."
+    },
+    {
+      "id": 1780156034280,
+      "source_n": 8,
+      "vi_n": 3,
+      "source": "这株植物枯死了。",
+      "translation": "Cây đã chết."
+    },
+    {
+      "id": 1780156034283,
+      "source_n": 5,
+      "vi_n": 4,
+      "source": "这是假钞。",
+      "translation": "Đây là tiền giả."
+    },
+    {
+      "id": 1780156034286,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "冰溶化成水。",
+      "translation": "Băng tan thành nước."
+    },
+    {
+      "id": 1780156034292,
+      "source_n": 11,
+      "vi_n": 5,
+      "source": "这个消息太令人振奋了。",
+      "translation": "Tin này thật tuyệt vời!"
+    },
+    {
+      "id": 1780156034304,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "他在剔牙。",
+      "translation": "Anh ta đang xỉa răng."
+    },
+    {
+      "id": 1780156034312,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "厄运降临了。",
+      "translation": "Tai họa ập đến."
+    },
+    {
+      "id": 1780156034315,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "这条河水很污浊。",
+      "translation": "Nước sông rất bẩn."
+    },
+    {
+      "id": 1780156034328,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "房间里积满了灰尘。",
+      "translation": "Căn phòng phủ đầy bụi."
+    },
+    {
+      "id": 1780156034330,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "我用汤匙喝汤。",
+      "translation": "Tôi uống súp bằng thìa."
+    },
+    {
+      "id": 1780156034332,
+      "source_n": 8,
+      "vi_n": 4,
+      "source": "她打了一个喷嚏。",
+      "translation": "Cô ấy hắt hơi."
+    },
+    {
+      "id": 1780156034345,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "磁铁互相吸引。",
+      "translation": "Nam châm hút nhau."
+    },
+    {
+      "id": 1780156034354,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们隶属于人事部。",
+      "translation": "Họ thuộc phòng nhân sự."
+    },
+    {
+      "id": 1780156034358,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "手术刀很锐利。",
+      "translation": "Dao mổ rất sắc."
+    },
+    {
+      "id": 1780156034382,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "罂粟花很美。",
+      "translation": "Hoa anh túc thật đẹp."
+    },
+    {
+      "id": 1780156034403,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "海绵吸收水分。",
+      "translation": "Miếng bọt biển thấm nước."
+    },
+    {
+      "id": 1780156034424,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "她在卸妆。",
+      "translation": "Cô ấy đang tẩy trang."
+    },
+    {
+      "id": 1780156034433,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "海面波涛汹涌。",
+      "translation": "Biển động dữ dội."
+    },
+    {
+      "id": 1780156034465,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "她在挠痒痒。",
+      "translation": "Cô ấy đang gãi ngứa."
+    },
+    {
+      "id": 1780156034472,
+      "source_n": 5,
+      "vi_n": 3,
+      "source": "蚕会吐丝。",
+      "translation": "Tằm nhả tơ."
+    },
+    {
+      "id": 1780156034473,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "蚕虫吃桑叶。",
+      "translation": "Tằm ăn lá dâu tằm."
+    },
+    {
+      "id": 1780156034488,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "鲨鱼很凶猛。",
+      "translation": "Cá mập rất hung dữ."
+    },
+    {
+      "id": 1780156034504,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "你应该去曲阜。",
+      "translation": "Bạn nên đến Khúc Phụ."
+    },
+    {
+      "id": 1780156034516,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "这支队伍很有纪律。",
+      "translation": "Đội này rất kỷ luật."
+    },
+    {
+      "id": 1780156034534,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "水里含有碱。",
+      "translation": "Nước này có chứa kiềm."
+    },
+    {
+      "id": 1780156034539,
+      "source_n": 10,
+      "vi_n": 5,
+      "source": "头发干枯真让人烦躁。",
+      "translation": "Tóc khô thật khó chịu."
+    },
+    {
+      "id": 1780156034542,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "乳酪很好吃。",
+      "translation": "Phô mai rất ngon."
+    },
+    {
+      "id": 1780156034552,
+      "source_n": 9,
+      "vi_n": 4,
+      "source": "我被蜜蜂蛰了一下。",
+      "translation": "Tôi bị ong đốt."
+    },
+    {
+      "id": 1780156034558,
+      "source_n": 7,
+      "vi_n": 5,
+      "source": "今天是卅一日。",
+      "translation": "Hôm nay là ngày 31."
+    },
+    {
+      "id": 1780156034562,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "我们是同僚。",
+      "translation": "Chúng tôi là đồng nghiệp."
+    },
+    {
+      "id": 1780156034569,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "把蛋放入沸水中。",
+      "translation": "Cho trứng vào nước sôi."
+    },
+    {
+      "id": 1780156034570,
+      "source_n": 5,
+      "vi_n": 5,
+      "source": "蛇在蜕皮。",
+      "translation": "Con rắn đang lột da."
+    },
+    {
+      "id": 1780156034572,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "这条绔子太大了。",
+      "translation": "Chiếc quần này rộng quá."
+    },
+    {
+      "id": 1780156034575,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "雷声轰轰作响。",
+      "translation": "Tiếng sấm vang dội."
+    },
+    {
+      "id": 1780156034585,
+      "source_n": 7,
+      "vi_n": 4,
+      "source": "你不要诬告我！",
+      "translation": "Đừng vu khống tôi!"
+    },
+    {
+      "id": 1780156034589,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他佩带着一枚徽章。",
+      "translation": "Anh ta đeo huy hiệu."
+    },
+    {
+      "id": 1780156034598,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "闰年有366天。",
+      "translation": "Năm nhuận có 366 ngày."
+    },
+    {
+      "id": 1780156034622,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "他们相互推诿责任。",
+      "translation": "Họ đổ lỗi cho nhau."
+    },
+    {
+      "id": 1780156034623,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "别推诿责任。",
+      "translation": "Đừng trốn tránh trách nhiệm."
+    },
+    {
+      "id": 1780156034624,
+      "source_n": 6,
+      "vi_n": 5,
+      "source": "别推诿过错。",
+      "translation": "Đừng trốn tránh trách nhiệm."
+    },
+    {
+      "id": 1780156034641,
+      "source_n": 8,
+      "vi_n": 5,
+      "source": "蝌蚪蜕变成青蛙。",
+      "translation": "Nòng nòng biến thành ếch."
+    }
+  ]
+}

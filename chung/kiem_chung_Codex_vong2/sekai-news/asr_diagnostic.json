@@ -1,0 +1,182 @@
+{
+  "model": "Whisper small-q5_1; whisper.cpp v1.9.2; greedy; language fixed; no reference prompt",
+  "method": "16 evenly spaced note indices; ASR output is fallible and not human listening or full alignment certification.",
+  "results": [
+    {
+      "index": 0,
+      "id": 1713921647283,
+      "reference": "はじめに",
+      "asr": "アウディカー\n(アウディカー)\nはじめにより",
+      "similarity": 0.364,
+      "previous_similarity": 0.364,
+      "next_similarity": 0.08,
+      "exit_code": 0,
+      "elapsed_seconds": 5.42
+    },
+    {
+      "index": 129,
+      "id": 1713921647541,
+      "reference": "実はこれがもっとも憂慮すべきことかもしれません。",
+      "asr": "実はこれが最も有利すべきことかもしれません",
+      "similarity": 0.818,
+      "previous_similarity": 0.137,
+      "next_similarity": 0.102,
+      "exit_code": 0,
+      "elapsed_seconds": 1.97
+    },
+    {
+      "index": 259,
+      "id": 1713921647801,
+      "reference": "アフリカ諸国ではこうした社会システムが構築されていないことが、貧困や内戦から抜け出せない大きな原因となっています。",
+      "asr": "アフリカ諸国では、こうした社会システムが構築されていないことが、貧困や内線から抜け出せない大きな原因となっています。",
+      "similarity": 0.982,
+      "previous_similarity": 0.105,
+      "next_similarity": 0.154,
+      "exit_code": 0,
+      "elapsed_seconds": 2.15
+    },
+    {
+      "index": 388,
+      "id": 1713921648059,
+      "reference": "いまや労働者階級の白人のイギリス人が通っていた「カフ」（昔ながらの食堂）は、ほとんど見当たりません。",
+      "asr": "今や労働者階級の白人のイギリス人が通っていたカフ、昔ながらの食堂はほとんど見当たりません。",
+      "similarity": 0.966,
+      "previous_similarity": 0.145,
+      "next_similarity": 0.156,
+      "exit_code": 0,
+      "elapsed_seconds": 2.16
+    },
+    {
+      "index": 517,
+      "id": 1713921648317,
+      "reference": "・よそ者に冷たい",
+      "asr": "よそものにつめたい",
+      "similarity": 0.625,
+      "previous_similarity": 0.062,
+      "next_similarity": 0.316,
+      "exit_code": 0,
+      "elapsed_seconds": 2.01
+    },
+    {
+      "index": 647,
+      "id": 1713921648577,
+      "reference": "生まれてすぐに両親は離婚してしまい父親の顔を知りません。",
+      "asr": "生まれてすぐに両親は離婚してしまい父親の顔を知りません",
+      "similarity": 1.0,
+      "previous_similarity": 0.045,
+      "next_similarity": 0.063,
+      "exit_code": 0,
+      "elapsed_seconds": 2.05
+    },
+    {
+      "index": 776,
+      "id": 1713921648835,
+      "reference": "（二）同性愛者、男性的な女性、女性的な男性",
+      "asr": "移民 二同性愛者男性的な女性女性的な男性",
+      "similarity": 0.944,
+      "previous_similarity": 0.182,
+      "next_similarity": 0.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.04
+    },
+    {
+      "index": 905,
+      "id": 1713921649093,
+      "reference": "で、本当のところいくらなのかは、セーチンもゴーンもわからないけどね。",
+      "asr": "で本当のところいくらなのかは聖人もご音もわからないけどね",
+      "similarity": 0.814,
+      "previous_similarity": 0.053,
+      "next_similarity": 0.137,
+      "exit_code": 0,
+      "elapsed_seconds": 2.04
+    },
+    {
+      "index": 1035,
+      "id": 1713921649353,
+      "reference": "彼らが二〇年後に職がないなんて悲劇に見舞われないことを祈るばかりです。",
+      "asr": "彼らが20年後に職がないなんて悲劇に見回れないことを祈るばかりです",
+      "similarity": 0.896,
+      "previous_similarity": 0.064,
+      "next_similarity": 0.122,
+      "exit_code": 0,
+      "elapsed_seconds": 2.08
+    },
+    {
+      "index": 1164,
+      "id": 1713921649611,
+      "reference": "睡眠時間を長時間確保できるということは労働時間が長くないということですが、それでもその国のビジネスが生み出す付加価値は高くなっています。",
+      "asr": "睡眠時間を長時間確保できるということは労働時間が長くないということですがそれでもその国のビジネスが生み出す負荷価値は高くなっています",
+      "similarity": 0.97,
+      "previous_similarity": 0.217,
+      "next_similarity": 0.194,
+      "exit_code": 0,
+      "elapsed_seconds": 2.19
+    },
+    {
+      "index": 1293,
+      "id": 1713921649869,
+      "reference": "多くの人にとって日常生活は似たような行動の繰り返しですが、実は過去にされたことに対してさまざまな経験から考え方や感じ方を上塗りしていっているのです。",
+      "asr": "多くの人にとって、日常生活は似たような行動の繰り返しですが、実は過去にされたことに対して様々な経験から考え方や感じ方を上塗りしていっているのです。",
+      "similarity": 0.958,
+      "previous_similarity": 0.222,
+      "next_similarity": 0.125,
+      "exit_code": 0,
+      "elapsed_seconds": 2.27
+    },
+    {
+      "index": 1423,
+      "id": 1713921650129,
+      "reference": "しかし、ＥＵからの移民が自由化されているために地元に外国人が増え、景観や自分の生活圏の環境が変わることを、離脱を選択した有権者は許容できなかったわけです。",
+      "asr": "しかし、EUからの移民が自由化されているために、地元に外国人が増え、警官や自分の生活圏の環境が変わることを離脱を選択した有権者は許容できなかったわけです。",
+      "similarity": 0.973,
+      "previous_similarity": 0.263,
+      "next_similarity": 0.185,
+      "exit_code": 0,
+      "elapsed_seconds": 2.34
+    },
+    {
+      "index": 1552,
+      "id": 1713921650387,
+      "reference": "ドイツの五％のビールはこの約一〇分の一なのでイギリスの税率がいかに高いかわかるでしょう。",
+      "asr": "ドイツの5%のビールはこの約十分の1なのでイギリスの税率がいかに高いかわかるでしょう",
+      "similarity": 0.916,
+      "previous_similarity": 0.222,
+      "next_similarity": 0.198,
+      "exit_code": 0,
+      "elapsed_seconds": 2.15
+    },
+    {
+      "index": 1681,
+      "id": 1713921650645,
+      "reference": "カップラーメンの汁を流してしまうような人までいます。",
+      "asr": "カップラーメンの汁を流してしまうような人までいます",
+      "similarity": 1.0,
+      "previous_similarity": 0.2,
+      "next_similarity": 0.138,
+      "exit_code": 0,
+      "elapsed_seconds": 2.02
+    },
+    {
+      "index": 1811,
+      "id": 1713921650905,
+      "reference": "日本ではゆるいですが、英語圏だと変なことを放送するとすぐ訴訟を起こされてしまうので、制作時点でさまざまなチェックが入ります。",
+      "asr": "日本では緩いですが英語県だと変なことを放送するとすぐ訴訟を起こされてしまうので制作時点で様々なチェックが入ります大手のニュースサイトや",
+      "similarity": 0.825,
+      "previous_similarity": 0.049,
+      "next_similarity": 0.131,
+      "exit_code": 0,
+      "elapsed_seconds": 2.17
+    },
+    {
+      "index": 1940,
+      "id": 1713921651163,
+      "reference": "谷本 真由美",
+      "asr": "2月 谷本眉",
+      "similarity": 0.4,
+      "previous_similarity": 0.182,
+      "next_similarity": 0.4,
+      "exit_code": 0,
+      "elapsed_seconds": 1.98
+    }
+  ]
+}

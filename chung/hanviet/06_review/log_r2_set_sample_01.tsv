@@ -1,0 +1,371 @@
+note_key	verdict	van_de	ghi_chu
+zh:hskstory-hsk1:1792758600048	ok		中国
+zh:hskstory-hsk1:1792758600116	ok		八
+zh:hskstory-hsk1:1792758600130	ok		几
+zh:hskstory-hsk1:1792758600132	ok		出租车
+zh:hskstory-hsk1:1792758600198	ok		哪些
+zh:hskstory-hsk1:1792758600214	ok		四
+zh:hskstory-hsk1:1792758600224	ok		块
+zh:hskstory-hsk1:1792758600226	ok		外
+zh:hskstory-hsk1:1792758600250	fixed	khac_dung_bo_sot	[major] 女儿: cung_dung nhưng chính khac_biet đã nêu khác nghĩa; 'nữ nhi' không có nghĩa 'con gái của mình'
+zh:hskstory-hsk1:1792758600282	ok		学校
+zh:hskstory-hsk1:1792758600308	ok		小朋友
+zh:hskstory-hsk1:1792758600326	ok		很
+zh:hskstory-hsk1:1792758600328	ok		忙
+zh:hskstory-hsk1:1792758600392	ok		有的
+zh:hskstory-hsk1:1792758600426	fixed	loai_thoi_phong	[major] 火车: 'hỏa xa' là từ cũ, người Việt hiện đại nói tàu hỏa/xe lửa
+zh:hskstory-hsk1:1792758600434	fixed	loai_thoi_phong	[major] 爸爸: 'ba ba' không phải từ Việt; đồng bộ cách xử lý 妈妈 ở R1b
+zh:hskstory-hsk1:1792758600436	ok		牛奶
+zh:hskstory-hsk1:1792758600466	ok		百
+zh:hskstory-hsk1:1792758600516	ok		请
+zh:hskstory-hsk1:1792758600544	fixed	loai_sai	[major] 这个: 這 giá / 個 cá không giúp người Việt; đại từ chỉ định, đồng bộ với 这么 (hu_tu)
+zh:hskstory-hsk1:1792758600562	ok		那边
+zh:hskstory-hsk2:1792758600010	ok		上来
+zh:hskstory-hsk2:1792758600064	ok		动
+zh:hskstory-hsk2:1792758600070	ok		右
+zh:hskstory-hsk2:1792758600074	ok		名
+zh:hskstory-hsk2:1792758600082	ok		咖啡
+zh:hskstory-hsk2:1792758600094	ok		地
+zh:hskstory-hsk2:1792758600142	ok		开学
+zh:hskstory-hsk2:1792758600192	ok		有时
+zh:hskstory-hsk2:1792758600220	ok		游泳
+zh:hskstory-hsk2:1792758600224	ok		爷爷
+zh:hskstory-hsk2:1792758600230	ok		生日
+zh:hskstory-hsk2:1792758600236	ok		疼
+zh:hskstory-hsk2:1792758600242	ok		着
+zh:hskstory-hsk2:1792758600252	ok		笔
+zh:hskstory-hsk2:1792758600258	ok		累
+zh:hskstory-hsk2:1792758600268	ok		绿茶: giữ cung_dung: 'lục trà' còn dùng (bao bì, quán trà) dù 'trà xanh' phổ biến hơn
+zh:hskstory-hsk2:1792758600338	ok		这么
+zh:hskstory-hsk3:1792758600030	ok		东
+zh:hskstory-hsk3:1792758600104	ok		关于
+zh:hskstory-hsk3:1792758600126	ok		冰激凌
+zh:hskstory-hsk3:1792758600168	ok		办
+zh:hskstory-hsk3:1792758600170	ok		办公室
+zh:hskstory-hsk3:1792758600180	ok		努力
+zh:hskstory-hsk3:1792758600206	fixed	nghia_sai	[major] 发: bỏ 'cũng: phát triển' (không phải nghĩa của 发 đứng riêng); đưa nghĩa trong câu lên đầu
+zh:hskstory-hsk3:1792758600258	ok		名单
+zh:hskstory-hsk3:1792758600278	ok		啤酒
+zh:hskstory-hsk3:1792758600282	ok		嘴
+zh:hskstory-hsk3:1792758600338	ok		女生
+zh:hskstory-hsk3:1792758600350	ok		子
+zh:hskstory-hsk3:1792758600404	ok		常
+zh:hskstory-hsk3:1792758600418	ok		年级
+zh:hskstory-hsk3:1792758600448	ok		怎么办
+zh:hskstory-hsk3:1792758600536	fixed	etym_khong_nguon	[major] 方便面: xóa khẳng định 'mì tiếng Việt bắt nguồn từ chữ này'
+zh:hskstory-hsk3:1792758600560	ok		月亮
+zh:hskstory-hsk3:1792758600584	ok		校园
+zh:hskstory-hsk3:1792758600610	fixed	pt_sai	[minor] 汽车: cau_tao 'xe chạy bằng hơi' sai nghĩa hiện đại; chuyển goi_nho
+zh:hskstory-hsk3:1792758600612	ok		沙发
+zh:hskstory-hsk3:1792758600638	ok		然后
+zh:hskstory-hsk3:1792758600700	ok		直到
+zh:hskstory-hsk3:1792758600750	ok		练
+zh:hskstory-hsk3:1792758600768	ok		羊
+zh:hskstory-hsk3:1792758600824	ok		街
+zh:hskstory-hsk3:1792758600884	ok		路口
+zh:hskstory-hsk3:1792758600904	ok		选
+zh:hskstory-hsk3:1792758600908	ok		遇到
+zh:hskstory-hsk3:1792758600946	fixed	loai_thoi_phong	[major] 难题: 'nan đề' rất hiếm trong tiếng Việt hiện đại (thường nói 'vấn đề nan giải')
+zh:hskstory-hsk4:1792758600040	ok		东部
+zh:hskstory-hsk4:1792758600092	ok		亚洲
+zh:hskstory-hsk4:1792758600114	ok		人生: giữ cung_dung: 'nhân sinh' văn vẻ nhưng quen
+zh:hskstory-hsk4:1792758600118	ok		仅仅
+zh:hskstory-hsk4:1792758600200	ok		信号
+zh:hskstory-hsk4:1792758600314	ok		减
+zh:hskstory-hsk4:1792758600382	ok		勇敢
+zh:hskstory-hsk4:1792758600398	ok		午餐
+zh:hskstory-hsk4:1792758600422	ok		压力
+zh:hskstory-hsk4:1792758600430	fixed	nghia_sai	[minor] 原来: bỏ chú thích lạ '(nhà ở như cũ)'
+zh:hskstory-hsk4:1792758600464	ok		受伤
+zh:hskstory-hsk4:1792758600508	ok		吸
+zh:hskstory-hsk4:1792758600558	ok		土
+zh:hskstory-hsk4:1792758600578	ok		堵车
+zh:hskstory-hsk4:1792758600614	ok		大巴
+zh:hskstory-hsk4:1792758600670	ok		实际上
+zh:hskstory-hsk4:1792758600742	ok		巧克力
+zh:hskstory-hsk4:1792758600746	ok		已
+zh:hskstory-hsk4:1792758600760	ok		幅
+zh:hskstory-hsk4:1792758600778	ok		幽默
+zh:hskstory-hsk4:1792758600786	ok		应聘
+zh:hskstory-hsk4:1792758600854	ok		意见
+zh:hskstory-hsk4:1792758600888	ok		打工
+zh:hskstory-hsk4:1792758600936	ok		按
+zh:hskstory-hsk4:1792758600974	ok		摄氏度
+zh:hskstory-hsk4:1792758600988	ok		收听
+zh:hskstory-hsk4:1792758601010	ok		教授
+zh:hskstory-hsk4:1792758601018	ok		散步: giữ cung_dung, khac_biet ghi sắc thái là đủ
+zh:hskstory-hsk4:1792758601042	ok		方面
+zh:hskstory-hsk4:1792758601060	ok		既然
+zh:hskstory-hsk4:1792758601188	fixed	khac_biet_sai	[minor] 步: khac_biet cũ 'bộ (quần áo, phận)' tối nghĩa
+zh:hskstory-hsk4:1792758601214	ok		永远
+zh:hskstory-hsk4:1792758601222	ok		汤
+zh:hskstory-hsk4:1792758601254	ok		温度
+zh:hskstory-hsk4:1792758601298	fixed	khac_dung_bo_sot	[major] 父亲: 'phụ thân' cổ/văn chương, khác đáng kể về cách dùng
+zh:hskstory-hsk4:1792758601400	ok		看法
+zh:hskstory-hsk4:1792758601438	ok		秒
+zh:hskstory-hsk4:1792758601464	ok		童年
+zh:hskstory-hsk4:1792758601482	ok		签证
+zh:hskstory-hsk4:1792758601524	ok		结果
+zh:hskstory-hsk4:1792758601532	ok		缺少
+zh:hskstory-hsk4:1792758601558	ok		老家
+zh:hskstory-hsk4:1792758601664	ok		西红柿
+zh:hskstory-hsk4:1792758601684	ok		订
+zh:hskstory-hsk4:1792758601738	ok		质量
+zh:hskstory-hsk4:1792758601754	ok		赢得
+zh:hskstory-hsk4:1792758601868	ok		镜子
+zh:hskstory-hsk4:1792758601880	ok		阳光
+zh:hskstory-hsk4:1792758601884	ok		降价
+zh:hskstory-hsk4:1792758601962	ok		高价
+zh:hskstory-hsk5:1792758600030	ok		不然
+zh:hskstory-hsk5:1792758600064	ok		中华
+zh:hskstory-hsk5:1792758600066	ok		中华民族
+zh:hskstory-hsk5:1792758600078	ok		丰富多彩
+zh:hskstory-hsk5:1792758600134	ok		事实
+zh:hskstory-hsk5:1792758600140	ok		二手
+zh:hskstory-hsk5:1792758600214	fixed	loai_thoi_phong	[major] 他人: 'tha nhân' chỉ gặp trong văn triết học/tôn giáo, không phải từ thông dụng
+zh:hskstory-hsk5:1792758600244	ok		优惠
+zh:hskstory-hsk5:1792758600256	ok		伟大
+zh:hskstory-hsk5:1792758600308	ok		便
+zh:hskstory-hsk5:1792758600372	ok		先进
+zh:hskstory-hsk5:1792758600384	ok		全体
+zh:hskstory-hsk5:1792758600388	ok		全新
+zh:hskstory-hsk5:1792758600422	ok		农民
+zh:hskstory-hsk5:1792758600440	ok		出售
+zh:hskstory-hsk5:1792758600498	ok		到期
+zh:hskstory-hsk5:1792758600524	ok		剪
+zh:hskstory-hsk5:1792758600528	ok		副
+zh:hskstory-hsk5:1792758600634	ok		及格
+zh:hskstory-hsk5:1792758600712	ok		名片
+zh:hskstory-hsk5:1792758600726	ok		吨
+zh:hskstory-hsk5:1792758600728	ok		含
+zh:hskstory-hsk5:1792758600734	ok		吵
+zh:hskstory-hsk5:1792758600738	ok		吸管
+zh:hskstory-hsk5:1792758600802	ok		四周
+zh:hskstory-hsk5:1792758600810	ok		因而
+zh:hskstory-hsk5:1792758600852	ok		地区
+zh:hskstory-hsk5:1792758600872	ok		堵
+zh:hskstory-hsk5:1792758600874	ok		填
+zh:hskstory-hsk5:1792758600976	ok		如何
+zh:hskstory-hsk5:1792758600978	ok		如同
+zh:hskstory-hsk5:1792758600990	ok		姿势
+zh:hskstory-hsk5:1792758601022	ok		学者
+zh:hskstory-hsk5:1792758601034	ok		完善
+zh:hskstory-hsk5:1792758601196	fixed	loai_thoi_phong	[major] 年纪: 'niên kỷ' hầu như không dùng; người Việt nói 'tuổi tác'
+zh:hskstory-hsk5:1792758601290	ok		形成
+zh:hskstory-hsk5:1792758601324	ok		忍
+zh:hskstory-hsk5:1792758601390	ok		意识
+zh:hskstory-hsk5:1792758601418	ok		成长
+zh:hskstory-hsk5:1792758601424	ok		户外
+zh:hskstory-hsk5:1792758601464	ok		批准
+zh:hskstory-hsk5:1792758601494	ok		报警
+zh:hskstory-hsk5:1792758601536	ok		挣
+zh:hskstory-hsk5:1792758601566	fixed	khac_dung_bo_sot	[major] 接近: câu ví dụ 'nhiệt độ tiếp cận 30 độ' không tự nhiên trong tiếng Việt
+zh:hskstory-hsk5:1792758601572	ok		推广
+zh:hskstory-hsk5:1792758601606	ok		摇
+zh:hskstory-hsk5:1792758601690	ok		无奈
+zh:hskstory-hsk5:1792758601798	ok		权
+zh:hskstory-hsk5:1792758601806	ok		极其
+zh:hskstory-hsk5:1792758601856	ok		欧洲
+zh:hskstory-hsk5:1792758601894	ok		汗水
+zh:hskstory-hsk5:1792758601896	ok		池
+zh:hskstory-hsk5:1792758601906	ok		沙漠
+zh:hskstory-hsk5:1792758601920	ok		沿
+zh:hskstory-hsk5:1792758601990	ok		温暖
+zh:hskstory-hsk5:1792758602054	ok		牛仔裤
+zh:hskstory-hsk5:1792758602098	ok		环节
+zh:hskstory-hsk5:1792758602140	ok		用户
+zh:hskstory-hsk5:1792758602184	ok		登
+zh:hskstory-hsk5:1792758602200	ok		目光
+zh:hskstory-hsk5:1792758602320	ok		空间
+zh:hskstory-hsk5:1792758602350	ok		简历
+zh:hskstory-hsk5:1792758602492	ok		胜利
+zh:hskstory-hsk5:1792758602516	ok		至
+zh:hskstory-hsk5:1792758602614	ok		规模
+zh:hskstory-hsk5:1792758602634	ok		记载
+zh:hskstory-hsk5:1792758602640	fixed	nghia_lech_cau	[minor] 讲话: câu ví dụ dùng nghĩa danh từ 'bài phát biểu', đưa lên đầu
+zh:hskstory-hsk5:1792758602642	ok		讲述
+zh:hskstory-hsk5:1792758602740	ok		赏
+zh:hskstory-hsk5:1792758602900	ok		逻辑
+zh:hskstory-hsk5:1792758602922	ok		酒吧
+zh:hskstory-hsk5:1792758602928	ok		采取
+zh:hskstory-hsk5:1792758602994	ok		阶段
+zh:hskstory-hsk5:1792758603008	fixed	loai_thoi_phong	[major] 除夕: 'trừ tịch' chỉ còn trong văn chương; người Việt nói 'giao thừa'
+zh:hskstory-hsk5:1792758603046	ok		需求
+zh:hskstory-hsk5:1792758603052	ok		非洲
+zh:hskstory-hsk6:1792758600018	ok		一模一样
+zh:hskstory-hsk6:1792758600076	fixed	pt_sai	[minor] 不禁: bỏ 'câm/cấm': 禁 jīn ở đây đọc câm, nghĩa chịu đựng
+zh:hskstory-hsk6:1792758600088	ok		与其
+zh:hskstory-hsk6:1792758600164	ok		之所以
+zh:hskstory-hsk6:1792758600170	ok		乐器: giữ cung_dung, khac_biet ghi 'nhạc cụ' phổ biến hơn
+zh:hskstory-hsk6:1792758600186	ok		争吵
+zh:hskstory-hsk6:1792758600336	ok		保暖
+zh:hskstory-hsk6:1792758600358	ok		倒闭
+zh:hskstory-hsk6:1792758600394	ok		免
+zh:hskstory-hsk6:1792758600416	ok		公告
+zh:hskstory-hsk6:1792758600430	ok		兰花
+zh:hskstory-hsk6:1792758600432	ok		共计
+zh:hskstory-hsk6:1792758600452	fixed	loai_thoi_phong	[major] 养老院: dạng Hán Việt 'dưỡng lão viện' không có trong tiếng Việt; cung_dung kèm khac_biet là mâu thuẫn
+zh:hskstory-hsk6:1792758600502	ok		出力
+zh:hskstory-hsk6:1792758600554	ok		前提
+zh:hskstory-hsk6:1792758600582	ok		加重
+zh:hskstory-hsk6:1792758600588	fixed	khac_dung_bo_sot	[major] 动态: câu nói về chuyển động của động vật; 'động thái' tiếng Việt không dùng như vậy; sửa cả nghia_vi
+zh:hskstory-hsk6:1792758600596	ok		助理
+zh:hskstory-hsk6:1792758600602	ok		勇于
+zh:hskstory-hsk6:1792758600618	ok		北美洲
+zh:hskstory-hsk6:1792758600640	ok		南极洲
+zh:hskstory-hsk6:1792758600642	ok		南美洲
+zh:hskstory-hsk6:1792758600680	ok		原材料
+zh:hskstory-hsk6:1792758600766	ok		名胜
+zh:hskstory-hsk6:1792758600778	ok		后退
+zh:hskstory-hsk6:1792758600838	ok		喜剧
+zh:hskstory-hsk6:1792758600840	ok		喷
+zh:hskstory-hsk6:1792758600882	ok		国歌
+zh:hskstory-hsk6:1792758600900	ok		地域
+zh:hskstory-hsk6:1792758600938	ok		城镇
+zh:hskstory-hsk6:1792758600942	ok		基因
+zh:hskstory-hsk6:1792758600982	fixed	loai_sai	[major] 多亏: 多 đa + 虧 khuy không cho ra 'nhờ có'; goi_nho cũ gượng ép
+zh:hskstory-hsk6:1792758601006	ok		大洋洲
+zh:hskstory-hsk6:1792758601082	ok		娶
+zh:hskstory-hsk6:1792758601136	ok		审美
+zh:hskstory-hsk6:1792758601148	ok		家家户户
+zh:hskstory-hsk6:1792758601158	fixed	khac_dung_bo_sot	[major] 寂寞: câu ví dụ là cảm giác cô đơn của người
+zh:hskstory-hsk6:1792758601192	ok		射击
+zh:hskstory-hsk6:1792758601196	ok		小偷儿
+zh:hskstory-hsk6:1792758601308	ok		店铺
+zh:hskstory-hsk6:1792758601326	ok		开启
+zh:hskstory-hsk6:1792758601626	ok		招待
+zh:hskstory-hsk6:1792758601650	ok		指挥
+zh:hskstory-hsk6:1792758601710	fixed	nghia_qua_tai	[minor] 搭: ba nghĩa; giữ nghĩa trong câu + một nghĩa phụ
+zh:hskstory-hsk6:1792758601726	ok		摩托车
+zh:hskstory-hsk6:1792758601738	ok		播种
+zh:hskstory-hsk6:1792758601746	ok		收益
+zh:hskstory-hsk6:1792758601788	ok		文具
+zh:hskstory-hsk6:1792758601908	ok		朝代
+zh:hskstory-hsk6:1792758601922	ok		本土
+zh:hskstory-hsk6:1792758601926	ok		本身
+zh:hskstory-hsk6:1792758601952	ok		杰出
+zh:hskstory-hsk6:1792758601992	ok		桥梁
+zh:hskstory-hsk6:1792758602018	ok		模型
+zh:hskstory-hsk6:1792758602024	ok		模特儿
+zh:hskstory-hsk6:1792758602028	ok		次数
+zh:hskstory-hsk6:1792758602032	fixed	khac_dung_bo_sot	[major] 欲望: sắc thái 'dục vọng' nặng hơn nhiều so với câu ví dụ (muốn mua quần áo)
+zh:hskstory-hsk6:1792758602040	ok		歇
+zh:hskstory-hsk6:1792758602094	ok		气味
+zh:hskstory-hsk6:1792758602118	ok		求婚
+zh:hskstory-hsk6:1792758602272	ok		滴
+zh:hskstory-hsk6:1792758602344	ok		焦虑
+zh:hskstory-hsk6:1792758602356	ok		爆炸
+zh:hskstory-hsk6:1792758602358	ok		片刻
+zh:hskstory-hsk6:1792758602472	ok		痛快
+zh:hskstory-hsk6:1792758602498	ok		盲人
+zh:hskstory-hsk6:1792758602508	ok		相等
+zh:hskstory-hsk6:1792758602568	ok		祝愿
+zh:hskstory-hsk6:1792758602598	ok		移民
+zh:hskstory-hsk6:1792758602602	ok		稿子
+zh:hskstory-hsk6:1792758602630	ok		笑容
+zh:hskstory-hsk6:1792758602840	ok		脑子
+zh:hskstory-hsk6:1792758602858	ok		自来水
+zh:hskstory-hsk6:1792758602880	ok		艰难
+zh:hskstory-hsk6:1792758602912	ok		虽
+zh:hskstory-hsk6:1792758602946	ok		补课
+zh:hskstory-hsk6:1792758602976	ok		规范
+zh:hskstory-hsk6:1792758603048	ok		误
+zh:hskstory-hsk6:1792758603284	ok		遗产
+zh:hskstory-hsk6:1792758603296	fixed	khac_dung_bo_sot	[major] 遭遇: cung_dung nhưng khac_biet cũ đã thừa nhận khác nghĩa
+zh:hskstory-hsk6:1792758603302	ok		部位
+zh:hskstory-hsk6:1792758603306	ok		都市
+zh:hskstory-hsk6:1792758603364	ok		钻
+zh:hskstory-hsk6:1792758603396	ok		间接
+zh:hskstory-hsk6:1792758603418	fixed	pt_sai	[major] 除: bỏ 'phép trừ': 除 trong toán là phép chia, gây nhầm
+zh:hskstory-hsk6:1792758603530	ok		高端
+zh:hskstory-hsk6:1792758603542	ok		麦克风
+zh:hskstory-hsk7:1792758600084	fixed	loai_ha_thap	[major] 一齐: 'nhất tề' là từ Việt thông dụng (nhất tề đứng dậy)
+zh:hskstory-hsk7:1792758600086	ok		丁
+zh:hskstory-hsk7:1792758600198	fixed	khac_dung_bo_sot	[major] 不及: nghĩa hiện đại của 'bất cập' khác hẳn
+zh:hskstory-hsk7:1792758600220	ok		不得已
+zh:hskstory-hsk7:1792758600282	ok		丑恶
+zh:hskstory-hsk7:1792758600288	ok		专人
+zh:hskstory-hsk7:1792758600382	ok		中立
+zh:hskstory-hsk7:1792758600392	ok		丰硕
+zh:hskstory-hsk7:1792758600406	fixed	pt_sai	[minor] 丸子: pt ghi '丸 viên' thiếu âm Hán Việt, dễ hiểu nhầm âm là 'viên'
+zh:hskstory-hsk7:1792758600484	ok		乡亲
+zh:hskstory-hsk7:1792758600488	ok		乱七八糟
+zh:hskstory-hsk7:1792758600490	ok		乳制品
+zh:hskstory-hsk7:1792758600496	fixed	loai_thoi_phong	[major] 争先恐后: thành ngữ không quen với người Việt dưới dạng Hán Việt
+zh:hskstory-hsk7:1792758600522	ok		亏本
+zh:hskstory-hsk7:1792758600536	ok		交互
+zh:hskstory-hsk7:1792758600542	fixed	pt_sai	[minor] 交叉: pt ghi '叉 chạc' như thể âm là 'chạc'
+zh:hskstory-hsk7:1792758600594	ok		亲手
+zh:hskstory-hsk7:1792758600622	ok		人气
+zh:hskstory-hsk7:1792758600640	ok		仁慈
+zh:hskstory-hsk7:1792758600670	fixed	pt_sai	[minor] 代言: pt thiếu âm của 代
+zh:hskstory-hsk7:1792758600702	ok		份额
+zh:hskstory-hsk7:1792758600712	ok		休克
+zh:hskstory-hsk7:1792758600798	ok		似曾相识
+zh:hskstory-hsk7:1792758600898	ok		供应链
+zh:hskstory-hsk7:1792758600914	ok		依法
+zh:hskstory-hsk7:1792758600964	ok		保佑
+zh:hskstory-hsk7:1792758600966	ok		保养
+zh:hskstory-hsk7:1792758601008	ok		倒霉
+zh:hskstory-hsk7:1792758601042	ok		倾斜
+zh:hskstory-hsk7:1792758601068	ok		偏爱
+zh:hskstory-hsk7:1792758601094	ok		偷懒
+zh:hskstory-hsk7:1792758601166	ok		光荣
+zh:hskstory-hsk7:1792758601174	ok		克隆
+zh:hskstory-hsk7:1792758601204	ok		入手
+zh:hskstory-hsk7:1792758601208	fixed	loai_ha_thap	[major] 全局: 'toàn cục' là từ Việt có thật; nghia_vi cũ đã dùng chính từ này
+zh:hskstory-hsk7:1792758601220	ok		八成
+zh:hskstory-hsk7:1792758601234	ok		公式
+zh:hskstory-hsk7:1792758601310	ok		兼顾
+zh:hskstory-hsk7:1792758601340	ok		冗长
+zh:hskstory-hsk7:1792758601358	fixed	khac_dung_bo_sot	[major] 冤枉: câu ví dụ dùng động từ 'đổ oan'
+zh:hskstory-hsk7:1792758601376	ok		决议
+zh:hskstory-hsk7:1792758601378	ok		况且
+zh:hskstory-hsk7:1792758601422	ok		凑巧
+zh:hskstory-hsk7:1792758601550	ok		切换
+zh:hskstory-hsk7:1792758601576	ok		列举
+zh:hskstory-hsk7:1792758601632	ok		刹那
+zh:hskstory-hsk7:1792758601750	ok		务必
+zh:hskstory-hsk7:1792758601804	fixed	loai_thoi_phong	[major] 势必: 'thế tất' là từ cổ, hầu như không dùng
+zh:hskstory-hsk7:1792758601810	ok		勋章
+zh:hskstory-hsk7:1792758601830	ok		勿
+zh:hskstory-hsk7:1792758601832	ok		包围: có thể cân nhắc tu_viet 'bao vây' (vây = âm Việt hóa); ghep_nghia chấp nhận được
+zh:hskstory-hsk7:1792758601876	ok		升华
+zh:hskstory-hsk7:1792758601948	ok		卧铺
+zh:hskstory-hsk7:1792758601974	ok		卸
+zh:hskstory-hsk7:1792758602058	ok		反射
+zh:hskstory-hsk7:1792758602102	ok		发源地
+zh:hskstory-hsk7:1792758602148	ok		受益
+zh:hskstory-hsk7:1792758602190	ok		口子
+zh:hskstory-hsk7:1792758602272	fixed	pt_sai	[minor] 吃苦: cau_tao gán 吃 = 'chịu' như nghĩa gốc
+zh:hskstory-hsk7:1792758602288	ok		吉他
+zh:hskstory-hsk7:1792758602318	ok		名义
+zh:hskstory-hsk7:1792758602346	ok		后盾
+zh:hskstory-hsk7:1792758602402	ok		吼
+zh:hskstory-hsk7:1792758602422	ok		呛
+zh:hskstory-hsk7:1792758602436	ok		味精
+zh:hskstory-hsk7:1792758602508	ok		哭笑不得
+zh:hskstory-hsk7:1792758602570	ok		喜出望外
+zh:hskstory-hsk7:1792758602608	ok		嘉年华
+zh:hskstory-hsk7:1792758602696	ok		国务院
+zh:hskstory-hsk7:1792758602724	ok		在职
+zh:hskstory-hsk7:1792758602774	ok		坦克
+zh:hskstory-hsk7:1792758602852	ok		境地
+zh:hskstory-hsk7:1792758602886	ok		壮
+zh:hskstory-hsk7:1792758602924	ok		备战
+zh:hskstory-hsk7:1792758602938	ok		复活
+zh:hskstory-hsk7:1792758602952	ok		外援: 'ngoại viện' có trong từ điển; ghep_nghia chấp nhận được
+zh:hskstory-hsk7:1792758602968	ok		多半
+zh:hskstory-hsk7:1792758602982	ok		夜班
+zh:hskstory-hsk7:1792758603030	ok		天分
+zh:hskstory-hsk7:1792758603140	ok		奠定
+zh:hskstory-hsk7:1792758603146	ok		奥秘
+zh:hskstory-hsk7:1792758603160	ok		好受
+zh:hskstory-hsk7:1792758603168	fixed	pt_sai	[minor] 好歹: pt thiếu âm của 歹
+zh:hskstory-hsk7:1792758603174	ok		好说
+zh:hskstory-hsk7:1792758603190	ok		妖怪
+zh:hskstory-hsk7:1792758603274	ok		存货
+zh:hskstory-hsk7:1792758603282	ok		孤单
+zh:hskstory-hsk7:1792758603324	ok		安心
+zh:hskstory-hsk7:1792758603326	fixed	loai_thoi_phong	[major] 安抚: 'an phủ' là từ cổ (an phủ sứ); người Việt nói trấn an, vỗ về
+zh:hskstory-hsk7:1792758603450	ok		害虫

@@ -1,0 +1,190 @@
+{
+  "notes": 407,
+  "sentence_field": "English",
+  "audio_field": "Audio",
+  "translation_field": "Vietnamese",
+  "length": {
+    "n": 407,
+    "median": 16,
+    "p10": 6,
+    "p25": 10,
+    "p75": 21,
+    "p90": 27,
+    "min": 1,
+    "max": 51
+  },
+  "ge12": 279,
+  "ge20": 145,
+  "audio_present_notes": 407,
+  "audio_missing_notes": [],
+  "unique_referenced_files": 407,
+  "audio_seconds_unique": {
+    "n": 407,
+    "median": 6.768,
+    "p10": 2.808,
+    "p25": 4.536,
+    "p75": 9.288,
+    "p90": 11.16,
+    "min": 1.548,
+    "max": 20.304
+  },
+  "unparsed_durations": 0,
+  "nonempty_raw_fields": {
+    "English": 407,
+    "Image": 407,
+    "Audio": 407,
+    "Type": 407,
+    "Word_1": 399,
+    "Word_2": 336,
+    "Word_3": 172,
+    "Word_4": 31,
+    "Word_Example_1": 399,
+    "Word_Example_2": 329,
+    "Word_Example_3": 173,
+    "Word_Example_4": 32,
+    "Arabic": 407,
+    "Chinese_HK": 84,
+    "Chinese_CH": 407,
+    "Chinese_TW": 407,
+    "French": 406,
+    "Dutch": 250,
+    "German": 254,
+    "Greek": 365,
+    "Hindi": 118,
+    "Indonesian": 373,
+    "Italian": 365,
+    "Japanese": 407,
+    "Korean": 407,
+    "Malay": 38,
+    "Polish": 407,
+    "Portuguese_BR": 369,
+    "Portuguese_PT": 368,
+    "Russian": 407,
+    "Spanish": 407,
+    "Thai": 328,
+    "Vietnamese": 407,
+    "Word_Example_1_Audio": 399,
+    "Word_Example_2_Audio": 329,
+    "Word_Example_3_Audio": 172,
+    "Word_Example_4_Audio": 32
+  },
+  "source_audio_prefixes": {},
+  "media_metadata_samples": {
+    "what_makes_a_hero_000.mp3": {
+      "duration": 7.056,
+      "tags": "{'TXXX:major_brand': TXXX(encoding=<Encoding.UTF8: 3>, desc='major_brand', text=['isom']), 'TXXX:minor_version': TXXX(encoding=<Encoding.UTF8: 3>, desc='minor_version', text=['512']), 'TXXX:compatible_brands': TXXX(encoding=<Encoding.UTF8: 3>, desc='compatible_brands', text=['isomiso2avc1mp41']), 'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.76.100'])}",
+      "sample_rate": 16000
+    },
+    "what_makes_a_hero_001.mp3": {
+      "duration": 4.356,
+      "tags": "{'TXXX:major_brand': TXXX(encoding=<Encoding.UTF8: 3>, desc='major_brand', text=['isom']), 'TXXX:minor_version': TXXX(encoding=<Encoding.UTF8: 3>, desc='minor_version', text=['512']), 'TXXX:compatible_brands': TXXX(encoding=<Encoding.UTF8: 3>, desc='compatible_brands', text=['isomiso2avc1mp41']), 'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.76.100'])}",
+      "sample_rate": 16000
+    },
+    "what_makes_a_hero_002.mp3": {
+      "duration": 1.98,
+      "tags": "{'TXXX:major_brand': TXXX(encoding=<Encoding.UTF8: 3>, desc='major_brand', text=['isom']), 'TXXX:minor_version': TXXX(encoding=<Encoding.UTF8: 3>, desc='minor_version', text=['512']), 'TXXX:compatible_brands': TXXX(encoding=<Encoding.UTF8: 3>, desc='compatible_brands', text=['isomiso2avc1mp41']), 'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.76.100'])}",
+      "sample_rate": 16000
+    }
+  },
+  "translation_empty_notes": [],
+  "translation_lengths": [
+    {
+      "id": 1759921073995,
+      "source_n": 3,
+      "vi_n": 2,
+      "source": "Joseph Campbell did.",
+      "translation": "Joseph Campbell"
+    },
+    {
+      "id": 1759921074006,
+      "source_n": 4,
+      "vi_n": 3,
+      "source": "An invitation, a challenge?",
+      "translation": "Một lời mời?"
+    },
+    {
+      "id": 1759921074028,
+      "source_n": 1,
+      "vi_n": 3,
+      "source": "Haymitch.",
+      "translation": "Chính là Haymitch."
+    },
+    {
+      "id": 1759921074029,
+      "source_n": 3,
+      "vi_n": 4,
+      "source": "What about departure?",
+      "translation": "Còn sự khởi hành?"
+    },
+    {
+      "id": 1759921074041,
+      "source_n": 2,
+      "vi_n": 3,
+      "source": "Baseball tryouts?",
+      "translation": "Chơi bóng chày?"
+    },
+    {
+      "id": 1759921074042,
+      "source_n": 1,
+      "vi_n": 2,
+      "source": "Love?",
+      "translation": "Tình yêu?"
+    },
+    {
+      "id": 1759921074047,
+      "source_n": 3,
+      "vi_n": 4,
+      "source": "Accept the challenge.",
+      "translation": "Chấp nhận thử thách."
+    },
+    {
+      "id": 1759921074048,
+      "source_n": 9,
+      "vi_n": 5,
+      "source": "Conquer your fear and claim the treasure you seek.",
+      "translation": "Chinh phục nỗi sợ hãi"
+    },
+    {
+      "id": 1759921933201,
+      "source_n": 1,
+      "vi_n": 2,
+      "source": "Muscles.",
+      "translation": "Cơ bắp."
+    },
+    {
+      "id": 1760527519978,
+      "source_n": 6,
+      "vi_n": 4,
+      "source": "But the reason why is telling.",
+      "translation": "Nhưng lý do là."
+    },
+    {
+      "id": 1760533496558,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "We dream to remember.",
+      "translation": "Chúng ta mơ để nhớ."
+    },
+    {
+      "id": 1760533496563,
+      "source_n": 4,
+      "vi_n": 5,
+      "source": "We dream to forget.",
+      "translation": "Chúng ta mơ để quên."
+    },
+    {
+      "id": 1760535791390,
+      "source_n": 4,
+      "vi_n": 4,
+      "source": "and check your phone.",
+      "translation": "kiểm tra điện thoại."
+    },
+    {
+      "id": 1760535791424,
+      "source_n": 13,
+      "vi_n": 6,
+      "source": "Traditionally, people thought procrastinators needed to cultivate discipline and practice strict time management.",
+      "translation": "Trước đây, người ta nghĩ rằng"
+    }
+  ]
+}

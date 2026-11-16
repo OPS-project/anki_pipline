@@ -1,0 +1,243 @@
+note_key	verdict	van_de	ghi_chu	flags
+zh:hskstory-hsk1:1792758600084	fixed	etym_khong_nguon	他: bỏ "nghĩa gốc… cách dùng hiện đại" (khẳng định lịch sử ngữ nghĩa)	L4,L5
+zh:hskstory-hsk1:1792758600118	ok		公司: L6: chỉ khác i/y	L6
+zh:hskstory-hsk1:1792758600504	fixed	etym_khong_nguon	要: bỏ "(nghĩa gốc: quan trọng)" (sai: nghĩa gốc là eo); bỏ "yếu điểm" dễ hiểu nhầm là điểm yếu	L4,L5
+zh:hskstory-hsk3:1792758600336	fixed	loai_mau_thuan	女人: song song với 男人 (ghep_nghia); "nữ nhân" chỉ gặp trong truyện dịch	L5
+zh:hskstory-hsk3:1792758600536	ok		方便面: pt đã sửa (R1b/R4)	L5
+zh:hskstory-hsk3:1792758600682	ok		男人: R3: 男人 đã ghep_nghia	L5
+zh:hskstory-hsk3:1792758600832	ok		裙子: L6: khac_dung với "quần" (cùng chữ 裙) hợp lý	L6
+zh:hskstory-hsk3:1792758600848	ok		角: pt đã sửa	L5
+zh:hskstory-hsk4:1792758600430	ok		原来	L4
+zh:hskstory-hsk4:1792758600442	fixed	char_note	及时: L6: khác do âm Việt hóa, giữ cung_dung	L6
+zh:hskstory-hsk4:1792758600956	ok		推	L4
+zh:hskstory-hsk4:1792758600958	ok		推出	L4
+zh:hskstory-hsk4:1792758600960	ok		推迟	L4
+zh:hskstory-hsk4:1792758601126	ok		本来	L4
+zh:hskstory-hsk4:1792758601610	fixed	char_note	自信: L6: khác do âm Việt hóa, giữ	L6
+zh:hskstory-hsk4:1792758601856	fixed	khac_biet_thieu	重视: R3 cặp 轻视/重视: cảnh báo bạn giả "trọng thị"	L5
+zh:hskstory-hsk4:1792758601948	fixed	char_note	馒头: L6: từ Việt đọc âm khác, giữ	L6
+zh:hskstory-hsk5:1792758600010	ok		一路顺风	L2
+zh:hskstory-hsk5:1792758600134	fixed	char_note	事实: L6: giữ	L6
+zh:hskstory-hsk5:1792758600148	ok		五颜六色	L2
+zh:hskstory-hsk5:1792758600174	ok		亲朋好友	L2
+zh:hskstory-hsk5:1792758600398	fixed	char_note	公平: L6: giữ	L6
+zh:hskstory-hsk5:1792758600586	fixed	nghia_lap_hv	协议: L1: "hiệp nghị" hiếm trong tiếng Việt thường	L1
+zh:hskstory-hsk5:1792758600616	ok		原	L4
+zh:hskstory-hsk5:1792758600620	ok		原有	L4
+zh:hskstory-hsk5:1792758601086	ok		宿舍: L1: NV "ký túc xá" là từ Việt thường dùng (khác từ HV), giữ	L1
+zh:hskstory-hsk5:1792758601172	fixed	nghia_lap_hv	市民: L1: "thị dân" sách vở	L1
+zh:hskstory-hsk5:1792758601312	fixed	nghia_lap_hv	心态: L1: "tâm thái" không thông dụng	L1
+zh:hskstory-hsk5:1792758601410	ok		成本	L4
+zh:hskstory-hsk5:1792758601494	ok		报警: L1 dương tính giả (báo cảnh sát)	L1
+zh:hskstory-hsk5:1792758601570	fixed	cau_tao_sai	推动: "thôi thúc" là 催 thôi, không phải 推	L4
+zh:hskstory-hsk5:1792758601572	ok		推广	L4
+zh:hskstory-hsk5:1792758601574	ok		推荐	L4
+zh:hskstory-hsk5:1792758601576	ok		推进	L4
+zh:hskstory-hsk5:1792758601844	fixed	char_note	模糊: L6: giữ	L6
+zh:hskstory-hsk5:1792758602008	fixed	loai_thoi_phong	激烈: L6: tu_viet "kịch liệt" là từ khác (劇烈)	L6
+zh:hskstory-hsk5:1792758602244	ok		短期: giữ ghep_nghia	L5
+zh:hskstory-hsk5:1792758602618	fixed	tu_viet	角度: L6: tu_viet "góc độ (giác độ)" → "giác độ"; ghi "góc độ" ở char_note	L6
+zh:hskstory-hsk5:1792758602688	fixed	nghia_lap_hv	语气: L1: "ngữ khí" chỉ là thuật ngữ	L1
+zh:hskstory-hsk5:1792758602736	fixed	char_note	资源: L6/R1 mục 1.6: giữ	L6
+zh:hskstory-hsk5:1792758602738	ok		资金	L4
+zh:hskstory-hsk5:1792758602966	fixed	loai_cd_kd	长期: R3 cặp 长期/短期	L5
+zh:hskstory-hsk6:1792758600010	ok		一帆风顺	L2
+zh:hskstory-hsk6:1792758600036	ok		上台: khac_dung hợp lý	L5
+zh:hskstory-hsk6:1792758600044	ok		上级: đã ghep_nghia	L5
+zh:hskstory-hsk6:1792758600120	ok		中奖: L6: R1 giữ "trúng thưởng" có ghi chú	L6
+zh:hskstory-hsk6:1792758600200	ok		二氧化碳	L2
+zh:hskstory-hsk6:1792758600234	ok		人山人海	L2
+zh:hskstory-hsk6:1792758600236	ok		人工智能	L2
+zh:hskstory-hsk6:1792758600270	ok		优化: L1: "tối ưu hóa" là từ Việt khác	L1
+zh:hskstory-hsk6:1792758600342	fixed	nghia_lap_hv	信念: L1: "tín niệm" hiếm	L1
+zh:hskstory-hsk6:1792758600492	ok		减压: L1 dương tính giả (giảm áp lực)	L1
+zh:hskstory-hsk6:1792758600542	ok		利息	L4
+zh:hskstory-hsk6:1792758600626	ok		千家万户	L2
+zh:hskstory-hsk6:1792758600678	ok		原本	L4
+zh:hskstory-hsk6:1792758600798	ok		启动: L6: R1 giữ tu_viet "khởi động" có ghi chú	L6
+zh:hskstory-hsk6:1792758600836	fixed	tu_viet	喜事: L6: chỉ khác chính tả hỉ/hỷ; thống nhất với hanviet	L6
+zh:hskstory-hsk6:1792758600876	fixed	nghia_lap_hv	国宝: L1	L1
+zh:hskstory-hsk6:1792758600990	fixed	loai_danh_thap	多才多艺: L1/R3 nhóm B: "đa tài đa nghệ" quen trong báo chí	L1,L5
+zh:hskstory-hsk6:1792758600998	fixed	nghia_lap_hv	大地: L1: "đại địa" văn chương	L1
+zh:hskstory-hsk6:1792758601172	ok		对应	L4
+zh:hskstory-hsk6:1792758601212	ok		尺: R3 尺: khong_giup, pt đã nêu "thước"	L5
+zh:hskstory-hsk6:1792758601302	ok		幻想	L4
+zh:hskstory-hsk6:1792758601490	ok		惊讶: L6: 讶 có ứng viên "ngạc"; R1 ghi chú đủ, giữ cung_dung	L6
+zh:hskstory-hsk6:1792758601504	fixed	nghia_lap_hv	戏曲: L1; bỏ "như hí kịch" (Việt "hí kịch" = hài kịch)	L1
+zh:hskstory-hsk6:1792758601588	fixed	tu_viet	投票: L6: tu_viet gộp hai từ → "đầu phiếu"	L6
+zh:hskstory-hsk6:1792758601604	fixed	char_note	抵抗: L6: giữ	L6
+zh:hskstory-hsk6:1792758601632	fixed	tu_viet	招生: L6: tu_viet gộp hai từ	L6
+zh:hskstory-hsk6:1792758601692	ok		推测	L4
+zh:hskstory-hsk6:1792758601694	fixed	char_note	推行: char_note lặp, gán nhầm ghi chú 推 cho 行	L4
+zh:hskstory-hsk6:1792758601696	ok		推销	L4
+zh:hskstory-hsk6:1792758601770	fixed	char_note	救命: L6: giữ	L6
+zh:hskstory-hsk6:1792758601820	fixed	tu_viet	方言: L6: tu_viet của khac_dung phải là từ cùng chữ	L6
+zh:hskstory-hsk6:1792758601872	fixed	nghia_lap_hv	智力: L1	L1
+zh:hskstory-hsk6:1792758601920	ok		未成年人: L6: "vị thành niên" rút gọn, R3 nhóm A	L5,L6
+zh:hskstory-hsk6:1792758601966	fixed	etym_khong_nguon	枪: bỏ "(cũng là nghĩa gốc của chữ)"	L4,L5
+zh:hskstory-hsk6:1792758601994	ok		梅花: L6: khac_dung, cảnh báo mai/mơ hợp lý	L6
+zh:hskstory-hsk6:1792758602048	ok		正面: nghĩa "mặt trước"; giữ cung_dung	L5
+zh:hskstory-hsk6:1792758602164	ok		流动	L4
+zh:hskstory-hsk6:1792758602264	ok		源于	L4
+zh:hskstory-hsk6:1792758602290	fixed	char_note	激励: L6: giữ	L6
+zh:hskstory-hsk6:1792758602376	fixed	nghia_lap_hv	特定: L1	L1
+zh:hskstory-hsk6:1792758602412	fixed	char_note	珠宝: L6: giữ	L6
+zh:hskstory-hsk6:1792758602432	ok		用人: L1 dương tính giả	L1
+zh:hskstory-hsk6:1792758602444	fixed	char_note	田径: L6: giữ	L6
+zh:hskstory-hsk6:1792758602502	fixed	nghia_lap_hv	相声: L1	L1
+zh:hskstory-hsk6:1792758602584	ok		科幻	L4
+zh:hskstory-hsk6:1792758602648	ok		简化: L1: "đơn giản hóa" từ Việt khác	L1
+zh:hskstory-hsk6:1792758602676	fixed	nghia_lap_hv	精确: L1	L1
+zh:hskstory-hsk6:1792758603068	ok		负面	L5
+zh:hskstory-hsk6:1792758603076	fixed	nghia_lap_hv	财物: L1	L1
+zh:hskstory-hsk6:1792758603100	ok		资本	L4
+zh:hskstory-hsk6:1792758603120	ok		起源	L4
+zh:hskstory-hsk6:1792758603320	fixed	etym_khong_nguon	酷: bỏ "nghĩa gốc"/"mượn từ"; nghĩa trong câu (ngầu) không cùng nghĩa với "khốc" nên khong_giup thay yeu_to	L4,L5
+zh:hskstory-hsk6:1792758603348	ok		金融	L4
+zh:hskstory-hsk6:1792758603456	fixed	char_note	革命: L6: giữ	L6
+zh:hskstory-hsk7:1792758600000	ok		一丝不苟	L5
+zh:hskstory-hsk7:1792758600004	ok		一举一动	L5
+zh:hskstory-hsk7:1792758600034	ok		一心一意	L5
+zh:hskstory-hsk7:1792758600036	ok		一成不变	L5
+zh:hskstory-hsk7:1792758600056	ok		一概而论	L5
+zh:hskstory-hsk7:1792758600058	ok		一毛不拔	L5
+zh:hskstory-hsk7:1792758600062	ok		一筹莫展	L5
+zh:hskstory-hsk7:1792758600072	ok		一言不发	L5
+zh:hskstory-hsk7:1792758600078	ok		一针见血	L5
+zh:hskstory-hsk7:1792758600082	ok		一鼓作气	L5
+zh:hskstory-hsk7:1792758600094	ok		万无一失	L5
+zh:hskstory-hsk7:1792758600120	fixed	khac	上游: bỏ ký tự gạch chéo + nháy kép thừa	L5
+zh:hskstory-hsk7:1792758600142	ok		下台: ghep_nghia hợp lý	L5
+zh:hskstory-hsk7:1792758600154	fixed	khac	下游: R3 cặp 上游/下游: giữ cung_dung (hạ du dùng thật trong tin lũ), thêm gợi nhớ hạ lưu	L5
+zh:hskstory-hsk7:1792758600158	fixed	khac_biet_sai	下级: R3: bớt khẳng định "giáng cấp"	L5
+zh:hskstory-hsk7:1792758600182	ok		不以为然	L5
+zh:hskstory-hsk7:1792758600196	ok		不厌其烦	L5
+zh:hskstory-hsk7:1792758600250	ok		不知不觉	L5
+zh:hskstory-hsk7:1792758600252	ok		不知所措	L5
+zh:hskstory-hsk7:1792758600256	ok		不约而同	L5
+zh:hskstory-hsk7:1792758600260	ok		不翼而飞	L5
+zh:hskstory-hsk7:1792758600262	ok		不耻下问	L5
+zh:hskstory-hsk7:1792758600270	ok		不言而喻	L5
+zh:hskstory-hsk7:1792758600272	ok		不辞而别	L5
+zh:hskstory-hsk7:1792758600430	ok		举一反三	L5
+zh:hskstory-hsk7:1792758600496	ok		争先恐后	L5
+zh:hskstory-hsk7:1792758600522	fixed	cau_tao_sai	亏本: ghi nghĩa thuần Việt ở chỗ âm Hán Việt	L4
+zh:hskstory-hsk7:1792758600532	ok		井底之蛙	L5
+zh:hskstory-hsk7:1792758600534	ok		亡羊补牢	L5
+zh:hskstory-hsk7:1792758600624	ok		人缘儿: L6: thiếu 儿, giữ	L6
+zh:hskstory-hsk7:1792758600656	fixed	tu_viet	从容: L6: từ Việt đọc âm khác, char_note đã có	L6
+zh:hskstory-hsk7:1792758600676	ok		以身作则	L5
+zh:hskstory-hsk7:1792758600720	ok		众志成城	L5
+zh:hskstory-hsk7:1792758600774	ok		伯母: 伯母/伯父 đã cùng ghep_nghia	L5
+zh:hskstory-hsk7:1792758600776	ok		伯父: đã ghep_nghia	L5
+zh:hskstory-hsk7:1792758600796	ok		似是而非	L5
+zh:hskstory-hsk7:1792758600836	fixed	nghia_lap_hv	体魄: L1	L1
+zh:hskstory-hsk7:1792758601066	fixed	nghia_lap_hv	偏旁: L1	L1
+zh:hskstory-hsk7:1792758601104	fixed	char_note	催促: L6: giữ	L6
+zh:hskstory-hsk7:1792758601116	fixed	nghia_lap_hv	僧人: L1	L1
+zh:hskstory-hsk7:1792758601166	fixed	tu_viet	光荣: L6: tu_viet gộp từ đảo	L6
+zh:hskstory-hsk7:1792758601210	ok		全心全意	L5
+zh:hskstory-hsk7:1792758601282	fixed	nghia_lap_hv	兴旺: L1	L1
+zh:hskstory-hsk7:1792758601302	fixed	tu_viet	养育: L6: tu_viet gộp hai từ	L6
+zh:hskstory-hsk7:1792758601314	ok		内在	L4
+zh:hskstory-hsk7:1792758601360	ok		冰天雪地	L5
+zh:hskstory-hsk7:1792758601376	fixed	loai_cd_kd	决议: L6: tu_viet "nghị quyết" là từ đảo	L6
+zh:hskstory-hsk7:1792758601478	ok		出口成章	L5
+zh:hskstory-hsk7:1792758601498	ok		出资	L4
+zh:hskstory-hsk7:1792758601592	fixed	nghia_lap_hv	判定: L1	L1
+zh:hskstory-hsk7:1792758601648	ok		刻舟求剑	L5
+zh:hskstory-hsk7:1792758601672	ok		前无古人	L5
+zh:hskstory-hsk7:1792758601708	ok		力不从心	L5
+zh:hskstory-hsk7:1792758601806	ok		勇往直前	L5
+zh:hskstory-hsk7:1792758601840	ok		包罗万象	L5
+zh:hskstory-hsk7:1792758601850	ok		化险为夷	L5
+zh:hskstory-hsk7:1792758601864	ok		千军万马	L5
+zh:hskstory-hsk7:1792758601866	ok		千变万化	L5
+zh:hskstory-hsk7:1792758601870	ok		千方百计	L5
+zh:hskstory-hsk7:1792758601878	ok		半信半疑	L5
+zh:hskstory-hsk7:1792758601890	ok		半途而废	L2
+zh:hskstory-hsk7:1792758601926	ok		南辕北辙	L2
+zh:hskstory-hsk7:1792758601928	ok		博大精深	L2
+zh:hskstory-hsk7:1792758601940	fixed	etym_khong_nguon	卡车: bỏ "phiên âm car" không nguồn	L5
+zh:hskstory-hsk7:1792758601954	fixed	nghia_lap_hv	印章: L1	L1
+zh:hskstory-hsk7:1792758602018	ok		原汁原味	L2
+zh:hskstory-hsk7:1792758602074	ok		反面	L5
+zh:hskstory-hsk7:1792758602092	ok		发扬光大	L2
+zh:hskstory-hsk7:1792758602100	ok		发源	L4
+zh:hskstory-hsk7:1792758602102	ok		发源地	L4
+zh:hskstory-hsk7:1792758602132	ok		取而代之	L2
+zh:hskstory-hsk7:1792758602136	fixed	nghia_sai	受宠若惊: nghĩa cũ ghép lủng củng	L2
+zh:hskstory-hsk7:1792758602150	ok		受益匪浅	L2
+zh:hskstory-hsk7:1792758602160	ok		变幻莫测	L4
+zh:hskstory-hsk7:1792758602206	fixed	nghia_lap_hv	口音: L1	L1
+zh:hskstory-hsk7:1792758602210	fixed	khac	古今中外: thêm gợi nhớ	L2
+zh:hskstory-hsk7:1792758602216	fixed	nghia_lap_hv	古籍: L1	L1
+zh:hskstory-hsk7:1792758602232	ok		可乘之机	L2
+zh:hskstory-hsk7:1792758602238	ok		可想而知	L2
+zh:hskstory-hsk7:1792758602252	ok		史无前例	L2
+zh:hskstory-hsk7:1792758602274	ok		各抒己见	L2
+zh:hskstory-hsk7:1792758602286	ok		合资	L4
+zh:hskstory-hsk7:1792758602316	ok		同舟共济	L2
+zh:hskstory-hsk7:1792758602322	ok		名副其实	L2
+zh:hskstory-hsk7:1792758602354	ok		后顾之忧	L2
+zh:hskstory-hsk7:1792758602370	ok		吞吞吐吐	L2
+zh:hskstory-hsk7:1792758602380	ok		听从	L4
+zh:hskstory-hsk7:1792758602454	fixed	nghia_lap_hv	呼应: L1	L1
+zh:hskstory-hsk7:1792758602464	ok		和平共处	L2
+zh:hskstory-hsk7:1792758602492	ok		哄堂大笑	L2
+zh:hskstory-hsk7:1792758602576	ok		喜怒哀乐: R4 đã hạ ghep_nghia; "hỷ nộ ái ố" mới là dạng quen	L5
+zh:hskstory-hsk7:1792758602586	ok		喜闻乐见	L2
+zh:hskstory-hsk7:1792758602642	ok		四通八达	L5
+zh:hskstory-hsk7:1792758602644	ok		四面八方	L2
+zh:hskstory-hsk7:1792758602668	ok		因人而异	L2
+zh:hskstory-hsk7:1792758602670	ok		因地制宜	L2
+zh:hskstory-hsk7:1792758602692	ok		固有	L4
+zh:hskstory-hsk7:1792758602866	ok		增产: L1 dương tính giả	L1
+zh:hskstory-hsk7:1792758602924	ok		备战: L1 dương tính giả	L1
+zh:hskstory-hsk7:1792758602942	fixed	nghia_lap_hv	夕阳: L1	L1
+zh:hskstory-hsk7:1792758602948	fixed	nghia_lap_hv	外在: L1	L1
+zh:hskstory-hsk7:1792758602966	ok		外资	L4
+zh:hskstory-hsk7:1792758602992	ok		大公无私: đã ghep_nghia + goi_nho chí công vô tư	L5
+zh:hskstory-hsk7:1792758602994	ok		大同小异	L5
+zh:hskstory-hsk7:1792758603004	ok		大惊小怪	L5
+zh:hskstory-hsk7:1792758603048	ok		天经地义	L5
+zh:hskstory-hsk7:1792758603054	ok		天长地久	L5
+zh:hskstory-hsk7:1792758603220	fixed	nghia_lap_hv	威望: L1	L1
+zh:hskstory-hsk7:1792758603222	fixed	char_note	威风: L6: giữ	L6
+zh:hskstory-hsk7:1792758603276	fixed	loai_danh_thap	孝敬: L1: "hiếu kính cha mẹ" thông dụng	L1
+zh:hskstory-hsk7:1792758603286	ok		孤陋寡闻	L5
+zh:hskstory-hsk7:1792758603290	fixed	nghia_lap_hv	学业: L1	L1
+zh:hskstory-hsk7:1792758603318	ok		守株待兔: đã ghep_nghia	L5
+zh:hskstory-hsk7:1792758603338	fixed	nghia_lap_hv	完备: L1	L1
+zh:hskstory-hsk7:1792758603350	fixed	char_note	宗教: L6/R1 mục 1.6: giữ	L6
+zh:hskstory-hsk7:1792758603352	fixed	char_note	宗旨: L6: giữ	L6
+zh:hskstory-hsk7:1792758603356	fixed	nghia_lap_hv	官兵: L1	L1
+zh:hskstory-hsk7:1792758603386	ok		实事求是	L5
+zh:hskstory-hsk7:1792758603456	ok		家喻户晓	L2
+zh:hskstory-hsk7:1792758603470	ok		容光焕发	L2
+zh:hskstory-hsk7:1792758603484	fixed	nghia_lap_hv	宽厚: L1	L1
+zh:hskstory-hsk7:1792758603534	ok		寥寥无几	L2
+zh:hskstory-hsk7:1792758603550	ok		对牛弹琴	L2
+zh:hskstory-hsk7:1792758603552	fixed	nghia_lap_hv	对症下药: L1: dạng HV không đủ quen, giữ ghep_nghia	L1,L2
+zh:hskstory-hsk7:1792758603600	ok		小心翼翼	L2
+zh:hskstory-hsk7:1792758603606	ok		小菜一碟	L2
+zh:hskstory-hsk7:1792758603668	ok		层出不穷	L2
+zh:hskstory-hsk7:1792758603672	ok		居安思危	L5
+zh:hskstory-hsk7:1792758603674	ok		居高不下	L2
+zh:hskstory-hsk7:1792758603714	ok		岂有此理	L2
+zh:hskstory-hsk7:1792758603730	ok		峰回路转	L2
+zh:hskstory-hsk7:1792758603746	ok		川流不息	L2
+zh:hskstory-hsk7:1792758603764	ok		左顾右盼	L2
+zh:hskstory-hsk7:1792758603786	ok		市值	L4
+zh:hskstory-hsk7:1792758603788	ok		市场经济: R4: thứ tự đảo → ghep_nghia	L5
+zh:hskstory-hsk7:1792758603906	ok		幻影	L4
+zh:hskstory-hsk7:1792758603908	ok		幻觉	L4
+zh:hskstory-hsk7:1792758603944	ok		应有尽有	L2
+zh:hskstory-hsk7:1792758603950	ok		底子	L4
+zh:hskstory-hsk7:1792758603968	ok		废寝忘食	L2
+zh:hskstory-hsk7:1792758604012	ok		开天辟地	L2
+zh:hskstory-hsk7:1792758604038	ok		异口同声	L2
+zh:hskstory-hsk7:1792758604042	ok		异想天开	L2
+zh:hskstory-hsk7:1792758604048	ok		弄虚作假	L2
+zh:hskstory-hsk7:1792758604058	ok		引人注目	L2
+zh:hskstory-hsk7:1792758604064	ok		引经据典	L2

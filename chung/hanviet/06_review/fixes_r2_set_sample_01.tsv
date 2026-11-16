@@ -1,0 +1,38 @@
+note_key	hanviet	nghia_vi	loai	tu_viet	khac_biet	pt_kieu	pt_noi_dung	status	review_reason	char_note	reviewer
+zh:hskstory-hsk1:1792758600250	NỮ NHI	con gái	khac_dung	nữ nhi	Tiếng Trung 女儿 là 'con gái (của cha mẹ)' dùng hằng ngày; tiếng Việt 'nữ nhi' mang sắc thái văn chương, chỉ phận con gái nói chung.			draft			opus:r2_set_sample_01
+zh:hskstory-hsk1:1792758600426	HỎA XA	tàu hỏa	ghep_nghia			goi_nho	火 hỏa (lửa) + 車 xa (xe) → xe lửa; 'hỏa xa' là cách nói cũ trong tiếng Việt	draft			opus:r2_set_sample_01
+zh:hskstory-hsk1:1792758600434	BA BA	bố, ba	yeu_to			goi_nho	gợi nhớ: âm gần với từ Việt 'ba' (cha) (liên tưởng, không khẳng định từ nguyên)	draft		爸: pinyin_hint Thiều Chửu khớp không dấu thanh	opus:r2_set_sample_01
+zh:hskstory-hsk1:1792758600544	GIÁ CÁ	cái này, này	hu_tu					draft			opus:r2_set_sample_01
+zh:hskstory-hsk3:1792758600206	PHÁT	gửi (thư, tin nhắn); phát ra	cung_dung	phát				draft			opus:r2_set_sample_01
+zh:hskstory-hsk3:1792758600536	PHƯƠNG TIỆN MIẾN	mì ăn liền	ghep_nghia			goi_nho	方便 phương tiện (tiện lợi) + 面 miến (mì) → mì tiện lợi	draft			opus:r2_set_sample_01
+zh:hskstory-hsk3:1792758600610	KHÍ XA	ô tô, xe hơi	ghep_nghia			goi_nho	汽 khí (hơi; như trong 汽油 xăng) + 車 xa (xe) → xe chạy động cơ, ô tô	draft			opus:r2_set_sample_01
+zh:hskstory-hsk3:1792758600946	NAN ĐỀ	vấn đề khó, bài toán khó	ghep_nghia			cau_tao	難 nan (khó, như nan giải) + 題 đề (đầu đề, vấn đề) → vấn đề khó	draft			opus:r2_set_sample_01
+zh:hskstory-hsk4:1792758600430	NGUYÊN LAI	ban đầu, vốn có, cũ (trước đây); cũng: thì ra	ghep_nghia			goi_nho	原 nguyên (gốc) + 来 lai (đến) → vốn từ đầu	draft			opus:r2_set_sample_01
+zh:hskstory-hsk4:1792758601188	BỘ	bước (chân); bước (giai đoạn)	yeu_to		'bộ' đứng riêng trong tiếng Việt thường là 'bộ (quần áo, sách…)', không phải 'bước'.	goi_nho	như tiến bộ, bộ hành, tản bộ	draft			opus:r2_set_sample_01
+zh:hskstory-hsk4:1792758601298	PHỤ THÂN	cha, phụ thân	khac_dung	phụ thân	Tiếng Trung 父亲 là cách gọi trang trọng thông thường (= cha, bố); tiếng Việt 'phụ thân' mang sắc thái cổ, văn chương.			draft			opus:r2_set_sample_01
+zh:hskstory-hsk5:1792758600214	THA NHÂN	người khác	ghep_nghia			goi_nho	他 tha (khác; như tha hương) + 人 nhân (người) → người khác	draft			opus:r2_set_sample_01
+zh:hskstory-hsk5:1792758601196	NIÊN KỶ	tuổi, tuổi tác	ghep_nghia			goi_nho	年 niên (năm) + 紀 kỷ (như thế kỷ) → số năm đã sống, tuổi	draft			opus:r2_set_sample_01
+zh:hskstory-hsk5:1792758601566	TIẾP CẬN	đến gần, gần với, xấp xỉ	khac_dung	tiếp cận	Tiếng Trung 接近 còn chỉ mức 'gần bằng, xấp xỉ' (số liệu, trình độ); tiếng Việt 'tiếp cận' chủ yếu là đến gần, tiếp xúc hoặc cách tiếp cận vấn đề.			draft			opus:r2_set_sample_01
+zh:hskstory-hsk5:1792758602640	GIẢNG THOẠI	bài phát biểu; cũng: nói, phát biểu	ghep_nghia			goi_nho	讲 giảng (nói) + 话 thoại (lời) → lời nói, phát biểu	draft			opus:r2_set_sample_01
+zh:hskstory-hsk5:1792758603008	TRỪ TỊCH	đêm giao thừa	ghep_nghia			goi_nho	除 trừ (hết, qua) + 夕 tịch (đêm) → đêm hết năm cũ; văn chương Việt có 'đêm trừ tịch'	draft			opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758600076	BẤT CÂM	không kìm được, không nhịn nổi	ghep_nghia			goi_nho	不 bất (không) + 禁 câm (chịu nổi, kìm) → không kìm được	draft		禁: hvpinyin nhiều âm; lọc theo Thiều Chửu còn 1	opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758600452	DƯỠNG LÃO VIỆN	viện dưỡng lão	ghep_nghia			goi_nho	养老 dưỡng lão + 院 viện → tiếng Việt nói đảo: 'viện dưỡng lão'	draft			opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758600588	ĐỘNG THÁI	trạng thái chuyển động, hoạt động; cũng: diễn biến mới	khac_dung	động thái	Tiếng Việt 'động thái' thường chỉ một bước đi, hành động (của tổ chức, cá nhân); tiếng Trung 动态 còn chỉ trạng thái vận động, diễn biến, tin cập nhật.			draft			opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758600982	ĐA KHUY	may nhờ, nhờ có	khong_giup					draft			opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758601158	TỊCH MỊCH	cô đơn, quạnh quẽ	khac_dung	tịch mịch	Tiếng Việt 'tịch mịch' chủ yếu tả cảnh vắng lặng, hiu quạnh; tiếng Trung 寂寞 thường chỉ tâm trạng cô đơn của người.			draft			opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758601710	ĐÁP	vắt, gác lên; cũng: dựng, bắc	khong_giup					draft			opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758602032	DỤC VỌNG	ham muốn, mong muốn	khac_dung	dục vọng	Tiếng Việt 'dục vọng' thường mang sắc thái tiêu cực (ham muốn vật chất, xác thịt); tiếng Trung 欲望 là ham muốn nói chung, như muốn mua sắm.			draft			opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758603296	TAO NGỘ	gặp phải, bắt gặp (điều bất lợi)	khac_dung	tao ngộ	Tiếng Việt 'tao ngộ' mang sắc thái văn chương, chỉ cuộc gặp gỡ tình cờ; tiếng Trung 遭遇 thường là gặp phải điều bất lợi (gió lớn, tai nạn).			draft			opus:r2_set_sample_01
+zh:hskstory-hsk6:1792758603418	TRỪ	loại bỏ, nhổ bỏ; cũng: trừ ra, phép chia	yeu_to			goi_nho	như 'trừ khử', 'loại trừ'	draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758600084	NHẤT TỀ	cùng lúc, đồng loạt	cung_dung	nhất tề		goi_nho	一 nhất + 齐 tề (đều, như "chỉnh tề") → cùng đều nhau	draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758600198	BẤT CẬP	không bằng, kém hơn; không kịp	khac_dung	bất cập	Tiếng Việt 'bất cập' thường chỉ chỗ chưa hợp lý, chưa đáp ứng (những bất cập); tiếng Trung 不及 là 'không bằng' hoặc 'không kịp'.			draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758600406	HOÀN TỬ	viên thịt, thức ăn vo viên; cũng: viên thuốc	ghep_nghia			goi_nho	丸 hoàn (viên tròn, như thuốc hoàn) + 子 hậu tố danh từ → vật vo tròn	draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758600496	TRANH TIÊN KHỦNG HẬU	tranh nhau làm trước, sợ tụt lại sau	ghep_nghia			cau_tao	争 tranh + 先 tiên (trước) + 恐 khủng (sợ) + 后 hậu (sau) → tranh lên trước, sợ ở sau	draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758600542	GIAO XOA	giao nhau, chồng chéo	ghep_nghia			goi_nho	交 giao + 叉 xoa (chạc, nhánh rẽ) → hai đường giao nhau	draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758600670	ĐẠI NGÔN	làm người phát ngôn, đại diện quảng bá thương hiệu	ghep_nghia			goi_nho	代 đại (thay, như đại diện) + 言 ngôn (lời nói) → nói thay	draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758601208	TOÀN CỤC	toàn cục, tình hình chung	cung_dung	toàn cục				draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758601358	OAN UỔNG	đổ oan, vu oan; cũng: oan ức	khac_dung	oan uổng	Tiếng Trung 冤枉 hay dùng làm động từ 'đổ oan, vu oan'; tiếng Việt 'oan uổng' chủ yếu là tính từ (bị oan, chết oan uổng).			draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758601804	THẾ TẤT	ắt hẳn sẽ, chắc chắn sẽ	ghep_nghia			goi_nho	势 thế (xu thế) + 必 tất (ắt) → theo đà ắt sẽ	draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758602272	CẬT KHỔ	chịu khổ, chịu cực	ghep_nghia			goi_nho	吃 cật (ăn; nghĩa rộng: chịu) + 苦 khổ → nếm khổ, chịu khổ	draft			opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758603168	HẢO ĐÃI	tốt xấu; dù sao cũng	ghep_nghia			cau_tao	好 hảo (tốt) + 歹 đãi (xấu, tồi) → tốt xấu	draft		歹: R1: 歹=đãi (Thiều Chửu: tục đọc là đãi; tồi, xấu)	opus:r2_set_sample_01
+zh:hskstory-hsk7:1792758603326	AN PHỦ	trấn an, vỗ về	ghep_nghia			goi_nho	安 an (yên) + 撫 phủ (vỗ về) → vỗ về cho yên	draft			opus:r2_set_sample_01

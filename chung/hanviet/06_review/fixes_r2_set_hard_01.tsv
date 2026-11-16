@@ -1,0 +1,10 @@
+note_key	hanviet	nghia_vi	loai	tu_viet	khac_biet	pt_kieu	pt_noi_dung	status	review_reason	char_note	reviewer
+zh:hskstory-hsk1:1792758600270	MA MA	mẹ, má	khong_giup			goi_nho	gợi nhớ: âm gần với từ Việt 'má' = mẹ (liên tưởng, không khẳng định từ nguyên)	draft		妈: R1: 妈=ma (Thiều Chửu: tục gọi mẹ là ma ma 媽媽); 'má' là âm Việt hóa; 妈: R1: 妈=ma (Thiều Chửu: tục gọi mẹ là ma ma 媽媽); 'má' là âm Việt hóa	opus:r2_set_hard_01
+zh:hskstory-hsk2:1792758600374	DIỆN	mặt, phía (hậu tố chỉ vị trí)	yeu_to			goi_nho	như "phương diện", "chính diện"	draft		面: 面=diện (mặt, phía); 麵 miến là mì	opus:r2_set_hard_01
+zh:hskstory-hsk3:1792758600848	GIÁC	hào (một phần mười đồng); cũng: góc, sừng	khong_giup			goi_nho	cũng nghĩa là góc, như "tam giác"	draft		角: 角=giác (âm chuẩn); góc là âm dân gian	opus:r2_set_hard_01
+zh:hskstory-hsk4:1792758600086	VÂN	mây	yeu_to			goi_nho	như "phong vân" (gió mây)	draft			opus:r2_set_hard_01
+zh:hskstory-hsk4:1792758601178	CHÍNH THỨC	trang trọng; chính thức	khac_dung	chính thức	Câu ví dụ dùng nghĩa "trang trọng" (quần áo, dịp); tiếng Việt "chính thức" chủ yếu nghĩa được công nhận, chính quy			draft		正: 正=chính	opus:r2_set_hard_01
+zh:hskstory-hsk4:1792758601822	THÔNG QUA	vượt qua, đỗ (kỳ thi); cũng: thông qua	khac_dung	thông qua	Câu ví dụ dùng nghĩa "đỗ, vượt qua (kỳ thi)"; tiếng Việt "thông qua" thường nghĩa "bằng cách" hoặc "chấp thuận (dự luật)"			draft		过: 过=qua (thông qua)	opus:r2_set_hard_01
+zh:hskstory-hsk4:1792758601840	BỘ PHẬN	phần, một phần; bộ phận	khac_dung	bộ phận	Tiếng Việt "bộ phận" hay chỉ thành phần của máy, cơ quan hoặc một nhóm người; tiếng Trung dùng rộng cho "phần" của bất cứ thứ gì (như một phần thu nhập)			draft		分: 分=phận (bộ phận; fèn)	opus:r2_set_hard_01
+zh:hskstory-hsk5:1792758600208	TÒNG SỰ	làm (nghề), hoạt động trong (ngành)	khac_dung	tòng sự	Tiếng Việt "tòng sự" là từ cũ, nay ít dùng (làm việc ở một cơ quan); tiếng Trung dùng phổ biến: làm, theo một nghề			draft		从: 从→從=tòng	opus:r2_set_hard_01
+zh:hskstory-hsk5:1792758601348	QUÁI	trách; cũng: lạ, kỳ quái	khac_dung	quái	Câu ví dụ dùng nghĩa "trách"; tiếng Việt "quái" thường mang nghĩa lạ, kỳ quái			draft			opus:r2_set_hard_01

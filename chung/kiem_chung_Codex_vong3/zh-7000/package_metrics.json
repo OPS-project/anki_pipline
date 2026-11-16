@@ -1,0 +1,211 @@
+{
+  "source_path": "chung\\raw\\zh-vi-7000-shadowing\\deck.apkg",
+  "sha256": "5bb405547e7fafa3fc48fd73ad7136f002806cedead54c10cf5e6db700663042",
+  "notes": 7335,
+  "cards": 7335,
+  "models": {
+    "1663550925508": {
+      "id": 1663550925508,
+      "name": "Chinese Speaking Practice",
+      "type": 0,
+      "mod": 1780158126,
+      "usn": 448,
+      "sortf": 3,
+      "did": 1629612252821,
+      "tmpls": [
+        {
+          "name": "Thẻ 1",
+          "ord": 0,
+          "qfmt": "\n<div class=\"card-container\">\n  <div class=\"audio-main\">{{Audio Chinese}}</div>\n  <div style=\"font-size: 50px; margin-bottom: 10px;\">🔊</div>\n\n  <div class=\"vietnamese-hint\">\n    🇻🇳 {{Phrase Vietnamese}}\n  </div>\n\n  <div style=\"margin: 20px 0;\">\n    <p style=\"font-size: 14px; color: #e67e22; font-weight: bold; margin-bottom: 8px;\">⌨️ GÕ LẠI TIẾNG TRUNG VÀO ĐÂY:</p>\n    {{type:Answer}}\n  </div>\n\n  <div class=\"hint-container\">\n    <div class=\"front-hanzi-hint\">\n      {{hint:Hanzi}}\n    </div>\n    <p style=\"font-size: 11px; color: #95a5a6; margin-top: 8px;\">(Nhấn xem nếu quên mặt chữ 👆)</p>\n  </div>\n</div>\n\n\n\n",
+          "afmt": "<div class=\"card-container\">\n  <div id=\"type-answer-zone\" style=\"margin-bottom: 20px;\">\n    {{type:Answer}}\n  </div>\n\n  <hr id=\"answer\" style=\"border: 0; border-top: 2px solid #aed581; margin: 25px 0;\">\n\n  <div class=\"section\">\n    <span class=\"symbol\">🌺</span>\n    <div class=\"hanzi\">{{Hanzi}}</div>\n  </div>\n\n  <div class=\"section\">\n    <span class=\"symbol\">🍃</span>\n    <div class=\"pinyin\">{{Phrase Chinese}}</div>\n  </div>\n\n  <!-- BỔ SUNG MỤC SỐ 4: Part of Speech (Cỡ chữ ngang Pinyin, bỏ chữ Từ loại) -->\n  {{#Part of Speech}}\n  <div class=\"section\" style=\"font-style: italic; color: #616161;\">\n    <span class=\"symbol\">🏷️</span>\n    <div class=\"pinyin\" style=\"font-family: inherit;\">{{Part of Speech}}</div>\n  </div>\n  {{/Part of Speech}}\n\n  <div class=\"section\">\n    <span class=\"symbol\">🌻</span>\n    <div class=\"meaning\">{{Mean}}</div>\n  </div>\n\n  <div class=\"tool-box\" style=\"margin-top: 20px;\">\n    <p style=\"font-size: 14px; font-weight: bold; color: #388e3c; margin-bottom: 10px;\">🦜 TRA TỪ NHANH:</p>\n    <button onclick=\"search('hanzii')\" class=\"btn-search\" style=\"background: #ef6c00;\">📙 Hanzii</button>\n    <button onclick=\"search('google')\" class=\"btn-search\" style=\"background: #1976d2;\">🌍 Google</button>\n  </div>\n\n  <script>\n    (function() {\n      var isWrong = document.querySelector(\".typeBad, .typeMissed\");\n      var isCorrect = document.querySelector(\".typeGood\") && !isWrong;\n\n      var audio = new Audio();\n      if (isWrong) {\n        audio.src = \"wrong.mp3\"; \n        audio.play();\n      } else if (isCorrect) {\n        audio.src = \"correct.mp3\";\n        audio.play();\n      }\n    })();\n\n    function search(engine) {\n      var text = window.getSelection().toString().trim();\n      if (!text) { alert(\"Hãy bôi đen từ cần tra nhé! 🦜\"); return; }\n      var url = (engine === 'hanzii') \n        ? \"https://hanzii.net\" + encodeURIComponent(text)\n        : \"https://google.com\" + encodeURIComponent(text);\n      window.open(url, \"_blank\");\n    }\n  </script>\n\n  {{#Vocab}}\n  <div class=\"note-box\">\n    <div class=\"note-title\">📑 PHÂN TÍCH TỪ VỰNG:</div>\n    <div style=\"font-size: 18px;\">{{Vocab}}</div>\n    <div style=\"text-align: right; margin-top: 10px;\">🌴🍀</div>\n  </div>\n  {{/Vocab}}\n</div>\n",
+          "bqfmt": "{{Hanzi}}",
+          "bafmt": "",
+          "did": null,
+          "bfont": "",
+          "bsize": 0,
+          "id": null
+        }
+      ],
+      "flds": [
+        {
+          "name": "Hanzi",
+          "ord": 0,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Answer",
+          "ord": 1,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": -6290126919874917812,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Phrase Vietnamese",
+          "ord": 2,
+          "sticky": false,
+          "rtl": false,
+          "font": "Tahoma",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Part of Speech",
+          "ord": 3,
+          "sticky": false,
+          "rtl": false,
+          "font": "Bahnschrift SemiBold",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Phrase Chinese",
+          "ord": 4,
+          "sticky": false,
+          "rtl": false,
+          "font": "UD Digi Kyokasho N-B",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Part of Speech 2",
+          "ord": 5,
+          "sticky": false,
+          "rtl": false,
+          "font": "UD Digi Kyokasho N-B",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Audio Chinese",
+          "ord": 6,
+          "sticky": false,
+          "rtl": false,
+          "font": "UD Digi Kyokasho N-B",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Image",
+          "ord": 7,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Vocab",
+          "ord": 8,
+          "sticky": false,
+          "rtl": false,
+          "font": "UD Digi Kyokasho N-B",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Mean",
+          "ord": 9,
+          "sticky": false,
+          "rtl": false,
+          "font": "Bahnschrift SemiBold",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        }
+      ],
+      "css": ".card {\n  font-family: \"Segoe UI\", \"Microsoft YaHei\", sans-serif;\n  text-align: center;\n  color: #2c3e50;\n  background-color: #fdf6e3; /* Màu kem dịu mắt */\n  padding: 20px;\n}\n\n/* --- TÙY CHỈNH Ô GÕ CHỮ (PHẦN BẠN CẦN) --- */\n#typeans { \n  font-size: 24px !important; \n  border-radius: 12px; \n  border: 2px solid #aed581; \n  padding: 12px; \n  text-align: center !important; \n  background: white;\n  width: 90%;\n  margin: 10px auto;\n}\n\n/* Nếu gõ ĐÚNG: Không hiện nền màu xanh, chỉ hiện chữ bình thường */\n.typeGood { \n  background-color: transparent !important; \n  color: #2e7d32 !important; /* Chữ màu xanh lá đậm cho dịu */\n  padding: 0 !important;\n}\n\n/* Nếu gõ SAI: Giữ nền đỏ và hiệu ứng rung */\n.typeBad { \n  background-color: #ff8a80 !important; \n  color: white !important; \n  border-radius: 4px;\n  padding: 2px 5px !important;\n  animation: shake 0.3s;\n  display: inline-block;\n}\n\n/* Nếu gõ THIẾU ký tự: Hiện nền xám nhẹ */\n.typeMissed { \n  background-color: #dfe6e9 !important; \n  color: #636e72 !important; \n}\n\n/* Hiệu ứng rung khi gõ sai */\n@keyframes shake {\n  0% { transform: translateX(0); }\n  25% { transform: translateX(-5px); }\n  50% { transform: translateX(5px); }\n  75% { transform: translateX(-5px); }\n  100% { transform: translateX(0); }\n}\n\n/* --- CÁC PHẦN BIỂU TƯỢNG VÀ TRÌNH BÀY --- */\n.section { display: flex; flex-direction: column; align-items: center; margin-bottom: 20px; }\n.symbol { font-size: 28px; margin-bottom: 5px; }\n.hanzi { font-size: 35px; font-weight:; color: #1a1a1a; line-height: 1.4; }\n.pinyin { font-size: 24px; color: #546e7a; margin-top: 5px; }\n.meaning { font-size: 24px; color: #2e7d32; font-weight: bold; margin-top: 5px; }\n.vietnamese-hint { font-size: 22px; color: #34495e; font-style: italic; margin-bottom: 10px; }\n\n.front-hanzi-hint { font-size: 35px !important; font-weight: bold; margin-top: 10px; }\n.front-hanzi-hint a.hint { font-size: 15px; color: #16a085 !important; text-decoration: none; font-weight: bold; }\n\n.btn-search { color: white; border: none; padding: 10px 22px; border-radius: 20px; cursor: pointer; font-weight: bold; }\n.note-box { background: white; padding: 15px; border-radius: 15px; border: 2px solid #e8f5e9; margin-top: 25px; text-align: left; }\n.note-title { color: #2e7d32; font-weight: bold; margin-bottom: 5px; font-size: 15px; border-bottom: 1px solid #eee; }",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "latexPost": "\\end{document}",
+      "latexsvg": false,
+      "req": [
+        [
+          0,
+          "any",
+          [
+            0,
+            1,
+            2,
+            6
+          ]
+        ]
+      ],
+      "originalId": 1663550925508,
+      "tags": []
+    }
+  },
+  "decks": {
+    "1": "Default",
+    "1770967477607": "0 - 7000 câu luyện shadowing"
+  },
+  "media": 7325,
+  "audio_fields": {
+    "Audio Chinese": 7334
+  },
+  "missing_reference_count": 0,
+  "missing_references": []
+}

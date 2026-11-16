@@ -1,0 +1,182 @@
+{
+  "model": "Whisper small-q5_1; whisper.cpp v1.9.2; greedy; language fixed; no reference prompt",
+  "method": "16 evenly spaced note indices; ASR output is fallible and not human listening or full alignment certification.",
+  "results": [
+    {
+      "index": 0,
+      "id": 1760250876815,
+      "reference": "So I want to start by um offering you a free no tech life hack.",
+      "asr": "So I want to start by offering you a free no tech life hack.",
+      "similarity": 0.979,
+      "previous_similarity": 0.979,
+      "next_similarity": 0.232,
+      "exit_code": 0,
+      "elapsed_seconds": 2.0
+    },
+    {
+      "index": 17,
+      "id": 1760250876849,
+      "reference": "When we think about communication, we think about interactions.",
+      "asr": "When we think about communication, we think about interactions.",
+      "similarity": 1.0,
+      "previous_similarity": 0.625,
+      "next_similarity": 0.26,
+      "exit_code": 0,
+      "elapsed_seconds": 1.96
+    },
+    {
+      "index": 34,
+      "id": 1760250876883,
+      "reference": "So It was inevitable that I would become interested in power dynamics.",
+      "asr": "So it was inevitable that I would become interested in power dynamics.",
+      "similarity": 1.0,
+      "previous_similarity": 0.168,
+      "next_similarity": 0.429,
+      "exit_code": 0,
+      "elapsed_seconds": 1.98
+    },
+    {
+      "index": 51,
+      "id": 1760250876917,
+      "reference": "We close up, we wrap ourselves up, we make ourselves small, we don't want to bump.",
+      "asr": "We close up, we wrap ourselves up, we make ourselves small, we don't want to bump into",
+      "similarity": 0.969,
+      "previous_similarity": 0.227,
+      "next_similarity": 0.092,
+      "exit_code": 0,
+      "elapsed_seconds": 2.06
+    },
+    {
+      "index": 68,
+      "id": 1760250876951,
+      "reference": "One, you're not gonna be surprised, it seems to be related to gender.",
+      "asr": "one, you're not going to be surprised. It seems to be related to gender.",
+      "similarity": 0.944,
+      "previous_similarity": 0.262,
+      "next_similarity": 0.267,
+      "exit_code": 0,
+      "elapsed_seconds": 2.04
+    },
+    {
+      "index": 85,
+      "id": 1760250876985,
+      "reference": "When it comes to power, um it also goes both ways.",
+      "asr": "When it comes to power, it also goes both ways.",
+      "similarity": 0.973,
+      "previous_similarity": 0.538,
+      "next_similarity": 0.267,
+      "exit_code": 0,
+      "elapsed_seconds": 2.05
+    },
+    {
+      "index": 102,
+      "id": 1760250877019,
+      "reference": "want the high power leader that's dominant, high on testosterone, but really stress-reactive?",
+      "asr": "the high power leader that's dominant high-intestosterone but really stress reactive?",
+      "similarity": 0.959,
+      "previous_similarity": 0.188,
+      "next_similarity": 0.114,
+      "exit_code": 0,
+      "elapsed_seconds": 2.35
+    },
+    {
+      "index": 119,
+      "id": 1760250877053,
+      "reference": "So you're folding up, you're making yourself small.",
+      "asr": "So you're folding up, you're making yourself small.",
+      "similarity": 1.0,
+      "previous_similarity": 0.235,
+      "next_similarity": 0.262,
+      "exit_code": 0,
+      "elapsed_seconds": 2.15
+    },
+    {
+      "index": 135,
+      "id": 1760250877085,
+      "reference": "From their baseline when they come in, high power people experience about a 20% increase, and low power people experience about a 10% decrease.",
+      "asr": "From their baseline when they come in, high power people experience about a 20% increase, and low power people experience about a 10% decrease.",
+      "similarity": 1.0,
+      "previous_similarity": 0.216,
+      "next_similarity": 0.275,
+      "exit_code": 0,
+      "elapsed_seconds": 2.37
+    },
+    {
+      "index": 152,
+      "id": 1760250877119,
+      "reference": "job interview.",
+      "asr": "job interview.",
+      "similarity": 1.0,
+      "previous_similarity": 0.157,
+      "next_similarity": 0.224,
+      "exit_code": 0,
+      "elapsed_seconds": 2.02
+    },
+    {
+      "index": 169,
+      "id": 1760250877153,
+      "reference": "So for five minutes nothing.",
+      "asr": "So for five minutes, nothing.",
+      "similarity": 1.0,
+      "previous_similarity": 0.344,
+      "next_similarity": 0.226,
+      "exit_code": 0,
+      "elapsed_seconds": 2.03
+    },
+    {
+      "index": 186,
+      "id": 1760250877187,
+      "reference": "They're bringing themselves.",
+      "asr": "They're bringing themselves.",
+      "similarity": 1.0,
+      "previous_similarity": 0.615,
+      "next_similarity": 0.465,
+      "exit_code": 0,
+      "elapsed_seconds": 1.95
+    },
+    {
+      "index": 203,
+      "id": 1760250877221,
+      "reference": "So I I really struggled with this and I have to say having your identity taken from you your core identity and if for me it was being smart having that taken from you there's nothing that leaves you feeling more powerless than that.",
+      "asr": "So I really struggled with this. And I have to say, having your identity taken from you, your core identity, and for me it was being smart, having that taken from you, there's nothing that leaves you feeling more powerless than that.",
+      "similarity": 0.992,
+      "previous_similarity": 0.228,
+      "next_similarity": 0.19,
+      "exit_code": 0,
+      "elapsed_seconds": 2.21
+    },
+    {
+      "index": 220,
+      "id": 1760250877255,
+      "reference": "So that's what I did.",
+      "asr": "So that's what I did.",
+      "similarity": 1.0,
+      "previous_similarity": 0.229,
+      "next_similarity": 0.092,
+      "exit_code": 0,
+      "elapsed_seconds": 1.92
+    },
+    {
+      "index": 237,
+      "id": 1760250877289,
+      "reference": "The last thing I want to leave you with is this.",
+      "asr": "The last thing I'm going to leave you with is this.",
+      "similarity": 0.895,
+      "previous_similarity": 0.18,
+      "next_similarity": 0.324,
+      "exit_code": 0,
+      "elapsed_seconds": 2.14
+    },
+    {
+      "index": 254,
+      "id": 1760250877323,
+      "reference": "Thank you.",
+      "asr": "Thank you.",
+      "similarity": 1.0,
+      "previous_similarity": 0.12,
+      "next_similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 2.3
+    }
+  ]
+}

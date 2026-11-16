@@ -1,0 +1,93 @@
+note_key	hanviet	nghia_vi	loai	tu_viet	khac_biet	pt_kieu	pt_noi_dung	status	review_reason	char_note	reviewer
+zh:hskstory-hsk5:1792758600708	ĐỒNG NHẤT	cùng một; cũng: giống hệt	khac_dung	đồng nhất	Tiếng Việt 'đồng nhất' là giống hệt, thuần nhất (hoặc đồng nhất A với B); tiếng Trung 同一 thường là 'cùng một' (cùng một công ty).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758600792	THƯƠNG GIA	cửa hàng, bên bán; thương gia	khac_dung	thương gia	Tiếng Trung 商家 thường chỉ bên bán, cửa hàng (nhất là trên mạng); tiếng Việt 'thương gia' chỉ người buôn bán lớn, doanh nhân.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758600796	THIỆN LƯƠNG	tốt bụng, lương thiện	ghep_nghia			goi_nho	善 thiện (tốt) + 良 lương (lành); tiếng Việt nói đảo: 'lương thiện'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758600896	NGOẠI HÌNH	hình dáng bên ngoài	khac_dung	ngoại hình	Tiếng Việt 'ngoại hình' chủ yếu nói vẻ bề ngoài của người; tiếng Trung 外形 là hình dáng bên ngoài của cả đồ vật, công trình.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758600932	ĐẠI NÃO	não, bộ não	khac_dung	đại não	Tiếng Việt 'đại não' là thuật ngữ giải phẫu (phần lớn của não); tiếng Trung 大脑 dùng hằng ngày chỉ bộ não, đầu óc.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758600952	KỲ TÍCH	phép màu, điều kỳ diệu; kỳ tích	khac_dung	kỳ tích	Tiếng Việt 'kỳ tích' thường chỉ thành tích phi thường do con người lập nên; tiếng Trung 奇迹 còn là phép màu, điều kỳ diệu (như bệnh nhân bỗng tỉnh lại).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601044	BẢO BỐI	cưng, con yêu; cũng: vật quý, bảo bối	khac_dung	bảo bối	Tiếng Việt 'bảo bối' chủ yếu chỉ vật quý, báu vật; tiếng Trung 宝贝 còn là tiếng gọi yêu con nhỏ, người yêu ('cưng').			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601086	TÚC XÁ	ký túc xá	ghep_nghia			goi_nho	宿 túc (ngủ trọ) + 舍 xá (nhà) → nhà ở trọ; như 'ký túc xá'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601136	CƯ NHIÊN	lại (bất ngờ), không ngờ	khong_giup					draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601168	SAI BIỆT	khác biệt, chênh lệch	ghep_nghia			goi_nho	差 sai (chênh lệch, như sai số) + 别 biệt (khác, như khác biệt) → chỗ khác nhau	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601172	THỊ DÂN	thị dân, người dân thành phố	ghep_nghia			goi_nho	市 thị (thành thị) + 民 dân → dân thành phố	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601176	THƯỜNG THỨC	kiến thức phổ thông, lẽ thường	ghep_nghia			goi_nho	常 thường (thông thường) + 识 thức (hiểu biết, như kiến thức) → hiểu biết thông thường	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601188	BÌNH TĨNH	yên tĩnh, yên ả; cũng: bình tĩnh	khac_dung	bình tĩnh	Tiếng Việt 'bình tĩnh' chủ yếu chỉ người giữ được điềm tĩnh; tiếng Trung 平静 còn tả cảnh vật yên ả (làng quê, mặt hồ).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601258	CƯỜNG ĐẠI	hùng mạnh, to lớn	ghep_nghia			goi_nho	强 cường (mạnh, như hùng cường) + 大 đại (lớn) → lớn mạnh	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601312	TÂM THÁI	tâm thái, thái độ tinh thần	ghep_nghia			goi_nho	心 tâm (lòng) + 态 thái (trạng thái, như thái độ) → trạng thái tâm lý, thái độ	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601362	LUYẾN ÁI	yêu đương, tình yêu	ghep_nghia			goi_nho	恋 luyến (như quyến luyến) + 爱 ái (yêu) → yêu đương; như 'đồng tính luyến ái'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601366	CUNG HỶ	chúc mừng	ghep_nghia			goi_nho	恭 cung (kính) + 喜 hỷ (mừng) → kính mừng; quen qua câu chúc 'cung hỷ phát tài'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601398	HÍ KỊCH	vở kịch, kịch	ghep_nghia			goi_nho	戏 hí (trò diễn) + 剧 kịch → kịch, nghệ thuật sân khấu	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601426	PHÒNG ỐC	nhà cửa, nhà ở	khac_dung	phòng ốc	Tiếng Việt 'phòng ốc' thường chỉ phòng ở, buồng phòng (của cơ quan, nhà nghỉ); tiếng Trung 房屋 là nhà cửa, nhà ở nói chung.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601458	KHUẾCH ĐẠI	mở rộng, phóng to	khac_dung	khuếch đại	Tiếng Trung 扩大 là mở rộng (quy mô, phạm vi); tiếng Việt 'khuếch đại' chủ yếu là phóng to âm thanh, tín hiệu hoặc thổi phồng sự việc.			draft		扩: hvpinyin 1 âm; Thiều Chửu không có âm này	opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601520	BÍNH ÂM	bính âm, pinyin	cung_dung	bính âm				draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601568	KHỐNG CHẾ	kiểm soát, khống chế	khac_dung	khống chế	Tiếng Việt 'khống chế' thiên về kiềm chế, áp chế (khống chế đối tượng, dịch bệnh); tiếng Trung 控制 là kiểm soát nói chung (cân nặng, cảm xúc, chi phí).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601584	ĐỀ XƯỚNG	khuyến khích, cổ vũ (thực hiện)	khac_dung	đề xướng	Tiếng Việt 'đề xướng' là nêu ra trước, khởi xướng (ý tưởng, phong trào); tiếng Trung 提倡 là cổ vũ, khuyến khích mọi người làm theo.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601648	MẪN CẢM	nhạy cảm	cung_dung	mẫn cảm		goi_nho	'mẫn cảm' quen trong y học (da mẫn cảm); hằng ngày thường nói 'nhạy cảm'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601664	CHỈNH TỀ	ngăn nắp, gọn gàng, đều	khac_dung	chỉnh tề	Tiếng Việt 'chỉnh tề' thường nói về ăn mặc, hàng ngũ; tiếng Trung 整齐 dùng rộng cho mọi thứ ngay ngắn, đều đặn (sách vở, răng, chữ viết).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601676	TÂN NƯƠNG	cô dâu	ghep_nghia			goi_nho	新 tân (mới) + 娘 nương (cô gái) → cô dâu mới	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601678	TÂN LANG	chú rể	ghep_nghia			goi_nho	新 tân (mới) + 郎 lang (chàng trai) → chú rể	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601758	HỮU LỢI	có lợi, thuận lợi	ghep_nghia			goi_nho	有 hữu (có) + 利 lợi → có lợi	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601764	HỮU HẠI	có hại, gây hại	ghep_nghia			goi_nho	有 hữu (có) + 害 hại → có hại; đối lập với 'hữu ích'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601770	PHỤC TRANG	trang phục, quần áo	khac_dung	phục trang	Tiếng Việt 'phục trang' chủ yếu chỉ trang phục biểu diễn (sân khấu, phim); quần áo nói chung gọi là 'trang phục' (đảo thứ tự).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601800	QUYỀN LỢI	quyền (được làm gì), quyền lợi	khac_dung	quyền lợi	Tiếng Trung 权利 là quyền (về pháp lý, như quyền được học); tiếng Việt 'quyền lợi' thiên về lợi ích được hưởng.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601902	TRẦM MẶC	im lặng, ít nói	khac_dung	trầm mặc	Tiếng Việt 'trầm mặc' là từ văn chương tả vẻ trầm lặng, sâu lắng; tiếng Trung 沉默 thường là im lặng, không nói.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758601982	THÂM HẬU	sâu đậm, thắm thiết	khac_dung	thâm hậu	Tiếng Việt 'thâm hậu' thường nói về học vấn, công lực (sâu dày); tiếng Trung 深厚 dùng cả cho tình cảm (tình hữu nghị sâu đậm).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602116	TRÂN QUÝ	quý giá, trân quý	khac_dung	trân quý	Tiếng Việt 'trân quý' hay dùng như động từ (trân trọng, quý trọng); tiếng Trung 珍贵 là tính từ 'quý giá'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602176	TẬT BỆNH	bệnh tật, bệnh	ghep_nghia			goi_nho	疾 tật + 病 bệnh; tiếng Việt nói đảo: 'bệnh tật'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602180	BỆNH PHÒNG	phòng bệnh (trong bệnh viện)	ghep_nghia			goi_nho	病 bệnh + 房 phòng; tiếng Việt nói đảo: 'phòng bệnh'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602306	DI ĐỘNG	dời, di chuyển; cũng: di động	khac_dung	di động	Tiếng Việt 'di động' chủ yếu là tính từ 'di chuyển được' (điện thoại di động); động từ 'dời chỗ' thì nói 'di chuyển'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602430	DUY TU	bảo trì, sửa chữa (máy móc)	khac_dung	duy tu	Tiếng Việt 'duy tu' chủ yếu dùng cho công trình (duy tu đường sá, đê điều); tiếng Trung 维修 dùng rộng cho sửa chữa, bảo trì máy móc, đồ dùng.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602452	MỸ VỊ	ngon; món ngon	ghep_nghia			goi_nho	美 mỹ (đẹp, ngon) + 味 vị → món ngon	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602526	VŨ ĐÀI	sân khấu; cũng: đấu trường	khac_dung	vũ đài	Tiếng Việt 'vũ đài' thường dùng nghĩa bóng là đấu trường (vũ đài chính trị); sân khấu biểu diễn thì nói 'sân khấu'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602562	HỒ ĐIỆP	bươm bướm	ghep_nghia			goi_nho	蝶 điệp (bướm); quen qua tên 'lan hồ điệp' (hoa như cánh bướm)	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602658	CHỨNG THƯ	chứng chỉ, giấy chứng nhận	ghep_nghia			goi_nho	证 chứng (chứng nhận) + 书 thư (giấy tờ) → giấy chứng nhận	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602678	THI NHÂN	nhà thơ	khac_dung	thi nhân	Tiếng Trung 诗人 là cách gọi thông thường (nhà thơ); tiếng Việt 'thi nhân' mang sắc thái văn chương, cổ.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602688	NGỮ KHÍ	giọng điệu, ngữ khí	ghep_nghia			goi_nho	语 ngữ (lời) + 气 khí (hơi) → hơi giọng khi nói, giọng điệu	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602734	TƯ CÁCH	đủ điều kiện, tư cách (để làm gì)	khac_dung	tư cách	Tiếng Việt 'tư cách' thường chỉ phẩm chất, đạo đức hoặc vai trò (với tư cách là); tiếng Trung 资格 là đủ điều kiện, trình độ để làm gì.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602756	SIÊU CẤP	siêu, cực kỳ	ghep_nghia			goi_nho	超 siêu (vượt, như siêu thị) + 级 cấp (cấp bậc) → vượt cấp, siêu	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602810	ĐẠT THÀNH	đạt được (thỏa thuận)	ghep_nghia			goi_nho	达 đạt (đạt tới) + 成 thành (xong) → đạt được	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602826	NGHÊNH TIẾP	đón tiếp, chào đón	ghep_nghia			goi_nho	迎 nghênh (đón, như hoan nghênh) + 接 tiếp (tiếp đón) → đón tiếp	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602834	VẬN PHÍ	cước vận chuyển	ghep_nghia			goi_nho	运 vận (vận chuyển) + 费 phí → phí vận chuyển	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602856	VI PHÁP	phạm pháp, trái luật	ghep_nghia			goi_nho	违 vi (trái, như vi phạm) + 法 pháp (luật) → trái pháp luật	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602880	THÍCH ĐÁNG	vừa phải, phù hợp, thích hợp	khac_dung	thích đáng	Tiếng Việt 'thích đáng' thường là xứng đáng, đúng mức (xử lý thích đáng); tiếng Trung 适当 là vừa phải, phù hợp (nghỉ ngơi hợp lý).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602884	TUYỂN THỦ	vận động viên, thí sinh	khac_dung	tuyển thủ	Tiếng Việt 'tuyển thủ' thường chỉ cầu thủ, vận động viên của đội tuyển; tiếng Trung 选手 là người dự thi nói chung (cả thi hát, thi kiến thức).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602960	TRƯỜNG CỬU	lâu dài	ghep_nghia			goi_nho	长 trường (dài) + 久 cửu (lâu) → lâu dài	draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602974	BẾ MẠC THỨC	lễ bế mạc	ghep_nghia			goi_nho	闭幕 bế mạc (hạ màn) + 式 thức (nghi thức) → lễ bế mạc	draft		幕: hvpinyin nhiều âm; lọc theo Thiều Chửu còn 1	opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758602984	ĐỘI NGŨ	hàng người, đoàn người; cũng: đội ngũ	khac_dung	đội ngũ	Tiếng Việt 'đội ngũ' thường chỉ lực lượng, tập thể (đội ngũ y bác sĩ); tiếng Trung 队伍 còn là hàng người xếp hàng, đoàn người.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758603096	ĐỀ MỤC	tiêu đề, đề tài; đề (bài thi)	khac_dung	đề mục	Tiếng Việt 'đề mục' thường là các mục, tiêu mục trong văn bản; tiếng Trung 题目 là đầu đề, tiêu đề, hoặc đề bài, câu hỏi thi.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758603112	ẨM THỰC	ăn uống, chế độ ăn	khac_dung	ẩm thực	Tiếng Việt 'ẩm thực' thường chỉ món ăn, văn hóa ăn uống (ẩm thực Huế); tiếng Trung 饮食 còn chỉ việc ăn uống, chế độ ăn của một người.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk5:1792758603144	HOÀNG KIM	vàng (kim loại)	khac_dung	hoàng kim	Tiếng Việt 'hoàng kim' chủ yếu dùng nghĩa bóng (thời kỳ hoàng kim); kim loại vàng thì nói 'vàng'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600016	NHẤT THỜI	nhất thời, một lúc	cung_dung	nhất thời				draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600024	NHẤT QUÁN	nhất quán, luôn luôn như vậy	cung_dung	nhất quán				draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600044	THƯỢNG CẤP	cấp trên	ghep_nghia			goi_nho	上 thượng (trên) + 级 cấp → cấp trên	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600182	THƯ TỊCH	sách vở, sách	khac_dung	thư tịch	Tiếng Việt 'thư tịch' là từ học thuật, thường chỉ sách vở, văn bản cổ (thư tịch cổ); tiếng Trung 书籍 là sách nói chung.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600188	TRANH ĐOẠT	tranh giành	ghep_nghia			goi_nho	争 tranh (giành) + 夺 đoạt (cướp lấy, như chiếm đoạt) → tranh giành	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600194	SỰ VỤ	công việc (hành chính, kinh tế…)	cung_dung	sự vụ				draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600214	GIAO TẾ	giao tiếp, quan hệ xã giao	ghep_nghia			goi_nho	交 giao (qua lại) + 际 tế (giữa, như quốc tế) → giao thiệp; tiếng Việt thường nói 'giao tiếp'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600250	ĐẠI LÝ	làm thay, tạm quyền; cũng: đại lý	khac_dung	đại lý	Tiếng Việt 'đại lý' chủ yếu là đại lý bán hàng, người đại diện kinh doanh; tiếng Trung 代理 còn là làm thay, giữ quyền (như quyền hiệu trưởng).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600256	DĨ VÃNG	trước đây, ngày trước	khac_dung	dĩ vãng	Tiếng Việt 'dĩ vãng' là danh từ văn chương chỉ quá khứ; tiếng Trung 以往 thường làm trạng ngữ 'trước đây, những năm trước'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600260	NGHI THỨC	buổi lễ, nghi lễ	khac_dung	nghi thức	Tiếng Việt 'nghi thức' thường chỉ thủ tục, quy cách trong lễ (nghi thức ngoại giao); bản thân buổi lễ thì gọi là 'lễ'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600278	TRUYỀN THỪA	truyền lại (cho thế hệ sau), kế thừa	khac_dung	truyền thừa	Tiếng Việt 'truyền thừa' chủ yếu dùng trong đạo, võ, nghề (dòng truyền thừa); nói chung thường dùng 'kế thừa', 'truyền lại'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600284	TRUYỀN NHIỄM BỆNH	bệnh truyền nhiễm	ghep_nghia			goi_nho	传染 truyền nhiễm + 病 bệnh; tiếng Việt nói đảo: 'bệnh truyền nhiễm'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600318	LỆ NGOẠI	ngoại lệ	ghep_nghia			goi_nho	例 lệ (lệ thường) + 外 ngoại (ngoài); tiếng Việt nói đảo: 'ngoại lệ'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600384	NHI KHOA	khoa nhi	cung_dung	nhi khoa				draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600388	NGUYÊN TỐ	yếu tố, thành phần cơ bản; nguyên tố	khac_dung	nguyên tố	Tiếng Việt 'nguyên tố' chủ yếu dùng trong hóa học; tiếng Trung 元素 còn là 'yếu tố, thành phần' (yếu tố văn hóa truyền thống).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600476	NÔNG SẢN PHẨM	nông sản	cung_dung	nông sản phẩm		goi_nho	tiếng Việt thường nói gọn: 'nông sản'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600520	PHÂN KỲ	chia thành từng kỳ; trả góp	ghep_nghia			goi_nho	分 phân (chia) + 期 kỳ (kỳ hạn) → chia thành nhiều kỳ, trả góp	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600546	CHẾ PHẨM	sản phẩm chế tạo	khac_dung	chế phẩm	Tiếng Việt 'chế phẩm' thường dùng trong y sinh, hóa học, nông nghiệp (chế phẩm sinh học); đồ làm từ một chất liệu (đồ nhựa) thì gọi là 'sản phẩm'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600566	KỊCH LIỆT	dữ dội, kịch liệt	khac_dung	kịch liệt	Tiếng Việt 'kịch liệt' thường đi với phản đối, tranh cãi, giao tranh; tiếng Trung 剧烈 còn tả đau đớn, vận động, biến động dữ dội.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600568	THẶNG DƯ	còn thừa, phần dư	khac_dung	thặng dư	Tiếng Việt 'thặng dư' là thuật ngữ kinh tế (thặng dư thương mại); tiếng Trung 剩余 dùng hằng ngày cho phần còn thừa (đồ ăn thừa).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600646	CHIẾM CỨ	chiếm giữ, chiếm lĩnh	ghep_nghia			goi_nho	占 chiếm + 据 cứ (giữ, dựa vào) → chiếm giữ	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600648	CHIẾM HỮU	nắm giữ, sở hữu, chiếm (tỉ lệ)	khac_dung	chiếm hữu	Tiếng Việt 'chiếm hữu' thiên về chiếm làm của riêng (quyền chiếm hữu, tính chiếm hữu); tiếng Trung 占有 còn là nắm, chiếm (một phần thị trường).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600694	PHÁT ĐỘNG	khởi động, nổ máy (xe); cũng: phát động	khac_dung	phát động	Tiếng Việt 'phát động' là khởi xướng phong trào, chiến dịch; nổ máy xe thì nói 'khởi động'.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600754	CÁT TƯỜNG	may mắn, tốt lành	ghep_nghia			goi_nho	吉 cát (tốt lành, như cát hung) + 祥 tường (điềm lành) → tốt lành, may mắn	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600760	ĐỒNG LOẠI	cùng loại	khac_dung	đồng loại	Tiếng Việt 'đồng loại' thường chỉ cùng loài (con người, động vật); tiếng Trung 同类 dùng cả cho hàng hóa, sự vật cùng loại.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600770	HẬU NHÂN	người đời sau, thế hệ sau	ghep_nghia			goi_nho	后 hậu (sau) + 人 nhân (người) → người đời sau; tiếng Việt quen nói 'hậu thế'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600826	HÒA HÀI	hài hòa, hòa hợp	ghep_nghia			goi_nho	和 hòa + 谐 hài; tiếng Việt nói đảo: 'hài hòa'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600870	VI KỲ	cờ vây	ghep_nghia			goi_nho	围 vi (vây quanh) + 棋 kỳ (cờ) → cờ vây	draft		围: 圍=vi	opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600872	CỐ THỂ	chất rắn, thể rắn	ghep_nghia			goi_nho	固 cố (cứng, như kiên cố) + 体 thể (như thể rắn) → thể rắn	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600876	QUỐC BẢO	quốc bảo, báu vật quốc gia	ghep_nghia			goi_nho	国 quốc + 宝 bảo (báu vật) → báu vật quốc gia; tiếng Việt quen nói 'bảo vật quốc gia'	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600972	NGOẠI LAI	từ nơi khác đến; cũng: ngoại lai	khac_dung	ngoại lai	Tiếng Việt 'ngoại lai' thường nói văn hóa, sinh vật du nhập từ ngoài (có khi hàm ý tiêu cực); tiếng Trung 外来 còn chỉ người nơi khác đến.			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600986	ĐA NGUYÊN	đa dạng, đa nguyên	khac_dung	đa nguyên	Tiếng Việt 'đa nguyên' chủ yếu gặp trong chính trị, triết học; 'nhiều dạng' thường nói 'đa dạng' (văn hóa đa dạng).			draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600990	ĐA TÀI ĐA NGHỆ	đa tài đa nghệ, giỏi nhiều mặt	ghep_nghia			goi_nho	多才 đa tài (nhiều tài) + 多艺 đa nghệ (nhiều nghề) → giỏi nhiều mặt	draft			opus:r4_set_cd_02
+zh:hskstory-hsk6:1792758600998	ĐẠI ĐỊA	mặt đất, đại địa	ghep_nghia			goi_nho	大 đại (lớn) + 地 địa (đất) → mặt đất bao la	draft			opus:r4_set_cd_02

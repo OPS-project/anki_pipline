@@ -1,0 +1,17 @@
+﻿hv_tone,onset_class,entering,n,T1,T2,T3,T4,T5,modal_tone,modal_rate
+ngang,tac,khong,350,310,10,6,24,0,T1,0.886
+ngang,vang,khong,198,49,140,3,6,0,T2,0.707
+huyền,tac,khong,247,22,200,9,16,0,T2,0.810
+huyền,vang,khong,40,9,14,4,11,2,T2,0.350
+hỏi,tac,khong,188,6,0,161,21,0,T3,0.856
+hỏi,vang,khong,30,0,2,19,8,1,T3,0.633
+ngã,tac,khong,39,2,1,15,21,0,T4,0.538
+ngã,vang,khong,71,1,2,62,5,1,T3,0.873
+sắc,tac,khong,249,12,1,42,193,1,T4,0.775
+sắc,tac,nhap,163,51,43,15,53,1,T4,0.325
+sắc,vang,khong,62,7,6,13,34,2,T4,0.548
+sắc,vang,nhap,32,14,3,3,12,0,T1,0.438
+nặng,tac,khong,149,3,5,5,136,0,T4,0.913
+nặng,tac,nhap,93,8,62,1,22,0,T2,0.667
+nặng,vang,khong,96,2,4,11,79,0,T4,0.823
+nặng,vang,nhap,70,0,2,3,65,0,T4,0.929

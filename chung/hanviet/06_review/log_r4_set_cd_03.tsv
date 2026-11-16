@@ -1,0 +1,479 @@
+note_key	verdict	van_de	ghi_chu
+zh:hskstory-hsk6:1792758601000	fixed	khac_dung_bo_sot	[major] 大师: cung_dung→khac_dung; tiếng Việt 'đại sư' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601008	ok		大臣
+zh:hskstory-hsk6:1792758601014	ok		天下
+zh:hskstory-hsk6:1792758601016	ok		天才
+zh:hskstory-hsk6:1792758601018	ok		天文
+zh:hskstory-hsk6:1792758601030	ok		夫人
+zh:hskstory-hsk6:1792758601038	ok		夸张
+zh:hskstory-hsk6:1792758601042	ok		夺
+zh:hskstory-hsk6:1792758601060	ok		好学
+zh:hskstory-hsk6:1792758601062	ok		好客
+zh:hskstory-hsk6:1792758601066	fixed	loai_thoi_phong	[major] 好感: cung_dung→ghep_nghia; 'hảo cảm' không phải từ Việt thông dụng; nói 'thiện cảm'
+zh:hskstory-hsk6:1792758601072	fixed	loai_thoi_phong	[major] 姑姑: cung_dung→yeu_to; 'cô cô' không phải từ Việt; 'cô' là yếu tố quen
+zh:hskstory-hsk6:1792758601076	ok		委托
+zh:hskstory-hsk6:1792758601084	ok		婚姻
+zh:hskstory-hsk6:1792758601100	ok		孤独
+zh:hskstory-hsk6:1792758601104	ok		学位
+zh:hskstory-hsk6:1792758601106	ok		学员
+zh:hskstory-hsk6:1792758601108	ok		学问
+zh:hskstory-hsk6:1792758601112	ok		官
+zh:hskstory-hsk6:1792758601114	fixed	loai_thoi_phong	[major] 官员: cung_dung→ghep_nghia; 'quan viên' là từ cũ; nay nói 'quan chức'
+zh:hskstory-hsk6:1792758601118	ok		定义
+zh:hskstory-hsk6:1792758601120	ok		定价
+zh:hskstory-hsk6:1792758601122	ok		定位
+zh:hskstory-hsk6:1792758601134	ok		实质
+zh:hskstory-hsk6:1792758601140	ok		宫
+zh:hskstory-hsk6:1792758601142	ok		害
+zh:hskstory-hsk6:1792758601156	ok		容量
+zh:hskstory-hsk6:1792758601162	ok		密度
+zh:hskstory-hsk6:1792758601170	fixed	loai_thoi_phong	[major] 寸: cung_dung→khong_giup; 'thốn' không dùng; tu_viet 'thốn' không phải từ thông dụng
+zh:hskstory-hsk6:1792758601172	fixed	khac_dung_bo_sot	[major] 对应: cung_dung→khac_dung; tiếng Việt 'đối ứng' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601174	ok		对抗
+zh:hskstory-hsk6:1792758601178	ok		对称
+zh:hskstory-hsk6:1792758601180	ok		对立
+zh:hskstory-hsk6:1792758601194	ok		将军
+zh:hskstory-hsk6:1792758601200	fixed	loai_thoi_phong	[major] 小麦: cung_dung→ghep_nghia; 'tiểu mạch' ít dùng, nói 'lúa mì'
+zh:hskstory-hsk6:1792758601202	ok		少儿
+zh:hskstory-hsk6:1792758601212	fixed	loai_thoi_phong	[major] 尺: cung_dung→khong_giup; tu_viet 'thước' không phải âm Hán Việt; 'xích' không dùng
+zh:hskstory-hsk6:1792758601222	ok		局面
+zh:hskstory-hsk6:1792758601228	ok		属
+zh:hskstory-hsk6:1792758601240	fixed	loai_thoi_phong	[major] 岁月: cung_dung→ghep_nghia; 'tuế nguyệt' chỉ có trong văn chương
+zh:hskstory-hsk6:1792758601242	fixed	khac_dung_bo_sot	[major] 岗位: cung_dung→khac_dung; tiếng Việt 'cương vị' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601248	ok		崇拜
+zh:hskstory-hsk6:1792758601262	ok		巩固
+zh:hskstory-hsk6:1792758601268	fixed	khac_biet_thua	布置: giữ cung_dung; câu là "bố trí/trang trí lớp học", bỏ khac_biet thừa
+zh:hskstory-hsk6:1792758601278	fixed	khac_dung_bo_sot	[major] 常规: cung_dung→khac_dung; tiếng Việt 'thường quy' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601282	fixed	loai_thoi_phong	[major] 干扰: cung_dung→ghep_nghia; 'can nhiễu' không thông dụng
+zh:hskstory-hsk6:1792758601290	fixed	loai_thoi_phong	[major] 平凡: cung_dung→ghep_nghia; 'bình phàm' không phải từ Việt thông dụng
+zh:hskstory-hsk6:1792758601292	ok		平方
+zh:hskstory-hsk6:1792758601296	ok		平等
+zh:hskstory-hsk6:1792758601324	fixed	khac_dung_bo_sot	[major] 开创: cung_dung→khac_dung; tiếng Việt 'khai sáng' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601332	ok		异常
+zh:hskstory-hsk6:1792758601336	fixed	khac_dung_bo_sot	[major] 引入: cung_dung→khac_dung; tiếng Việt 'dẫn nhập' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601346	ok		弱点
+zh:hskstory-hsk6:1792758601350	fixed	loai_thoi_phong	[major] 强化: cung_dung→ghep_nghia; 'cường hóa' hiếm, chủ yếu thuật ngữ
+zh:hskstory-hsk6:1792758601352	ok		强壮
+zh:hskstory-hsk6:1792758601354	fixed	khac_dung_bo_sot	[major] 强迫: cung_dung→khac_dung; tiếng Việt 'cưỡng bách' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601382	ok		形态
+zh:hskstory-hsk6:1792758601394	fixed	khac_dung_bo_sot	[major] 往来: cung_dung→khac_dung; tiếng Việt 'vãng lai' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601396	ok		征求
+zh:hskstory-hsk6:1792758601398	ok		徒弟
+zh:hskstory-hsk6:1792758601406	ok		循环
+zh:hskstory-hsk6:1792758601412	ok		心愿
+zh:hskstory-hsk6:1792758601438	ok		怀念
+zh:hskstory-hsk6:1792758601446	ok		急救
+zh:hskstory-hsk6:1792758601450	ok		性能
+zh:hskstory-hsk6:1792758601462	fixed	khac_biet_thua	恨: giữ cung_dung; "tôi hận nhất..." tự nhiên; bỏ khac_biet
+zh:hskstory-hsk6:1792758601478	ok		悲伤
+zh:hskstory-hsk6:1792758601480	ok		悲剧
+zh:hskstory-hsk6:1792758601482	ok		悲观
+zh:hskstory-hsk6:1792758601484	ok		情形
+zh:hskstory-hsk6:1792758601486	fixed	khac_biet_sai	情节: giữ cung_dung; câu đúng là "tình tiết" vụ việc (tình tiết giảm nhẹ); khac_biet cũ sai
+zh:hskstory-hsk6:1792758601492	ok		惩罚
+zh:hskstory-hsk6:1792758601494	fixed	khac_dung_bo_sot	[major] 愁: cung_dung→khac_dung; tiếng Việt 'sầu' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601496	ok		感想
+zh:hskstory-hsk6:1792758601498	fixed	loai_thoi_phong	[major] 感染: cung_dung→ghep_nghia; 'cảm nhiễm' hiếm; nói 'lây nhiễm, nhiễm trùng'
+zh:hskstory-hsk6:1792758601500	ok		感激
+zh:hskstory-hsk6:1792758601502	ok		愤怒
+zh:hskstory-hsk6:1792758601504	fixed	loai_thoi_phong	[major] 戏曲: cung_dung→ghep_nghia; 'hí khúc' chỉ người chuyên mới biết
+zh:hskstory-hsk6:1792758601514	ok		成语
+zh:hskstory-hsk6:1792758601516	fixed	loai_thoi_phong	[major] 戒指: cung_dung→ghep_nghia; 'giới chỉ' không dùng; nói 'nhẫn'
+zh:hskstory-hsk6:1792758601518	ok		战争
+zh:hskstory-hsk6:1792758601520	ok		战斗
+zh:hskstory-hsk6:1792758601522	ok		战胜
+zh:hskstory-hsk6:1792758601528	ok		户
+zh:hskstory-hsk6:1792758601534	ok		手法
+zh:hskstory-hsk6:1792758601538	fixed	khac_biet_thua	才华: giữ cung_dung; 才华 cũng thiên về tài văn chương nghệ thuật; bỏ khac_biet
+zh:hskstory-hsk6:1792758601540	ok		才能
+zh:hskstory-hsk6:1792758601552	fixed	khac_dung_bo_sot	[major] 打击: cung_dung→khac_dung; tiếng Việt 'đả kích' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601586	ok		抑制
+zh:hskstory-hsk6:1792758601588	ok		投票
+zh:hskstory-hsk6:1792758601592	ok		投资
+zh:hskstory-hsk6:1792758601604	fixed	tu_viet_sai	抵抗: câu: cơ thể chống bệnh = "đề kháng"; tu_viet thành từ Việt thật, giữ âm có nguồn ĐỂ (quy ước mục 1.6)
+zh:hskstory-hsk6:1792758601610	ok		抽象
+zh:hskstory-hsk6:1792758601632	ok		招生
+zh:hskstory-hsk6:1792758601648	ok		指定
+zh:hskstory-hsk6:1792758601652	fixed	khac_dung_bo_sot	[major] 指示: cung_dung→khac_dung; tiếng Việt 'chỉ thị' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601666	ok		捐赠
+zh:hskstory-hsk6:1792758601670	ok		损伤
+zh:hskstory-hsk6:1792758601698	ok		描写
+zh:hskstory-hsk6:1792758601708	fixed	khac_dung_bo_sot	[major] 搜集: cung_dung→khac_dung; tiếng Việt 'sưu tập' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601732	fixed	loai_thoi_phong	[major] 撤回: cung_dung→ghep_nghia; 'triệt hồi' không thông dụng
+zh:hskstory-hsk6:1792758601752	ok		改编
+zh:hskstory-hsk6:1792758601754	ok		改造
+zh:hskstory-hsk6:1792758601756	fixed	khac_dung_bo_sot	[major] 攻击: cung_dung→khac_dung; tiếng Việt 'công kích' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601762	ok		政策
+zh:hskstory-hsk6:1792758601766	ok		效应
+zh:hskstory-hsk6:1792758601768	ok		救助
+zh:hskstory-hsk6:1792758601772	fixed	khac_dung_bo_sot	[major] 救援: cung_dung→khac_dung; tiếng Việt 'cứu viện' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601782	ok		散文
+zh:hskstory-hsk6:1792758601784	fixed	loai_thoi_phong	[major] 数字化: cung_dung→ghep_nghia; 'số tự hóa' không phải từ Việt; từ Việt là 'số hóa'
+zh:hskstory-hsk6:1792758601790	ok		文明
+zh:hskstory-hsk6:1792758601800	ok		文艺
+zh:hskstory-hsk6:1792758601802	ok		斗争
+zh:hskstory-hsk6:1792758601816	fixed	loai_thoi_phong	[major] 方位: cung_dung→ghep_nghia; 'phương vị' chỉ là thuật ngữ (góc phương vị)
+zh:hskstory-hsk6:1792758601820	fixed	khac_dung_bo_sot	[major] 方言: cung_dung→khac_dung; tiếng Việt 'phương ngữ / phương ngôn' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601822	fixed	loai_thoi_phong	[major] 旅程: cung_dung→ghep_nghia; 'lữ trình' văn chương; nói 'hành trình'
+zh:hskstory-hsk6:1792758601844	fixed	khac_dung_bo_sot	[major] 时尚: cung_dung→khac_dung; tiếng Việt 'thời thượng' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601846	ok		时机
+zh:hskstory-hsk6:1792758601866	ok		景观
+zh:hskstory-hsk6:1792758601868	ok		景象
+zh:hskstory-hsk6:1792758601880	fixed	khac_dung_bo_sot	[major] 暗示: cung_dung→khac_dung; tiếng Việt 'ám thị' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601882	ok		暴力
+zh:hskstory-hsk6:1792758601884	fixed	loai_thoi_phong	[major] 暴露: cung_dung→ghep_nghia; 'bạo lộ' không phải từ Việt
+zh:hskstory-hsk6:1792758601886	fixed	nghia_sai	曲: bỏ 'cũng: cong' (là âm qū, không phải qǔ); bỏ khac_biet thừa
+zh:hskstory-hsk6:1792758601896	ok		有机
+zh:hskstory-hsk6:1792758601898	fixed	khac_biet_thua	服: giữ cung_dung (phục, không phục); bỏ khac_biet
+zh:hskstory-hsk6:1792758601910	ok		期望
+zh:hskstory-hsk6:1792758601912	ok		期限
+zh:hskstory-hsk6:1792758601924	ok		本能
+zh:hskstory-hsk6:1792758601934	fixed	khac_dung_bo_sot	[major] 机械: cung_dung→khac_dung; tiếng Việt 'cơ giới' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601942	ok		权力
+zh:hskstory-hsk6:1792758601946	fixed	loai_thoi_phong	[major] 村庄: cung_dung→ghep_nghia; 'thôn trang' hiếm; nói 'làng, thôn xóm'
+zh:hskstory-hsk6:1792758601950	fixed	khac_dung_bo_sot	[major] 来往: cung_dung→khac_dung; tiếng Việt 'lai vãng' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758601958	ok		极端
+zh:hskstory-hsk6:1792758601960	ok		构造
+zh:hskstory-hsk6:1792758601998	ok		检验
+zh:hskstory-hsk6:1792758602030	fixed	khac_dung_bo_sot	[major] 欢乐: cung_dung→khac_dung; tiếng Việt 'hoan lạc' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602054	ok		武器
+zh:hskstory-hsk6:1792758602058	ok		死亡
+zh:hskstory-hsk6:1792758602060	ok		残疾
+zh:hskstory-hsk6:1792758602066	ok		毒
+zh:hskstory-hsk6:1792758602082	ok		民众
+zh:hskstory-hsk6:1792758602088	ok		民歌
+zh:hskstory-hsk6:1792758602090	ok		民间
+zh:hskstory-hsk6:1792758602098	ok		气质
+zh:hskstory-hsk6:1792758602102	fixed	loai_thoi_phong	[major] 氧气: cung_dung→ghep_nghia; 'dưỡng khí' là cách nói cũ; nay nói 'ôxy'
+zh:hskstory-hsk6:1792758602114	ok		求
+zh:hskstory-hsk6:1792758602120	ok		求救
+zh:hskstory-hsk6:1792758602140	ok		沿海
+zh:hskstory-hsk6:1792758602144	ok		法定
+zh:hskstory-hsk6:1792758602146	ok		法规
+zh:hskstory-hsk6:1792758602156	fixed	khac_dung_bo_sot	[major] 洪水: cung_dung→khac_dung; tiếng Việt 'hồng thủy' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602164	fixed	khac_dung_bo_sot	[major] 流动: cung_dung→khac_dung; tiếng Việt 'lưu động' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602168	ok		流通
+zh:hskstory-hsk6:1792758602170	ok		流量
+zh:hskstory-hsk6:1792758602192	fixed	khac_biet_thua	消毒: giữ cung_dung; "tiêu độc vết thương" vẫn dùng trong y tế; bỏ khac_biet
+zh:hskstory-hsk6:1792758602194	ok		消灭
+zh:hskstory-hsk6:1792758602196	ok		消耗
+zh:hskstory-hsk6:1792758602212	ok		淘汰
+zh:hskstory-hsk6:1792758602218	ok		混乱
+zh:hskstory-hsk6:1792758602238	fixed	khac_dung_bo_sot	[major] 清洁: cung_dung→khac_dung; tiếng Việt 'thanh khiết' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602242	ok		清淡
+zh:hskstory-hsk6:1792758602246	fixed	loai_thoi_phong	[major] 清醒: cung_dung→ghep_nghia; 'thanh tỉnh' không thông dụng
+zh:hskstory-hsk6:1792758602252	ok		温和
+zh:hskstory-hsk6:1792758602254	fixed	loai_thoi_phong	[major] 温柔: cung_dung→ghep_nghia; 'ôn nhu' chỉ gặp trong truyện dịch
+zh:hskstory-hsk6:1792758602258	ok		渴望
+zh:hskstory-hsk6:1792758602278	ok		演奏
+zh:hskstory-hsk6:1792758602284	ok		潜力
+zh:hskstory-hsk6:1792758602286	ok		潮流
+zh:hskstory-hsk6:1792758602330	ok		热度
+zh:hskstory-hsk6:1792758602342	ok		焦点
+zh:hskstory-hsk6:1792758602350	ok		燃料
+zh:hskstory-hsk6:1792758602354	ok		爆发
+zh:hskstory-hsk6:1792758602360	ok		片面
+zh:hskstory-hsk6:1792758602368	ok		物体
+zh:hskstory-hsk6:1792758602378	ok		特性
+zh:hskstory-hsk6:1792758602384	ok		犯
+zh:hskstory-hsk6:1792758602390	ok		狮子
+zh:hskstory-hsk6:1792758602410	fixed	khac_dung_bo_sot	[major] 珍珠: cung_dung→khac_dung; tiếng Việt 'trân châu' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602414	ok		理
+zh:hskstory-hsk6:1792758602418	fixed	khac_dung_bo_sot	[major] 理性: cung_dung→khac_dung; tiếng Việt 'lý tính' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602428	ok		生态
+zh:hskstory-hsk6:1792758602448	ok		电力
+zh:hskstory-hsk6:1792758602460	ok		疑惑
+zh:hskstory-hsk6:1792758602480	ok		百货
+zh:hskstory-hsk6:1792758602482	ok		皇帝
+zh:hskstory-hsk6:1792758602496	ok		目录
+zh:hskstory-hsk6:1792758602500	ok		相传
+zh:hskstory-hsk6:1792758602506	ok		相应
+zh:hskstory-hsk6:1792758602530	ok		真相
+zh:hskstory-hsk6:1792758602532	fixed	loai_thoi_phong	[major] 眼光: cung_dung→ghep_nghia; 'nhãn quang' văn chương, hiếm
+zh:hskstory-hsk6:1792758602554	ok		破产
+zh:hskstory-hsk6:1792758602556	ok		确立
+zh:hskstory-hsk6:1792758602560	ok		示范
+zh:hskstory-hsk6:1792758602564	ok		祖先
+zh:hskstory-hsk6:1792758602566	ok		祖国
+zh:hskstory-hsk6:1792758602570	ok		祝福
+zh:hskstory-hsk6:1792758602572	ok		神
+zh:hskstory-hsk6:1792758602574	ok		神奇
+zh:hskstory-hsk6:1792758602576	ok		神经
+zh:hskstory-hsk6:1792758602578	ok		福利
+zh:hskstory-hsk6:1792758602582	ok		科
+zh:hskstory-hsk6:1792758602590	ok		秩序
+zh:hskstory-hsk6:1792758602610	fixed	loai_thoi_phong	[major] 突发: cung_dung→ghep_nghia; 'đột phát' không thông dụng; nói 'đột xuất, bất ngờ'
+zh:hskstory-hsk6:1792758602612	ok		突破
+zh:hskstory-hsk6:1792758602618	ok		立场
+zh:hskstory-hsk6:1792758602624	ok		章
+zh:hskstory-hsk6:1792758602626	ok		童话
+zh:hskstory-hsk6:1792758602634	ok		等级
+zh:hskstory-hsk6:1792758602640	ok		策略
+zh:hskstory-hsk6:1792758602644	ok		筹备
+zh:hskstory-hsk6:1792758602648	fixed	loai_thoi_phong	[major] 简化: cung_dung→ghep_nghia; 'giản hóa' hiếm; nói 'đơn giản hóa'
+zh:hskstory-hsk6:1792758602682	ok		精通
+zh:hskstory-hsk6:1792758602700	ok		纪律
+zh:hskstory-hsk6:1792758602708	ok		细胞
+zh:hskstory-hsk6:1792758602716	fixed	khac_dung_bo_sot	[major] 终身: cung_dung→khac_dung; tiếng Việt 'chung thân' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602728	ok		绝望
+zh:hskstory-hsk6:1792758602730	ok		继承
+zh:hskstory-hsk6:1792758602742	ok		编辑
+zh:hskstory-hsk6:1792758602754	fixed	khac_dung_bo_sot	[major] 美观: cung_dung→khac_dung; tiếng Việt 'mỹ quan' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602756	ok		群众
+zh:hskstory-hsk6:1792758602766	ok		考古
+zh:hskstory-hsk6:1792758602768	ok		考察
+zh:hskstory-hsk6:1792758602770	ok		考核
+zh:hskstory-hsk6:1792758602778	ok		职位
+zh:hskstory-hsk6:1792758602780	ok		职务
+zh:hskstory-hsk6:1792758602784	ok		职责
+zh:hskstory-hsk6:1792758602788	ok		联想
+zh:hskstory-hsk6:1792758602792	ok		聚集
+zh:hskstory-hsk6:1792758602800	ok		股票
+zh:hskstory-hsk6:1792758602832	ok		能量
+zh:hskstory-hsk6:1792758602852	ok		自愿
+zh:hskstory-hsk6:1792758602856	ok		自杀
+zh:hskstory-hsk6:1792758602862	ok		自豪
+zh:hskstory-hsk6:1792758602872	ok		航空
+zh:hskstory-hsk6:1792758602884	ok		节奏
+zh:hskstory-hsk6:1792758602892	ok		英雄
+zh:hskstory-hsk6:1792758602894	ok		草原
+zh:hskstory-hsk6:1792758602896	ok		荣誉
+zh:hskstory-hsk6:1792758602904	fixed	loai_thoi_phong	[major] 著作: cung_dung→ghep_nghia; 'trước tác' văn chương, người thường ít dùng
+zh:hskstory-hsk6:1792758602926	ok		血压
+zh:hskstory-hsk6:1792758602932	ok		血管
+zh:hskstory-hsk6:1792758602954	ok		被动
+zh:hskstory-hsk6:1792758602958	ok		装备
+zh:hskstory-hsk6:1792758602964	ok		要素
+zh:hskstory-hsk6:1792758602972	ok		规划
+zh:hskstory-hsk6:1792758602974	fixed	khac_dung_bo_sot	[major] 规矩: cung_dung→khac_dung; tiếng Việt 'quy củ' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758602978	ok		视力
+zh:hskstory-hsk6:1792758602980	ok		视觉
+zh:hskstory-hsk6:1792758602986	ok		解放
+zh:hskstory-hsk6:1792758602988	ok		解答
+zh:hskstory-hsk6:1792758602996	fixed	khac_dung_bo_sot	[major] 警告: cung_dung→khac_dung; tiếng Việt 'cảnh cáo' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758603000	ok		订婚
+zh:hskstory-hsk6:1792758603006	fixed	khac_dung_bo_sot	[major] 认定: cung_dung→khac_dung; tiếng Việt 'nhận định' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758603014	ok		讲解
+zh:hskstory-hsk6:1792758603024	fixed	khac_dung_bo_sot	[major] 证实: cung_dung→khac_dung; tiếng Việt 'chứng thực' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758603028	ok		评论
+zh:hskstory-hsk6:1792758603038	ok		诗歌
+zh:hskstory-hsk6:1792758603042	fixed	loai_thoi_phong	[major] 诚信: cung_dung→ghep_nghia; 'thành tín' ít dùng; nói 'chữ tín, trung thực'
+zh:hskstory-hsk6:1792758603056	ok		调动
+zh:hskstory-hsk6:1792758603058	ok		调节
+zh:hskstory-hsk6:1792758603060	ok		谈判
+zh:hskstory-hsk6:1792758603062	fixed	loai_thoi_phong	[major] 谈论: cung_dung→ghep_nghia; 'đàm luận' văn chương; nói 'bàn luận'
+zh:hskstory-hsk6:1792758603070	ok		财产
+zh:hskstory-hsk6:1792758603072	ok		财务
+zh:hskstory-hsk6:1792758603076	fixed	loai_thoi_phong	[major] 财物: cung_dung→ghep_nghia; 'tài vật' không thông dụng; nói 'tài sản, đồ đạc'
+zh:hskstory-hsk6:1792758603100	fixed	khac_dung_bo_sot	[major] 资本: cung_dung→khac_dung; tiếng Việt 'tư bản' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758603104	ok		赔偿
+zh:hskstory-hsk6:1792758603112	ok		赞赏
+zh:hskstory-hsk6:1792758603122	ok		起点
+zh:hskstory-hsk6:1792758603128	fixed	khac_dung_bo_sot	[major] 趣味: cung_dung→khac_dung; tiếng Việt 'thú vị' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758603158	fixed	loai_thoi_phong	[major] 身心: cung_dung→ghep_nghia; 'thân tâm' chủ yếu trong văn Phật giáo
+zh:hskstory-hsk6:1792758603162	fixed	khac_dung_bo_sot	[major] 轨道: cung_dung→khac_dung; tiếng Việt 'quỹ đạo' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758603164	fixed	khac_dung_bo_sot	[major] 转交: cung_dung→khac_dung; tiếng Việt 'chuyển giao' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk6:1792758603172	ok		转让
+zh:hskstory-hsk6:1792758603188	ok		辅助
+zh:hskstory-hsk6:1792758603190	ok		辅导
+zh:hskstory-hsk6:1792758603214	ok		近视
+zh:hskstory-hsk6:1792758603216	ok		还原
+zh:hskstory-hsk6:1792758603218	ok		进化
+zh:hskstory-hsk6:1792758603220	ok		进展
+zh:hskstory-hsk6:1792758603222	ok		进度
+zh:hskstory-hsk6:1792758603232	ok		迫切
+zh:hskstory-hsk6:1792758603236	ok		追究
+zh:hskstory-hsk6:1792758603276	ok		造型
+zh:hskstory-hsk6:1792758603282	ok		道德
+zh:hskstory-hsk6:1792758603286	ok		遗传
+zh:hskstory-hsk6:1792758603288	ok		遗址
+zh:hskstory-hsk6:1792758603304	ok		部队
+zh:hskstory-hsk6:1792758603316	ok		酱
+zh:hskstory-hsk6:1792758603334	ok		重心
+zh:hskstory-hsk6:1792758603354	ok		鉴定
+zh:hskstory-hsk6:1792758603366	ok		铜
+zh:hskstory-hsk6:1792758603382	ok		长寿
+zh:hskstory-hsk6:1792758603386	fixed	loai_thoi_phong	[major] 长辈: cung_dung→ghep_nghia; 'trưởng bối' chỉ gặp trong truyện dịch
+zh:hskstory-hsk6:1792758603398	fixed	loai_thoi_phong	[major] 间隔: cung_dung→ghep_nghia; 'gián cách' hiếm; nói 'khoảng cách'
+zh:hskstory-hsk6:1792758603408	ok		阻碍
+zh:hskstory-hsk6:1792758603420	ok		除非
+zh:hskstory-hsk6:1792758603434	ok		障碍
+zh:hskstory-hsk6:1792758603440	ok		集团
+zh:hskstory-hsk6:1792758603446	ok		青春
+zh:hskstory-hsk6:1792758603458	ok		音节
+zh:hskstory-hsk6:1792758603460	ok		顶
+zh:hskstory-hsk6:1792758603464	ok		顽强
+zh:hskstory-hsk6:1792758603468	ok		顾问
+zh:hskstory-hsk6:1792758603474	fixed	loai_thoi_phong	[major] 预料: cung_dung→ghep_nghia; 'dự liệu' chủ yếu trong văn pháp lý; nói 'dự đoán'
+zh:hskstory-hsk6:1792758603480	ok		频率
+zh:hskstory-hsk6:1792758603486	ok		题材
+zh:hskstory-hsk6:1792758603512	fixed	loai_thoi_phong	[major] 验证: cung_dung→ghep_nghia; 'nghiệm chứng' không thông dụng; nói 'kiểm chứng'
+zh:hskstory-hsk6:1792758603518	ok		高原
+zh:hskstory-hsk6:1792758603520	ok		高尚
+zh:hskstory-hsk6:1792758603522	ok		高层
+zh:hskstory-hsk6:1792758603526	ok		高手
+zh:hskstory-hsk6:1792758603550	ok		鼓舞
+zh:hskstory-hsk7:1792758600000	fixed	thanh_ngu_thoi_phong	[major] 一丝不苟: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600004	ok		一举一动
+zh:hskstory-hsk7:1792758600010	fixed	loai_thoi_phong	[major] 一体: cung_dung→ghep_nghia; 'nhất thể' chỉ quen trong 'nhất thể hóa'; nghia_vi bỏ phần 'mọi người liên quan'
+zh:hskstory-hsk7:1792758600032	fixed	loai_thoi_phong	[major] 一心: cung_dung→ghep_nghia; 'nhất tâm' văn chương/Phật giáo; nói 'một lòng'
+zh:hskstory-hsk7:1792758600034	fixed	thanh_ngu_thoi_phong	[major] 一心一意: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600036	ok		一成不变
+zh:hskstory-hsk7:1792758600056	fixed	thanh_ngu_thoi_phong	[major] 一概而论: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600058	fixed	thanh_ngu_thoi_phong	[major] 一毛不拔: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600062	fixed	thanh_ngu_thoi_phong	[major] 一筹莫展: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600072	fixed	thanh_ngu_thoi_phong	[major] 一言不发: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600078	fixed	thanh_ngu_thoi_phong	[major] 一针见血: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600082	fixed	thanh_ngu_thoi_phong	[major] 一鼓作气: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600094	fixed	thanh_ngu_thoi_phong	[major] 万无一失: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600096	ok		万能
+zh:hskstory-hsk7:1792758600112	fixed	khac_dung_bo_sot	[major] 上层: cung_dung→khac_dung; tiếng Việt 'thượng tầng' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600138	ok		下令
+zh:hskstory-hsk7:1792758600154	ok		下游
+zh:hskstory-hsk7:1792758600182	fixed	thanh_ngu_thoi_phong	[major] 不以为然: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600194	ok		不动产
+zh:hskstory-hsk7:1792758600196	fixed	thanh_ngu_thoi_phong	[major] 不厌其烦: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600210	fixed	khac_dung_bo_sot	[major] 不定: cung_dung→khac_dung; tiếng Việt 'bất định' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600238	fixed	loai_thoi_phong	[major] 不服: cung_dung→ghep_nghia; 'bất phục' hiếm (chỉ trong 'bất phục tùng'); nói 'không phục'
+zh:hskstory-hsk7:1792758600250	ok		不知不觉
+zh:hskstory-hsk7:1792758600252	fixed	thanh_ngu_thoi_phong	[major] 不知所措: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600256	fixed	thanh_ngu_thoi_phong	[major] 不约而同: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600260	fixed	thanh_ngu_thoi_phong	[major] 不翼而飞: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600262	fixed	thanh_ngu_thoi_phong	[major] 不耻下问: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600264	fixed	thanh_ngu_thoi_phong	[major] 不肖: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600270	fixed	thanh_ngu_thoi_phong	[major] 不言而喻: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600272	fixed	thanh_ngu_thoi_phong	[major] 不辞而别: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600290	ok		专制
+zh:hskstory-hsk7:1792758600312	fixed	loai_thoi_phong	[major] 世人: cung_dung→ghep_nghia; 'thế nhân' văn chương
+zh:hskstory-hsk7:1792758600318	ok		世间
+zh:hskstory-hsk7:1792758600322	ok		丙
+zh:hskstory-hsk7:1792758600360	ok		严密
+zh:hskstory-hsk7:1792758600374	fixed	pt_sai	[major] 中叶: cung_dung→ghep_nghia; 'trung diệp' chỉ gặp trong sách sử; pt cũ ghi nghĩa thuần Việt 'giữa' và gán 'lá'
+zh:hskstory-hsk7:1792758600376	ok		中庸
+zh:hskstory-hsk7:1792758600378	ok		中性
+zh:hskstory-hsk7:1792758600398	ok		临床
+zh:hskstory-hsk7:1792758600430	ok		举一反三
+zh:hskstory-hsk7:1792758600440	ok		举止
+zh:hskstory-hsk7:1792758600450	fixed	loai_thoi_phong	[major] 久仰: cung_dung→ghep_nghia; 'cửu ngưỡng' chỉ gặp trong truyện kiếm hiệp
+zh:hskstory-hsk7:1792758600476	fixed	loai_thoi_phong	[major] 乞丐: cung_dung→ghep_nghia; 'khất cái' văn chương; nói 'ăn xin, ăn mày'
+zh:hskstory-hsk7:1792758600510	fixed	khac_dung_bo_sot	[major] 争辩: cung_dung→khac_dung; tiếng Việt 'tranh biện' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600526	ok		五官
+zh:hskstory-hsk7:1792758600532	fixed	thanh_ngu_thoi_phong	[major] 井底之蛙: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600534	fixed	thanh_ngu_thoi_phong	[major] 亡羊补牢: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600544	fixed	dao_tu	[major] 交响乐: cung_dung→ghep_nghia; tiếng Việt nói 'nhạc giao hưởng' (đảo thứ tự)
+zh:hskstory-hsk7:1792758600548	fixed	loai_thoi_phong	[major] 交情: cung_dung→ghep_nghia; 'giao tình' văn chương
+zh:hskstory-hsk7:1792758600554	fixed	khac_dung_bo_sot	[major] 交涉: cung_dung→khac_dung; tiếng Việt 'giao thiệp' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600562	fixed	loai_thoi_phong	[major] 交锋: cung_dung→ghep_nghia; 'giao phong' chỉ gặp trong truyện dịch
+zh:hskstory-hsk7:1792758600604	fixed	khac_dung_bo_sot	[major] 亲近: cung_dung→khac_dung; tiếng Việt 'thân cận' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600606	ok		人品
+zh:hskstory-hsk7:1792758600608	ok		人性
+zh:hskstory-hsk7:1792758600614	ok		人文
+zh:hskstory-hsk7:1792758600616	ok		人权
+zh:hskstory-hsk7:1792758600618	ok		人格
+zh:hskstory-hsk7:1792758600632	ok		人造
+zh:hskstory-hsk7:1792758600634	ok		人道
+zh:hskstory-hsk7:1792758600636	ok		人间
+zh:hskstory-hsk7:1792758600646	ok		仇恨
+zh:hskstory-hsk7:1792758600662	ok		仙女
+zh:hskstory-hsk7:1792758600664	fixed	loai_thoi_phong	[major] 仙鹤: cung_dung→ghep_nghia; 'tiên hạc' ít dùng; nói 'hạc', 'sếu đầu đỏ'
+zh:hskstory-hsk7:1792758600676	fixed	thanh_ngu_thoi_phong	[major] 以身作则: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600680	fixed	khac_dung_bo_sot	[major] 仰望: cung_dung→khac_dung; tiếng Việt 'ngưỡng vọng' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600682	ok		仲裁
+zh:hskstory-hsk7:1792758600696	ok		任期
+zh:hskstory-hsk7:1792758600720	fixed	thanh_ngu_thoi_phong	[major] 众志成城: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600724	ok		优越
+zh:hskstory-hsk7:1792758600730	ok		会场
+zh:hskstory-hsk7:1792758600736	ok		会诊
+zh:hskstory-hsk7:1792758600738	ok		会谈
+zh:hskstory-hsk7:1792758600742	ok		传人
+zh:hskstory-hsk7:1792758600744	ok		传单
+zh:hskstory-hsk7:1792758600746	fixed	khac_dung_bo_sot	[major] 传奇: cung_dung→khac_dung; tiếng Việt 'truyền kỳ' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600752	ok		传记
+zh:hskstory-hsk7:1792758600766	ok		伦理
+zh:hskstory-hsk7:1792758600768	ok		伪装
+zh:hskstory-hsk7:1792758600770	ok		伪造
+zh:hskstory-hsk7:1792758600776	fixed	loai_thoi_phong	[major] 伯父: cung_dung→ghep_nghia; 'bá phụ' không dùng trong tiếng Việt hiện đại
+zh:hskstory-hsk7:1792758600780	ok		伴
+zh:hskstory-hsk7:1792758600782	fixed	loai_thoi_phong	[major] 伴侣: cung_dung→ghep_nghia; 'bạn lữ' không phải từ Việt thông dụng
+zh:hskstory-hsk7:1792758600796	fixed	thanh_ngu_thoi_phong	[major] 似是而非: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758600820	ok		体制
+zh:hskstory-hsk7:1792758600830	ok		体质
+zh:hskstory-hsk7:1792758600834	ok		体面
+zh:hskstory-hsk7:1792758600836	fixed	loai_thoi_phong	[major] 体魄: cung_dung→ghep_nghia; 'thể phách' không thông dụng
+zh:hskstory-hsk7:1792758600842	ok		何必
+zh:hskstory-hsk7:1792758600852	ok		余地
+zh:hskstory-hsk7:1792758600854	ok		佛
+zh:hskstory-hsk7:1792758600866	ok		作战
+zh:hskstory-hsk7:1792758600872	ok		作风
+zh:hskstory-hsk7:1792758600896	fixed	khac_dung_bo_sot	[major] 供奉: cung_dung→khac_dung; tiếng Việt 'cung phụng' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600902	ok		供求
+zh:hskstory-hsk7:1792758600922	fixed	khac_dung_bo_sot	[major] 侦探: cung_dung→khac_dung; tiếng Việt 'trinh thám' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758600928	fixed	loai_thoi_phong	[major] 侧面: cung_dung→ghep_nghia; 'trắc diện' chỉ là thuật ngữ kỹ thuật; nói 'mặt bên'
+zh:hskstory-hsk7:1792758600930	fixed	loai_thoi_phong	[major] 侮辱: cung_dung→ghep_nghia; 'vũ nhục' hiếm; nói 'sỉ nhục, xúc phạm'
+zh:hskstory-hsk7:1792758600932	ok		侵占
+zh:hskstory-hsk7:1792758600934	ok		侵害
+zh:hskstory-hsk7:1792758600938	ok		侵犯
+zh:hskstory-hsk7:1792758600940	ok		侵略
+zh:hskstory-hsk7:1792758600952	ok		俗
+zh:hskstory-hsk7:1792758600958	ok		俗语
+zh:hskstory-hsk7:1792758600968	ok		保卫
+zh:hskstory-hsk7:1792758600970	ok		保姆
+zh:hskstory-hsk7:1792758600972	ok		保守
+zh:hskstory-hsk7:1792758600974	ok		保密
+zh:hskstory-hsk7:1792758600976	ok		保重
+zh:hskstory-hsk7:1792758600980	ok		信仰
+zh:hskstory-hsk7:1792758600988	ok		修养
+zh:hskstory-hsk7:1792758600992	ok		修补
+zh:hskstory-hsk7:1792758601012	fixed	khac_dung_bo_sot	[major] 倔强: cung_dung→khac_dung; tiếng Việt 'quật cường' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758601032	fixed	loai_thoi_phong	[major] 债券: cung_dung→ghep_nghia; 'trái khoán' là từ cũ; nay nói 'trái phiếu'
+zh:hskstory-hsk7:1792758601038	fixed	khac_dung_bo_sot	[major] 倾倒: cung_dung→khac_dung; tiếng Việt 'khuynh đảo' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758601050	ok		假冒
+zh:hskstory-hsk7:1792758601052	ok		假定
+zh:hskstory-hsk7:1792758601072	ok		偏见
+zh:hskstory-hsk7:1792758601086	ok		停滞
+zh:hskstory-hsk7:1792758601090	fixed	dao_tu	[major] 健壮: cung_dung→ghep_nghia; tiếng Việt nói 'tráng kiện' (đảo thứ tự)
+zh:hskstory-hsk7:1792758601102	ok		储量
+zh:hskstory-hsk7:1792758601106	ok		催眠
+zh:hskstory-hsk7:1792758601110	ok		傲慢
+zh:hskstory-hsk7:1792758601128	ok		元老
+zh:hskstory-hsk7:1792758601148	ok		先锋
+zh:hskstory-hsk7:1792758601182	fixed	khac_dung_bo_sot	[major] 免除: cung_dung→khac_dung; tiếng Việt 'miễn trừ' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758601190	ok		党
+zh:hskstory-hsk7:1792758601210	ok		全心全意
+zh:hskstory-hsk7:1792758601214	ok		全能
+zh:hskstory-hsk7:1792758601224	ok		公仆
+zh:hskstory-hsk7:1792758601230	ok		公务
+zh:hskstory-hsk7:1792758601244	ok		公立
+zh:hskstory-hsk7:1792758601246	ok		公约
+zh:hskstory-hsk7:1792758601250	ok		公证
+zh:hskstory-hsk7:1792758601254	fixed	rac_cv	公道: bỏ 'cũng: đường lớn' (nghĩa cổ/CVDICT); thêm nghĩa hiện đại 'phải chăng'
+zh:hskstory-hsk7:1792758601274	fixed	dao_tu	[major] 关税: cung_dung→ghep_nghia; tiếng Việt nói 'thuế quan' (đảo thứ tự)
+zh:hskstory-hsk7:1792758601282	fixed	loai_thoi_phong	[major] 兴旺: cung_dung→ghep_nghia; 'hưng vượng' hiếm; nói 'thịnh vượng'
+zh:hskstory-hsk7:1792758601284	ok		兴盛
+zh:hskstory-hsk7:1792758601300	ok		养生
+zh:hskstory-hsk7:1792758601302	ok		养育
+zh:hskstory-hsk7:1792758601304	ok		兼
+zh:hskstory-hsk7:1792758601306	ok		兼任
+zh:hskstory-hsk7:1792758601312	fixed	dao_tu	[major] 内向: cung_dung→ghep_nghia; tiếng Việt nói 'hướng nội' (đảo thứ tự)
+zh:hskstory-hsk7:1792758601314	ok		内在
+zh:hskstory-hsk7:1792758601316	ok		内地
+zh:hskstory-hsk7:1792758601322	ok		内脏
+zh:hskstory-hsk7:1792758601332	ok		再现
+zh:hskstory-hsk7:1792758601336	ok		冒昧
+zh:hskstory-hsk7:1792758601338	ok		冒犯
+zh:hskstory-hsk7:1792758601344	ok		军事
+zh:hskstory-hsk7:1792758601352	fixed	khac_dung_bo_sot	[major] 农场: cung_dung→khac_dung; tiếng Việt 'nông trường' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758601360	fixed	thanh_ngu_thoi_phong	[major] 冰天雪地: thành ngữ, dạng Hán Việt không quen với người Việt → ghep_nghia
+zh:hskstory-hsk7:1792758601388	ok		冷淡
+zh:hskstory-hsk7:1792758601394	fixed	loai_thoi_phong	[major] 冷酷: cung_dung→ghep_nghia; 'lãnh khốc' chỉ gặp trong truyện dịch
+zh:hskstory-hsk7:1792758601404	fixed	loai_thoi_phong	[major] 准则: cung_dung→ghep_nghia; 'chuẩn tắc' hiếm; nói 'chuẩn mực'
+zh:hskstory-hsk7:1792758601412	fixed	dao_tu	[major] 减免: cung_dung→ghep_nghia; tiếng Việt nói 'miễn giảm' (đảo thứ tự)
+zh:hskstory-hsk7:1792758601426	fixed	loai_thoi_phong	[major] 凝结: cung_dung→ghep_nghia; 'ngưng kết' chỉ là thuật ngữ; nói 'ngưng tụ, đông lại'
+zh:hskstory-hsk7:1792758601428	fixed	khac_dung_bo_sot	[major] 凝聚: cung_dung→khac_dung; tiếng Việt 'ngưng tụ' lệch nghĩa/sắc thái so với câu
+zh:hskstory-hsk7:1792758601432	ok		凤凰
+zh:hskstory-hsk7:1792758601438	ok		凯旋
+zh:hskstory-hsk7:1792758601446	ok		凶手
+zh:hskstory-hsk7:1792758601452	fixed	loai_thoi_phong	[major] 凶猛: cung_dung→ghep_nghia; 'hung mãnh' văn chương; nói 'hung dữ'
+zh:hskstory-hsk7:1792758601466	ok		出众
+zh:hskstory-hsk7:1792758601474	ok		出厂
+zh:hskstory-hsk7:1792758601476	ok		出发点

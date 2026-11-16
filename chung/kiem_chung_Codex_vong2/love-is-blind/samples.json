@@ -1,0 +1,418 @@
+[
+  {
+    "index": 0,
+    "id": 1653382672469,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "01_0001_0.00.10.760",
+      "Expression": "‪NETFLIX シリーズ え… 全然 見えない ‪（女性）私も見えませんよ",
+      "English": "-I can't see at all. -I can't either.",
+      "Reading": "‪ NETFLIXシリーズえ… 全然[ぜんぜん] 見[み]えない‪（ 女性[じょせい]） 私[わたし]も 見[み]えませんよ",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_01_0.00.12.262.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_01_0.00.10.760-0.00.13.763.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_01_0.00.10.760-0.00.13.763.mp3",
+    "duration": 3.024,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_00000.wav",
+    "decode_ok": true,
+    "previous": "‪NETFLIX シリーズ え… 全然 見えない ‪（女性）私も見えませんよ",
+    "next": "‪（女性）表情も見えないし",
+    "decoded_seconds": 3.013
+  },
+  {
+    "index": 538,
+    "id": 1653382673007,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "01_0539_0.34.30.151",
+      "Expression": "‪（リョウタロウ）昔 飼ってたもん ‪（モトミ）えっ？",
+      "English": "I had one.",
+      "Reading": "‪（リョウタロウ） 昔[むかし] 飼[か]ってたもん‪（モトミ）えっ？",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_01_0.34.31.027.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_01_0.34.30.151-0.34.31.903.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_01_0.34.30.151-0.34.31.903.mp3",
+    "duration": 1.752,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_00538.wav",
+    "decode_ok": true,
+    "previous": "‪そうそう ‪ふわふわのネズミちゃん",
+    "next": "‪（モトミ）ウソ ‪（リョウタロウ）うん",
+    "decoded_seconds": 1.741
+  },
+  {
+    "index": 1075,
+    "id": 1653382673544,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "02_1076_0.17.26.628",
+      "Expression": "‪（ユウダイ） ‪あっ　そう あれです ‪タトゥーは大丈夫ですか？",
+      "English": "And, I have to ask, are you okay with tattoos?",
+      "Reading": "‪（ユウダイ）‪あっ　そうあれです‪タトゥーは 大丈夫[だいじょうぶ]ですか？",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_02_0.17.28.401.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_02_0.17.26.628-0.17.30.174.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_02_0.17.26.628-0.17.30.174.mp3",
+    "duration": 3.528,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_01075.wav",
+    "decode_ok": true,
+    "previous": "‪そうなんだ",
+    "next": "‪おお… タトゥーは私‪あった",
+    "decoded_seconds": 3.517
+  },
+  {
+    "index": 1613,
+    "id": 1653382674082,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "03_1618_0.01.45.605",
+      "Expression": "‪お金の話だったから ‪じゃ お金の話しよっか",
+      "English": "Everybody asks about money, so I thought we were talking about money.",
+      "Reading": "‪お 金[かね]の 話[はなし]だったから‪じゃお 金[かね]の 話[はな]しよっか",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_03_0.01.47.044.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_03_0.01.45.605-0.01.48.483.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_03_0.01.45.605-0.01.48.483.mp3",
+    "duration": 2.88,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_01613.wav",
+    "decode_ok": true,
+    "previous": "‪（ユウダイ）そうだよね ‪（アヤノ）何か 全然みんな…",
+    "next": "‪今まで彼女とさ ‪どういうふうに… ‪でも 同棲してた？",
+    "decoded_seconds": 2.869
+  },
+  {
+    "index": 2150,
+    "id": 1653382674619,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "03_2155_0.43.21.265",
+      "Expression": "‪だから そう 何かね",
+      "English": "Yeah, so…",
+      "Reading": "‪だからそう 何[なに]かね",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_03_0.43.22.850.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_03_0.43.21.265-0.43.24.435.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_03_0.43.21.265-0.43.24.435.mp3",
+    "duration": 3.168,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_02150.wav",
+    "decode_ok": true,
+    "previous": "‪何か… やっぱ つらいよね ‪（ミナミ）うん つらい ‪（モリ）そういう思いっていうのは",
+    "next": "‪やっぱり う～ん…",
+    "decoded_seconds": 3.157
+  },
+  {
+    "index": 2688,
+    "id": 1653382675157,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "04_2693_0.32.19.520",
+      "Expression": "‪いや でも ホント ‪うまくいってほしいなって思うよ ‪（オダッチ）自分のことのように ‪（ショウ）うん",
+      "English": "I'm rooting for you with everything I've got, as if it was me going through this.",
+      "Reading": "‪いやでもホント‪うまくいってほしいなって 思[おも]うよ‪（オダッチ） 自分[じぶん]のことのように‪（ショウ）うん",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_04_0.32.22.669.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_04_0.32.19.520-0.32.25.818.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_04_0.32.19.520-0.32.25.818.mp3",
+    "duration": 6.312,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_02688.wav",
+    "decode_ok": true,
+    "previous": "‪唯一 ‪大逆転の鍵かなって思うから",
+    "next": "‪（アヤノ）おはよう",
+    "decoded_seconds": 6.301
+  },
+  {
+    "index": 3225,
+    "id": 1653382675694,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "05_3232_0.22.46.281",
+      "Expression": "‪でも リョウタロウさん‪いわゆる ‪カッコいい人じゃないですか？",
+      "English": "But Ryotaro is a handsome guy, isn't he?",
+      "Reading": "‪でもリョウタロウさん‪いわゆる‪カッコいい 人[ひと]じゃないですか？",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_05_0.22.48.554.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_05_0.22.46.281-0.22.50.827.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_05_0.22.46.281-0.22.50.827.mp3",
+    "duration": 4.536,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_03225.wav",
+    "decode_ok": true,
+    "previous": "‪ちょっと ちゃんと顔を見て",
+    "next": "‪（リョウタロウ） ‪いや そんなことないっす",
+    "decoded_seconds": 4.525
+  },
+  {
+    "index": 3763,
+    "id": 1653382676232,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "06_3770_0.15.25.257",
+      "Expression": "‪（カオル）じゃあね ‪「２人」って曲があるんだけど ‪歌おっかな",
+      "English": "There's a song I wrote called \"Us.\"",
+      "Reading": "‪（カオル）じゃあね‪「２ 人[にん]」って 曲[きょく]があるんだけど‪ 歌[か]おっかな",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_06_0.15.27.760.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_06_0.15.25.257-0.15.30.262.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_06_0.15.25.257-0.15.30.262.mp3",
+    "duration": 5.016,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_03763.wav",
+    "decode_ok": true,
+    "previous": "（カオル）歌？ （ミサキ）うん あの… カオルちゃんが 作っとうな歌 何か",
+    "next": "‪♪ 正直に生きていくことを",
+    "decoded_seconds": 5.005
+  },
+  {
+    "index": 4300,
+    "id": 1653382676769,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "07_4307_0.01.41.851",
+      "Expression": "‪（ワタル）ハハハハハハ 偉(えら)っ",
+      "English": "Good for you.",
+      "Reading": "‪（ワタル）ハハハハハハ 偉[えら](えら)っ",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_07_0.01.43.061.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_07_0.01.41.851-0.01.44.270.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_07_0.01.41.851-0.01.44.270.mp3",
+    "duration": 2.424,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_04300.wav",
+    "decode_ok": true,
+    "previous": "‪一番 最初に起きるから",
+    "next": "‪（ミドリ）でも 基本すごい ‪自然体ではいれるかもしれない",
+    "decoded_seconds": 2.413
+  },
+  {
+    "index": 4838,
+    "id": 1653382677307,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "07_4845_0.37.32.041",
+      "Expression": "‪まあ まあ 何だろうな",
+      "English": "Well, how do I say this?",
+      "Reading": "‪まあまあ 何[なに]だろうな",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_07_0.37.32.959.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_07_0.37.32.041-0.37.33.876.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_07_0.37.32.041-0.37.33.876.mp3",
+    "duration": 1.848,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_04838.wav",
+    "decode_ok": true,
+    "previous": "‪…っていうふうに ‪内心なってたけども",
+    "next": "‪私も別に いろいろあるけどね ‪まあ そういうのはないけど ‪何か⸺",
+    "decoded_seconds": 1.837
+  },
+  {
+    "index": 5375,
+    "id": 1653382677844,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "08_5382_0.23.36.081",
+      "Expression": "‪ちょっと これ 何か ‪ヒゲが濃くなっちゃってる",
+      "English": "His beard's a bit thick here.",
+      "Reading": "‪ちょっとこれ 何[なに]か‪ヒゲが 濃[こ]くなっちゃってる",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_08_0.23.37.082.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_08_0.23.36.081-0.23.38.083.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_08_0.23.36.081-0.23.38.083.mp3",
+    "duration": 1.992,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_05375.wav",
+    "decode_ok": true,
+    "previous": "‪（プリア）はい いくよ",
+    "next": "‪（マリ）えっ ええ ‪ステキじゃん ‪（プリア）でしょ？ ‪（マリ）うん",
+    "decoded_seconds": 1.981
+  },
+  {
+    "index": 5913,
+    "id": 1653382678382,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "09_5922_0.04.24.764",
+      "Expression": "‪（キミカ）ありがとうございます ‪遠くまで （マイコ）よくぞ 起こしくださいました （マイコ）よくぞ 起こしくださいました",
+      "English": "Thanks for coming.",
+      "Reading": "‪（キミカ）ありがとうございます‪ 遠[とお]くまで（マイコ）よくぞ 起[お]こしくださいました（マイコ）よくぞ 起[お]こしくださいました",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_09_0.04.26.078.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_09_0.04.24.764-0.04.27.392.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_09_0.04.24.764-0.04.27.392.mp3",
+    "duration": 2.616,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_05913.wav",
+    "decode_ok": true,
+    "previous": "‪ちょっと 今日は‪ちょっと見学 ‪見学させていただきます ‪ちょっと見学 ‪見学させていただきます （カオル） いらっしゃいませ ‪（マイコ）全然",
+    "next": "‪（カオル）これ見る？",
+    "decoded_seconds": 2.605
+  },
+  {
+    "index": 6450,
+    "id": 1653382678919,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "09_6459_0.46.29.119",
+      "Expression": "‪（ワタル）いや もう あの… ‪ミドリから 絶対 白だけは ‪やだってことで言われてるんで",
+      "English": "Midori made me promise to stay away from anything white.",
+      "Reading": "‪（ワタル）いやもうあの…‪ミドリから 絶対[ぜったい] 白[しろ]だけは‪やだってことで 言[い]われてるんで",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_09_0.46.31.935.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_09_0.46.29.119-0.46.34.750.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_09_0.46.29.119-0.46.34.750.mp3",
+    "duration": 5.64,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_06450.wav",
+    "decode_ok": true,
+    "previous": "‪ちなみに何か ワタルさん ‪イメージとかあるんですか？",
+    "next": "‪それはもう あえて白でしょ ‪白でいいんじゃないんですか？",
+    "decoded_seconds": 5.629
+  },
+  {
+    "index": 6988,
+    "id": 1653382679457,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "10_6997_0.30.24.656",
+      "Expression": "‪だから ‪正座ちゃんとできるでしょ ‪確かに",
+      "English": "-Look, he can even sit in proper seiza. -Indeed.",
+      "Reading": "‪だから‪ 正座[せいざ]ちゃんとできるでしょ‪ 確[たし]かに",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_10_0.30.25.949.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_10_0.30.24.656-0.30.27.242.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_10_0.30.24.656-0.30.27.242.mp3",
+    "duration": 2.568,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_06988.wav",
+    "decode_ok": true,
+    "previous": "‪（アヤノ）うん ‪（シュンタロウ）鍛えてるから",
+    "next": "‪合気道で鍛えてる ‪腰が痛いから 正座すんですよ ‪（笑い声）",
+    "decoded_seconds": 2.557
+  },
+  {
+    "index": 7525,
+    "id": 1653382679994,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "11_7534_0.28.44.723",
+      "Expression": "‪考え… ‪そこまで踏ん切り ‪つけられるのかなとか",
+      "English": "When I think about it, I'm not sure I can bring myself to do that.",
+      "Reading": "‪ 考[かんが]え…‪そこまで 踏ん切[ふんぎ]り‪つけられるのかなとか",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_11_0.28.47.601.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_11_0.28.44.723-0.28.50.478.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_11_0.28.44.723-0.28.50.478.mp3",
+    "duration": 5.76,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_07525.wav",
+    "decode_ok": true,
+    "previous": "‪この３週間で この人と ‪一生 この人としか ‪恋愛しないというか",
+    "next": "‪（ワタル）ちゃんと ‪用意した物があるからさ",
+    "decoded_seconds": 5.749
+  },
+  {
+    "index": 8063,
+    "id": 1653382680532,
+    "decks": [
+      "Love is Blind Japan JP-EN"
+    ],
+    "fields": {
+      "ID": "11_8072_1.10.20.132",
+      "Expression": "～♪",
+      "English": "Subtitle translation by: Noelle Hollister",
+      "Reading": "~♪",
+      "Screenshot": "<img src=\"Love_is_Blind_Japan_11_1.10.22.635.jpg\">",
+      "Audio_Sentence": "[sound:Love_is_Blind_Japan_11_1.10.20.132-1.10.25.137.mp3]",
+      "Audio_Extra": "",
+      "Morph": "",
+      "Definition": "",
+      "focus morph": ""
+    },
+    "ref": "Love_is_Blind_Japan_11_1.10.20.132-1.10.25.137.mp3",
+    "duration": 4.992,
+    "wav": "chung\\kiem_chung_Codex_vong2\\love-is-blind\\sample_08063.wav",
+    "decode_ok": true,
+    "previous": "‪まあ ふだん 着けてないからね ‪ちょうど よかった",
+    "next": "～♪",
+    "decoded_seconds": 4.981
+  }
+]

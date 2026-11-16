@@ -1,0 +1,213 @@
+{
+  "source_path": "chung\\raw\\ja-subs2srs-love-is-blind-japan\\deck.apkg",
+  "sha256": "82ec286bdd7dd6394b3bef80f3394ef9139485a5c19990054ecae0efa211645b",
+  "notes": 8064,
+  "cards": 8064,
+  "models": {
+    "1653383163662": {
+      "id": 1653383163662,
+      "name": "Básico",
+      "type": 0,
+      "mod": 0,
+      "usn": 0,
+      "sortf": 0,
+      "did": 1,
+      "tmpls": [
+        {
+          "name": "Cartão 1",
+          "ord": 0,
+          "qfmt": "{{Frente}}",
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Verso}}",
+          "bqfmt": "",
+          "bafmt": "",
+          "did": null,
+          "bfont": "",
+          "bsize": 0
+        }
+      ],
+      "flds": [
+        {
+          "name": "Frente",
+          "ord": 0,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20
+        },
+        {
+          "name": "Verso",
+          "ord": 1,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20
+        }
+      ],
+      "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "latexPost": "\\end{document}",
+      "latexsvg": false,
+      "req": [
+        [
+          0,
+          "any",
+          [
+            0
+          ]
+        ]
+      ]
+    },
+    "1607909089579": {
+      "id": 1607909089579,
+      "name": "Japanese Morphman Audio Ankiweb-2f355",
+      "type": 0,
+      "mod": 1651168993,
+      "usn": -1,
+      "sortf": 0,
+      "did": 1,
+      "tmpls": [
+        {
+          "name": "Sentence",
+          "ord": 0,
+          "qfmt": "<script src =\"_kanjax_with_koohii v2.js\"></script>\n<script src =\"_jquery.bpopup.min.js\"></script>\n\n\n{{#Audio_Sentence}}\n\t<div id=\"Audio_Sentence\">\n\t\t{{Audio_Sentence}}\n\t</div>\n{{/Audio_Sentence}}\n\n\n\n{{^Morph}}\n<br>\t<br>\t<br>\t\n{{/Morph}}\n\n{{#Morph}}\n\t<div class=\"Morph\">\n\t\t{{hint:Morph}}\n\t</div>\n\t<div style='visibility:hidden ;'>\n\t\t<div class=\"Definition\">\n\t\t\t{{edit:Definition}}\n\t\t</div>\n\t</div>\n{{/Morph}}\n\n\n\n<div style='visibility:hidden ;'>\n\t<div class=\"Reading\">\n\t\t<span class=\"field\">\n\t\t\t{{furigana:Reading}}\n\t\t</span>\n\t</div>\n</div>\n\n\n\n<div style='visibility:hidden ;'>\n\t{{#English}}\n\t\t<div class=\"English\">\n\t\t\t{{English}}\n\t\t</div>\n\t{{/English}}\n</div>\n\n\n\n<script>\nfields = document.querySelectorAll('.field');\nfor (var i = 0; i < fields.length; i++) {\nfields[i].innerHTML = fields[i].innerHTML\n.replace('{{Morph}}', '<span style=\"color: #d48872; font-weight: bold; \">{{Morph}}</span>')}\n</script>\n\n\n\n<br>\n\n{{#Screenshot}}\n\t<div id=ScreenshotFront>\n\t\t{{Screenshot}}\n\t</div>\n{{/Screenshot}}\n\n\n\n\n<div class=\"Opacity\">\n<br>\n\t{{Tags}}\n<br>\n\t{{ID}}\n</div>",
+          "afmt": "<script src =\"_kanjax_with_koohii v2.js\"></script>\n<script src =\"_jquery.bpopup.min.js\"></script>\n\n\n{{#Audio_Extra}}\n\t<div id=\"Audio_Extra\">\n\t\t{{Audio_Extra}}\n\t</div>\t\t\n{{/Audio_Extra}}\n\n{{#Audio_Sentence}}\n\t<div id=\"Audio_Sentence\">\n\t\t{{Audio_Sentence}}\n\t</div>\n{{/Audio_Sentence}}\n\n\n\n{{^Morph}}\n<br>\t<br>\t<br>\t\n{{/Morph}}\n\n{{#Morph}}\n\t<div class=\"Morph\">\n\t\t{{Morph}}\n\t</div>\n\t<div style='visibility: ;'>\n\t\t<div class=\"Definition\">\n\t\t\t{{edit:Definition}}\n\t\t</div>\n\t</div>\n{{/Morph}}\n\n\n\n<div class=\"Reading\">\n\t<span class=\"field\">\n\t\t{{furigana:Reading}}\n\t</span>\n</div>\n\n\n\n{{#English}}\n\t<div class=\"English\">\n\t\t{{English}}\n\t</div>\n{{/English}}\n\n\n\n<script>\nfields = document.querySelectorAll('.field');\nfor (var i = 0; i < fields.length; i++) {\nfields[i].innerHTML = fields[i].innerHTML\n.replace('{{Morph}}', '<span style=\"color: #d48872; font-weight: bold; \">{{Morph}}</span>')}\n</script>\n\n\n\n<br>\n\n{{#Screenshot}}\n<html>\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t<style>\n\n* {box-sizing: border-box;}\n\t\t.row {display: flex; flex: 50%;}\n\n/* Createl columns that sits next to each other. Flex should be 100% divided by number of columns (2=50%, 3=33%, 4=25%) */\n\t\t.column1 {flex: 30%; width: 100%;}\n\t\t.column2 {flex: 70%; width: 100%;}\n\t</style>\n\n\t<div class=\"row\">\n\t\t<div class=\"column1\">\n\t\t\t<div id=ScreenshotFront>\n\t\t\t\t{{Screenshot}}\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"column2\">\n\t\t\t<embed src=\"https://ichi.moe/cl/qr/?q={{Expression}}\" style=\"width: 100%; height:100%; min-height: 400px; \">\n\t\t</div>\n\t</div>\n</html>\n{{/Screenshot}}\n\n{{^Screenshot}}\n\t<embed src=\"https://ichi.moe/cl/qr/?q={{Expression}}\" style=\"width: 100%; height:100%; min-height: 400px; \">\n{{/Screenshot}}\n\n\n\n<div class=\"Opacity\">\n\n<br>\n\t{{Tags}}\n<br>\n\t{{ID}}\n</div>",
+          "bqfmt": "",
+          "bafmt": "",
+          "did": null,
+          "bfont": "",
+          "bsize": 0
+        }
+      ],
+      "flds": [
+        {
+          "name": "ID",
+          "ord": 0,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "media": []
+        },
+        {
+          "name": "Expression",
+          "ord": 1,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "media": []
+        },
+        {
+          "name": "English",
+          "ord": 2,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "media": []
+        },
+        {
+          "name": "Reading",
+          "ord": 3,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": [],
+          "description": ""
+        },
+        {
+          "name": "Screenshot",
+          "ord": 4,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "media": []
+        },
+        {
+          "name": "Audio_Sentence",
+          "ord": 5,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "media": []
+        },
+        {
+          "name": "Audio_Extra",
+          "ord": 6,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": ""
+        },
+        {
+          "name": "Morph",
+          "ord": 7,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "media": []
+        },
+        {
+          "name": "Definition",
+          "ord": 8,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "media": []
+        },
+        {
+          "name": "focus morph",
+          "ord": 9,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": ""
+        }
+      ],
+      "css": "/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This for the kanji dictionary pop up included in the deck.\nThe kanji dictionary pop-up may display more information than you want.\nAdd \"none\" to \"display: ;\" to hide the field you don't want, like this: \"display: none;\". You can also change the size of text.\nStrong and italic colorize words in for the RTK stories.\nKanji, reading and radical are for colorizing keywords in the wanikani stories.\nYou can see the instruction here: https://imgur.com/a/OATxzm0\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n#Pop_Kanji {display:\t\t ; font-size: 200%}\n#Pop_KondanshaKeyword {display: \t\t; font-size: 100%}\n#Pop_HeisigKeyword {display: \t\t; font-size: 100%}\n#Pop_Gif {display: \t\t; zoom: 50%;}\n#Pop_Compo {display:\t\t\t ; font-size: 100%; text-align: center;}\n#Pop_Heisig {display:\t\t ; font-size: 100%}\n#Pop_KoohiiStories {display:\t\t ;font-size: 100%}\n#Pop_Wanikani {display:\t\t ;font-size: 100%}\n#Pop_Table {display: \t\t;font-size: 100%}\n#Pop_Links {display: \t\t;font-size: 100%}\n\nstrong {font-weight: 6000; color: #f9dc24;}\ni {font-weight: 550; color: #f9dc24;}\n\nkanji {color: #f100a1; font-weight:800; }\nreading {color: #484848; font-weight:800; }\nradical {color: #00a0f1; font-weight:800; }\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: Change to \"display:none;\" to erase the sound button. The button may appear depending on your device and preferences\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n#Audio_Sentence {display: ;}\n#Audio_Extra {display: none ;}\n\n.replay-button svg circle {\n  fill: purple;\n  stroke: ;\n}\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This changes the picture size. You can change the zoom percentage to fit your screen\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n#ScreenshotFront {zoom:100%;}\n#ScreenshotBack {zoom:100%; }\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This changes the front picture size on phones. You can change the zoom percentage to fit your screen\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n.mobile #ScreenshotFront {zoom: 75%;}\n.mobile #ScreenshotBack {zoom: 100%;}\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This hides furigana unless your mouse is over the text.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n.ruby rt { visibility: hidden; }\n.ruby:hover rt { visibility: visible; }\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This hides a text unless your mouse is over.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n.Opacity {opacity: 0.0;}\n.Opacity:hover {opacity: 1;}\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This changes the color of links or the hints.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\na:link {color: #72a6d3;}\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This changes the card overall look.\nIt can also applies to the Kanji dictionary pop-up.\nBeware that if you don't use a japanese font, kanji will be shown in chinese by default.\nMS Pincho is a japanese font included in the deck.\nThe scrollbar is hidden to keep the shape of the card from front to back.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n.card {\nfont-family: MS PMincho;\nfont-size: 20px;\ncolor: #BDC7C1;\ntext-align: center;\nbackground-color: #272828;\n}\n\n::-webkit-scrollbar {\n    display: none;\n}\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This changes the target / focus Morph only\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n.Morph {\nfont-family: MS PMincho;\ncolor: #e48872;\nfont-size: 40px;\npadding: 10px 0px 5px 0px;\nmargin: 0px 0px 0px 0px;\n background: #142634;\nborder-radius: 15px 15px 0px 0px;\n}\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This changes the defintion only\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n.Definition {\nfont-size: 20px;\n font-family: MS PMincho;\n text-align: center;\n color: #BDC7C1;\n background: #54666B;\nborder-radius: 0px 0px 25px 25px;\n padding: 10px 10px 10px 10px;\n margin: 0px 0px 0px 0px;\n}\n\n\n/*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- \nREAD ME: This changes the part with the japanese sentence\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n.Reading {\n font-family: MS PMincho;\n font-size: 30px;\n text-align: center;\n color: #BDC7C1;\n padding: 0px 0px 10px 0px;\n margin: 20px 0px 0px 0px;\n}\n\n\n/*---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nREAD ME: This changes the english sentence\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/\n.English {\nfont-family: Bree Serif;\ntext-align: center;\ncolor: #BDC7C1;\nfont-size: 18px;\npadding: 0px 0px 0px 0px;}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "latexPost": "\\end{document}",
+      "latexsvg": false,
+      "req": [
+        [
+          0,
+          "any",
+          [
+            0,
+            2,
+            3,
+            4,
+            5,
+            7
+          ]
+        ]
+      ],
+      "tags": [],
+      "vers": []
+    }
+  },
+  "decks": {
+    "1653382654336": "Love is Blind Japan JP-EN",
+    "1": "Padrão"
+  },
+  "media": 16128,
+  "audio_fields": {
+    "Audio_Sentence": 8064
+  },
+  "missing_reference_count": 0,
+  "missing_references": []
+}

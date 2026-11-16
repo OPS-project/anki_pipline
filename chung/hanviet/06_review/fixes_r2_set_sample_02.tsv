@@ -1,0 +1,23 @@
+note_key	hanviet	nghia_vi	loai	tu_viet	khac_biet	pt_kieu	pt_noi_dung	status	review_reason	char_note	reviewer
+zh:hskstory-hsk7:1792758603596	TIỂU PHẨM	tác phẩm nhỏ, ngắn (tranh, văn); cũng: tiểu phẩm (kịch ngắn)	cung_dung	tiểu phẩm				draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758604060	DẪN KÌNH	động cơ (xe, máy)	phien_am					draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758604274	CHÍ NGUYỆN	nguyện vọng, ước muốn riêng; cũng: tình nguyện	ghep_nghia			goi_nho	志 chí (ý chí) + 愿 nguyện (mong muốn) → điều quyết chí mong muốn; như 'nguyện vọng', 'tình nguyện'	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758605734	TẢO NIÊN	những năm trước đây, thời còn trẻ	ghep_nghia			cau_tao	早 tảo (sớm) + 年 niên (năm) → những năm sớm trong đời	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758606174	KIỂM THẢO	tự kiểm điểm, xem xét lại	cung_dung	kiểm thảo		cau_tao	检 kiểm (xét) + 讨 thảo (bàn, xét) → kiểm xét lại	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758606304	TÀN KHUYẾT	sứt mẻ, không còn nguyên vẹn, thiếu phần	ghep_nghia			cau_tao	残 tàn (hỏng) + 缺 khuyết (sứt mẻ, thiếu) → hỏng thiếu	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758606538	BA ĐÀO	sóng lớn, sóng cuộn	ghep_nghia			goi_nho	波 ba (sóng) + 涛 đào (sóng lớn) → sóng cả; tiếng Việt văn chương có 'ba đào' (thường nghĩa bóng: sóng gió)	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758606664	HẢI TẢO	rong biển, tảo biển	ghep_nghia			goi_nho	海 hải (biển) + 藻 tảo (rong, tảo) → tảo biển; 'tảo' quen trong tiếng Việt	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758607052	TIÊU	cháy, khét; cũng: lo lắng, sốt ruột	yeu_to			goi_nho	như 'tiêu thổ' (đất bị đốt cháy)	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758607156	VẬT SẮC	tìm kiếm, chọn lựa (người, vật)	khong_giup					draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758607318	NGÕA GIẢI	sụp đổ, tan rã	ghep_nghia			goi_nho	瓦 ngói + 解 giải (tháo ra) → vỡ vụn như mái ngói tan	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758607330	SINH TIỀN	khi còn sống (nói về người đã mất)	cung_dung	sinh tiền		cau_tao	生 sinh (sống) + 前 tiền (trước) → lúc còn sống	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758608622	SÍNH	thuê, mời, tuyển dụng	yeu_to		'sính' đứng riêng trong tiếng Việt (như 'sính ngoại') nghĩa là chuộng, khác nghĩa	goi_nho	cùng chữ trong 'sính lễ' (lễ vật hỏi cưới); Thiều Chửu: 聘 = tìm hỏi, mời đón	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758608666	ĐẢM KHIẾP	nhút nhát, sợ sệt	ghep_nghia			cau_tao	胆 đảm (gan, như "can đảm") + 怯 khiếp (sợ) → nhát gan, sợ sệt	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758608864	LƯƠNG	rất, nhiều (văn viết); cũng: tốt, lành	yeu_to		Lương đứng riêng trong tiếng Việt thường là tiền lương hoặc "lương" (gạo, lương thực), khác với "lương" = tốt lành.	goi_nho	như lương thiện, lương tâm, lương tri	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758609106	HƯ ẢO	hư ảo, không có thật	cung_dung	hư ảo				draft		幻: R1: 幻=ảo (ảo tưởng, ảo giác, ảo ảnh, hư ảo, biến ảo; Thiều Chửu: ta quen đọc là ảo)	opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758609238	BAO BIẾM	khen chê, đánh giá	ghep_nghia			goi_nho	褒 bao (khen) + 贬 biếm (chê, hạ) → khen chê; 'bao biếm' chỉ gặp trong văn phê bình	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758609298	GIẢI THỂ	tan rã, vỡ ra từng mảnh	khac_dung	giải thể	Tiếng Trung chủ yếu là vỡ ra, tan rã (vật thể, liên minh); tiếng Việt 'giải thể' thường là chấm dứt hoạt động một tổ chức (giải thể công ty)			draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758610096	NGHỊCH	ngược, đi ngược	yeu_to		'nghịch' đứng riêng trong tiếng Việt thường là nghịch ngợm, đùa nghịch	goi_nho	như nghịch cảnh, phản nghịch	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758610544	GIÁNG LÂM	đến, buông xuống, ập tới	khac_dung	giáng lâm	Tiếng Việt 'giáng lâm' chủ yếu nói thần thánh, bậc tôn quý giáng xuống; tiếng Trung dùng rộng cho đêm tối, tai họa, niềm vui ập đến			draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758610584	TÙY THÂN	mang theo người	cung_dung	tùy thân		goi_nho	như 'giấy tờ tùy thân', 'hành lý tùy thân'	draft			opus:r2_set_sample_02
+zh:hskstory-hsk7:1792758610704	PHI ĐÃN	không những	hu_tu			goi_nho	非 phi (không) + 但 đãn (chỉ) → không chỉ	draft			opus:r2_set_sample_02

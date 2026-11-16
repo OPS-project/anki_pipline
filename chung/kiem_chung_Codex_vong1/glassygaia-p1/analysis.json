@@ -1,0 +1,161 @@
+{
+  "notes": 432,
+  "cards": 432,
+  "length": {
+    "n": 432,
+    "median": 16.0,
+    "p25": 11,
+    "p75": 22,
+    "max": 64,
+    "ge30": 41,
+    "ge20": 148,
+    "ge15": 249
+  },
+  "with_main_audio": 432,
+  "with_image": 432,
+  "with_vi": 427,
+  "with_target": 423,
+  "source_context": "Subdeck and tags name video; sequential filename. No separate URL/timecode/speaker field.",
+  "by_video": {
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-a_brief_history_of_cheese-anki-english-en": {
+      "notes": 35,
+      "length": {
+        "n": 35,
+        "median": 19,
+        "p25": 15,
+        "p75": 24,
+        "max": 36,
+        "ge30": 2,
+        "ge20": 14,
+        "ge15": 28
+      },
+      "vietnamese": 35
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-eight_traits_of_successful_people-anki-english-en": {
+      "notes": 83,
+      "length": {
+        "n": 83,
+        "median": 13,
+        "p25": 9,
+        "p75": 19,
+        "max": 64,
+        "ge30": 6,
+        "ge20": 19,
+        "ge15": 37
+      },
+      "vietnamese": 78
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-how_could_so_many_people_support_hitler-anki-english-en": {
+      "notes": 31,
+      "length": {
+        "n": 31,
+        "median": 20,
+        "p25": 16,
+        "p75": 30,
+        "max": 55,
+        "ge30": 8,
+        "ge20": 17,
+        "ge15": 25
+      },
+      "vietnamese": 31
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-how_humanity_got_hooked_on_coffee-anki-english-en": {
+      "notes": 38,
+      "length": {
+        "n": 38,
+        "median": 17.0,
+        "p25": 12,
+        "p75": 22,
+        "max": 38,
+        "ge30": 4,
+        "ge20": 14,
+        "ge15": 21
+      },
+      "vietnamese": 38
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-how_long_should_your_naps_be-anki-english-en": {
+      "notes": 41,
+      "length": {
+        "n": 41,
+        "median": 15,
+        "p25": 11,
+        "p75": 22,
+        "max": 45,
+        "ge30": 3,
+        "ge20": 13,
+        "ge15": 23
+      },
+      "vietnamese": 41
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-how_playing_an_instrument_benefits_your_brain-anki-english-en": {
+      "notes": 29,
+      "length": {
+        "n": 29,
+        "median": 22,
+        "p25": 16,
+        "p75": 30,
+        "max": 44,
+        "ge30": 8,
+        "ge20": 19,
+        "ge15": 23
+      },
+      "vietnamese": 29
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-how_sugar_affects_the_brain-anki-english-en": {
+      "notes": 57,
+      "length": {
+        "n": 57,
+        "median": 13,
+        "p25": 9,
+        "p75": 19,
+        "max": 32,
+        "ge30": 1,
+        "ge20": 14,
+        "ge15": 23
+      },
+      "vietnamese": 57
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-how_to_get_motivated_even_when_you_dont_feel_like_it-anki-english-en": {
+      "notes": 38,
+      "length": {
+        "n": 38,
+        "median": 16.0,
+        "p25": 12,
+        "p75": 23,
+        "max": 41,
+        "ge30": 5,
+        "ge20": 14,
+        "ge15": 22
+      },
+      "vietnamese": 38
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-how_to_make_your_writing_suspenseful-anki-english-en": {
+      "notes": 40,
+      "length": {
+        "n": 40,
+        "median": 15.0,
+        "p25": 7,
+        "p75": 21,
+        "max": 39,
+        "ge30": 3,
+        "ge20": 12,
+        "ge15": 23
+      },
+      "vietnamese": 40
+    },
+    "English Decks::[English] youtube-ted-ed-anki-english-en (part 1)::youtube-three_tips_on_how_to_study_effectively-anki-english-en": {
+      "notes": 40,
+      "length": {
+        "n": 40,
+        "median": 17.0,
+        "p25": 13,
+        "p75": 23,
+        "max": 30,
+        "ge30": 1,
+        "ge20": 12,
+        "ge15": 24
+      },
+      "vietnamese": 40
+    }
+  }
+}

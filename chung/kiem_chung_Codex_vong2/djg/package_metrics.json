@@ -1,0 +1,212 @@
+{
+  "source_path": "chung\\raw\\ja-djg-grammar-sentences-audio\\deck.apkg",
+  "sha256": "bd8c4192c84c8710773db345ba539f755701e776f25d61b517e73f5872f31c77",
+  "notes": 5279,
+  "cards": 5279,
+  "models": {
+    "1508884158215": {
+      "id": 1508884158215,
+      "name": "A Dictionary of Japanese Grammar",
+      "type": 0,
+      "mod": 1704481817,
+      "usn": 0,
+      "sortf": 3,
+      "did": 1508885300177,
+      "tmpls": [
+        {
+          "name": "recognition",
+          "ord": 0,
+          "qfmt": "<span lang=\"ja\"> \n\n<div class=\"container\">\n\n<div class=\"frontbg\">\n \n<div class=\"gp\">{{Grammar Point}}</div> <br> <div class =\"explanationbg\">{{hint:Explanation}}</div>\n\n</div>\n\n<div class=backbg>\n\n<div class=\"jp\">{{furigana:Reading}}</div>\n \n</div>\n\n\n</div>\n\n</span>",
+          "afmt": "<span lang=\"ja\"> \n\n<div class=\"container\">\n\n<div class=\"frontbg\">\n \n<div class=\"gp\">{{Grammar Point}}</div> <br> <div class =\"explanationbg\">{{Explanation}}</div>\n\n</div>\n\n<div class=\"backbg\">\n \n<div class=\"jp\">{{furigana:Reading}}{{AwesomeTTS}}</div><div class=\"eng\">{{English}}</div>\n\n</div>\n\n <div class=\"bookInfo\"> {{Level}} {{#Page Number}} pg. {{Page Number}}{{/Page Number}} {{#Extra Notes}} || {{Extra Notes}} {{/Extra Notes}}\n</div>\n\n</div>\n\n</span>",
+          "bqfmt": "",
+          "bafmt": "",
+          "did": null,
+          "bfont": "",
+          "bsize": 0,
+          "id": null
+        }
+      ],
+      "flds": [
+        {
+          "name": "Japanese",
+          "ord": 0,
+          "sticky": false,
+          "rtl": false,
+          "font": "DejaVu Sans",
+          "size": 14,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false,
+          "media": []
+        },
+        {
+          "name": "Reading",
+          "ord": 1,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false,
+          "media": []
+        },
+        {
+          "name": "English",
+          "ord": 2,
+          "sticky": false,
+          "rtl": false,
+          "font": "Segoe UI",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false,
+          "media": []
+        },
+        {
+          "name": "Grammar Point",
+          "ord": 3,
+          "sticky": false,
+          "rtl": false,
+          "font": "Meiryo",
+          "size": 14,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false,
+          "media": []
+        },
+        {
+          "name": "Explanation",
+          "ord": 4,
+          "sticky": false,
+          "rtl": false,
+          "font": "Segoe UI",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false,
+          "media": []
+        },
+        {
+          "name": "AwesomeTTS",
+          "ord": 5,
+          "sticky": false,
+          "rtl": false,
+          "font": "Liberation Sans",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false
+        },
+        {
+          "name": "Level",
+          "ord": 6,
+          "sticky": false,
+          "rtl": false,
+          "font": "Segoe UI",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false,
+          "media": []
+        },
+        {
+          "name": "Page Number",
+          "ord": 7,
+          "sticky": false,
+          "rtl": false,
+          "font": "Segoe UI",
+          "size": 20,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false,
+          "media": []
+        },
+        {
+          "name": "Extra Notes",
+          "ord": 8,
+          "sticky": false,
+          "rtl": false,
+          "font": "DejaVu Sans",
+          "size": 14,
+          "description": "",
+          "plainText": false,
+          "collapsed": false,
+          "excludeFromSearch": false,
+          "id": null,
+          "tag": null,
+          "preventDeletion": false,
+          "media": []
+        }
+      ],
+      "css": ".card {\n text-align: center;\n padding: 20px 5px 8px 5px;\n background-color: #000;\n font-family: Segoe UI, sans-serif, M Plus 2;\n}\n\n.mobile .card {\n text-align: center;\n color: black;\n padding: 13px 5px 5px 5px;\n}\n\n/***************default anki audio button styling to be overridden--------\n.replay-button { text-decoration: none; display: inline-flex; vertical-align: middle; margin: 3px; }\n.replay-button svg { width: 40px; height: 40px; }\n.replay-button svg circle { fill: #fff; stroke: #414141; }\n.replay-button svg path { fill: #414141; }\n****************/\n\na {\n color: #fff;\n}\n\n.replay-button svg {\n display: none;\n}\n\n.replay-button {\n background-image: url(_play.png);\n background-size: 20px;\n display: inline-block;\n width: 30px;\n height: 25px;\n margin-left: -5px;\n background-repeat: no-repeat;\n}\n\n/**** ankidroid replay button restyle ****/\n\n.replaybutton span svg {\n display: none;\n}\n\n.replaybutton span {\n display: none;\n}\n\n.replaybutton {\n background-image: url(_play.png);\n background-size: 20px;\n display: inline-block;\n width: 30px;\n height: 19px;\n margin-left: 10px;\n background-repeat: no-repeat;\n}\n\n.container {\n max-width: 800px;\n margin: 0 auto;\n margin-top: 5%;\n}\n\n.mobile .container {\n margin-top: 0px;\n}\n\n.gp {\n font-size: 35px;\n padding-top: 10px;\n padding-bottom: 15px;\n}\n\n.mobile .gp {\n font-size: 25px;\n padding-top: 8px;\n padding-bottom: 1px;\n}\n\n.frontbg {\n background-color: #18AD95;\n border-radius: 10px 10px 0px 0px;\n color: #fff;\n position: relative;\n left: 0;\n}\n\n.backbg {\n position: relative;\n top: -3px;\n background-color: #f9f9f9;\n padding: 15px 30px 15px 30px;\n border-radius: 0px 0px 10px 10px;\n color: #016ea6;\n text-align: left;\n}\n \n.mobile .backbg {\n top: -5px;\n padding: 10px 15px 10px 15px;\n border-radius: 0px 0px 10px 10px;\n font-size: 20px;\n}\n\n.explanationbg {\n font-style: italic;\n padding: 0 50px 23px 50px;\n margin-left: -5px;\n margin-top: -15px;\n color: #fff;\n font-size: 20px; \n text-align: left;\n}\n\n.mobile .explanationbg {\n padding: 15px 40px 27px 40px;\n margin-top: -20px;\n color: #fff;\n font-size: 15px;\n}\n\n.jp {\n font-size: 24px;\n margin: 15px 25px 25px 25px;\n}\n\n.mobile .jp {\n font-size: 19px;\n margin: 8px 20px 15px 20px;\n}\n\n.eng {\n font-size: 20px;\n margin: 0 25px 10px 25px;\n font-family: \"M Plus 2\";\n}\n\n.mobile .eng {\n font-size: 15px;\n margin: -10px 20px 10px 20px;\n line-height: 125%;\n}\n\n.bookInfo {\ncolor: #fff;\nmargin-top: 7px;\nmargin-left: 7px;\ntext-align: left;\n}\n\n\n.mobile .bookInfo {\ncolor: #fff;\nmargin-top: 3px;\nmargin-left: 2px;\ntext-align: left;\nfont-size: 11px;\n}\n\n@font-face {\n  font-family: \"M Plus 2\";\n  src: url(\"_Mplus2-Regular.ttf\");\n}\n\n /**Allows for furigana to be hidden accept on hover (or touch for android)**/\nruby rt { visibility: hidden; } ruby:hover rt { visibility: visible; }\n\n/******* NIGHT MODE STYLING *******/\n\n.night_mode .backbg {\n background-color: #1F4369;\n color: #e6e6e6;\n}\n\n.night_mode .frontbg {\n  background-color: #103154;\n  color: #e6e6e6;\n}\n\n.night_mode .explanationbg {\n color: #e6e6e6;\n}\n\n.nightMode.card {\n background-color: #000;\n}\n",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "latexPost": "\\end{document}",
+      "latexsvg": false,
+      "req": [
+        [
+          0,
+          "any",
+          [
+            1,
+            3,
+            4
+          ]
+        ]
+      ],
+      "tags": [],
+      "vers": []
+    }
+  },
+  "decks": {
+    "1701372201887": "Dictionaries of Japanese Grammar Sentences::1 - Basic",
+    "1": "Default",
+    "1701372219903": "Dictionaries of Japanese Grammar Sentences::2 - Intermediate",
+    "1701372225880": "Dictionaries of Japanese Grammar Sentences::3 - Advanced",
+    "1693786034827": "Dictionaries of Japanese Grammar Sentences"
+  },
+  "media": 5425,
+  "audio_fields": {
+    "AwesomeTTS": 5279
+  },
+  "missing_reference_count": 1,
+  "missing_references": [
+    [
+      1508885374218,
+      "AwesomeTTS",
+      "amazon-1a525f23-0d[sound:azure-7bd6bf24-14cf11fd-448c9cdc-680534dc-85a8bd6f.mp3"
+    ]
+  ]
+}

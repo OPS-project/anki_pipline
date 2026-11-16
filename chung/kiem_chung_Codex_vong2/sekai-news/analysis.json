@@ -1,0 +1,77 @@
+{
+  "sentence_field": "Sentence",
+  "audio_field": "Audio",
+  "length_raw": {
+    "n": 1941,
+    "median": 50,
+    "p10": 20,
+    "p25": 34,
+    "p75": 68,
+    "p90": 88,
+    "min": 2,
+    "max": 214
+  },
+  "length_no_speaker": {
+    "n": 1941,
+    "median": 50,
+    "p10": 20,
+    "p25": 33,
+    "p75": 68,
+    "p90": 87,
+    "min": 1,
+    "max": 210
+  },
+  "ge30_raw": 1548,
+  "ge30_clean": 1540,
+  "audio_reference_notes": 1941,
+  "audio_present_notes": 1941,
+  "distinct_audio_refs": 1941,
+  "durations_all_unique": {
+    "n": 1941,
+    "median": 11.075918367346938,
+    "p10": 5.485714285714286,
+    "p25": 7.758367346938775,
+    "p75": 14.576326530612246,
+    "p90": 18.36408163265306,
+    "min": 0.9926530612244898,
+    "max": 83.61795918367346
+  },
+  "duration_parse_errors": [],
+  "nonempty_fields": {
+    "Audio": 0,
+    "Image": 0,
+    "Sentence": 1941
+  },
+  "by_deck": {
+    "世界のニュースを日本人は何も知らない": {
+      "notes": 1941,
+      "length": {
+        "n": 1941,
+        "median": 50,
+        "p10": 20,
+        "p25": 34,
+        "p75": 68,
+        "p90": 88,
+        "min": 2,
+        "max": 214
+      },
+      "ge30": 1548
+    }
+  },
+  "nonempty_raw_fields": {
+    "Audio": 1941,
+    "Image": 1941,
+    "Sentence": 1941
+  },
+  "decoded_sample_seconds": {
+    "n": 16,
+    "median": 9.692499999999999,
+    "p10": 2.966,
+    "p25": 6.75375,
+    "p75": 15.0345625,
+    "p90": 15.321875,
+    "min": 2.939875,
+    "max": 83.606
+  },
+  "sample_decode_success": 16
+}

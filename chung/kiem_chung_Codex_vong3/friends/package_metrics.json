@@ -1,0 +1,165 @@
+{
+  "source_path": "chung\\raw\\en-sitcom-friends-s01e02\\deck.apkg",
+  "sha256": "dffd12cda4cab15adbffac43c4436d115f3917464a85eb3f9c82ce7cc71b97de",
+  "notes": 366,
+  "cards": 366,
+  "models": {
+    "1571423005222": {
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.target, .base {\n  margin-top: 1em;\n  font-size: 75%;\n}\n\n.target .line {\n  font-size: 20px;\n}\n\n.context {\n  color: grey;\n}\n\n.hint, .note {\n  margin-top: 15px;\n  font-size: 15px;\n  color: #777;\n}\n\n.source {\n  margin-top: 1em;\n  font-size: 75%;\n  color: grey;\n}",
+      "vers": [],
+      "req": [
+        [
+          0,
+          "any",
+          [
+            0,
+            3,
+            10
+          ]
+        ]
+      ],
+      "mod": 1571962649,
+      "tmpls": [
+        {
+          "qfmt": "<div class=\"image\">{{Image}}</div>\n<div class=\"media\">{{Sound}}</div>\n{{#Hint}}<div class=\"hint\">{{Hint}}</div>{{/Hint}}",
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{#Target: line}}\n<div class=\"target\">\n<div class=\"context\">{{Target: line before}}</div>\n<div class=\"line\">{{Target: line}}</div>\n<div class=\"context\">{{Target: line after}}</div>\n</div>\n{{/Target: line}}\n\n{{#Base: line}}\n<div class=\"base\">\n<div class=\"context\">{{Base: line before}}</div>\n<div class=\"line\">{{Base: line}}</div>\n<div class=\"context\">{{Base: line after}}</div>\n</div>\n{{/Base: line}}\n\n{{#Note}}<div class=\"hint\">{{Note}}</div>{{/Note}}\n\n<div class=\"source\">{{Source}} {{Time}}</div>",
+          "bafmt": "",
+          "name": "Card 1",
+          "did": null,
+          "bqfmt": "",
+          "ord": 0
+        }
+      ],
+      "id": "1571423005222",
+      "type": 0,
+      "name": "Srs2Anki",
+      "did": 1571961982130,
+      "tags": [],
+      "flds": [
+        {
+          "name": "Sound",
+          "ord": 0,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Time",
+          "ord": 1,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Source",
+          "ord": 2,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Image",
+          "ord": 3,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Target: line",
+          "ord": 4,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Base: line",
+          "ord": 5,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Target: line before",
+          "ord": 6,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Base: line before",
+          "ord": 7,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Target: line after",
+          "ord": 8,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Base: line after",
+          "ord": 9,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Hint",
+          "ord": 10,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        },
+        {
+          "name": "Note",
+          "ord": 11,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 20,
+          "media": []
+        }
+      ],
+      "usn": 0,
+      "sortf": 1,
+      "latexPost": "\\end{document}",
+      "latexsvg": false
+    }
+  },
+  "decks": {
+    "1": "Default",
+    "1571962150893": "Friends Season 1::Episode 02"
+  },
+  "media": 732,
+  "audio_fields": {
+    "Sound": 366
+  },
+  "missing_reference_count": 0,
+  "missing_references": []
+}

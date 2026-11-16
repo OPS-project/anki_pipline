@@ -1,0 +1,479 @@
+note_key	verdict	van_de	ghi_chu
+zh:hskstory-hsk7:1792758601478	ok		出口成章
+zh:hskstory-hsk7:1792758601482	fixed	loai_thoi_phong	出土: xuất thổ ít dùng; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601488	ok		出征
+zh:hskstory-hsk7:1792758601504	ok		出身
+zh:hskstory-hsk7:1792758601516	ok		分化
+zh:hskstory-hsk7:1792758601518	ok		分发
+zh:hskstory-hsk7:1792758601528	fixed	loai_thoi_phong	分支: tiếng Việt nói chi nhánh, nhánh; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601530	fixed	khac_dung_bo_sot	分明; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758601538	ok		分裂
+zh:hskstory-hsk7:1792758601540	fixed	khac_dung_bo_sot	分解: câu: chia nhiệm vụ thành bước; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758601556	ok		切身
+zh:hskstory-hsk7:1792758601564	ok		刑事
+zh:hskstory-hsk7:1792758601566	fixed	loai_thoi_phong	刑法: tiếng Việt nay nói luật hình sự; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601588	ok		判决
+zh:hskstory-hsk7:1792758601592	fixed	loai_thoi_phong	判定: phán định ít dùng; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601596	ok		利害
+zh:hskstory-hsk7:1792758601606	ok		别墅
+zh:hskstory-hsk7:1792758601626	fixed	loai_thoi_phong	制约: chế ước chỉ gặp trong văn bản học thuật; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601628	ok		制裁
+zh:hskstory-hsk7:1792758601648	fixed	loai_thoi_phong	刻舟求剑: thành ngữ không quen dạng HV; nghia cũ "tìm kiếm" gây nhầm; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601664	ok		前任
+zh:hskstory-hsk7:1792758601672	ok		前无古人
+zh:hskstory-hsk7:1792758601678	ok		前线
+zh:hskstory-hsk7:1792758601682	ok		前辈
+zh:hskstory-hsk7:1792758601692	fixed	loai_thoi_phong	剧变; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601704	fixed	loai_thoi_phong	副本: tiếng Việt nói bản sao; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601716	fixed	khac_dung_bo_sot	劝告; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758601726	ok		功
+zh:hskstory-hsk7:1792758601730	fixed	khac_dung_bo_sot	功力; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758601736	ok		功率
+zh:hskstory-hsk7:1792758601738	ok		功臣
+zh:hskstory-hsk7:1792758601772	ok		动脉
+zh:hskstory-hsk7:1792758601778	ok		动静
+zh:hskstory-hsk7:1792758601780	ok		助力
+zh:hskstory-hsk7:1792758601806	fixed	loai_thoi_phong	勇往直前: thành ngữ không quen dạng HV; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601818	ok		勤俭
+zh:hskstory-hsk7:1792758601828	ok		勾结
+zh:hskstory-hsk7:1792758601834	ok		包容
+zh:hskstory-hsk7:1792758601840	fixed	loai_thoi_phong	包罗万象: không phải thành ngữ Việt; bẫy nghĩa "bao la"; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601846	ok		化解
+zh:hskstory-hsk7:1792758601848	ok		化身
+zh:hskstory-hsk7:1792758601850	fixed	loai_thoi_phong	化险为夷; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601862	ok		匿名
+zh:hskstory-hsk7:1792758601864	ok		千军万马
+zh:hskstory-hsk7:1792758601866	ok		千变万化
+zh:hskstory-hsk7:1792758601870	fixed	loai_thoi_phong	千方百计: dạng HV không quen; tiếng Việt dùng bản dịch; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601878	ok		半信半疑
+zh:hskstory-hsk7:1792758601882	ok		半岛
+zh:hskstory-hsk7:1792758601884	ok		半径
+zh:hskstory-hsk7:1792758601892	ok		华丽
+zh:hskstory-hsk7:1792758601896	ok		华侨
+zh:hskstory-hsk7:1792758601900	fixed	loai_thoi_phong	协作: có khac_biet tự nhận ít gặp; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601902	ok		协同
+zh:hskstory-hsk7:1792758601904	ok		协商
+zh:hskstory-hsk7:1792758601906	ok		协定
+zh:hskstory-hsk7:1792758601912	fixed	loai_thoi_phong	卓越: trác việt chỉ văn chương; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601914	ok		单价
+zh:hskstory-hsk7:1792758601930	fixed	khac_dung_bo_sot	博学; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758601934	fixed	loai_thoi_phong	占卜; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601936	ok		占用
+zh:hskstory-hsk7:1792758601950	ok		卫星
+zh:hskstory-hsk7:1792758601954	fixed	loai_thoi_phong	印章: tiếng Việt nói con dấu; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601960	ok		危急
+zh:hskstory-hsk7:1792758601962	ok		即
+zh:hskstory-hsk7:1792758601968	ok		即时
+zh:hskstory-hsk7:1792758601980	fixed	loai_thoi_phong	厄运; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601982	fixed	loai_thoi_phong	历代; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758601992	ok		压倒
+zh:hskstory-hsk7:1792758601994	ok		压制
+zh:hskstory-hsk7:1792758602014	fixed	loai_thoi_phong	原告: có khac_biet tự nhận; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602028	ok		参照
+zh:hskstory-hsk7:1792758602032	ok		参谋
+zh:hskstory-hsk7:1792758602042	fixed	loai_thoi_phong	双胞胎: song bào thai không phải từ Việt; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602054	ok		反击
+zh:hskstory-hsk7:1792758602066	fixed	khac_dung_bo_sot	反感; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602068	ok		反抗
+zh:hskstory-hsk7:1792758602070	fixed	loai_thoi_phong	反省: tiếng Việt thường nói tự kiểm điểm, tự vấn; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602072	fixed	loai_thoi_phong	反问; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602076	ok		反驳
+zh:hskstory-hsk7:1792758602078	ok		发作
+zh:hskstory-hsk7:1792758602084	fixed	khac_dung_bo_sot	发射: có khac_biet; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602086	fixed	loai_thoi_phong	发怒; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602090	fixed	loai_thoi_phong	发扬: tiếng Việt nói phát huy; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602112	fixed	loai_thoi_phong	发言人: tu_viet không phải dạng HV; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602116	ok		发财
+zh:hskstory-hsk7:1792758602138	fixed	loai_thoi_phong	受害: tiếng Việt nói bị hại; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602140	fixed	loai_thoi_phong	受害人: tu_viet không phải dạng HV; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602146	ok		受理
+zh:hskstory-hsk7:1792758602162	ok		变异
+zh:hskstory-hsk7:1792758602168	ok		变故
+zh:hskstory-hsk7:1792758602178	fixed	khac_dung_bo_sot	叛逆; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602182	ok		口令
+zh:hskstory-hsk7:1792758602198	fixed	khac_dung_bo_sot	口气: có khac_biet; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602204	fixed	loai_thoi_phong	口罩: tu_viet khác dạng HV; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602226	ok		召集
+zh:hskstory-hsk7:1792758602240	ok		可疑
+zh:hskstory-hsk7:1792758602300	ok		同志
+zh:hskstory-hsk7:1792758602302	fixed	khac_dung_bo_sot	同感; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602306	ok		同步
+zh:hskstory-hsk7:1792758602310	ok		同盟
+zh:hskstory-hsk7:1792758602320	ok		名利
+zh:hskstory-hsk7:1792758602330	ok		名言
+zh:hskstory-hsk7:1792758602336	ok		后世
+zh:hskstory-hsk7:1792758602338	ok		后勤
+zh:hskstory-hsk7:1792758602342	ok		后备
+zh:hskstory-hsk7:1792758602350	ok		后裔
+zh:hskstory-hsk7:1792758602378	fixed	khac_dung_bo_sot	含蓄: câu dùng nghĩa động từ; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602404	ok		呈
+zh:hskstory-hsk7:1792758602410	fixed	loai_thoi_phong	告知; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602416	ok		告辞
+zh:hskstory-hsk7:1792758602434	ok		周转
+zh:hskstory-hsk7:1792758602448	fixed	khac_dung_bo_sot	呼唤: có khac_biet; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602454	fixed	loai_thoi_phong	呼应; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602472	ok		和解
+zh:hskstory-hsk7:1792758602478	ok		咽喉
+zh:hskstory-hsk7:1792758602498	ok		响应
+zh:hskstory-hsk7:1792758602510	ok		哲理
+zh:hskstory-hsk7:1792758602544	ok		商讨
+zh:hskstory-hsk7:1792758602558	ok		善
+zh:hskstory-hsk7:1792758602560	ok		善意
+zh:hskstory-hsk7:1792758602576	fixed	loai_thoi_phong	喜怒哀乐: dạng quen là hỉ nộ ái ố; nghia cũ lặp "vui"; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602592	ok		喧闹
+zh:hskstory-hsk7:1792758602598	ok		嗅觉
+zh:hskstory-hsk7:1792758602602	fixed	khac_dung_bo_sot	嗜好; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602618	ok		器具
+zh:hskstory-hsk7:1792758602620	fixed	loai_thoi_phong	器官: có khac_biet tự nhận ít dùng; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602622	fixed	khac_dung_bo_sot	器材; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602636	fixed	loai_thoi_phong	囚犯; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602638	fixed	khac_dung_bo_sot	四方: có khac_biet; câu dùng nghĩa vuông; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602640	ok		四肢
+zh:hskstory-hsk7:1792758602642	ok		四通八达
+zh:hskstory-hsk7:1792758602654	fixed	khac_dung_bo_sot	回归: có khac_biet; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602658	ok		回想
+zh:hskstory-hsk7:1792758602674	ok		团员
+zh:hskstory-hsk7:1792758602676	ok		团聚
+zh:hskstory-hsk7:1792758602680	fixed	loai_thoi_phong	困境; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602690	ok		固执
+zh:hskstory-hsk7:1792758602692	ok		固有
+zh:hskstory-hsk7:1792758602702	ok		国徽
+zh:hskstory-hsk7:1792758602704	fixed	loai_thoi_phong	国有: chỉ quen trong quốc hữu hóa; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602706	ok		国民
+zh:hskstory-hsk7:1792758602708	ok		国防
+zh:hskstory-hsk7:1792758602720	ok		圣贤
+zh:hskstory-hsk7:1792758602728	ok		地势
+zh:hskstory-hsk7:1792758602740	ok		地狱
+zh:hskstory-hsk7:1792758602748	ok		坐落
+zh:hskstory-hsk7:1792758602768	ok		坟墓
+zh:hskstory-hsk7:1792758602800	ok		埋伏
+zh:hskstory-hsk7:1792758602806	fixed	khac_dung_bo_sot	埋没; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758602808	ok		埋葬
+zh:hskstory-hsk7:1792758602856	ok		境界
+zh:hskstory-hsk7:1792758602858	ok		境遇
+zh:hskstory-hsk7:1792758602860	ok		墓
+zh:hskstory-hsk7:1792758602870	ok		增收
+zh:hskstory-hsk7:1792758602884	ok		士气
+zh:hskstory-hsk7:1792758602888	ok		壮丽
+zh:hskstory-hsk7:1792758602892	fixed	loai_thoi_phong	壮烈; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602896	ok		声势
+zh:hskstory-hsk7:1792758602908	ok		处事
+zh:hskstory-hsk7:1792758602916	ok		处置
+zh:hskstory-hsk7:1792758602928	ok		复兴
+zh:hskstory-hsk7:1792758602930	fixed	loai_thoi_phong	复原: tiếng Việt thường nói phục hồi; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602942	fixed	loai_thoi_phong	夕阳: văn chương; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602944	ok		外号
+zh:hskstory-hsk7:1792758602946	fixed	loai_thoi_phong	外向: tu_viet đảo thứ tự; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602948	fixed	loai_thoi_phong	外在; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602950	ok		外币
+zh:hskstory-hsk7:1792758602956	ok		外汇
+zh:hskstory-hsk7:1792758602990	ok		大体
+zh:hskstory-hsk7:1792758602992	fixed	loai_thoi_phong	大公无私: nghia_vi chỉ chép âm HV; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758602994	ok		大同小异
+zh:hskstory-hsk7:1792758603002	ok		大局
+zh:hskstory-hsk7:1792758603004	fixed	loai_thoi_phong	大惊小怪; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603006	ok		大意
+zh:hskstory-hsk7:1792758603022	ok		大陆
+zh:hskstory-hsk7:1792758603032	ok		天地
+zh:hskstory-hsk7:1792758603034	ok		天堂
+zh:hskstory-hsk7:1792758603038	ok		天性
+zh:hskstory-hsk7:1792758603040	ok		天敌
+zh:hskstory-hsk7:1792758603048	ok		天经地义
+zh:hskstory-hsk7:1792758603052	ok		天赋
+zh:hskstory-hsk7:1792758603054	ok		天长地久
+zh:hskstory-hsk7:1792758603056	ok		天鹅
+zh:hskstory-hsk7:1792758603058	ok		太平
+zh:hskstory-hsk7:1792758603060	ok		太极
+zh:hskstory-hsk7:1792758603066	ok		失传
+zh:hskstory-hsk7:1792758603080	ok		失礼
+zh:hskstory-hsk7:1792758603108	ok		奇妙
+zh:hskstory-hsk7:1792758603112	ok		奇观
+zh:hskstory-hsk7:1792758603126	ok		奔波
+zh:hskstory-hsk7:1792758603134	ok		奖赏
+zh:hskstory-hsk7:1792758603142	ok		奢侈
+zh:hskstory-hsk7:1792758603152	ok		奴隶
+zh:hskstory-hsk7:1792758603156	ok		奸诈
+zh:hskstory-hsk7:1792758603164	ok		好心
+zh:hskstory-hsk7:1792758603166	ok		好意
+zh:hskstory-hsk7:1792758603172	ok		好胜
+zh:hskstory-hsk7:1792758603180	ok		如意
+zh:hskstory-hsk7:1792758603188	ok		妄想
+zh:hskstory-hsk7:1792758603194	ok		妥协
+zh:hskstory-hsk7:1792758603204	ok		委员
+zh:hskstory-hsk7:1792758603212	fixed	loai_thoi_phong	姿态: tư thái ít dùng; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603214	ok		威信
+zh:hskstory-hsk7:1792758603216	ok		威力
+zh:hskstory-hsk7:1792758603220	fixed	loai_thoi_phong	威望: uy vọng ít dùng; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603222	ok		威风
+zh:hskstory-hsk7:1792758603244	fixed	loai_thoi_phong	嫌疑; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603278	ok		孝顺
+zh:hskstory-hsk7:1792758603280	ok		孤儿
+zh:hskstory-hsk7:1792758603284	ok		孤立
+zh:hskstory-hsk7:1792758603286	fixed	loai_thoi_phong	孤陋寡闻: thành ngữ không quen dạng HV; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603290	fixed	loai_thoi_phong	学业; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603296	ok		学识
+zh:hskstory-hsk7:1792758603298	ok		学说
+zh:hskstory-hsk7:1792758603310	ok		宇宙
+zh:hskstory-hsk7:1792758603312	fixed	loai_thoi_phong	守信: tiếng Việt nói giữ chữ tín; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603318	fixed	loai_thoi_phong	守株待兔: tu_viet là bản dịch, không phải dạng HV; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603334	fixed	loai_thoi_phong	安详; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603336	fixed	loai_thoi_phong	安逸: an dật văn chương; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603338	fixed	loai_thoi_phong	完备; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603342	ok		完毕
+zh:hskstory-hsk7:1792758603350	ok		宗教
+zh:hskstory-hsk7:1792758603352	ok		宗旨
+zh:hskstory-hsk7:1792758603354	ok		官僚
+zh:hskstory-hsk7:1792758603356	fixed	loai_thoi_phong	官兵; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603360	ok		官吏
+zh:hskstory-hsk7:1792758603364	ok		定向
+zh:hskstory-hsk7:1792758603366	ok		定居
+zh:hskstory-hsk7:1792758603368	ok		定律
+zh:hskstory-hsk7:1792758603380	fixed	loai_thoi_phong	宝库; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603386	ok		实事求是
+zh:hskstory-hsk7:1792758603388	ok		实体
+zh:hskstory-hsk7:1792758603392	ok		实地
+zh:hskstory-hsk7:1792758603400	fixed	khac_dung_bo_sot	宠爱; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603406	ok		审定
+zh:hskstory-hsk7:1792758603410	ok		审查
+zh:hskstory-hsk7:1792758603428	ok		宣告
+zh:hskstory-hsk7:1792758603436	ok		宣言
+zh:hskstory-hsk7:1792758603438	ok		宣誓
+zh:hskstory-hsk7:1792758603442	ok		宪法
+zh:hskstory-hsk7:1792758603444	ok		宫廷
+zh:hskstory-hsk7:1792758603446	ok		宫殿
+zh:hskstory-hsk7:1792758603452	ok		家世
+zh:hskstory-hsk7:1792758603458	ok		家境
+zh:hskstory-hsk7:1792758603464	ok		家族
+zh:hskstory-hsk7:1792758603466	ok		家用
+zh:hskstory-hsk7:1792758603468	ok		家禽
+zh:hskstory-hsk7:1792758603476	fixed	khac_dung_bo_sot	容纳; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603480	ok		容貌
+zh:hskstory-hsk7:1792758603482	ok		容颜
+zh:hskstory-hsk7:1792758603490	ok		宽恕
+zh:hskstory-hsk7:1792758603502	fixed	khac_dung_bo_sot	寄托; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603510	ok		富强
+zh:hskstory-hsk7:1792758603512	fixed	khac_dung_bo_sot	富翁; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603514	fixed	khac_dung_bo_sot	富豪; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603518	ok		寒带
+zh:hskstory-hsk7:1792758603522	ok		寓意
+zh:hskstory-hsk7:1792758603524	ok		寓言
+zh:hskstory-hsk7:1792758603532	ok		寡妇
+zh:hskstory-hsk7:1792758603536	ok		对付
+zh:hskstory-hsk7:1792758603546	ok		对流
+zh:hskstory-hsk7:1792758603548	ok		对照
+zh:hskstory-hsk7:1792758603556	ok		对策
+zh:hskstory-hsk7:1792758603578	ok		封建
+zh:hskstory-hsk7:1792758603580	ok		封锁
+zh:hskstory-hsk7:1792758603590	fixed	loai_thoi_phong	尊贵; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603594	ok		小人
+zh:hskstory-hsk7:1792758603612	ok		少女
+zh:hskstory-hsk7:1792758603638	fixed	loai_thoi_phong	就职; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603646	ok		尸体
+zh:hskstory-hsk7:1792758603656	ok		尾声
+zh:hskstory-hsk7:1792758603664	ok		局部
+zh:hskstory-hsk7:1792758603676	ok		屈服
+zh:hskstory-hsk7:1792758603688	ok		展望
+zh:hskstory-hsk7:1792758603690	ok		属性
+zh:hskstory-hsk7:1792758603694	fixed	loai_thoi_phong	屠杀; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603702	fixed	khac_dung_bo_sot	山寨; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603720	fixed	khac_dung_bo_sot	岩石; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603722	fixed	khac_dung_bo_sot	岳母; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603724	fixed	khac_dung_bo_sot	岳父; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603732	fixed	loai_thoi_phong	崇尚; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603734	ok		崇敬
+zh:hskstory-hsk7:1792758603740	fixed	khac_dung_bo_sot	崛起; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603754	ok		巢穴
+zh:hskstory-hsk7:1792758603768	fixed	loai_thoi_phong	巨人; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603788	fixed	loai_thoi_phong	市场经济: tu_viet đảo thứ tự; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603790	ok		布局
+zh:hskstory-hsk7:1792758603796	ok		师范
+zh:hskstory-hsk7:1792758603808	ok		帝国
+zh:hskstory-hsk7:1792758603834	ok		干事
+zh:hskstory-hsk7:1792758603838	fixed	loai_thoi_phong	干戈; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603844	ok		干部
+zh:hskstory-hsk7:1792758603846	ok		干预
+zh:hskstory-hsk7:1792758603850	ok		平原
+zh:hskstory-hsk7:1792758603866	fixed	khac_dung_bo_sot	平稳; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603910	ok		幼稚
+zh:hskstory-hsk7:1792758603914	ok		庄严
+zh:hskstory-hsk7:1792758603916	ok		庄园
+zh:hskstory-hsk7:1792758603918	ok		庄重
+zh:hskstory-hsk7:1792758603940	ok		应付
+zh:hskstory-hsk7:1792758603958	ok		庙
+zh:hskstory-hsk7:1792758603964	fixed	khac_dung_bo_sot	废品; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758603972	fixed	loai_thoi_phong	废物: tiếng Việt nói phế liệu, phế thải; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758603980	ok		座谈
+zh:hskstory-hsk7:1792758603982	ok		庸俗
+zh:hskstory-hsk7:1792758603988	ok		廉洁
+zh:hskstory-hsk7:1792758604010	ok		开垦
+zh:hskstory-hsk7:1792758604014	fixed	loai_thoi_phong	开工; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604018	ok		开张
+zh:hskstory-hsk7:1792758604036	fixed	nghia_lech_cau	开除: câu: bị công ty đuổi việc
+zh:hskstory-hsk7:1792758604040	fixed	khac_dung_bo_sot	异性: bẫy nghĩa; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758604044	fixed	khac_dung_bo_sot	异议; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758604054	ok		弓
+zh:hskstory-hsk7:1792758604068	fixed	loai_thoi_phong	引诱; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604072	fixed	khac_dung_bo_sot	弘扬; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758604076	fixed	loai_thoi_phong	张扬; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604090	ok		强制
+zh:hskstory-hsk7:1792758604098	ok		强占
+zh:hskstory-hsk7:1792758604100	fixed	loai_thoi_phong	强盗: cường đạo văn cổ; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604118	fixed	khac_dung_bo_sot	归纳: câu: tóm tắt lý do; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758604152	fixed	loai_thoi_phong	往事; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604160	fixed	khac_dung_bo_sot	征收; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758604178	ok		得力
+zh:hskstory-hsk7:1792758604182	fixed	loai_thoi_phong	得失; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604214	ok		微生物
+zh:hskstory-hsk7:1792758604250	ok		心血
+zh:hskstory-hsk7:1792758604264	fixed	loai_thoi_phong	忌妒: tu_viet đảo thứ tự; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604270	ok		忍耐
+zh:hskstory-hsk7:1792758604272	ok		志向
+zh:hskstory-hsk7:1792758604276	ok		志气
+zh:hskstory-hsk7:1792758604290	ok		忠诚
+zh:hskstory-hsk7:1792758604294	ok		忧愁
+zh:hskstory-hsk7:1792758604296	fixed	loai_thoi_phong	忧虑; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604298	fixed	loai_thoi_phong	忧郁: ưu uất hiếm; tiếng Việt quen u uất, u sầu; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604344	ok		急性
+zh:hskstory-hsk7:1792758604348	ok		急迫
+zh:hskstory-hsk7:1792758604352	ok		性情
+zh:hskstory-hsk7:1792758604358	ok		怨恨
+zh:hskstory-hsk7:1792758604366	ok		怪异
+zh:hskstory-hsk7:1792758604368	ok		怪物
+zh:hskstory-hsk7:1792758604386	ok		恐龙
+zh:hskstory-hsk7:1792758604388	fixed	loai_thoi_phong	恒星: thuật ngữ thiên văn ít quen; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604392	ok		恩人
+zh:hskstory-hsk7:1792758604394	ok		恩怨
+zh:hskstory-hsk7:1792758604396	ok		恩情
+zh:hskstory-hsk7:1792758604400	ok		恭敬
+zh:hskstory-hsk7:1792758604412	ok		恳切
+zh:hskstory-hsk7:1792758604414	ok		恳求
+zh:hskstory-hsk7:1792758604416	ok		恶
+zh:hskstory-hsk7:1792758604422	ok		恶性
+zh:hskstory-hsk7:1792758604424	ok		恶意
+zh:hskstory-hsk7:1792758604430	ok		悔恨
+zh:hskstory-hsk7:1792758604458	ok		情人
+zh:hskstory-hsk7:1792758604480	ok		惊动
+zh:hskstory-hsk7:1792758604486	ok		惊天动地
+zh:hskstory-hsk7:1792758604490	ok		惊心动魄
+zh:hskstory-hsk7:1792758604518	ok		惯性
+zh:hskstory-hsk7:1792758604536	fixed	loai_thoi_phong	意向; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604540	ok		意图
+zh:hskstory-hsk7:1792758604542	ok		意志
+zh:hskstory-hsk7:1792758604546	ok		意愿
+zh:hskstory-hsk7:1792758604554	ok		愚蠢
+zh:hskstory-hsk7:1792758604556	fixed	khac_dung_bo_sot	感叹; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758604558	fixed	khac_dung_bo_sot	感性; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758604564	ok		感慨
+zh:hskstory-hsk7:1792758604566	ok		感触
+zh:hskstory-hsk7:1792758604574	ok		慌
+zh:hskstory-hsk7:1792758604576	ok		慌乱
+zh:hskstory-hsk7:1792758604582	ok		慎重
+zh:hskstory-hsk7:1792758604584	ok		慢性
+zh:hskstory-hsk7:1792758604594	ok		憔悴
+zh:hskstory-hsk7:1792758604608	fixed	loai_thoi_phong	成全; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604610	ok		成品
+zh:hskstory-hsk7:1792758604612	ok		成型
+zh:hskstory-hsk7:1792758604616	fixed	loai_thoi_phong	成家: chỉ có trong thành ngữ; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604618	fixed	loai_thoi_phong	成家立业: dạng quen là thành gia lập thất; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604622	ok		成才
+zh:hskstory-hsk7:1792758604632	ok		战友
+zh:hskstory-hsk7:1792758604634	ok		战场
+zh:hskstory-hsk7:1792758604636	ok		战士
+zh:hskstory-hsk7:1792758604638	ok		战役
+zh:hskstory-hsk7:1792758604640	ok		战术
+zh:hskstory-hsk7:1792758604642	ok		战略
+zh:hskstory-hsk7:1792758604730	ok		扣除
+zh:hskstory-hsk7:1792758604746	ok		扩张
+zh:hskstory-hsk7:1792758604752	ok		扫墓
+zh:hskstory-hsk7:1792758604770	ok		扰乱
+zh:hskstory-hsk7:1792758604776	ok		批判
+zh:hskstory-hsk7:1792758604802	ok		抒情
+zh:hskstory-hsk7:1792758604818	ok		投降
+zh:hskstory-hsk7:1792758604824	ok		抗拒
+zh:hskstory-hsk7:1792758604826	fixed	loai_thoi_phong	抗生素: tu_viet khác dạng; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604864	ok		报
+zh:hskstory-hsk7:1792758604866	ok		报仇
+zh:hskstory-hsk7:1792758604874	ok		报答
+zh:hskstory-hsk7:1792758604956	fixed	loai_thoi_phong	拘束: có khac_biet tự nhận ít dùng; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758604958	ok		拘留
+zh:hskstory-hsk7:1792758604962	ok		招募
+zh:hskstory-hsk7:1792758604978	ok		拜见
+zh:hskstory-hsk7:1792758604986	ok		拥护
+zh:hskstory-hsk7:1792758605032	fixed	loai_thoi_phong	指南: chỉ quen trong kim chỉ nam; tiếng Việt nói cẩm nang; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605036	ok		指引
+zh:hskstory-hsk7:1792758605042	ok		指教
+zh:hskstory-hsk7:1792758605044	ok		指数
+zh:hskstory-hsk7:1792758605048	ok		指标
+zh:hskstory-hsk7:1792758605106	fixed	khac_dung_bo_sot	挽回: có khac_biet; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758605160	fixed	loai_thoi_phong	掌管: có khac_biet tự nhận cổ; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605168	ok		排斥
+zh:hskstory-hsk7:1792758605188	ok		探险
+zh:hskstory-hsk7:1792758605206	ok		接见
+zh:hskstory-hsk7:1792758605228	ok		推论
+zh:hskstory-hsk7:1792758605234	ok		掩护
+zh:hskstory-hsk7:1792758605252	ok		提及
+zh:hskstory-hsk7:1792758605258	ok		提拔
+zh:hskstory-hsk7:1792758605262	ok		提纲
+zh:hskstory-hsk7:1792758605264	ok		提议
+zh:hskstory-hsk7:1792758605298	ok		援助
+zh:hskstory-hsk7:1792758605358	fixed	loai_thoi_phong	摘要: trích yếu chỉ gặp trong công văn; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605364	ok		摩擦
+zh:hskstory-hsk7:1792758605380	ok		撤退
+zh:hskstory-hsk7:1792758605408	ok		支援
+zh:hskstory-hsk7:1792758605416	ok		支票
+zh:hskstory-hsk7:1792758605418	fixed	khac_dung_bo_sot	支配: câu: tự do sắp xếp thời gian; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758605430	ok		收支
+zh:hskstory-hsk7:1792758605482	ok		政党
+zh:hskstory-hsk7:1792758605484	ok		政权
+zh:hskstory-hsk7:1792758605490	ok		效力
+zh:hskstory-hsk7:1792758605496	fixed	loai_thoi_phong	敏捷: có khac_biet tự nhận văn chương; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605504	ok		救济
+zh:hskstory-hsk7:1792758605506	fixed	khac_dung_bo_sot	教养: có khac_biet; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758605508	ok		教条
+zh:hskstory-hsk7:1792758605520	ok		敦厚
+zh:hskstory-hsk7:1792758605540	ok		敬重
+zh:hskstory-hsk7:1792758605560	ok		整顿
+zh:hskstory-hsk7:1792758605568	ok		文人
+zh:hskstory-hsk7:1792758605570	ok		文凭
+zh:hskstory-hsk7:1792758605606	fixed	loai_thoi_phong	新奇: có khac_biet tự nhận văn chương; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605612	ok		新春
+zh:hskstory-hsk7:1792758605624	ok		方针
+zh:hskstory-hsk7:1792758605666	ok		无形
+zh:hskstory-hsk7:1792758605674	ok		无意
+zh:hskstory-hsk7:1792758605680	ok		无故
+zh:hskstory-hsk7:1792758605682	ok		无敌
+zh:hskstory-hsk7:1792758605684	ok		无条件
+zh:hskstory-hsk7:1792758605690	ok		无理
+zh:hskstory-hsk7:1792758605692	fixed	khac_dung_bo_sot	无知: có khac_biet; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758605700	fixed	khac_dung_bo_sot	无线: có khac_biet; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758605704	ok		无耻
+zh:hskstory-hsk7:1792758605714	ok		无赖
+zh:hskstory-hsk7:1792758605742	ok		时事
+zh:hskstory-hsk7:1792758605756	ok		时装
+zh:hskstory-hsk7:1792758605780	ok		昏迷
+zh:hskstory-hsk7:1792758605794	fixed	khac_dung_bo_sot	是非; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758605802	ok		显现
+zh:hskstory-hsk7:1792758605810	ok		显赫
+zh:hskstory-hsk7:1792758605812	fixed	loai_thoi_phong	显露; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605824	fixed	loai_thoi_phong	晚年; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605882	fixed	khac_dung_bo_sot	有意; cung_dung→khac_dung
+zh:hskstory-hsk7:1792758605896	fixed	loai_thoi_phong	服饰: tiếng Việt thường nói trang phục; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605900	fixed	loai_thoi_phong	望远镜: tu_viet đảo thứ tự; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605902	fixed	loai_thoi_phong	朝三暮四: thành ngữ không quen rộng; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605910	ok		朦胧
+zh:hskstory-hsk7:1792758605924	ok		本分
+zh:hskstory-hsk7:1792758605926	ok		本性
+zh:hskstory-hsk7:1792758605942	ok		机动
+zh:hskstory-hsk7:1792758605944	ok		机密
+zh:hskstory-hsk7:1792758605946	fixed	loai_thoi_phong	机智; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605952	ok		杀害
+zh:hskstory-hsk7:1792758605954	ok		杀手
+zh:hskstory-hsk7:1792758605960	fixed	loai_thoi_phong	杂交; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605962	ok		杂技
+zh:hskstory-hsk7:1792758605970	ok		权限
+zh:hskstory-hsk7:1792758605976	fixed	loai_thoi_phong	束手无策: thành ngữ không quen dạng HV; cung_dung→ghep_nghia
+zh:hskstory-hsk7:1792758605982	ok		条例
+zh:hskstory-hsk7:1792758605984	ok		条款
+zh:hskstory-hsk7:1792758605988	ok		条约
+zh:hskstory-hsk7:1792758605992	ok		来历
+zh:hskstory-hsk7:1792758606016	fixed	khac_dung_bo_sot	极力; cung_dung→khac_dung

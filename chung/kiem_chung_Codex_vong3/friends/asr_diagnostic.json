@@ -1,0 +1,166 @@
+{
+  "model": "Whisper small-q5_1; whisper.cpp v1.9.2; greedy; language fixed; no reference prompt",
+  "method": "16 evenly spaced notes, diagnostic only. Not human listening or full-corpus alignment certification.",
+  "results": [
+    {
+      "index": 0,
+      "id": 1571962152372,
+      "reference": "What you guys don't understand is...",
+      "translation": null,
+      "asr": "What you guys don't understand is, for us, kids,",
+      "similarity": 0.857,
+      "exit_code": 0,
+      "elapsed_seconds": 1.98
+    },
+    {
+      "index": 24,
+      "id": 1571962152396,
+      "reference": "Well, she has issues.",
+      "translation": null,
+      "asr": "angry? Well, she has issues.",
+      "similarity": 0.865,
+      "exit_code": 0,
+      "elapsed_seconds": 1.95
+    },
+    {
+      "index": 49,
+      "id": 1571962152421,
+      "reference": "Oh. Looks like she didn't leave in such a hurry after all.",
+      "translation": null,
+      "asr": "Looks like she didn't leave in such a hurry after all. Oh, I think this is the other",
+      "similarity": 0.778,
+      "exit_code": 0,
+      "elapsed_seconds": 2.0
+    },
+    {
+      "index": 73,
+      "id": 1571962152445,
+      "reference": "You see, he's the prince.",
+      "translation": null,
+      "asr": "can do no wrong. You see, he's the prince. Apparently they had some big",
+      "similarity": 0.5,
+      "exit_code": 0,
+      "elapsed_seconds": 2.03
+    },
+    {
+      "index": 97,
+      "id": 1571962152469,
+      "reference": "Oh, but look how straight those noodles are.",
+      "translation": null,
+      "asr": "Oh, but look how straight those noodles are. Now, Monica, you know",
+      "similarity": 0.814,
+      "exit_code": 0,
+      "elapsed_seconds": 1.99
+    },
+    {
+      "index": 122,
+      "id": 1571962152494,
+      "reference": "I have no idea.",
+      "translation": null,
+      "asr": "So what are you gonna do? I have no idea. No matter what I do though.",
+      "similarity": 0.355,
+      "exit_code": 0,
+      "elapsed_seconds": 1.96
+    },
+    {
+      "index": 146,
+      "id": 1571962152518,
+      "reference": "...but were you planning on bringing up the whole baby/lesbian thing?",
+      "translation": null,
+      "asr": "Believeably selfish on my part, but were you planning on bringing up the whole baby lesbian thing because I think it might take some of the heat",
+      "similarity": 0.632,
+      "exit_code": 0,
+      "elapsed_seconds": 2.03
+    },
+    {
+      "index": 170,
+      "id": 1571962152542,
+      "reference": "...what exactly happened between Carol and me.",
+      "translation": null,
+      "asr": "You guys have been wondering what exactly happened between Carol and me and so well",
+      "similarity": 0.686,
+      "exit_code": 0,
+      "elapsed_seconds": 1.96
+    },
+    {
+      "index": 195,
+      "id": 1571962152567,
+      "reference": "Oh, do you, uh...? Do you need any help?",
+      "translation": null,
+      "asr": "Oh, you need any help?",
+      "similarity": 0.78,
+      "exit_code": 0,
+      "elapsed_seconds": 1.95
+    },
+    {
+      "index": 219,
+      "id": 1571962152591,
+      "reference": "Me neither.",
+      "translation": null,
+      "asr": "Me neither.",
+      "similarity": 1.0,
+      "exit_code": 0,
+      "elapsed_seconds": 1.9
+    },
+    {
+      "index": 243,
+      "id": 1571962152615,
+      "reference": "I'm...",
+      "translation": null,
+      "asr": "I'm okay",
+      "similarity": 0.5,
+      "exit_code": 0,
+      "elapsed_seconds": 2.08
+    },
+    {
+      "index": 268,
+      "id": 1571962152640,
+      "reference": "I believe Julia's on the table.",
+      "translation": null,
+      "asr": "I believe Julie is on the table.",
+      "similarity": 0.939,
+      "exit_code": 0,
+      "elapsed_seconds": 1.92
+    },
+    {
+      "index": 292,
+      "id": 1571962152664,
+      "reference": "Oh.",
+      "translation": null,
+      "asr": "(audience laughing)",
+      "similarity": 0.111,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    },
+    {
+      "index": 316,
+      "id": 1571962152688,
+      "reference": "No, actually, um, we talked about Helen Willick Bunch.",
+      "translation": null,
+      "asr": "Helen Willick? No, actually, um, we talked about Helen Willick Bunch.",
+      "similarity": 0.875,
+      "exit_code": 0,
+      "elapsed_seconds": 1.98
+    },
+    {
+      "index": 341,
+      "id": 1571962152713,
+      "reference": "I know.",
+      "translation": null,
+      "asr": "Look at that. I know.",
+      "similarity": 0.5,
+      "exit_code": 0,
+      "elapsed_seconds": 1.94
+    },
+    {
+      "index": 365,
+      "id": 1571962152737,
+      "reference": "[English - US - SDH]",
+      "translation": null,
+      "asr": "[BLANK_AUDIO]",
+      "similarity": 0.182,
+      "exit_code": 0,
+      "elapsed_seconds": 1.93
+    }
+  ]
+}

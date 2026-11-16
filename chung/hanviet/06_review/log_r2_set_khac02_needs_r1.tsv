@@ -1,0 +1,344 @@
+note_key	verdict	van_de	ghi_chu
+zh:hskstory-hsk7:1792758603520	ok		[p1] 寒暄
+zh:hskstory-hsk7:1792758603566	ok		[p1] 寻常
+zh:hskstory-hsk7:1792758603588	ok		[p1] 尊严
+zh:hskstory-hsk7:1792758603652	ok		[p1] 尽情
+zh:hskstory-hsk7:1792758603800	ok		[p1] 师长
+zh:hskstory-hsk7:1792758603854	ok		[p1] 平坦
+zh:hskstory-hsk7:1792758603870	ok		[p1] 平面
+zh:hskstory-hsk7:1792758604020	ok		[p1] 开拓
+zh:hskstory-hsk7:1792758604120	ok		[p1] 归结
+zh:hskstory-hsk7:1792758604190	fixed	tu_viet_khong_co	[p1] 得手: 'đắc thủ' không phải từ Việt thông dụng
+zh:hskstory-hsk7:1792758604194	fixed	loai_khac_khong_dang_ke	[p1] 得罪: tiếng Việt 'đắc tội (với ai)' dùng đúng nghĩa làm mất lòng; khác biệt chỉ là văn phong
+zh:hskstory-hsk7:1792758604196	ok		[p1] 徘徊
+zh:hskstory-hsk7:1792758604206	ok		[p1] 微妙
+zh:hskstory-hsk7:1792758604220	ok		[p1] 心事
+zh:hskstory-hsk7:1792758604226	ok		[p1] 心得
+zh:hskstory-hsk7:1792758604242	ok		[p1] 心病
+zh:hskstory-hsk7:1792758604268	ok		[p1] 忍心
+zh:hskstory-hsk7:1792758604286	fixed	khac_biet_sai	[p1] 忠实: câu ví dụ (tái hiện trung thực lịch sử) tiếng Việt cũng dùng 'trung thực'; chỗ khác là nghĩa 'trung thành'
+zh:hskstory-hsk7:1792758604310	fixed	khac_biet_sai	[p1] 怀抱: khac_biet cũ tự lặp (hoài bão chỉ hoài bão)
+zh:hskstory-hsk7:1792758604382	ok		[p1] 恐怖
+zh:hskstory-hsk7:1792758604384	ok		[p1] 恐慌
+zh:hskstory-hsk7:1792758604398	ok		[p1] 恩爱
+zh:hskstory-hsk7:1792758604468	ok		[p1] 情愿
+zh:hskstory-hsk7:1792758604470	ok		[p1] 情报
+zh:hskstory-hsk7:1792758604538	ok		[p1] 意味
+zh:hskstory-hsk7:1792758604560	ok		[p1] 感恩
+zh:hskstory-hsk7:1792758604570	ok		[p1] 慈善
+zh:hskstory-hsk7:1792758604590	ok		[p1] 慷慨
+zh:hskstory-hsk7:1792758604654	ok		[p1] 所在
+zh:hskstory-hsk7:1792758604694	ok		[p1] 打倒
+zh:hskstory-hsk7:1792758604738	ok		[p1] 执着
+zh:hskstory-hsk7:1792758604756	ok		[p1] 扫除
+zh:hskstory-hsk7:1792758604812	fixed	khac_biet_sai	[p1] 投机: câu cũ tối nghĩa
+zh:hskstory-hsk7:1792758604830	ok		[p1] 抗议
+zh:hskstory-hsk7:1792758604862	ok		[p1] 护理
+zh:hskstory-hsk7:1792758604902	ok		[p1] 抹杀
+zh:hskstory-hsk7:1792758604972	ok		[p1] 招牌
+zh:hskstory-hsk7:1792758605050	fixed	khac_biet_sai	[p1] 指点: bỏ 'hoặc chỉ định' (không phải nghĩa của chỉ điểm)
+zh:hskstory-hsk7:1792758605098	ok		[p1] 振动
+zh:hskstory-hsk7:1792758605294	ok		[p1] 揭示
+zh:hskstory-hsk7:1792758605320	ok		[p1] 搜寻
+zh:hskstory-hsk7:1792758605426	ok		[p1] 收复
+zh:hskstory-hsk7:1792758605448	ok		[p1] 改良
+zh:hskstory-hsk7:1792758605450	ok		[p1] 改装
+zh:hskstory-hsk7:1792758605468	ok		[p1] 放射
+zh:hskstory-hsk7:1792758605586	fixed	khac_biet_sai	[p1] 斟酌: sửa 'châm trước bỏ qua'
+zh:hskstory-hsk7:1792758605672	ok		[p1] 无情
+zh:hskstory-hsk7:1792758605694	ok		[p1] 无私
+zh:hskstory-hsk7:1792758605696	ok		[p1] 无穷
+zh:hskstory-hsk7:1792758605702	ok		[p1] 无缘
+zh:hskstory-hsk7:1792758605738	ok		[p1] 旬
+zh:hskstory-hsk7:1792758605754	ok		[p1] 时节
+zh:hskstory-hsk7:1792758605844	ok		[p1] 暧昧
+zh:hskstory-hsk7:1792758605860	ok		[p1] 曲折
+zh:hskstory-hsk7:1792758605932	fixed	khac	[p1] 本色: bỏ tiếng Anh trong khac_biet
+zh:hskstory-hsk7:1792758605940	ok		[p1] 机关
+zh:hskstory-hsk7:1792758605964	ok		[p1] 权威
+zh:hskstory-hsk7:1792758606076	fixed	tu_viet_khac_chu	[p1] 标点: 'tiêu điểm' tiếng Việt là 焦點, không phải 標點: chỉ trùng âm
+zh:hskstory-hsk7:1792758606134	ok		[p1] 格式
+zh:hskstory-hsk7:1792758606250	ok		[p1] 歌谣
+zh:hskstory-hsk7:1792758606308	ok		[p1] 殴打
+zh:hskstory-hsk7:1792758606340	ok		[p1] 民居
+zh:hskstory-hsk7:1792758606384	ok		[p1] 水晶
+zh:hskstory-hsk7:1792758606624	ok		[p1] 测验
+zh:hskstory-hsk7:1792758606662	ok		[p1] 海绵
+zh:hskstory-hsk7:1792758606734	ok		[p1] 深邃
+zh:hskstory-hsk7:1792758606754	ok		[p1] 清除
+zh:hskstory-hsk7:1792758606846	ok		[p1] 漂流
+zh:hskstory-hsk7:1792758606858	ok		[p1] 演变
+zh:hskstory-hsk7:1792758606866	ok		[p1] 演绎
+zh:hskstory-hsk7:1792758606962	ok		[p1] 灵感
+zh:hskstory-hsk7:1792758607022	ok		[p1] 烟花
+zh:hskstory-hsk7:1792758607066	ok		[p1] 照例
+zh:hskstory-hsk7:1792758607070	ok		[p1] 照射
+zh:hskstory-hsk7:1792758607124	ok		[p1] 爽快
+zh:hskstory-hsk7:1792758607206	ok		[p1] 狐狸
+zh:hskstory-hsk7:1792758607244	fixed	khac_biet_sai	[p1] 猩猩: khac_biet chính xác hơn, bỏ tiếng Anh
+zh:hskstory-hsk7:1792758607284	ok		[p1] 珍重
+zh:hskstory-hsk7:1792758607344	ok		[p1] 生涯
+zh:hskstory-hsk7:1792758607360	ok		[p1] 田野
+zh:hskstory-hsk7:1792758607374	ok		[p1] 电信
+zh:hskstory-hsk7:1792758607376	fixed	nghia_thu_tu	[p1] 电台: câu ví dụ dùng nghĩa máy thu phát → đưa lên trước; sửa khac_biet theo đó
+zh:hskstory-hsk7:1792758607400	ok		[p1] 界限
+zh:hskstory-hsk7:1792758607586	ok		[p1] 直线
+zh:hskstory-hsk7:1792758607638	ok		[p1] 真情
+zh:hskstory-hsk7:1792758607722	ok		[p1] 码
+zh:hskstory-hsk7:1792758607732	fixed	tu_viet_khong_co	[p1] 破灭: 'phá diệt' không phải từ Việt thông dụng
+zh:hskstory-hsk7:1792758607738	ok		[p1] 破解
+zh:hskstory-hsk7:1792758607794	ok		[p1] 示威
+zh:hskstory-hsk7:1792758607830	ok		[p1] 神圣
+zh:hskstory-hsk7:1792758607858	ok		[p1] 离奇
+zh:hskstory-hsk7:1792758607912	ok		[p1] 移植
+zh:hskstory-hsk7:1792758607956	ok		[p1] 空想
+zh:hskstory-hsk7:1792758607978	ok		[p1] 突兀
+zh:hskstory-hsk7:1792758608032	ok		[p1] 章程
+zh:hskstory-hsk7:1792758608036	ok		[p1] 竭力
+zh:hskstory-hsk7:1792758608118	ok		[p1] 管教
+zh:hskstory-hsk7:1792758608182	ok		[p1] 精练
+zh:hskstory-hsk7:1792758608184	ok		[p1] 精细
+zh:hskstory-hsk7:1792758608186	ok		[p1] 精英
+zh:hskstory-hsk7:1792758608268	ok		[p1] 纪要
+zh:hskstory-hsk7:1792758608278	ok		[p1] 纱
+zh:hskstory-hsk7:1792758608318	ok		[p1] 绅士
+zh:hskstory-hsk7:1792758608322	ok		[p1] 细腻
+zh:hskstory-hsk7:1792758608336	ok		[p1] 终结
+zh:hskstory-hsk7:1792758608718	ok		[p1] 脉络
+zh:hskstory-hsk7:1792758608768	ok		[p1] 膨胀
+zh:hskstory-hsk7:1792758608872	fixed	khac_biet_sai	[p1] 艰险: nghĩa 'xảo quyệt' là của 奸險, không phải 艱險
+zh:hskstory-hsk7:1792758608928	ok		[p1] 苦心
+zh:hskstory-hsk7:1792758609068	ok		[p1] 蓬勃
+zh:hskstory-hsk7:1792758609170	ok		[p1] 补助
+zh:hskstory-hsk7:1792758609308	ok		[p1] 解析
+zh:hskstory-hsk7:1792758609324	ok		[p1] 触犯
+zh:hskstory-hsk7:1792758609340	ok		[p1] 警报
+zh:hskstory-hsk7:1792758609390	ok		[p1] 许
+zh:hskstory-hsk7:1792758609506	ok		[p1] 调度
+zh:hskstory-hsk7:1792758609550	ok		[p1] 谴责
+zh:hskstory-hsk7:1792758609562	ok		[p1] 豪华
+zh:hskstory-hsk7:1792758609584	ok		[p1] 败坏
+zh:hskstory-hsk7:1792758609614	ok		[p1] 贯彻
+zh:hskstory-hsk7:1792758609650	ok		[p1] 资质
+zh:hskstory-hsk7:1792758609658	ok		[p1] 赏识
+zh:hskstory-hsk7:1792758609726	ok		[p1] 起诉
+zh:hskstory-hsk7:1792758609786	ok		[p1] 踏
+zh:hskstory-hsk7:1792758609812	ok		[p1] 轨迹
+zh:hskstory-hsk7:1792758609980	ok		[p1] 运转
+zh:hskstory-hsk7:1792758610024	ok		[p1] 迟缓
+zh:hskstory-hsk7:1792758610044	ok		[p1] 迷惑
+zh:hskstory-hsk7:1792758610106	ok		[p1] 选用
+zh:hskstory-hsk7:1792758610302	ok		[p1] 重叠
+zh:hskstory-hsk7:1792758610324	ok		[p1] 野心
+zh:hskstory-hsk7:1792758610528	ok		[p1] 附加
+zh:hskstory-hsk7:1792758610532	ok		[p1] 附属
+zh:hskstory-hsk7:1792758610554	ok		[p1] 除去
+zh:hskstory-hsk7:1792758610582	fixed	khac	[p1] 随机: bỏ tiếng Anh (random) trong nghia_vi
+zh:hskstory-hsk7:1792758610666	ok		[p1] 零星
+zh:hskstory-hsk7:1792758610694	ok		[p1] 霸道
+zh:hskstory-hsk7:1792758610738	ok		[p1] 音响
+zh:hskstory-hsk7:1792758610786	ok		[p1] 颁发
+zh:hskstory-hsk7:1792758610800	ok		[p1] 预备
+zh:hskstory-hsk7:1792758610808	ok		[p1] 预见
+zh:hskstory-hsk7:1792758610872	ok		[p1] 风情
+zh:hskstory-hsk7:1792758610886	ok		[p1] 风流
+zh:hskstory-hsk7:1792758610974	ok		[p1] 驱逐
+zh:hskstory-hsk7:1792758611010	ok		[p1] 骨骼
+zh:hskstory-hsk7:1792758611046	ok		[p1] 魔术
+zh:hskstory-hsk7:1792758611096	ok		[p1] 麻醉
+zh:hskstory-hsk3:1792758600462	fixed	needs_giai	[p2] 感冒: 'cảm mạo' chỉ gặp trong Đông y, người Việt nói 'cảm' → giữ ghep_nghia; pt cũ gán 'nhiễm' cho 感 không theo Thiều Chửu
+zh:hskstory-hsk4:1792758600000	fixed	needs_giai	[p2] 一切: nghĩa hiện đại phổ biến của nhất thiết là nhất định phải → khac_dung đúng
+zh:hskstory-hsk4:1792758600390	fixed	needs_giai	[p2] 十分: khac_dung đúng; thêm goi_nho
+zh:hskstory-hsk7:1792758601146	fixed	loai_thoi_phong	[p2] 先天: câu 先天发育异常 = phát triển bất thường từ trong bào thai (bẩm sinh), meaning_en không lệch; 'tiên thiên' chỉ dùng trong Đông y/triết học → ghep_nghia
+zh:hskstory-hsk7:1792758601172	fixed	needs_giai	[p2] 克制: tiếng Việt 'khắc chế' = chế ngự, át được cái khác (khắc chế đối thủ); tự kiềm chế cảm xúc là 'kiềm chế' → khac_dung đúng
+zh:hskstory-hsk7:1792758601294	fixed	needs_giai	[p2] 兹: nghĩa khớp câu ví dụ (công thức văn bản hành chính); khong_giup đúng
+zh:hskstory-hsk7:1792758602746	fixed	needs_giai	[p2] 坎坷: nghĩa khớp Thiều Chửu và câu ví dụ; âm theo Thiều Chửu; từ hầu như không dùng trong tiếng Việt hiện đại → khong_giup
+zh:hskstory-hsk7:1792758602828	fixed	needs_giai	[p2] 堆砌: nghĩa khớp câu (xếp gạch xây tường) và CEDICT (nghĩa bóng: nhồi nhét câu chữ); khong_giup đúng
+zh:hskstory-hsk7:1792758602996	fixed	needs_giai	[p2] 大名鼎鼎: nghĩa và loai đúng; pt là goi_nho, không khẳng định từ nguyên
+zh:hskstory-hsk7:1792758604792	fixed	needs_giai	[p2] 把手: câu dùng nghĩa tay nắm (bǎshou, thanh nhẹ); nghia_vi đã ghi nghĩa câu trước, nghĩa bắt tay sau; âm không đổi
+zh:hskstory-hsk7:1792758605244	needs_review	needs_giu	[p2] 掰: không giải được âm; lý do rõ hơn
+zh:hskstory-hsk1:1792758600180	ok		[p3] 吗
+zh:hskstory-hsk1:1792758600212	ok		[p3] 喝
+zh:hskstory-hsk3:1792758600128	ok		[p3] 冰箱
+zh:hskstory-hsk3:1792758600274	ok		[p3] 咱们
+zh:hskstory-hsk3:1792758600276	fixed	loai_nom_cung_dung	[p3] 哭: 'khốc' không dùng với nghĩa khóc trong tiếng Việt; 'khóc' là từ Việt, đã có goi_nho
+zh:hskstory-hsk3:1792758600648	ok		[p3] 爬
+zh:hskstory-hsk3:1792758600740	fixed	loai_nom_cung_dung	[p3] 箱子: 'tương tử' không phải từ Việt; giữ liên hệ 'rương' ở goi_nho
+zh:hskstory-hsk3:1792758600790	ok		[p3] 脏
+zh:hskstory-hsk3:1792758600814	ok		[p3] 菜单
+zh:hskstory-hsk3:1792758600916	ok		[p3] 邮箱
+zh:hskstory-hsk4:1792758600372	ok		[p3] 加油
+zh:hskstory-hsk4:1792758600374	ok		[p3] 加油站
+zh:hskstory-hsk4:1792758600462	ok		[p3] 受不了
+zh:hskstory-hsk4:1792758600632	ok		[p3] 奖
+zh:hskstory-hsk4:1792758600634	ok		[p3] 奖学金
+zh:hskstory-hsk4:1792758600636	ok		[p3] 奖金
+zh:hskstory-hsk4:1792758600730	ok		[p3] 尽管
+zh:hskstory-hsk4:1792758600956	fixed	loai_sau_doi_am	[p3] 推: sau khi đổi sang THÔI: 'thôi' không phải yếu tố quen với nghĩa đẩy ('thôi xao' hiếm, nghĩa khác) → khong_giup
+zh:hskstory-hsk4:1792758600958	ok		[p3] 推出
+zh:hskstory-hsk4:1792758600960	ok		[p3] 推迟
+zh:hskstory-hsk4:1792758601110	ok		[p3] 月饼
+zh:hskstory-hsk4:1792758601154	fixed	loai_nom_cung_dung	[p3] 桥: 'kiều' không dùng với nghĩa cầu trong tiếng Việt hiện đại
+zh:hskstory-hsk4:1792758601156	fixed	loai_nom_cung_dung	[p3] 桶: 'dũng' không dùng với nghĩa thùng
+zh:hskstory-hsk4:1792758601226	fixed	loai_nom_cung_dung	[p3] 油: tiếng Việt không dùng 'du' với nghĩa dầu
+zh:hskstory-hsk4:1792758601226	policy	quy_uoc	[p3] 油: Quy ước R1 mục 1.2 ('tu_viet vẫn giữ dầu') mâu thuẫn chỉ thị pha 5 cho mục âm Nôm; đã theo chỉ thị pha 5 (bỏ tu_viet, hạ loai). Đề nghị sửa câu đó trong quy_uoc_doc_am_chot.md.
+zh:hskstory-hsk4:1792758601472	fixed	loai_nom_cung_dung	[p3] 笨: 'bổn' không dùng với nghĩa ngốc; 'đần' không gần âm nên không thêm goi_nho
+zh:hskstory-hsk4:1792758601632	ok		[p3] 获奖
+zh:hskstory-hsk4:1792758601858	fixed	loai_sau_doi_am	[p3] 量: âm 'lương' (đo) không là yếu tố quen trong từ Việt; 'lường' là từ Việt → goi_nho giữ, loai khong_giup
+zh:hskstory-hsk4:1792758601946	ok		[p3] 饼干
+zh:hskstory-hsk4:1792758601948	ok		[p3] 馒头
+zh:hskstory-hsk5:1792758600354	ok		[p3] 傻
+zh:hskstory-hsk5:1792758600398	ok		[p3] 公平
+zh:hskstory-hsk5:1792758600432	ok		[p3] 冻
+zh:hskstory-hsk5:1792758600922	ok		[p3] 大妈
+zh:hskstory-hsk5:1792758600956	ok		[p3] 奖励
+zh:hskstory-hsk5:1792758600986	ok		[p3] 姥姥
+zh:hskstory-hsk5:1792758600988	ok		[p3] 姥爷
+zh:hskstory-hsk5:1792758601102	fixed	pt_thieu_am	[p3] 寻找: pt thiếu âm của 找
+zh:hskstory-hsk5:1792758601210	ok		[p3] 床单
+zh:hskstory-hsk5:1792758601574	fixed	pt_lech_am	[p3] 推荐: pt còn 'suy/thôi (đẩy lên)' sau khi chốt suy = tiến cử
+zh:hskstory-hsk5:1792758601614	ok		[p3] 撞
+zh:hskstory-hsk5:1792758601748	fixed	loai_nom_cung_dung	[p3] 曾: 'tằng' trong tiếng Việt chỉ gặp ở 'tằng tổ' (nghĩa khác); nghĩa 'đã từng' không dùng
+zh:hskstory-hsk5:1792758601750	ok		[p3] 曾经
+zh:hskstory-hsk5:1792758601844	ok		[p3] 模糊
+zh:hskstory-hsk5:1792758601848	fixed	khac	[p3] 橙子: thêm cảnh báo trùng âm với 'chanh' tiếng Việt
+zh:hskstory-hsk5:1792758601898	ok		[p3] 汽油
+zh:hskstory-hsk5:1792758601914	ok		[p3] 油条
+zh:hskstory-hsk5:1792758602008	ok		[p3] 激烈
+zh:hskstory-hsk5:1792758602020	fixed	loai_nom_cung_dung	[p3] 炒: tu_viet 'xào' là từ Nôm; tiếng Việt có 'sao' (sao chè, sao thuốc) nghĩa hẹp hơn → khac_dung
+zh:hskstory-hsk5:1792758602022	ok		[p3] 炸
+zh:hskstory-hsk5:1792758602168	ok		[p3] 番茄
+zh:hskstory-hsk5:1792758602460	ok		[p3] 翅膀
+zh:hskstory-hsk5:1792758602716	ok		[p3] 豆腐
+zh:hskstory-hsk5:1792758602736	ok		[p3] 资源
+zh:hskstory-hsk5:1792758603086	ok		[p3] 领取
+zh:hskstory-hsk5:1792758603088	ok		[p3] 领域
+zh:hskstory-hsk5:1792758603092	ok		[p3] 领带
+zh:hskstory-hsk5:1792758603114	fixed	loai_nom_cung_dung	[p3] 饼: 'bính' không dùng với nghĩa bánh
+zh:hskstory-hsk6:1792758600072	ok		[p3] 不曾
+zh:hskstory-hsk6:1792758600120	ok		[p3] 中奖
+zh:hskstory-hsk6:1792758600354	ok		[p3] 倒是
+zh:hskstory-hsk6:1792758600550	ok		[p3] 刹车
+zh:hskstory-hsk6:1792758600570	fixed	loai_nom_cung_dung	[p3] 割: 'cát' là yếu tố quen cùng nghĩa trong cát cứ (割據), cát nhượng (割讓) → yeu_to
+zh:hskstory-hsk6:1792758600798	ok		[p3] 启动
+zh:hskstory-hsk6:1792758601036	ok		[p3] 夸奖
+zh:hskstory-hsk6:1792758601050	ok		[p3] 奖品
+zh:hskstory-hsk6:1792758601052	ok		[p3] 奖牌
+zh:hskstory-hsk6:1792758601250	ok		[p3] 崭新
+zh:hskstory-hsk6:1792758601302	fixed	loai_khac_sac_thai	[p3] 幻想: câu ví dụ (trẻ mơ bay lên mặt trăng) trung tính; tiếng Việt ảo tưởng nghiêng về chê
+zh:hskstory-hsk6:1792758601490	ok		[p3] 惊讶
+zh:hskstory-hsk6:1792758601574	ok		[p3] 扮演
+zh:hskstory-hsk6:1792758601608	ok		[p3] 抽奖
+zh:hskstory-hsk6:1792758601696	ok		[p3] 推销
+zh:hskstory-hsk6:1792758601770	ok		[p3] 救命
+zh:hskstory-hsk6:1792758602154	ok		[p3] 洗漱
+zh:hskstory-hsk6:1792758602172	ok		[p3] 测量
+zh:hskstory-hsk6:1792758602290	fixed	khac	[p3] 激励: khac_biet chỉ ghi cách đọc (đã có ở char_note), không phải khác nghĩa; mục cung_dung
+zh:hskstory-hsk6:1792758602302	ok		[p3] 灯笼
+zh:hskstory-hsk6:1792758602412	ok		[p3] 珠宝
+zh:hskstory-hsk6:1792758602444	fixed	khac	[p3] 田径: khac_biet chỉ ghi cách đọc (đã có ở char_note), không phải khác nghĩa; mục cung_dung
+zh:hskstory-hsk6:1792758602476	ok		[p3] 白领
+zh:hskstory-hsk6:1792758602544	ok		[p3] 石油
+zh:hskstory-hsk6:1792758602558	ok		[p3] 碰撞
+zh:hskstory-hsk6:1792758602584	ok		[p3] 科幻
+zh:hskstory-hsk6:1792758602808	ok		[p3] 肩膀
+zh:hskstory-hsk6:1792758602936	ok		[p3] 衡量
+zh:hskstory-hsk6:1792758603318	ok		[p3] 酱油
+zh:hskstory-hsk6:1792758603456	ok		[p3] 革命
+zh:hskstory-hsk6:1792758603478	ok		[p3] 颈椎
+zh:hskstory-hsk7:1792758600052	ok		[p3] 一晃
+zh:hskstory-hsk7:1792758600336	fixed	loai_nom_cung_dung	[p3] 丝: 'ti' không dùng với nghĩa tơ
+zh:hskstory-hsk7:1792758600338	ok		[p3] 丝毫
+zh:hskstory-hsk7:1792758600340	ok		[p3] 丝绸
+zh:hskstory-hsk7:1792758600874	ok		[p3] 佩戴
+zh:hskstory-hsk7:1792758601002	ok		[p3] 倒数
+zh:hskstory-hsk7:1792758601104	ok		[p3] 催促
+zh:hskstory-hsk7:1792758601112	ok		[p3] 傻瓜
+zh:hskstory-hsk7:1792758601370	ok		[p3] 冲撞
+zh:hskstory-hsk7:1792758601380	ok		[p3] 冷冻
+zh:hskstory-hsk7:1792758601398	ok		[p3] 冻结
+zh:hskstory-hsk7:1792758601570	ok		[p3] 划得来
+zh:hskstory-hsk7:1792758601574	fixed	etym_khong_nguon	[p3] 划算: bỏ 'hoạch toán viết 劃算' (từ Việt đúng là 'hạch toán' 核算) và nghĩa 'tính toán' gán cho 划 hoa (Thiều Chửu: chèo thuyền)
+zh:hskstory-hsk7:1792758601938	ok		[p3] 占领
+zh:hskstory-hsk7:1792758602002	fixed	tu_viet_khong_co	[p3] 压迫: bỏ 'áp bách' (không phải từ Việt thông dụng)
+zh:hskstory-hsk7:1792758602026	ok		[p3] 去除
+zh:hskstory-hsk7:1792758602052	ok		[p3] 反倒
+zh:hskstory-hsk7:1792758602160	ok		[p3] 变幻莫测
+zh:hskstory-hsk7:1792758602270	ok		[p3] 吃喝玩乐
+zh:hskstory-hsk7:1792758602344	ok		[p3] 后备箱
+zh:hskstory-hsk7:1792758602432	ok		[p3] 周旋
+zh:hskstory-hsk7:1792758602504	fixed	loai_sai	[p3] 哨: ghep_nghia cho từ một chữ không hợp; sáo không dùng với nghĩa còi
+zh:hskstory-hsk7:1792758602520	ok		[p3] 唠叨
+zh:hskstory-hsk7:1792758602588	ok		[p3] 喝彩
+zh:hskstory-hsk7:1792758602804	ok		[p3] 埋怨
+zh:hskstory-hsk7:1792758602830	ok		[p3] 堆积
+zh:hskstory-hsk7:1792758603132	ok		[p3] 奖杯
+zh:hskstory-hsk7:1792758603136	ok		[p3] 奖项
+zh:hskstory-hsk7:1792758603888	ok		[p3] 并发症
+zh:hskstory-hsk7:1792758603906	fixed	loai_sau_doi_am	[p3] 幻影: sau khi đổi sang ẢO: 'ảo ảnh' là từ Việt cùng nghĩa
+zh:hskstory-hsk7:1792758603908	fixed	loai_sau_doi_am	[p3] 幻觉: sau khi đổi sang ẢO: 'ảo giác' là từ Việt cùng nghĩa
+zh:hskstory-hsk7:1792758604212	fixed	loai_nom_cung_dung	[p3] 微波炉: 'vi ba lô' không phải từ Việt; 'lò vi ba' là trật tự Việt với 'lò' Nôm → ghep_nghia
+zh:hskstory-hsk7:1792758604316	ok		[p3] 怂恿
+zh:hskstory-hsk7:1792758604350	ok		[p3] 性命
+zh:hskstory-hsk7:1792758604604	ok		[p3] 懒惰
+zh:hskstory-hsk7:1792758604698	ok		[p3] 打喷嚏
+zh:hskstory-hsk7:1792758604710	ok		[p3] 打盹儿
+zh:hskstory-hsk7:1792758605006	ok		[p3] 拴
+zh:hskstory-hsk7:1792758605078	ok		[p3] 挣扎
+zh:hskstory-hsk7:1792758605212	ok		[p3] 推卸
+zh:hskstory-hsk7:1792758605216	fixed	khac	[p3] 推敲: thêm goi_nho sau khi âm thành THÔI XAO
+zh:hskstory-hsk7:1792758605222	ok		[p3] 推移
+zh:hskstory-hsk7:1792758605230	ok		[p3] 推辞
+zh:hskstory-hsk7:1792758605350	ok		[p3] 摇晃
+zh:hskstory-hsk7:1792758605374	ok		[p3] 撞击
+zh:hskstory-hsk7:1792758605638	ok		[p3] 旋律
+zh:hskstory-hsk7:1792758605640	ok		[p3] 旋涡
+zh:hskstory-hsk7:1792758606066	ok		[p3] 柴油
+zh:hskstory-hsk7:1792758606146	fixed	loai_nom_cung_dung	[p3] 框: 'khuông' không dùng với nghĩa khung
+zh:hskstory-hsk7:1792758606148	ok		[p3] 框架
+zh:hskstory-hsk7:1792758606158	ok		[p3] 桩
+zh:hskstory-hsk7:1792758606188	ok		[p3] 椰子
+zh:hskstory-hsk7:1792758606292	ok		[p3] 歹徒
+zh:hskstory-hsk7:1792758606442	ok		[p3] 沉着
+zh:hskstory-hsk7:1792758606474	ok		[p3] 沮丧
+zh:hskstory-hsk7:1792758606486	fixed	pt_lech_am	[p3] 油腻: pt ghi 'nị' trong khi hanviet NHỊ (không đổi âm; xem policy)
+zh:hskstory-hsk7:1792758606486	policy	quy_uoc	[p3] 油腻: 腻: Thiều Chửu ghi 'nị' (膩: béo ngậy gọi là nị); theo quy ước R1 mục 1.5 có lẽ nên là NỊ (細膩 'tế nhị' giữ nhị theo từ Việt). Không tự đổi.
+zh:hskstory-hsk7:1792758606978	ok		[p3] 炉子
+zh:hskstory-hsk7:1792758607034	ok		[p3] 热潮
+zh:hskstory-hsk7:1792758607058	fixed	loai_nom_cung_dung	[p3] 煎: 'tiên' không dùng với nghĩa chiên
+zh:hskstory-hsk7:1792758607080	ok		[p3] 煲
+zh:hskstory-hsk7:1792758607102	ok		[p3] 燃油
+zh:hskstory-hsk7:1792758607120	fixed	loai_nom_cung_dung	[p3] 爹: 'đa' không dùng với nghĩa cha; 'tía' là từ địa phương
+zh:hskstory-hsk7:1792758607372	ok		[p3] 申领
+zh:hskstory-hsk7:1792758607486	ok		[p3] 癌
+zh:hskstory-hsk7:1792758607488	ok		[p3] 癌症
+zh:hskstory-hsk7:1792758607546	ok		[p3] 盘旋
+zh:hskstory-hsk7:1792758607682	ok		[p3] 督促
+zh:hskstory-hsk7:1792758607684	ok		[p3] 瞄准
+zh:hskstory-hsk7:1792758608056	ok		[p3] 笼子
+zh:hskstory-hsk7:1792758608148	fixed	loai_nom_cung_dung	[p3] 粪: 'phẩn' không dùng trong tiếng Việt hiện đại
+zh:hskstory-hsk7:1792758608150	ok		[p3] 粪便
+zh:hskstory-hsk7:1792758608232	ok		[p3] 絮叨
+zh:hskstory-hsk7:1792758608560	ok		[p3] 考量
+zh:hskstory-hsk7:1792758608760	ok		[p3] 腼腆
+zh:hskstory-hsk7:1792758608832	ok		[p3] 致命
+zh:hskstory-hsk7:1792758609094	fixed	loai_nom_cung_dung	[p3] 蘸: 'trám' không dùng với nghĩa chấm
+zh:hskstory-hsk7:1792758609302	ok		[p3] 解围
+zh:hskstory-hsk7:1792758609336	ok		[p3] 警惕
+zh:hskstory-hsk7:1792758609348	ok		[p3] 譬如
+zh:hskstory-hsk7:1792758609476	ok		[p3] 诱饵
+zh:hskstory-hsk7:1792758609484	ok		[p3] 请帖
+zh:hskstory-hsk7:1792758609656	fixed	loai_nom_cung_dung	[p3] 赎: 'thục' không dùng với nghĩa chuộc
+zh:hskstory-hsk7:1792758609790	ok		[p3] 踹
+zh:hskstory-hsk7:1792758609818	ok		[p3] 转悠
+zh:hskstory-hsk7:1792758610342	ok		[p3] 钉
+zh:hskstory-hsk7:1792758610362	ok		[p3] 钻研
+zh:hskstory-hsk7:1792758610364	ok		[p3] 钻空子
+zh:hskstory-hsk7:1792758610570	ok		[p3] 陷阱
+zh:hskstory-hsk7:1792758610728	ok		[p3] 靶子
+zh:hskstory-hsk7:1792758610788	ok		[p3] 颁奖
+zh:hskstory-hsk7:1792758610822	ok		[p3] 领养
+zh:hskstory-hsk7:1792758610828	ok		[p3] 领悟
+zh:hskstory-hsk7:1792758610830	ok		[p3] 领略
+zh:hskstory-hsk7:1792758610958	ok		[p3] 香油
+zh:hskstory-hsk7:1792758610964	ok		[p3] 马桶

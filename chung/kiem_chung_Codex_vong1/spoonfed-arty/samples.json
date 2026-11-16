@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1419644212689,
+    "fields": {
+      "Hanzi": "你好！",
+      "Pinyin": "Nǐ hǎo!",
+      "English": "Hello!"
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "tmp1cctcn.mp3",
+        "bytes": 9517,
+        "duration": 2.182312925170068,
+        "tags": "{'TXXX:MP3GAIN_MINMAX': TXXX(encoding=<Encoding.UTF16: 1>, desc='MP3GAIN_MINMAX', text=['132,175']), 'TXXX:MP3GAIN_UNDO': TXXX(encoding=<Encoding.UTF16: 1>, desc='MP3GAIN_UNDO', text=['-005,-005,N'])}"
+      }
+    ]
+  },
+  {
+    "id": 1419644217138,
+    "fields": {
+      "Hanzi": "我喜欢吃饺子。",
+      "Pinyin": "Wǒ xǐhuan chī jiǎozi.",
+      "English": "I love jiaozi (filled dumplings)."
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "tmpwwqi5y.mp3",
+        "bytes": 15892,
+        "duration": 3.4361904761904762,
+        "tags": "{'TXXX:MP3GAIN_MINMAX': TXXX(encoding=<Encoding.UTF16: 1>, desc='MP3GAIN_MINMAX', text=['135,175']), 'TXXX:MP3GAIN_UNDO': TXXX(encoding=<Encoding.UTF16: 1>, desc='MP3GAIN_UNDO', text=['-003,-003,N'])}"
+      }
+    ]
+  },
+  {
+    "id": 1419644220830,
+    "fields": {
+      "Hanzi": "谣言传得纷纷纭纭。",
+      "Pinyin": "Yáoyán chuán de fēnfēnyúnyún.",
+      "English": "As the rumor spread, it developed into a jumble of numerous versions."
+    },
+    "audio": [
+      {
+        "field": "Audio",
+        "ref": "tmpubvubq.mp3",
+        "bytes": 16172,
+        "duration": 3.279455782312925,
+        "tags": "{'TXXX:MP3GAIN_MINMAX': TXXX(encoding=<Encoding.UTF16: 1>, desc='MP3GAIN_MINMAX', text=['126,172']), 'TXXX:MP3GAIN_UNDO': TXXX(encoding=<Encoding.UTF16: 1>, desc='MP3GAIN_UNDO', text=['+000,+000,N'])}"
+      }
+    ]
+  }
+]

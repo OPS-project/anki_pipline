@@ -1,0 +1,16 @@
+<div class="kind">Nghe câu{{#Episode}} · {{Episode}}{{/Episode}}</div>
+<div class="play">{{Audio}}</div>
+{{#Image}}<div class="img">{{Image}}</div>{{/Image}}
+<hr id="answer">
+{{#ContextBefore}}<div class="ctx">{{ContextBefore}}</div>{{/ContextBefore}}
+<div class="sentence">{{Sentence}}</div>
+{{#Reading}}<div class="reading">{{furigana:Reading}}</div>{{/Reading}}
+{{#Pinyin}}<div class="pinyin">{{Pinyin}}</div>{{/Pinyin}}
+{{#ContextAfter}}<div class="ctx">{{ContextAfter}}</div>{{/ContextAfter}}
+{{#Translation}}<div class="translation">{{Translation}}</div>{{/Translation}}
+{{^Translation}}{{#SourceSubtitle}}<div class="translation">{{SourceSubtitle}} <span class="label">{{SourceSubtitleLabel}}</span></div>{{/SourceSubtitle}}{{/Translation}}
+{{#TargetWords}}<div class="target-box">{{TargetWords}}<span class="tw-audio">{{TargetAudio}}</span>{{#Notes}}<div class="notes-hv">{{Notes}}</div>{{/Notes}}</div>{{/TargetWords}}
+{{#Speaker}}<div class="speaker">{{Speaker}}</div>{{/Speaker}}
+{{#Translation}}{{#SourceSubtitle}}<details class="subtitle"><summary>{{SourceSubtitleLabel}}</summary>{{SourceSubtitle}}</details>{{/SourceSubtitle}}{{/Translation}}
+{{^TargetWords}}{{#Notes}}<div class="notes">{{Notes}}</div>{{/Notes}}{{/TargetWords}}
+<div class="source">{{SourceTitle}}{{#SourceURL}} · <a href="{{SourceURL}}">nguồn</a>{{/SourceURL}}</div>

@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1780123495629,
+    "fields": {
+      "Focus Word Simplified": "爱",
+      "Focus Word Pinyin": "ài",
+      "Mandarin Sentence Simplified": "我爱我的家人。",
+      "Mandarin Sentence Pinyin": "Wǒ ài wǒ de jiārén.",
+      "English Sentence": "I love my family."
+    },
+    "audio": [
+      {
+        "field": "Han",
+        "ref": "我爱我的家人。.mp3",
+        "bytes": 24251,
+        "duration": 2.844,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.76.100']), 'TXXX:aigc': TXXX(encoding=<Encoding.UTF8: 3>, desc='aigc', text=['{\"aigc\": {\"Label\": \"1\", \"ContentProducer\": \"HUABABSpeech7E01\", \"ProduceID\": \"06b0c978f9ef9b1adaf09bae37afbaed\"}}'])}"
+      }
+    ]
+  },
+  {
+    "id": 1780461519230,
+    "fields": {
+      "Focus Word Simplified": "啊",
+      "Focus Word Pinyin": "ā",
+      "Mandarin Sentence Simplified": "啊，你怎么在这里？",
+      "Mandarin Sentence Pinyin": "Ā, nǐ zěnme zài zhèlǐ?",
+      "English Sentence": "Ah, why are you here?"
+    },
+    "audio": [
+      {
+        "field": "Han",
+        "ref": "啊，你怎么在这里？.mp3",
+        "bytes": 23386,
+        "duration": 2.736,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.76.100']), 'TXXX:aigc': TXXX(encoding=<Encoding.UTF8: 3>, desc='aigc', text=['{\"aigc\": {\"Label\": \"1\", \"ContentProducer\": \"HUABABSpeech7E01\", \"ProduceID\": \"06b223aff52c2d6f148c69e793cb91fa\"}}'])}"
+      }
+    ]
+  },
+  {
+    "id": 1780461522229,
+    "fields": {
+      "Focus Word Simplified": "作者",
+      "Focus Word Pinyin": "zuòzhě",
+      "Mandarin Sentence Simplified": "我们应该尊重作者的想法。",
+      "Mandarin Sentence Pinyin": "Wǒmen yīnggāi zūnzhòng zuòzhě de xiǎngfǎ.",
+      "English Sentence": "We should respect the author’s ideas."
+    },
+    "audio": [
+      {
+        "field": "Han",
+        "ref": "我们应该尊重作者的想法。.mp3",
+        "bytes": 28863,
+        "duration": 3.42,
+        "tags": "{'TSSE': TSSE(encoding=<Encoding.UTF8: 3>, text=['Lavf58.76.100']), 'TXXX:aigc': TXXX(encoding=<Encoding.UTF8: 3>, desc='aigc', text=['{\"aigc\": {\"Label\": \"1\", \"ContentProducer\": \"HUABABSpeech7E01\", \"ProduceID\": \"06b269fc5716e92c46eccf2fc9c8862a\"}}'])}"
+      }
+    ]
+  }
+]
