@@ -2,11 +2,11 @@
 # Usage: python -I build_hsk.py
 import sys, os, re, json, zipfile, sqlite3, hashlib, html
 sys.stdout.reconfigure(encoding="utf-8")
-SCRATCH = "C:/Users/trinh-v/AppData/Local/Temp/claude/ad1c1fd31c67307a/43f64388-07fc-4045-ac80-4a54f3550946/scratchpad"
+PROJ = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../../.."))
+SCRATCH = os.environ.get("ANKI_WORK", PROJ + "/.work")  # thư mục tạm + thư viện (pip --target), không đưa lên git
 sys.path.insert(0, SCRATCH + "/pylib")
 import genanki
 
-PROJ = "C:/Users/trinh-v/Desktop/04_Personal/Anki Search"
 SRC = PROJ + "/research/downloads"
 OUT = PROJ + "/chung/build/zh"
 WORK = SCRATCH + "/work/build-zh"

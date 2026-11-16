@@ -1,8 +1,9 @@
 # Copy helq apkg, renaming its decks under "Tiếng Trung HSK::00 Phát âm & thanh điệu (helq)". Source untouched.
 import sys, zipfile, sqlite3, json, os, collections, shutil
 sys.stdout.reconfigure(encoding="utf-8")
-SRC = "C:/Users/trinh-v/Desktop/04_Personal/Anki Search/chung/raw/helq-mandarin-ear-training/deck.apkg"
-OUT = "C:/Users/trinh-v/Desktop/04_Personal/Anki Search/chung/build/zh/00_Phat_am_thanh_dieu_helq.apkg"
+PROJ = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../../.."))
+SRC = PROJ + "/chung/raw/helq-mandarin-ear-training/deck.apkg"
+OUT = PROJ + "/chung/build/zh/00_Phat_am_thanh_dieu_helq.apkg"
 WORK = sys.argv[1]; os.makedirs(WORK, exist_ok=True)
 NEW = "Tiếng Trung HSK::00 Phát âm & thanh điệu (helq)"
 def rename(n):

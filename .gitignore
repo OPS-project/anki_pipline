@@ -47,3 +47,6 @@ notes.json
 
 # Ngoại lệ: deck HSK bản 2 (đi qua Git LFS, xem .gitattributes)
 !chung/build/zh/Tieng_Trung_HSK_nghe_cau_v2_hanviet.apkg
+
+# Thư mục làm việc tạm và thư viện cài bằng pip --target
+.work/
